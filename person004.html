@@ -5,12 +5,12 @@
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
       <meta name="mobile-web-app-capable" content="yes" />
       <meta name="apple-mobile-web-app-capable" content="yes" />
-      <meta name="apple-mobile-web-app-title" content="Index of People" />
+      <meta name="apple-mobile-web-app-title" content="Ernest von Koerber" />
       <meta name="msapplication-TileColor" content="#ffffff" />
       <meta name="msapplication-TileImage" content="images/logo.png" />
       <link rel="icon" type="image/svg+xml" href="images/logo.png" sizes="any" />
       <link rel="profile" href="http://gmpg.org/xfn/11" />
-      <title>Index of People</title>
+      <title>Ernest von Koerber</title>
       <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" />
       <link rel="stylesheet" href="css/style.css" type="text/css" />
@@ -42,50 +42,29 @@
       </header>
       <main>
          <div class="container">
-            <h1>Index of People</h1>
-            <table class="table" id="myTable">
-               <thead>
-                  <tr>
-                     <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
-                     <th scope="col" tabulator-headerFilter="input">Surname</th>
-                     <th scope="col" tabulator-headerFilter="input">Name</th>
-                     <th scope="col" tabulator-headerFiler="input">person_id</th>
-                     <th scope="col" tabulator-headerFilter="input">URL</th>
-                  </tr>
-               </thead>
+            <h1>Ernest von Koerber</h1>
+            <table class="table entity-table">
                <tbody>
                   <tr>
-                     <td><a href="person_001.html"><i class="bi bi-link-45deg"></i></a></td>
-                     <td>Žáček</td>
-                     <td>Jan</td>
-                     <td>person_001</td>
-                     <td>https://www.wikidata.org/wiki/Q12023385</td>
+                     <th>
+                        Death of Birth
+                        </th>
+                     <td>1850-11-06</td>
                   </tr>
                   <tr>
-                     <td><a href="person_002.html"><i class="bi bi-link-45deg"></i></a></td>
-                     <td>Urusov</td>
-                     <td>Sergey Dmitriyevich</td>
-                     <td>person_002</td>
-                     <td>https://www.wikidata.org/wiki/Q4477401</td>
+                     <th>
+                        Date of Death
+                        </th>
+                     <td>1919-03-05</td>
                   </tr>
                   <tr>
-                     <td><a href="person_003.html"><i class="bi bi-link-45deg"></i></a></td>
-                     <td>Franz Joseph</td>
-                     <td>of Habsburg</td>
-                     <td>person_003</td>
-                     <td>https://www.wikidata.org/wiki/Q51056</td>
-                  </tr>
-                  <tr>
-                     <td><a href="person004.html"><i class="bi bi-link-45deg"></i></a></td>
-                     <td>Ernest</td>
-                     <td>von Koerber</td>
-                     <td>person004</td>
-                     <td>https://www.wikidata.org/wiki/Q72242</td>
+                     <th>
+                        Wikidata ID
+                        </th>
+                     <td><a href="https://www.wikidata.org/wiki/Q72242" target="_blank">Q72242</a></td>
                   </tr>
                </tbody>
             </table>
-            <h4>Download Table</h4>
-            <div class="button-group"><button type="button" class="btn btn-outline-secondary" id="download-csv" title="Download CSV"><i class="bi bi-filetype-csv"></i><span class="visually-hidden">Download CSV</span></button><button type="button" class="btn btn-outline-secondary" id="download-json" title="Download JSON"><i class="bi bi-filetype-json"></i><span class="visually-hidden">Download JSON</span></button><button type="button" class="btn btn-outline-secondary" id="download-html" title="Download HTML"><i class="bi bi-filetype-html"></i><span class="visually-hidden">Download HTML</span></button></div>
          </div>
       </main>
       <footer class="footer mt-auto py-3 bg-body-tertiary">
@@ -95,22 +74,5 @@
                 new Darkmode().showWidget();
             }
             window.addEventListener('load', addDarkmodeWidget);
-        </script><link href="https://unpkg.com/tabulator-tables@5.5.2/dist/css/tabulator.min.css" rel="stylesheet"></link>
-      <link href="https://unpkg.com/tabulator-tables@5.5.0/dist/css/tabulator_bootstrap5.min.css" rel="stylesheet"></link><script type="text/javascript" src="https://unpkg.com/tabulator-tables@5.5.2/dist/js/tabulator.min.js"></script><script src="tabulator-js/config.js"></script><script>
-            var table = new Tabulator("#myTable", config);
-            //trigger download of data.csv file
-            document.getElementById("download-csv").addEventListener("click", function(){
-            table.download("csv", "data.csv");
-            });
-            
-            //trigger download of data.json file
-            document.getElementById("download-json").addEventListener("click", function(){
-            table.download("json", "data.json");
-            });
-            
-            //trigger download of data.html file
-            document.getElementById("download-html").addEventListener("click", function(){
-            table.download("html", "data.html", {style:true});
-            });
         </script></body>
 </html>
