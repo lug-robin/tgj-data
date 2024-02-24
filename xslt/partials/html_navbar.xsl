@@ -16,10 +16,10 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Projekt</a>
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Project</a>
                                 <ul class="dropdown-menu">
                                     <li>
-                                        <a class="dropdown-item" href="about.html">Über das Projekt</a>
+                                        <a class="dropdown-item" href="about.html">About the Project</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="imprint.html">Impressum</a>
@@ -28,29 +28,29 @@
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="toc.html">Editionseinheiten</a>
+                                <a class="nav-link" href="toc.html">Issues</a>
                             </li>
 
                             <li class="nav-item dropdown disabled">
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Register</a>
                                 <ul class="dropdown-menu">
                                     <li>
-                                        <a class="dropdown-item" href="listperson.html">Personen</a>
+                                        <a class="dropdown-item" href="listperson.html">People</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="listplace.html">Orte</a>
+                                        <a class="dropdown-item" href="listplace.html">Places</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="listorg.html">Organisationen</a>
+                                        <a class="dropdown-item" href="listorg.html">Organs</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="listbibl.html">Werke</a>
+                                        <a class="dropdown-item" href="listbibl.html">Works</a>
                                     </li>
                                 </ul>
                             </li>
 
                             <li class="nav-item">
-                                <a title="Suche" class="nav-link" href="search.html">Suche</a>
+                                <a title="Suche" class="nav-link" href="search.html">Search</a>
                             </li>
                         </ul>
                     </div>
