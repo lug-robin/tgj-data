@@ -68,34 +68,28 @@
               <birth>Not Known</birth>
               <death when-iso="1918-10-31">1918-10-31</death>
               <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q336493</idno>
-              <notes>Count, Minister President of Hungary</notes></person></listPerson>
-              </row>
-            <row>
+              <occupation>Count, Minister President of Hungary</occupation></person></listPerson>
               <listPerson><person xml:id="person006">
                 <persName>  <surname>Paul</surname>
                   <forename>Gautsch von Frankenthurn</forename></persName>
                 <birth when-iso="1851-02-26">1851-02-26</birth>
                 <death when-iso="1918-04-20">1918-04-20</death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q241524</idno>
-                <notes>President of the Austrian Delegation in Lviv</notes></person></listPerson>
-            </row>
-            <row>
+                <occupation>President of the Austrian Delegation in Lviv</occupation></person></listPerson>
               <listPerson><person xml:id="person007">
                 <persName> <surname>Emil</surname>
                   <forename>Byk</forename></persName>
                 <birth when-iso="1845-01-14">1845-01-14</birth>
                 <death when-iso="1906">1906</death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q5371197</idno>
-                <notes>Polish-Austrian lawyer and politician</notes></person></listPerson>
-            </row>
-            <row>
+                <occupation>Polish-Austrian lawyer and politician</occupation></person></listPerson>
               <listPerson><person xml:id="pesron008">    
                 <persName> <surname>Samuel</surname>
                   <forename>Straus</forename></persName>
                 <birth when-iso="1844-09-21">1844-09-21</birth>
                 <death when-iso="1904-01-25">1904-01-25</death>
                 <idno type="URL" subtype="geni">https://www.geni.com/people/Samuel-Straus/6000000011631522278</idno>
-                <notes>Philantrophst in Berlin</notes></person></listPerson>
+                <occupation>Philantrophst in Berlin</occupation></person></listPerson>
           </div>
         </body>
       </text>
