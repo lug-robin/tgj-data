@@ -6,16 +6,83 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>1904-02-05</title>
+            <title level="s">The True Jew</title>
+            <title level="a">1904-02-05</title>
+            <author>Multiple Authors</author>
+            <editor>
+               <name>Luger, Robin</name>
+            </editor>
          </titleStmt>
+         <editionStmt>
+            <edition>TJJ</edition>
+            <respStmt>
+               <resp>Translation</resp>
+               <name>Luger, Robin</name>
+            </respStmt>
+         </editionStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <publisher>
+               <name>Luger, Robin</name>
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2024">2024</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
+                  <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
+                     for any purpose, even commercially.</p>
+                  <p>The licensor cannot revoke these freedoms as long as you follow the license terms. Under the following terms:</p>
+                  <p>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
+                  <p>Notices:</p>
+                  <p>You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</p>
+               </licence>
+               <p>Copyright 2021 Österreichische Nationalbibliothek</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <msDesc>
+               <msIdentifier>
+                  <country>A</country>
+                  <settlement>Vienna</settlement>
+                  <repository>Austrian National Library</repository>
+                  <collection></collection>
+                  <idno>429702-D NEU PER</idno>
+               </msIdentifier>
+               <history>
+                  <origin>
+                     <origDate when-iso="1904-02-05">1904-02-05</origDate>
+                     <origPlace>Sonngasse 27, Lemberg</origPlace>
+                  </origin>
+               </history>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
+  <facsimile>
+     <surface ulx="0" uly="0" lrx="4257" lry="6222">
+       <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|1|33.0|0"></graphic>
+     </surface>
+     <surface ulx="0" uly="0" lrx="4411" lry="6197">
+        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|2|100.0|0"></graphic>
+     </surface>
+     <surface ulx="0" uly="0" lrx="4435" lry="6183">
+        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|3|100.0|0"></graphic>
+     </surface>
+     <surface ulx="0" uly="0" lrx="4411" lry="6180">
+        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|4|100.0|0"></graphic>
+     </surface>
+     <surface ulx="0" uly="0" lrx="4435" lry="6183">
+        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|5|100.0|0"></graphic>
+     </surface>
+     <surface ulx="0" uly="0" lrx="4411" lry="6180">
+        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|6|100.0|0"></graphic>
+     </surface>
+     <surface ulx="0" uly="0" lrx="4435" lry="6183">
+        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|7|100.0|0"></graphic>
+     </surface>
+     <surface ulx="0" uly="0" lrx="4411" lry="6180">
+        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|8|100.0|0"></graphic>
+     </surface>
+  </facsimile>
   <text>
       <body xml:lang="en">
          <div type="heading" n="1" style="one column">
@@ -52,13 +119,16 @@
             </table>
             <p><rs type="place">Lviv</rs>,<date when-iso="1904-02-05"> Friday 5th 1904</date></p>
             <cb n="2"/>
-            <p>Adverts are cheaply calculated
+            <p>
+               <lb/>Adverts are cheaply calculated
                <lb/>All letters and money send to:
                <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place">Lviv</rs>, <rs type="place">Sonnengasse 27</rs></foreign>
                <lb/>The true Jew is published every Friday
                <lb/><foreign xml:lang="de"><rs type="place">Lemberg</rs>, <date when-iso="1904-02-05">den 5. Februar 1904</date></foreign>.</p>
          </div>
          <div type="editorial" n="2" style="one columns">
+            <lb/>
+            <lb/>          
             <head>The true Jew</head>
             <p style="text-align: center">As of today we’re publishing a new weekly newspaper called</p>
             <p style="text-aling: center">"The true Jew"</p>
@@ -79,10 +149,10 @@
             </p>
          </div>
          <pb/>
-         <div type="editorial" style="text-align:center" n="3">
-            <ab>
-               <pb/>Every edition of our newspaper contains:
-            </ab>
+         <div type="editorial" style="text-align:center" n="3"> 
+            <p>
+               Every edition of our newspaper contains:
+            </p>
             <cb n="1"/>
             <p>
             <seg style="two columns">
@@ -116,7 +186,7 @@
                </row>
             </table>
             <p>
-               <lb/> Those who send the money at least half a year in advance will get an important Jewish book as a bonus for free.
+               Those who send the money at least half a year in advance will get an important Jewish book as a bonus for free.
                <lb/> The editors
                <lb/> The address is:
                <lb/> <foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place">Lviv, Sonnengasse 27</rs></foreign>
@@ -164,7 +234,7 @@
                “You can recognise them by their temple”. If we want to know, which damage the assimilation, the mingling with the other customs - has done to the Jewish peoples, we only need to look at the fruits 
                of the assimilation. Slowly, cautiously, step by step, the assimilation, what our “educated” Jews have called “progressive” and “culture”, has led the Jewry down a mountain. First, they have changed 
                the Jewish garment, afterwards the Jewish names, afterwards the Jewish language and at the end the entire religion…  when our blessed rabbis have written and fought against the assimilation, against 
-               the wrong <rs type="information">“Haskalah”</rs>, which blinds the eyes and confuses the thoughts, which has deceived the people, which will deliver the end of the whole movement to heresy in the religion 
+               the wrong <ref type="information" source="https://en.wikipedia.org/wiki/Haskalah">“Haskalah”</ref>, which blinds the eyes and confuses the thoughts, which has deceived the people, which will deliver the end of the whole movement to heresy in the religion 
                of God - they had been viewed as fanatics, they had been laughed at and mocked. Now, also the so-called Haskalahs have to admit that our ultra-orthodox brothers were right: the religious heresy has 
                indeed been a “small matter” now, it belongs to every day actions, that someone who is a religious heretic is too nice to a  job, an employment, too nice to a business, a wife or simply too nice to 
                “society”, too nice to his children - like he says - so that they don’t have to suffer for their Jewry like him. A “convert” as once been something very rare, it has both been for Jews and for non-Jews 
@@ -192,7 +262,7 @@
                education in schools, which is only <hi rend="italic">education</hi> and not <hi rend="italic">religion</hi>, that means, the children study and study and nevertheless know nothing, the bad behaviour of the parents, 
                the carelessness of the community, the lack of scholars who preach with passion, who should work against the lack and indifference for religion with courage and energy. All of that 
                led to this atheism and in will not get better until our whole life will improve again, not for the worse like the reform-Jews caused, but for the better: <hi rend="italic">To return the crown back to the 
-               <rs type="work">Torah</rs>!</hi>
+               Torah!</hi>
                <lb/><hi rend="italic">A Jew</hi>
             </p>
          </div>
@@ -208,7 +278,7 @@
             </p>
             <p>
                Lately, people in <rs type="place">Galicia</rs> have started talking about creating new sources of income, societies are being created, gatherings are being convened and committees are being elected, 
-               who pay attention to the question how to improve the financial situation. A <rs type="information">Bat Kol</rs> has been shared: “let’s support the domestic products” - whoever establishes a new business, who wants to build a 
+               who pay attention to the question how to improve the financial situation. A <ref type="information" source="https://en.wikipedia.org/wiki/Voice_of_God">Bat Kol</ref> has been shared: “let’s support the domestic products” - whoever establishes a new business, who wants to build a 
                new factory, get subsidies and support, in order to be able to survive against the competition from abroad and keep existing. 
             </p>
             <p>
@@ -253,7 +323,7 @@
                that’s justified.
             </p>
             <p>
-               We often see that the fathers now let their children go to <rs type="information">Hadar</rs> which stops his teaching and leads to away from passionate education which educates
+               We often see that the fathers now let their children go to school which stops his teaching and leads to away from passionate education which educates
                them well and pious - the same father does not care about his daughters and as a formality offered an explanation: “Everyone who teaches their daughters the Torah, teaches 
                nonsense”. He forgets that that our late scholars have conveyed it very differently as he understands it. He lets his children go to school, they are learning "<hi rend="italic">religion</hi>" 
                from a teacher who himself is not pious and he can interpret the sacred texts, but he cannot uphold them… all of that he removes because going to school is the legal 
@@ -284,7 +354,7 @@
          <div type="article" style="two columns" n="6">
          <head>Letter from <rs type="place">Russia</rs></head>
          <p>
-            After the horrible persecution of <rs type="place">Chișinău</rs> and <rs type="place">Gomel</rs>, after the ridiculous comedy what was the <rs type="information"><rs type="place">Chișinău</rs> progroms</rs>, which made the whole world indignant - do we all 
+            After the horrible persecution of <rs type="place">Chișinău</rs> and <rs type="place">Gomel</rs>, after the ridiculous comedy what was the <ref type="information" source="https://en.wikipedia.org/wiki/Kishinev_pogrom"><rs type="place">Chișinău</rs> progroms</ref>, which made the whole world indignant - do we all 
             of a sudden now hear that the government has called together all other provinces to an assembly, in which it is to be consulted if Jews should be allowed to live 
             in the whole country of <rs type="place">Russia</rs>, unlike now as they are crowded together in few provinces like chickens on the roost and only the best, for example those who are 
             in the highest tax brackets or graduates etc., can live in all of <rs type="place">Russia</rs>. Rumour has it, that several provinces are in favour of expanding the Jew’s rights to live 
@@ -370,7 +440,7 @@
               <hi rend="italic"> foreign</hi>   politics and with military matters. But because a great deal of members of the <rs type="org">imperial council</rs> and the <rs type="org">manor house</rs> 
                who are from different parties are part of the delegation and therefore they mainly talk about  <hi rend="italic">internal</hi>   matters, about the dispute between the Czech and 
                German, etc., and very little about foreign politics. Of course,  <cb/>nothing comes of this all this talking, idle words remain, without a purpose or practical value.
-               - Concurrently, the government reigns with <rs type="information">§ 14</rs>, it is working as well as possible, it even wants to negotiate new trade contracts with 
+               - Concurrently, the government reigns with <rs type="information" source="https://www.verfassungen.eu/hu/verf48.htm#Gesetzesartikel_XII:1867">[III.] § 14</rs>, it is working as well as possible, it even wants to negotiate new trade contracts with 
                German, and also the <ref type="information" source="https://www.wikidata.org/wiki/Q209601">Compromise with Hungary</ref> by the means of § 14, and because the Czech treathen not to approve the recruit law this year, 
                the government also wants to pass this law with § 14. 
             </p>
@@ -395,13 +465,13 @@
                actually give in to Japan’s demands in <rs type="place">Korea</rs>, but not in <rs type="place">Manchuria</rs>. Russia invested loads of money until they were able to 
                get ahold of <rs type="place">Manchuria</rs>; to already give it up again would be a disgrace and shame. They would prefer going to war rather than relinquishing 
                voluntarily. However, England and Amerika are also interested in <rs type="place">Machuria</rs> and both support Japan in demanding <rs type="place">Manchuria</rs>, 
-               which is actually a Chinese province and Russia had occupied it with brute force, should be free for all countries’ trade. And even if <cb/>Japan would lose the war with 
+               which is actually a Chinese province and Russia had occupied it with brute force, should be free for all countries’ trade. And even if <pb/>Japan would lose the war with 
                Russia, England and America will come to rescue. - How this will turn out in the near future, maybe even in a few days, we will know if there will be war or if peace will remain.
             </p>
          </div>
          <div type="article" style="two columns" n="9">
-            <head>News.</head>
-            <head>Jewish News.</head>
+            <head>News.
+            <lb/>Jewish News.</head>
             <p>
                (<rs type="place">Lviv</rs>). Lately, two important associations have been founded in our city. One society was founded by Russian Jews living here aiming to support the local 
                Russian Jews or those from Russia who are passing through Lviv as well as possible. - The second society is the "Association for Jewish merchants",  with the purpose to represent 
@@ -510,16 +580,16 @@
                some of them have not been printed yet and will only be printed to his 800th anniversary. 
             </p>
             <p>
-               Nowadays, <rs type="person">Rashi</rs>’s wonders are still being talked about. We only want to talk about one miracle. During <rs type="person">Rashi</rs>’s time, the Christians went on a <rs type="information">crusade</rs>, 
+               Nowadays, <rs type="person">Rashi</rs>’s wonders are still being talked about. We only want to talk about one miracle. During <rs type="person">Rashi</rs>’s time, the Christians went on a <ref type="information" source="https://en.wikipedia.org/wiki/First_Crusade">crusade</ref>, 
                which means they travelled to <rs type="place">Israel</rs> in order to take away the <rs type="place">Holy Land</rs> from the <rs type="org">Turks</rs>. Jews have suffered tremendously because of the crusades and the 
-               prosecution is today known as the “<rs type="information">Rhineland massacres</rs>”.  The leader of the First Crusade, <rs type="person">Godfrey of Bouillon</rs> asked <rs type="person">Rashi</rs> before departure if he 
+               prosecution is today known as the “<ref type="information" source="https://en.wikipedia.org/wiki/Rhineland_massacres">Rhineland massacres</ref>”.  The leader of the First Crusade, <rs type="person">Godfrey of Bouillon</rs> asked <rs type="person">Rashi</rs> before departure if he 
                would be prosperous. <rs type="person">Rashi</rs> told him he will win the war and become king of <rs type="place">Jerusalem</rs>. But after that the Turks will come back to drive him away and he will 
                return home with three horses only. In the end, it happened like that, the only difference being that <rs type="person">Godfrey</rs> came back with four horses. He wanted to punish <rs type="person">Rashi</rs>, because his 
                prophecy was not completely fulfilled, as he came back with four horses. However, as he arrived at the city gates, the gate suddenly fell and squashed one horse. Therefore, <rs type="person">Rashi</rs>`s prophecy came 
                completely true. He immediately went to <rs type="person">Rashi</rs>, but he had already died and several rabbis carried out the burial rites.
             </p>
             <p>
-               <rs type="person">Rashi</rs> died in <date>4865</date> (<date>"1105</date>) at the age of 77. He was working on his commentary to the Talmud Torah. His disciple and son in law rabbi <rs type="person">Judah ben Nathan</rs> 
+               <rs type="person">Rashi</rs> died in <date>4865</date> (<date>1105</date>) at the age of 77. He was working on his commentary to the Talmud Torah. His disciple and son in law rabbi <rs type="person">Judah ben Nathan</rs> 
                has completed the commentary of the Torah. Another one of <rs type="person">Rashi</rs>’s sons in law, rabbi <rs type="person">Meir ben Samuel</rs>, had three famous sons: rabbi <rs type="person">Samuel ben Meir</rs> 
                (known as <rs type="person">RaShbaM</rs>), rabbi <rs type="person">Isaac ben Meir</rs> (<rs type="person">RIvaM</rs>), and rabbi <rs type="person">Tam</rs>. These three grandsons of <rs type="person">Rashi</rs>´s were 
                the authors of the first appendix. 
