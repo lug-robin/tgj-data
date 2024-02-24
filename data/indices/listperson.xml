@@ -26,10 +26,11 @@
             <death>
               <date when-iso="1934-10-04">1934-10-04</date>
             </death>
+              <occupation>Vice Preident of the imperial council of Austria-Hungary</occupation>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q12023385</idno>
           </person>
           </listPerson>
-            <listPerson><person xml:id="person_002">
+          <listPerson><person xml:id="person_002">
               <persName>
                 <forename>Sergey Dmitriyevich</forename>
                 <surname>Urusov</surname>
@@ -40,8 +41,7 @@
               <death>
                 <date when-iso="1937-09-05">1937-09-05</date>
               </death>
-              <sex value="male"/>
-              <occupation key="154">Prince, govenor of Bessabaria.</occupation>
+              <occupation>Prince, govenor of Bessabaria.</occupation>
               <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q4477401</idno>
             </person>
             </listPerson>
@@ -52,6 +52,7 @@
               </persName>
               <birth><date when-iso="1830-08-18">1830-08-18</date></birth>
               <death><date when-iso="1916-11-21">1916-11-21</date></death>
+              <occupation>Emperor of Austria-Hungary</occupation>
               <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q51056</idno>
             </person>
             </listPerson>
@@ -59,6 +60,7 @@
               <forename>von Koerber</forename></persName>
               <birth><date when-iso="1850-11-06">1850-11-06</date></birth>
               <death><date when-iso="1919-03-05">1919-03-05</date></death>
+              <occupation>Minister President of Austria-Hungary</occupation>
               <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q72242</idno></person></listPerson>
           </div>
         </body>
