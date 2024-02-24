@@ -15,7 +15,7 @@
      <text>
         <body>
           <div>
-            <listPerson><person xml:id="person_001">
+            <listPerson><person xml:id="person001">
             <persName>
               <forename>Jan</forename>
               <surname>Žáček</surname>
@@ -30,7 +30,7 @@
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q12023385</idno>
           </person>
           </listPerson>
-          <listPerson><person xml:id="person_002">
+          <listPerson><person xml:id="person002">
               <persName>
                 <forename>Sergey Dmitriyevich</forename>
                 <surname>Urusov</surname>
@@ -45,7 +45,7 @@
               <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q4477401</idno>
             </person>
             </listPerson>
-            <listPerson><person xml:id="person_003">
+            <listPerson><person xml:id="person003">
               <persName>
                 <surname>Franz Joseph</surname>
                 <forename>of Habsburg</forename>
@@ -62,6 +62,40 @@
               <death><date when-iso="1919-03-05">1919-03-05</date></death>
               <occupation>Minister President of Austria-Hungary</occupation>
               <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q72242</idno></person></listPerson>
+            <listPerson><person xml:id="person005">
+              <persName>  <surname>István</surname>
+                <forename>Tisza</forename></persName>
+              <birth>Not Known</birth>
+              <death when-iso="1918-10-31">1918-10-31</death>
+              <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q336493</idno>
+              <notes>Count, Minister President of Hungary</notes></person></listPerson>
+              </row>
+            <row>
+              <listPerson><person xml:id="person006">
+                <persName>  <surname>Paul</surname>
+                  <forename>Gautsch von Frankenthurn</forename></persName>
+                <birth when-iso="1851-02-26">1851-02-26</birth>
+                <death when-iso="1918-04-20">1918-04-20</death>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q241524</idno>
+                <notes>President of the Austrian Delegation in Lviv</notes></person></listPerson>
+            </row>
+            <row>
+              <listPerson><person xml:id="person007">
+                <persName> <surname>Emil</surname>
+                  <forename>Byk</forename></persName>
+                <birth when-iso="1845-01-14">1845-01-14</birth>
+                <death when-iso="1906">1906</death>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q5371197</idno>
+                <notes>Polish-Austrian lawyer and politician</notes></person></listPerson>
+            </row>
+            <row>
+              <listPerson><person xml:id="pesron008">    
+                <persName> <surname>Samuel</surname>
+                  <forename>Straus</forename></persName>
+                <birth when-iso="1844-09-21">1844-09-21</birth>
+                <death when-iso="1904-01-25">1904-01-25</death>
+                <idno type="URL" subtype="geni">https://www.geni.com/people/Samuel-Straus/6000000011631522278</idno>
+                <notes>Philantrophst in Berlin</notes></person></listPerson>
           </div>
         </body>
       </text>
