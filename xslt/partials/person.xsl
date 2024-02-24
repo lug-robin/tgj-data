@@ -30,12 +30,10 @@
                 <xsl:if test="./tei:idno[@type='GND']/text()">
                     <tr>
                         <th>
-                            GND ID
+                            Notes
                         </th>
                         <td>
-                            <a href="{./tei:idno[@type='GND']}" target="_blank">
-                                <xsl:value-of select="tokenize(./tei:idno[@type='GND'], '/')[last()]"/>
-                            </a>
+                            <xsl:value-of select="./tei:occupation"/>
                         </td>
                     </tr>
                 </xsl:if>

@@ -72,9 +72,6 @@
                                             <xsl:value-of select=".//tei:occupation/text()"/>
                                         </td>
                                         <td>
-                                            <xsl:value-of select=".//tei:idno/text()"/>
-                                        </td>
-                                        <td>
                                             <xsl:value-of select="$id"/>
                                         </td>
                                     </tr>
