@@ -46,7 +46,7 @@
                         </th>
                         <td>
                             <a href="{./tei:idno[@type='URL']}" target="_blank">
-                                <xsl:value-of select="tokenize(./tei:idno[@type='WIKIDATA'], '/')[last()]"/>
+                                <xsl:value-of select="tokenize(./tei:idno[@type='URL'], '/')[last()]"/>
                             </a>
                         </td>
                     </tr>
