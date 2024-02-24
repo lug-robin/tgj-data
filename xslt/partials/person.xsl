@@ -10,7 +10,7 @@
                 <xsl:if test="./tei:birth/tei:date">
                 <tr>
                     <th>
-                        Geburtsdatum
+                        Death of Birth
                     </th>
                     <td>
                         <xsl:value-of select="./tei:birth/tei:date"/>
@@ -20,7 +20,7 @@
                 <xsl:if test="./tei:death/tei:date">
                 <tr>
                     <th>
-                        Sterbedatum
+                        Date of Death
                     </th>
                     <td>
                         <xsl:value-of select="./tei:death/tei:date"/>
@@ -39,13 +39,13 @@
                         </td>
                     </tr>
                 </xsl:if>
-                <xsl:if test="./tei:idno[@type='WIKIDATA']/text()">
+                <xsl:if test="./tei:idno[@type='URL']/text()">
                     <tr>
                         <th>
                             Wikidata ID
                         </th>
                         <td>
-                            <a href="{./tei:idno[@type='WIKIDATA']}" target="_blank">
+                            <a href="{./tei:idno[@type='URL']}" target="_blank">
                                 <xsl:value-of select="tokenize(./tei:idno[@type='WIKIDATA'], '/')[last()]"/>
                             </a>
                         </td>
