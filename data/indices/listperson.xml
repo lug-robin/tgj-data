@@ -1,270 +1,367 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Werkverzeichnis</title>
-            </titleStmt>
-            <publicationStmt>
-                <p/>
-            </publicationStmt>
-            <sourceDesc>
-                <p>born digital</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div><listPerson><person xml:id="pmb5787">
-  <persName>
-      <forename>Arthur</forename>
-      <surname>Schopenhauer</surname>
-  </persName>
-  <birth>
-    <date when-iso="1788-02-22">22.02.1788</date>
-      <settlement key="pmb42763">
-        <placeName type="pref">Danzig</placeName>
-        <location><geo>54.3611 18.6897</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1860-09-21">21.09.1860</date>
-      <settlement key="pmb146">
-        <placeName type="pref">Frankfurt am Main</placeName>
-        <location><geo>50.11552 8.68417</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="154">Philosoph/Philosophin</occupation>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118610465</idno>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19866</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/5787</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb5787</idno>
-  <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb5787.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb5787</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp38501</idno>
-  <idno type="URL" subtype="dritte-walpurgisnacht">https://kraus1933.ace.oeaw.ac.at/Gesamt.xml?template=register_personen.html&amp;letter=S#DWpers0214</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q38193</idno>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-<noteGrp><note target="D_000002-003-000.xml" type="mentions">2.3 Privatanklage von Karl Kraus gegen Reichspost (verantw. Red. Karl Schiffleitner) wegen Verweigerung einer Berichtigung</note></noteGrp></person><person xml:id="pmb40703">
-  <persName>
-      <forename>Karl</forename>
-      <surname>Schiffleitner</surname>
-  </persName>
-  <sex value="male"/>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <occupation key="173">Redakteur/Redakteurin</occupation>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/40703/</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/40703</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb40703</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb29637">Reichspost</orgName>
-    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29637.html</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29637</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29637</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2139624</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-<noteGrp><note target="D_000002-003-000.xml" type="mentions">2.3 Privatanklage von Karl Kraus gegen Reichspost (verantw. Red. Karl Schiffleitner) wegen Verweigerung einer Berichtigung</note></noteGrp></person><person xml:id="pmb11988">
-  <persName>
-      <forename>Karl</forename>
-      <surname>Kraus</surname>
-  </persName>
-  <persName type="person_pseudonym">Berdach J.</persName>
-  <birth>
-    <date when-iso="1874-04-28">28.04.1874</date>
-      <settlement key="pmb41660">
-        <placeName type="pref">Jičín</placeName>
-        <location><geo>50.43723 15.35162</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1936-06-12">12.06.1936</date>
-      <settlement key="pmb50">
-        <placeName type="pref">Wien</placeName>
-        <location><geo>48.2066 16.37341</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="237">Publizist/Publizistin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17108</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118566288</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11988.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11988</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11988</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb11988</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp47565</idno>
-  <idno type="URL" subtype="doiorg101553">https://doi.org/10.1553/0x00282496</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q44328</idno>
-<affiliation>
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb29308">Die Fackel</orgName>
-    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29308.html</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29308</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29308</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29308</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q354576</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb50728">Buchhandlung Richard Lányi</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50728/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb50728</idno>
-</affiliation>
-<affiliation>
-    <term key="1409">besitzt</term>
-    <orgName key="pmb43724">Verlag Die Fackel (Wien)</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43724/</idno>
-    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/16063972-4</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/43724</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb43724</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb36757">Amtsgericht Hamburg</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36757/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36757</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36757</idno>
-    <idno type="URL" subtype="gnd">https://d-nb.info/gnd/2077565-9</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q480732</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb36828">Landgericht Hamburg</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36828/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/36828</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb36828</idno>
-    <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1429221</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb60573">Karl Kraus-Gesellschaft</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/60573/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb60573</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb37159">Jahoda &amp; Siegel (Druckerei)</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37159/</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/37159</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb37159</idno>
-</affiliation>
-<affiliation>
-    <term key="1153">in Bezug zu</term>
-    <orgName key="pmb87755">Max Goldschmidt (Büro für Zeitungsausschnitte)</orgName>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/87755/</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb87755</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-<noteGrp><note target="D_000002-003-000.xml" type="mentions">2.3 Privatanklage von Karl Kraus gegen Reichspost (verantw. Red. Karl Schiffleitner) wegen Verweigerung einer Berichtigung</note></noteGrp></person><person xml:id="pmb21853">
-  <persName>
-      <surname>Nero</surname>
-  </persName>
-  <birth>
-    <date when-iso="37-12-15">0037-12-15</date>
-      <settlement key="pmb21854">
-        <placeName type="pref">Antium</placeName>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="68-06-09">0068-06-09</date>
-      <settlement key="pmb445">
-        <placeName type="pref">Rom</placeName>
-        <location><geo>41.89193 12.51133</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="167">Regent/Regentin &gt;&gt; Kaiser/Kaiserin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18392</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/21853</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb21853</idno>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-</listBibl>
-<noteGrp><note target="D_000002-003-000.xml" type="mentions">2.3 Privatanklage von Karl Kraus gegen Reichspost (verantw. Red. Karl Schiffleitner) wegen Verweigerung einer Berichtigung</note></noteGrp></person><person xml:id="pmb11673">
-  <persName>
-      <forename>Theodor</forename>
-      <surname>Herzl</surname>
-  </persName>
-  <birth>
-    <date when-iso="1860-05-02">1860-05-02</date>
-      <settlement key="pmb43471">
-        <placeName type="pref">Budapest</placeName>
-        <location><geo>47.49835 19.04045</geo></location>
-      </settlement>
-  </birth>  
-  <death>
-    <date when-iso="1904-07-03">1904-07-03</date>
-      <settlement key="pmb470">
-        <placeName type="pref">Edlach</placeName>
-        <location><geo>47.69255 15.80915</geo></location>
-      </settlement>
-  </death>
-  <sex value="male"/>
-  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
-  <occupation key="99">Journalist/Journalistin</occupation>
-  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16165</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118550241</idno>
-  <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb11673.html</idno>
-  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11673</idno>
-  <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11673</idno>
-  <idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb11673.html</idno>
-  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/personen/pmb11673</idno>
-  <idno type="URL" subtype="fackel">https://fackel.oeaw.ac.at/?p=fackelp41891</idno>
-  <idno type="URL" subtype="doiorg101553">https://doi.org/10.1553/0x00281de3</idno>
-  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q44003</idno>
-<affiliation notBefore-iso="1891-10-01" when-iso="1891-10-16" notAfter-iso="1891-10-31">
-    <term key="1182">arbeitet für</term>
-    <orgName key="pmb29351">Neue Freie Presse</orgName>
-    <idno type="URL" subtype="schnitzler-bahr">https://schnitzler-bahr.acdh.oeaw.ac.at/pmb29351.html</idno>
-    <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/29351</idno>
-    <idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29351</idno>
-    <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/institutionen/pmb29351</idno>
-</affiliation>
-<listBibl>
-    <bibl type="collections" n="3">Manuell angelegt</bibl>
-    <bibl type="collections" n="5">legalkraus</bibl>
-    <bibl type="collections" n="11">ÖBL nach 1850 geboren</bibl>
-    <bibl type="collections" n="12">Fackel</bibl>
-</listBibl>
-<noteGrp><note target="D_000002-003-000.xml" type="mentions">2.3 Privatanklage von Karl Kraus gegen Reichspost (verantw. Red. Karl Schiffleitner) wegen Verweigerung einer Berichtigung</note></noteGrp></person><person xml:id="wkfm__43788">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Buchheim</surname>
-                        <surname type="alt">Buchhaimer</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 353 (Dezember 1728).</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0023</note></noteGrp></person>
-                <person xml:id="wkfm__11199">
-                     <persName>
-                        <forename>Ferdinand</forename>
-                        <surname>Albrechtsberger</surname>
-                     </persName>
-                     <death><date>1728</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 338 (20. Mai 1715).</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0023</note></noteGrp></person>
-                <person xml:id="pmb11740"><persName><forename>Hugo von</forename><surname>Hofmannsthal</surname></persName><persName type="pseudonym">Loris</persName><persName type="pseudonym">Theophil Morren</persName><persName type="namensvariante">Hofmannsthal, Hugo</persName><birth><date when="1874-02-01">01.02.1874</date><settlement ref="#pmb50"><placeName type="pref">Wien</placeName><location><geo>48,2066 16,37341</geo></location></settlement></birth><death><date when="1929-07-15">15.07.1929</date><settlement ref="#pmb173"><placeName type="pref">Rodaun</placeName><location><geo>48,132793312328 16,256152195922</geo></location></settlement></death><sex value="male"/><occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation><idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16293</idno><idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118552759</idno><idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11740</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/11740</idno><idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11740</idno><noteGrp><note target="L041464.xml" type="mentions">Hugo von Hofmannsthal an Hermann Bahr, [23./24. 11. 1891]</note></noteGrp></person><person xml:id="pmb10815"><persName><forename>Hermann</forename><surname>Bahr</surname></persName><birth><date when="1863-07-19">19.07.1863</date><settlement ref="#pmb332"><placeName type="pref">Linz</placeName><location><geo>48,3 14,28333</geo></location></settlement></birth><death><date when="1934-01-15">15.01.1934</date><settlement ref="#pmb45258"><placeName type="pref">München</placeName><location><geo>48,13743 11,57549</geo></location></settlement></death><sex value="male"/><occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation><occupation ref="#pmb100">Kritiker/Kritikerin</occupation><idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno><idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118505955</idno><idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/10815</idno><idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno><idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb10815.html</idno><noteGrp><note target="L041464.xml" type="mentions">Hugo von Hofmannsthal an Hermann Bahr, [23./24. 11. 1891]</note></noteGrp></person><person xml:id="pmb2292"><persName><forename>Gertrude von</forename><surname>Hofmannsthal</surname></persName><persName type="rufname">Gerty</persName><persName type="geburtsname_nachname">Schlesinger</persName><persName type="geburtsname_nachname">Schlesinger</persName><persName type="legacy-name-merge">Hofmannsthal, Gertrude von</persName><birth><date when="1880-03-16">16.03.1880</date><settlement ref="#pmb50"><placeName type="pref">Wien</placeName><location><geo>48,2066 16,37341</geo></location></settlement></birth><death><date when="1959-11-09">09.11.1959</date><settlement ref="#pmb46885"><placeName type="pref">Paddington</placeName><location><geo>51,51558 -0,1763</geo></location></settlement></death><sex value="female"/><idno type="URL" subtype="d-nb">https://d-nb.info/gnd/116952199</idno><idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2292</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2292</idno><idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16292</idno><idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2292</idno><noteGrp><note target="L041464.xml" type="mentions">Hugo von Hofmannsthal an Hermann Bahr, [23./24. 11. 1891]</note></noteGrp></person><person xml:id="pmb2121"><persName><forename>Arthur</forename><surname>Schnitzler</surname></persName><birth><date when="1862-05-15">15.05.1862</date><settlement ref="#pmb50"><placeName type="pref">Wien</placeName><location><geo>48,2066 16,37341</geo></location></settlement></birth><death><date when="1931-10-21">21.10.1931</date><settlement ref="#pmb50"><placeName type="pref">Wien</placeName><location><geo>48,2066 16,37341</geo></location></settlement></death><sex value="male"/><occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation><occupation ref="#pmb97">Mediziner/Medizinerin</occupation><idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118609807</idno><idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/2121</idno><idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno><idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/pmb2121</idno><noteGrp><note target="L041464.xml" type="mentions">Hugo von Hofmannsthal an Hermann Bahr, [23./24. 11. 1891]</note></noteGrp></person><person xml:id="pmb3892"><persName><forename>Maurice</forename><surname>Barrès</surname></persName><persName type="legacy-name-merge">Barrès, Maurice</persName><birth><date when="1862-08-19">1862-08-19</date><settlement ref="#pmb48614"><placeName type="pref">Charmes</placeName><location><geo>48,3722 6,29117</geo></location></settlement></birth><death><date when="1923-12-04">1923-12-04</date><settlement ref="#pmb36749"><placeName type="pref">Neuilly-sur-Seine</placeName><location><geo>48,8846 2,26965</geo></location></settlement><settlement ref="#pmb36749"><placeName type="pref">Neuilly-sur-Seine</placeName><location><geo>48,8846 2,26965</geo></location></settlement></death><sex value="male"/><occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation><idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118506684</idno><idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3892</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/3892</idno><idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3892</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/64928/</idno><idno type="URL" subtype="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb3892.html</idno><noteGrp><note target="L041464.xml" type="mentions">Hugo von Hofmannsthal an Hermann Bahr, [23./24. 11. 1891]</note></noteGrp></person><person xml:id="pmb4266"><persName><forename>Jules-Amédée</forename><surname>Barbey d’Aurevilly</surname></persName><birth><date when="1808-11-02">02.11.1808</date><settlement ref="#pmb55964"><placeName type="pref">Saint-Sauveur-le-Vicomte</placeName><location><geo>49,38547 -1,5331</geo></location></settlement></birth><death><date when="1889-04-23">23.04.1889</date><settlement ref="#pmb182"><placeName type="pref">Paris</placeName><location><geo>48,85341 2,3488</geo></location></settlement></death><sex value="male"/><occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation><idno type="URL" subtype="d-nb">https://d-nb.info/gnd/118506498</idno><idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4266</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4266</idno><idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb4266</idno><noteGrp><note target="L041464.xml" type="mentions">Hugo von Hofmannsthal an Hermann Bahr, [23./24. 11. 1891]</note></noteGrp></person><person xml:id="pmb4804"><persName><forename>Ola</forename><surname>Hansson</surname></persName><birth><date when="1860-11-12">12.11.1860</date><settlement ref="#pmb58878"><placeName type="pref">Hønsinge</placeName><location><geo>55,86555 11,55595</geo></location></settlement></birth><death><date when="1925-09-26">26.09.1925</date><settlement ref="#pmb4807"><placeName type="pref">Büyükdere</placeName></settlement></death><sex value="male"/><occupation ref="#pmb90">Schriftsteller/Schriftstellerin</occupation><idno type="URL" subtype="d-nb">https://d-nb.info/gnd/11854585X</idno><idno type="URL" subtype="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4804</idno><idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/4804</idno><idno type="URL" subtype="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb4804</idno><noteGrp><note target="L041464.xml" type="mentions">Hugo von Hofmannsthal an Hermann Bahr, [23./24. 11. 1891]</note></noteGrp></person></listPerson></div>
-        </body>
-    </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <id>1</id>
+    <Name>Jan</Name>
+    <Nachname>Žáček</Nachname>
+    <Anmerkungen>Dr., Vize Preident of the imperial council</Anmerkungen>
+    <Lived>1849-05-31 - 1934-10-04</Lived>
+    <Title>Dr.</Title>
+    <URL>https://www.wikidata.org/wiki/Q12023385</URL>
+    <UUID>0a21e768-e1dd-4c22-a28c-010c9959b503</UUID>
+    <person_id>person_001</person_id>
+  </row>
+  <row>
+    <id>2</id>
+    <Name>Sergey Dmitriyevich</Name>
+    <Nachname>Urusov</Nachname>
+    <Anmerkungen>Prince, govenor of Bessabaria.</Anmerkungen>
+    <Lived>1862-03-19 - 1937-09-05</Lived>
+    <Title>Prince</Title>
+    <URL>https://www.wikidata.org/wiki/Q4477401</URL>
+    <UUID>70a38307-80dc-4fc4-b47c-04da0045766a</UUID>
+    <person_id>person_002</person_id>
+  </row>
+  <row>
+    <id>3</id>
+    <Name>Franz Joseph</Name>
+    <Nachname>of Habsburg</Nachname>
+    <Anmerkungen>Emperor of Austria-Hungary</Anmerkungen>
+    <Lived>1830-08-18 - 1916-11-21</Lived>
+    <Title>Emperor</Title>
+    <URL>https://www.wikidata.org/wiki/Q51056</URL>
+    <UUID>7aa4fe34-7422-4282-9b32-ef0773a50471</UUID>
+    <person_id>person_003</person_id>
+  </row>
+  <row>
+    <id>4</id>
+    <Name>Ernest</Name>
+    <Nachname>von Koerber</Nachname>
+    <Anmerkungen>Dr., Minister President</Anmerkungen>
+    <Lived>1850-11-06 - 1919-03-05</Lived>
+    <Title>Dr.</Title>
+    <URL>https://www.wikidata.org/wiki/Q72242</URL>
+    <UUID>82f6c833-2a55-4c80-b995-67e0f233de10</UUID>
+    <person_id>person_004</person_id>
+  </row>
+  <row>
+    <id>5</id>
+    <Name>István</Name>
+    <Nachname>Tisza</Nachname>
+    <Anmerkungen>Count, Minister President of Hungary</Anmerkungen>
+    <Lived>died 1918-10-31</Lived>
+    <Title>Count</Title>
+    <URL>https://www.wikidata.org/wiki/Q336493</URL>
+    <UUID>ca3c1579-c5cf-4817-9066-c236d7a47223</UUID>
+    <person_id>person_005</person_id>
+  </row>
+  <row>
+    <id>6</id>
+    <Name>Paul</Name>
+    <Nachname>Gautsch von Frankenthurn</Nachname>
+    <Anmerkungen>President of the Austrian Delegation in Lviv</Anmerkungen>
+    <Lived>1850/1-02-26 - 1918-04-20</Lived>
+    <Title></Title>
+    <URL>https://www.wikidata.org/wiki/Q241524</URL>
+    <UUID>35165894-c62e-4ed6-983d-5118416867c4</UUID>
+    <person_id>person_006</person_id>
+  </row>
+  <row>
+    <id>7</id>
+    <Name>Emil</Name>
+    <Nachname>Byk</Nachname>
+    <Anmerkungen>Polish-Austrian lawyer and politician</Anmerkungen>
+    <Lived>1845-01-14 - 1906</Lived>
+    <Title>Dr.</Title>
+    <URL>https://www.wikidata.org/wiki/Q5371197</URL>
+    <UUID>fbf68221-7d97-41c8-b314-8b8df2a8ba4e</UUID>
+    <person_id>person_007</person_id>
+  </row>
+  <row>
+    <id>8</id>
+    <Name>Samuel</Name>
+    <Nachname>Straus</Nachname>
+    <Anmerkungen>Philantrophst in Berlin</Anmerkungen>
+    <Lived>1844-09-21 - 1904-01-25</Lived>
+    <Title></Title>
+    <URL>https://www.geni.com/people/Samuel-Straus/6000000011631522278</URL>
+    <UUID>1fc69c01-c17c-4200-8d93-7e77370a5cc0</UUID>
+    <person_id>person_008</person_id>
+  </row>
+  <row>
+    <id>9</id>
+    <Name>Ferdinand August</Name>
+    <Nachname>Bebel</Nachname>
+    <Anmerkungen>Socialist Member of German Parliament. 
+Goes by August Bebel</Anmerkungen>
+    <Lived>1840-02-22 - 1913-08-13</Lived>
+    <Title></Title>
+    <URL>https://www.wikidata.org/wiki/Q76520</URL>
+    <UUID>1fb5e8cf-8486-447a-bdb3-1303f6e579d3</UUID>
+    <person_id>person_009</person_id>
+  </row>
+  <row>
+    <id>10</id>
+    <Name>Wilhelm II.</Name>
+    <Nachname></Nachname>
+    <Anmerkungen>Emperor of Germany</Anmerkungen>
+    <Lived>1859-01-27 - 1941-06-04</Lived>
+    <Title>Emperor</Title>
+    <URL>https://www.wikidata.org/wiki/Q2677</URL>
+    <UUID>a0f265ed-cefe-4175-b8a9-a97c3712f8de</UUID>
+    <person_id>person_010</person_id>
+  </row>
+  <row>
+    <id>11</id>
+    <Name>David</Name>
+    <Nachname></Nachname>
+    <Anmerkungen>Third King of the United Kingdom of Isreal</Anmerkungen>
+    <Lived>1039 BCE - 969 BCE</Lived>
+    <Title>King</Title>
+    <URL>https://www.wikidata.org/wiki/Q41370</URL>
+    <UUID>8d101c6e-5ede-4c08-b54b-c96139edfd31</UUID>
+    <person_id>person_011</person_id>
+  </row>
+  <row>
+    <id>12</id>
+    <Name>Gheorghe Grigore</Name>
+    <Nachname>Cantacuzino</Nachname>
+    <Anmerkungen>Member of Parliament in Bucharest</Anmerkungen>
+    <Lived>1832-09-22 - 1913-03-22</Lived>
+    <Title>Prince</Title>
+    <URL>https://www.wikidata.org/wiki/Q2002136</URL>
+    <UUID>140c8f1e-eb9a-4952-ae19-7a1e88560fba</UUID>
+    <person_id>person_012</person_id>
+  </row>
+  <row>
+    <id>13</id>
+    <Name>Stéphanie</Name>
+    <Nachname>of Belgium</Nachname>
+    <Anmerkungen>Princess of Belium, Crown Princess of Austria</Anmerkungen>
+    <Lived>1864-05-21 - 1945-08-23</Lived>
+    <Title>(Crown) Princess</Title>
+    <URL>https://www.wikidata.org/wiki/Q3027839</URL>
+    <UUID>868f0176-5c7e-4c93-89b2-cbb6b7de7031</UUID>
+    <person_id>person_013</person_id>
+  </row>
+  <row>
+    <id>14</id>
+    <Name>Leopold II</Name>
+    <Nachname>of Belgium</Nachname>
+    <Anmerkungen>King of Belgium</Anmerkungen>
+    <Lived>1835-04-09 - 1909-12-17</Lived>
+    <Title>King</Title>
+    <URL>https://www.wikidata.org/wiki/Q12967</URL>
+    <UUID>160cbb2d-51df-406a-bb82-d3b46f33f98a</UUID>
+    <person_id>person_014</person_id>
+  </row>
+  <row>
+    <id>15</id>
+    <Name>Shlomo</Name>
+    <Nachname>Yitzchaki</Nachname>
+    <Anmerkungen>known as Rashi</Anmerkungen>
+    <Lived></Lived>
+    <Title>Rabbi</Title>
+    <URL>https://www.wikidata.org/wiki/Q26456</URL>
+    <UUID>64453ce5-6239-4485-984c-19a3f62fd023</UUID>
+    <person_id>person_015</person_id>
+  </row>
+  <row>
+    <id>16</id>
+    <Name>Hai</Name>
+    <Nachname>Goan</Nachname>
+    <Anmerkungen>Last Goan of Babylon</Anmerkungen>
+    <Lived></Lived>
+    <Title>Rabbi</Title>
+    <URL></URL>
+    <UUID>78810646-a16f-48ae-9f39-e93a88f7bc91</UUID>
+    <person_id>person_016</person_id>
+  </row>
+  <row>
+    <id>17</id>
+    <Name>Simeon</Name>
+    <Nachname>bar Isaac</Nachname>
+    <Anmerkungen>Uncle of Rashi</Anmerkungen>
+    <Lived>950-1015</Lived>
+    <Title>Rabbi</Title>
+    <URL>https://www.wikidata.org/wiki/Q1276109</URL>
+    <UUID>716dfc71-616e-465a-8a40-679a33590b84</UUID>
+    <person_id>person_017</person_id>
+  </row>
+  <row>
+    <id>18</id>
+    <Name>Gershom</Name>
+    <Nachname>ben Judah</Nachname>
+    <Anmerkungen>Taught in Mainz</Anmerkungen>
+    <Lived>960 - 1040</Lived>
+    <Title>Rabbi</Title>
+    <URL>https://www.wikidata.org/wiki/Q982050</URL>
+    <UUID>8c95fcd6-6954-4ecd-b138-7e15619a1c08</UUID>
+    <person_id>person_018</person_id>
+  </row>
+  <row>
+    <id>19</id>
+    <Name>Yaakov</Name>
+    <Nachname>ben Yakar</Nachname>
+    <Anmerkungen>Taught in Mainz</Anmerkungen>
+    <Lived>990 - 1064</Lived>
+    <Title>Rabbi</Title>
+    <URL>https://www.wikidata.org/wiki/Q1187659</URL>
+    <UUID>43a9454f-44c1-4a95-a1a6-ce203ad3e7e2</UUID>
+    <person_id>person_019</person_id>
+  </row>
+  <row>
+    <id>20</id>
+    <Name>Isaac</Name>
+    <Nachname>ben Eliezer Halevi</Nachname>
+    <Anmerkungen>Taught in Worms</Anmerkungen>
+    <Lived>died 1070</Lived>
+    <Title>Rabbi</Title>
+    <URL>https://www.wikiwand.com/en/Isaac_ben_Eliezer_Halevi</URL>
+    <UUID>cfa405e5-1b84-4766-ae86-86fc5c87eb40</UUID>
+    <person_id>person_020</person_id>
+  </row>
+  <row>
+    <id>21</id>
+    <Name>Eleazar</Name>
+    <Nachname>ben Jehuda</Nachname>
+    <Anmerkungen>Taught in Worms</Anmerkungen>
+    <Lived></Lived>
+    <Title>Rabbi</Title>
+    <URL></URL>
+    <UUID>f1869234-b1d3-4262-af39-f1026a01feef</UUID>
+    <person_id>person_021</person_id>
+  </row>
+  <row>
+    <id>22</id>
+    <Name>Eliakim</Name>
+    <Nachname>ben Meshullam</Nachname>
+    <Anmerkungen>Taught in Speyer</Anmerkungen>
+    <Lived>11th century</Lived>
+    <Title>Rabbi</Title>
+    <URL>https://www.wikidata.org/wiki/Q5360397</URL>
+    <UUID>e3dfe02f-1d87-454b-99f4-8fe1055fe868</UUID>
+    <person_id>person_022</person_id>
+  </row>
+  <row>
+    <id>23</id>
+    <Name>Godfrey</Name>
+    <Nachname>of Bouillon</Nachname>
+    <Anmerkungen>Leader of the First Crusade</Anmerkungen>
+    <Lived>1060 - 1100</Lived>
+    <Title></Title>
+    <URL>https://www.wikidata.org/wiki/Q76721</URL>
+    <UUID>8879fdcc-9a22-461e-8fab-c68db62246e7</UUID>
+    <person_id>person_023</person_id>
+  </row>
+  <row>
+    <id>24</id>
+    <Name>Judah</Name>
+    <Nachname>ben Nathan</Nachname>
+    <Anmerkungen>Rashi&apos;s disciple and son-in-law</Anmerkungen>
+    <Lived></Lived>
+    <Title>Rabbi</Title>
+    <URL>https://www.wikidata.org/wiki/Q6302174</URL>
+    <UUID>1f0e61d0-ac98-42de-8ffb-1daf239a5522</UUID>
+    <person_id>person_024</person_id>
+  </row>
+  <row>
+    <id>25</id>
+    <Name>Meir</Name>
+    <Nachname>ben Samuel</Nachname>
+    <Anmerkungen>Rashi&apos;s disciple and son-in-law</Anmerkungen>
+    <Lived>1060s - 1130s</Lived>
+    <Title>Rabbi</Title>
+    <URL>https://www.wikidata.org/wiki/Q6810277</URL>
+    <UUID>aaea373e-f8ae-41fd-88de-db9cb7cab3fa</UUID>
+    <person_id>person_025</person_id>
+  </row>
+  <row>
+    <id>26</id>
+    <Name>Samuel</Name>
+    <Nachname>ben Meir</Nachname>
+    <Anmerkungen>Known as RaShbaM, Rashi&apos;s grandson.</Anmerkungen>
+    <Lived>1080/5 - 1158</Lived>
+    <Title>Rabbi</Title>
+    <URL>https://www.wikidata.org/wiki/Q722697</URL>
+    <UUID>78503ceb-cb13-4d12-baae-b896926bedf2</UUID>
+    <person_id>person_026</person_id>
+  </row>
+  <row>
+    <id>27</id>
+    <Name>Isaac</Name>
+    <Nachname>ben Meir</Nachname>
+    <Anmerkungen>Known as RIvaM. Rashi&apos;s grandson.</Anmerkungen>
+    <Lived>1090 - 1130</Lived>
+    <Title>Rabbi</Title>
+    <URL>https://www.wikidata.org/wiki/Q7336982</URL>
+    <UUID>53bbf069-c9eb-420a-be45-f19036f66b1c</UUID>
+    <person_id>person_027</person_id>
+  </row>
+  <row>
+    <id>28</id>
+    <Name>Jacob</Name>
+    <Nachname>ben Meir</Nachname>
+    <Anmerkungen>Known as Tam. Rashi&apos;s grandson.</Anmerkungen>
+    <Lived>1100 1171</Lived>
+    <Title>Rabbi</Title>
+    <URL>https://www.wikidata.org/wiki/Q944289</URL>
+    <UUID>0b48daa6-08e0-4af7-a64d-0396381ba168</UUID>
+    <person_id>person_028</person_id>
+  </row>
+  <row>
+    <id>29</id>
+    <Name>Ernö</Name>
+    <Nachname>Berger</Nachname>
+    <Anmerkungen>Coffee trader.</Anmerkungen>
+    <Lived></Lived>
+    <Title></Title>
+    <URL></URL>
+    <UUID>a6da44b8-fa9f-4e8d-a81f-b75306c9069f</UUID>
+    <person_id>person_029</person_id>
+  </row>
+  <row>
+    <id>30</id>
+    <Name>Ignatz</Name>
+    <Nachname>Rath</Nachname>
+    <Anmerkungen>Coffee trader</Anmerkungen>
+    <Lived></Lived>
+    <Title></Title>
+    <URL></URL>
+    <UUID>eba64553-206e-4d9e-a48e-b6e7e3c67279</UUID>
+    <person_id>person_030</person_id>
+  </row>
+  <row>
+    <id>31</id>
+    <Name>Osias H.</Name>
+    <Nachname>Wilf</Nachname>
+    <Anmerkungen>Editor</Anmerkungen>
+    <Lived></Lived>
+    <Title></Title>
+    <URL></URL>
+    <UUID>9ff21f2f-3fd7-4210-8b76-29dacbc8a4ec</UUID>
+    <person_id>person_031</person_id>
+  </row>
+  <row>
+    <id>32</id>
+    <Name>E.</Name>
+    <Nachname>Salat</Nachname>
+    <Anmerkungen>Printer</Anmerkungen>
+    <Lived></Lived>
+    <Title></Title>
+    <URL></URL>
+    <UUID>4d95b0e2-62e2-4715-911b-d004cd670fdf</UUID>
+    <person_id>person_032</person_id>
+  </row>
+  <row>
+    <id>33</id>
+    <Name>U.W.</Name>
+    <Nachname>Salat</Nachname>
+    <Anmerkungen>Printer (deceased)</Anmerkungen>
+    <Lived></Lived>
+    <Title></Title>
+    <URL></URL>
+    <UUID>d54c0eda-d478-477d-a9b7-92b4f5abb6a9</UUID>
+    <person_id>person_033</person_id>
+  </row>
+</root>
