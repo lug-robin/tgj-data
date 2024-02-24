@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
            <titleStmt>
-              <title type="main">Über das Projekt</title>
+              <title type="main">About the project</title>
               <title type="sub">The True Jew</title>
            </titleStmt>
            <publicationStmt>
@@ -16,13 +16,9 @@
     <text>
         <body>
            <p>
-               Scholarly Digital Editions sind eine revolutionäre Art, historische Texte und Dokumente in einem modernen und zugänglichen Format zu präsentieren. 
-               Diese Editionen verwenden digitale Technologien, um eine angereicherte und interaktive Version des Originaltexts darzustellen, die es Lesern ermöglicht, 
-               das Material auf neue Weise zu erkunden und zu nutzen. Sie bieten Wissenschaftlern ein mächtiges Werkzeug für Forschung und Analyse sowie eine Plattform, 
-               um ihre Arbeit einem breiteren Publikum zugänglich zu machen. Darüber hinaus können digitale Editionen eine genauere und zuverlässigere Version eines 
-               Textes bieten, indem sie fortschrittliche Techniken wie Bildverbesserung, Transkription und Textanalyse einsetzen. 
-               Da sich das Feld der digitalen Geisteswissenschaften weiterentwickelt, wird die Entwicklung von Scholarly Digital Editions immer wichtiger und wird 
-               voraussichtlich die Art und Weise revolutionieren, wie wir historische Texte und Dokumente studieren und verstehen.
+               The True Jew is a Newspaper that was published from February to November 1904 in Lviv, at that time part of Poland, now in the Ukraine. The aim of this project is
+               to translate that paper, give more context about the people and places mentioned, and make this source more accessible to those who do not understand the Yiddish
+               language. 
            </p>
         </body>
     </text>
