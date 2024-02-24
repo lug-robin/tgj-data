@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
+  <root>
+    <row>
+      <text>
+        <body>
+          <div><listPerson><person xml:id="pmb5787">
+            <persName>
+              <forename>Jan</forename>
+              <surname>Žáček</surname>
+            </persName>
+            <birth>
+              <date when-iso="1849-05-31">1849-05-31</date>
+              <settlement key="pmb42763">
+                <placeName type="pref">Danzig</placeName>
+                <location><geo>54.3611 18.6897</geo></location>
+              </settlement>
+            </birth>  
+            <death>
+              <date when-iso="1934-10-04">1934-10-04</date>
+              <settlement key="pmb146">
+                <placeName type="pref">Frankfurt am Main</placeName>
+                <location><geo>50.11552 8.68417</geo></location>
+              </settlement>
+            </death>
+            <sex value="male"/>
+            <occupation key="154">Vize Preident of the imperial council</occupation>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q12023385</idno>
+            <listBibl>
+              <bibl type="collections" n="5">legalkraus</bibl>
+              <bibl type="collections" n="10">Karl Kraus 1933: Dritte Walpurgisnacht</bibl>
+              <bibl type="collections" n="12">Fackel</bibl>
+            </listBibl>
+          </person>
+          </listPerson>
+          </div>
+        </body>
+      </text>
+    </row>
   <row>
     <id>1</id>
     <Name>Jan</Name>
