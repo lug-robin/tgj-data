@@ -26,8 +26,6 @@
             <death>
               <date when-iso="1934-10-04">1934-10-04</date>
             </death>
-            <sex value="male"/>
-            <occupation key="154">Vize Preident of the imperial council</occupation>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q12023385</idno>
           </person>
           </listPerson>
@@ -47,6 +45,21 @@
               <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q4477401</idno>
             </person>
             </listPerson>
+            <listPerson><person xml:id="person_003">
+              <persName>
+                <surname>Franz Joseph</surname>
+                <forename>of Habsburg</forename>
+              </persName>
+              <birth><date when-iso="1830-08-18">1830-08-18</date></birth>
+              <death><date when-iso="1916-11-21">1916-11-21</date></death>
+              <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q51056</idno>
+            </person>
+            </listPerson>
+            <listPerson><person xml:id="person004"><persName><surname>Ernest</surname>
+              <forename>von Koerber</forename></persName>
+              <birth><date when-iso="1850-11-06">1850-11-06</date></birth>
+              <death><date when-iso="1919-03-05">1919-03-05</date></death>
+              <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q72242</idno></person></listPerson>
           </div>
         </body>
       </text>
