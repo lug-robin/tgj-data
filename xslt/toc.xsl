@@ -18,7 +18,7 @@
 
 
     <xsl:template match="/">
-        <xsl:variable name="doc_title" select="'Inhaltsverzeichnis'"/>
+        <xsl:variable name="doc_title" select="'Index'"/>
 
 
     
@@ -35,13 +35,13 @@
             <xsl:call-template name="nav_bar"/>
                 <main>
                     <div class="container">
-                        <h1>Inhaltsverzeichnis</h1>
+                        <h1>Index</h1>
                         <table class="table" id="myTable">
                             <thead>
                                 <tr>
                                     <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
-                                    <th scope="col" tabulator-headerFilter="input">Titel</th>
-                                    <th scope="col" tabulator-headerFilter="input">Dateinname</th>
+                                    <th scope="col" tabulator-headerFilter="input">Title</th>
+                                    <th scope="col" tabulator-headerFilter="input">File Name</th>
                                 </tr>
                             </thead>
                             <tbody>
