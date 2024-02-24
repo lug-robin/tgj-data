@@ -27,7 +27,7 @@
                     </td>
                 </tr>
                 </xsl:if>
-                <xsl:if test="./tei:idno[@type='GND']/text()">
+                <xsl:if test="./tei:occupation">
                     <tr>
                         <th>
                             Notes
