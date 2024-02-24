@@ -97,8 +97,8 @@
               <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q76520</idno>
               <occupation>Socialist Member of German Parliament. 
                 Goes by August Bebel</occupation></person></listPerson>
-            <listPerson><person xml:id="person010"><persName><surname>Wilhelm II.</surname>
-              <forename></forename></persName>
+            <listPerson><person xml:id="person010"><persName><forename>Wilhelm II.</forename>
+              <surname></surname></persName>
               <birth><date when-iso="1859-01-27">1859-01-27</date></birth>
               <death><date when-iso="1941-06-04">1941-06-04</date></death>
               <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2677</idno>
