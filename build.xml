@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="tei2html">
+    <property name="index" value="./data/meta/about.xml"/>
+    <property name="target" value="./html"/>
+    <property name="target_xml" value="./html/xml-view"/>
+    <delete>
+        <fileset dir="${target}" includes="*.html"/>
+    </delete>
+    <delete dir="${target}/static-search"/>
+    <xslt in="${index}" out="${target}/index.html" style="./xslt/index.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <xslt style="./xslt/editions.xsl"  basedir="./data/editions" destdir="${target}" includes="*.xml">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <xslt style="./xslt/meta.xsl"  basedir="./data/meta" destdir="${target}" includes="*.xml">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <xslt in="${index}" out="${target}/toc.html" style="./xslt/toc.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <xslt in="${index}" out="${target}/search.html" style="./xslt/search.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <xslt in="./data/imprint.xml" out="${target}/imprint.html" style="./xslt/imprint.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <xslt in="./data/indices/listperson.xml" out="${target}/listperson.html" style="./xslt/listperson.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <xslt in="./data/indices/listplace.xml" out="${target}/listplace.html" style="./xslt/listplace.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <xslt in="./data/indices/listorg.xml" out="${target}/listorg.html" style="./xslt/listorg.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <xslt in="./data/indices/listbibl.xml" out="${target}/listbibl.html" style="./xslt/listbibl.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <xslt in="./data/meta/arche_constants.rdf" out="${target}/arche.rdf" style="./xslt/arche.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <xslt in="./data/indices/listperson.xml" out="${target}/beacon.txt" style="./xslt/beacon.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <replace dir="${target}" value="">
+        <include name="*.html"/>
+        <replacetoken> xmlns=""</replacetoken>
+    </replace>
+    <replace dir="${target}" value="">
+        <include name="*.html"/>
+        <replacetoken>xmlns:tei="http://www.tei-c.org/ns/1.0"</replacetoken>
+    </replace>
+    <replace dir="${target}" value="">
+        <include name="*.html"/>
+        <replacetoken>&lt;br &gt;</replacetoken>
+    </replace>
+    <replace dir="${target}" value="">
+        <include name="*.html"/>
+        <replacetoken>&lt;br&gt;</replacetoken>
+    </replace>
+    <replace dir="${target}" value="&lt;br /&gt;">
+        <include name="*.html"/>
+        <replacetoken>&lt;/br&gt;</replacetoken>
+    </replace>
+    
+    <copy todir="${target}" flatten="true">
+        <fileset dir="./data/">
+            <include name="**/*.xml"/>
+        </fileset>
+    </copy>
+</project>
