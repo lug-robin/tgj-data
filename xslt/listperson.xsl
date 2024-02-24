@@ -44,7 +44,6 @@
                                     <th scope="col" tabulator-headerFilter="input">Surname</th>
                                     <th scope="col" tabulator-headerFilter="input">Name</th>
                                     <th scope="col" tabulator-headerFilter="input">Notes</th>
-                                    <th scope="col" tabulator-headerFiler="input">URL</th>
                                     <th scope="col" tabulator-headerFilter="input">ID</th>
                                 </tr>
                             </thead>
