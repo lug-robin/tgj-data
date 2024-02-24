@@ -1,0 +1,131 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class="h-100">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+      <meta name="mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-title" content="Werkverzeichnis" />
+      <meta name="msapplication-TileColor" content="#ffffff" />
+      <meta name="msapplication-TileImage" content="images/logo.png" />
+      <link rel="icon" type="image/svg+xml" href="images/logo.png" sizes="any" />
+      <link rel="profile" href="http://gmpg.org/xfn/11" />
+      <title>Werkverzeichnis</title>
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" />
+      <link rel="stylesheet" href="css/style.css" type="text/css" />
+      <link rel="stylesheet" href="css/micro-editor.css" type="text/css" />
+   </head>
+   <body class="d-flex flex-column h-100">
+      <header>
+         <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container-fluid"><a class="navbar-brand" href="index.html">The True Jew</a><button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Projekt</a><ul class="dropdown-menu">
+                           <li><a class="dropdown-item" href="about.html">Über das Projekt</a></li>
+                           <li><a class="dropdown-item" href="imprint.html">Impressum</a></li>
+                        </ul>
+                     </li>
+                     <li class="nav-item"><a class="nav-link" href="toc.html">Editionseinheiten</a></li>
+                     <li class="nav-item dropdown disabled"><a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Register</a><ul class="dropdown-menu">
+                           <li><a class="dropdown-item" href="listperson.html">Personen</a></li>
+                           <li><a class="dropdown-item" href="listplace.html">Orte</a></li>
+                           <li><a class="dropdown-item" href="listorg.html">Organisationen</a></li>
+                           <li><a class="dropdown-item" href="listbibl.html">Werke</a></li>
+                        </ul>
+                     </li>
+                     <li class="nav-item"><a title="Suche" class="nav-link" href="search.html">Suche</a></li>
+                  </ul>
+               </div>
+            </div>
+         </nav>
+      </header>
+      <main>
+         <div class="container">
+            <h1>Werkverzeichnis</h1>
+            <div id="map"></div>
+            <table class="table" id="myTable">
+               <thead>
+                  <tr>
+                     <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
+                     <th scope="col" tabulator-headerFilter="input">Ortsname</th>
+                     <th scope="col" tabulator-headerFilter="input">Lat</th>
+                     <th scope="col" tabulator-headerFilter="input">Long</th>
+                     <th scope="col" tabulator-headerFilter="input">ID</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td><a href="pmb50496.html"><i class="bi bi-link-45deg"></i></a></td>
+                     <td>Hintere Zollamtsstraße</td>
+                     <td>48.211869</td>
+                     <td>16.387333</td>
+                     <td>pmb50496</td>
+                  </tr>
+                  <tr>
+                     <td><a href="pmb50653.html"><i class="bi bi-link-45deg"></i></a></td>
+                     <td>Strozzigasse</td>
+                     <td>48.20702</td>
+                     <td>16.349371</td>
+                     <td>pmb50653</td>
+                  </tr>
+                  <tr>
+                     <td><a href="pmb50.html"><i class="bi bi-link-45deg"></i></a></td>
+                     <td>Wien</td>
+                     <td>48,2066</td>
+                     <td>16,37341</td>
+                     <td>pmb50</td>
+                  </tr>
+                  <tr>
+                     <td><a href="pmb501.html"><i class="bi bi-link-45deg"></i></a></td>
+                     <td>Kärntnerring</td>
+                     <td>48,201874800905</td>
+                     <td>16,371985203093</td>
+                     <td>pmb501</td>
+                  </tr>
+                  <tr>
+                     <td><a href="pmb34.html"><i class="bi bi-link-45deg"></i></a></td>
+                     <td>Café Griensteidl</td>
+                     <td>48,208258</td>
+                     <td>16,366111</td>
+                     <td>pmb34</td>
+                  </tr>
+                  <tr>
+                     <td><a href="pmb182.html"><i class="bi bi-link-45deg"></i></a></td>
+                     <td>Paris</td>
+                     <td>48,85341</td>
+                     <td>2,3488</td>
+                     <td>pmb182</td>
+                  </tr>
+               </tbody>
+            </table>
+            <h4>Download Table</h4>
+            <div class="button-group"><button type="button" class="btn btn-outline-secondary" id="download-csv" title="Download CSV"><i class="bi bi-filetype-csv"></i><span class="visually-hidden">Download CSV</span></button><button type="button" class="btn btn-outline-secondary" id="download-json" title="Download JSON"><i class="bi bi-filetype-json"></i><span class="visually-hidden">Download JSON</span></button><button type="button" class="btn btn-outline-secondary" id="download-html" title="Download HTML"><i class="bi bi-filetype-html"></i><span class="visually-hidden">Download HTML</span></button></div>
+         </div>
+      </main>
+      <footer class="footer mt-auto py-3 bg-body-tertiary">
+         <div class="float-end me-3"><a href="https://github.com/lug-robin/ttj-data"><i class="bi bi-github"></i></a></div>
+      </footer><script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script><script>
+            function addDarkmodeWidget() {
+                new Darkmode().showWidget();
+            }
+            window.addEventListener('load', addDarkmodeWidget);
+        </script><link href="https://unpkg.com/tabulator-tables@5.5.2/dist/css/tabulator.min.css" rel="stylesheet"></link>
+      <link href="https://unpkg.com/tabulator-tables@5.5.0/dist/css/tabulator_bootstrap5.min.css" rel="stylesheet"></link><script type="text/javascript" src="https://unpkg.com/tabulator-tables@5.5.2/dist/js/tabulator.min.js"></script><script src="tabulator-js/config.js"></script><script>
+            var table = new Tabulator("#myTable", config);
+            //trigger download of data.csv file
+            document.getElementById("download-csv").addEventListener("click", function(){
+            table.download("csv", "data.csv");
+            });
+            
+            //trigger download of data.json file
+            document.getElementById("download-json").addEventListener("click", function(){
+            table.download("json", "data.json");
+            });
+            
+            //trigger download of data.html file
+            document.getElementById("download-html").addEventListener("click", function(){
+            table.download("html", "data.html", {style:true});
+            });
+        </script></body>
+</html>
