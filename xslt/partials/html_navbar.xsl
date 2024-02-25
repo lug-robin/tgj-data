@@ -21,9 +21,6 @@
                                     <li>
                                         <a class="dropdown-item" href="about.html">About the Project</a>
                                     </li>
-                                    <li>
-                                        <a class="dropdown-item" href="imprint.html">Impressum</a>
-                                    </li>
                                 </ul>
                             </li>
 
@@ -39,12 +36,6 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="listplace.html">Places</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="listorg.html">Organs</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="listbibl.html">Works</a>
                                     </li>
                                 </ul>
                             </li>

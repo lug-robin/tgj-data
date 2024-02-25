@@ -39,12 +39,6 @@
                 <li class="dropdown-item">
                     <annotation-slider opt="plc"></annotation-slider>
                 </li>
-                <li class="dropdown-item">
-                    <annotation-slider opt="wrk"></annotation-slider>
-                </li>
-                <li class="dropdown-item">
-                    <annotation-slider opt="org"></annotation-slider>
-                </li>
             </ul>                                                    
         </div>
         
