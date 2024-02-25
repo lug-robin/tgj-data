@@ -8,7 +8,7 @@
             <tbody>
                 <tr>
                     <th>
-                        Ortsname
+                        Place
                     </th>
                     <td>
                         <xsl:choose>
@@ -44,7 +44,7 @@
                 <xsl:if test="./tei:country">
                 <tr>
                     <th>
-                        Land
+                        Country
                     </th>
                     <td>
                         <xsl:value-of select="./tei:country"/>
@@ -54,7 +54,7 @@
                 <xsl:if test="./tei:settlement">
                 <tr>
                     <th>
-                        Ortstyp
+                        Type of Place
                     </th>
                     <td>
                         <xsl:value-of select="./tei:settlement/@type"/>, <xsl:value-of select="./tei:desc[@type='entity_type']"/>
