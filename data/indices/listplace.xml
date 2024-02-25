@@ -27,8 +27,18 @@
                             <placeName key="place067">Poland</placeName>
                             <geo>52.2159335 19.134422</geo>
                         </location>
+                        <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q983875</idno>
+                    </place>
+                    <place xml:id="place067">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Poland</placeName>
+                        <desc type="entity_type">Country</desc>
+                        <location type="coords">
+                            <geo>52.2159335 19.134422</geo>
+                            <note>Test Note</note>
+                        </location>
                         <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q36?wprov=srpw1_0</idno>
                     </place>
+                       
                 </listPlace>
                 
     <listPlace>
