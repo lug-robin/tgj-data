@@ -87,7 +87,7 @@
                        <geo>48.2083537 16.3725042</geo>
                    </location>     
                     <location type="located_in_place">
-                        <placeName key="place067">Austria</placeName>
+                        <placeName key="place025">Austria</placeName>
                     </location>
                         <note></note>
                     </place>
@@ -171,6 +171,128 @@
                         <note>Also called Gomel</note>
                     </place>
                     
+                    <place xml:id="place017">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Bessabaria</placeName>
+                        <location type="coords">
+                            <geo>47 29</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place018">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Petersburg</placeName>
+                        <location type="coords">
+                            <geo>59.938732 30.316229</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place014">Russia</placeName>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place019">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Japan</placeName>
+                        <location type="coords">
+                            <geo>36.5748441 139.2394179</geo>
+                        </location>
+                        <note>Also called Gomel</note>
+                    </place>                   
+                    
+                    <place xml:id="place21">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">China</placeName>
+                        <location type="coords">
+                            <geo>35.000074 104.999927</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place022">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Korea</placeName>
+                        <location type="coords">
+                            <geo>36.638392 127.6961188</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place023">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Pacific Ocean</placeName>
+                        <location type="coords">
+                            <geo>-0.703107 -120.9375</geo>
+                        </location>
+                        <note>Called Silent Ocean in the Source.</note>
+                    </place>
+                    
+                    <place xml:id="place024">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Asia</placeName>
+                        <location type="coords">
+                            <geo>51.2086975 89.2343748</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place026">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Bohemia</placeName>
+                        <location type="coords">
+                            <geo>51.128251 10.6363712</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place027">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Moravia</placeName>
+                        <location type="coords">
+                            <geo>50.5250765 7.9219061</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place028">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Manchuria</placeName>
+                        <location type="coords">
+                            <geo>-9.2079909 -76.1651529</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place029">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Rzeszów</placeName>
+                        <location type="coords">
+                            <geo>50.0374531 22.0047174</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place030">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Budapest</placeName>
+                        <location type="coords">
+                            <geo>47.4978789 19.0402383</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place031">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Berlin</placeName>
+                        <location type="coords">
+                            <geo>52.5170365 13.3888599</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place032">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Karlsruhe</placeName>
+                        <location type="coords">
+                            <geo>49.0068705 8.4034195</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place033">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Warsaw</placeName>
+                        <location type="coords">
+                            <geo>52.2319581 21.0067249</geo>
+                        </location>
+                        <note></note>
+                    </place>
                 </listPlace>
             </div>
         </body>
