@@ -22,11 +22,7 @@
   <desc type="entity_type">city</desc>
   <desc type="entity_type_id">26</desc>
 <location type="coords">
-    <geo>50.0544952 16.387333</geo>
-</location>
-<location type="located_in_place">
-  <placeName key="pmb53">III., Landstraße</placeName>
-  <geo>48.19811 16.39482</geo>
+    <geo>50.0544952 22.501379</geo>
 </location>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
   <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
