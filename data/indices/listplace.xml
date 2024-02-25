@@ -258,8 +258,8 @@
                             <geo>-9.2079909 -76.1651529</geo>
                         </location>
                         <location type="located_in_place">
-                            <placeName key="place021">China</placeName>
-                            <placeName key="place024">Asia</placeName>
+                            <placeName key="place021">China</placeName></location>
+                            <location><placeName key="place024">Asia</placeName>
                         </location>
                         <note></note>
                     </place>
@@ -554,9 +554,9 @@
                             <geo>49.842922 24.0209546</geo>
                         </location>
                         <location type="located_in_place">
-                            <placeName key="place002">Lviv</placeName>
-                            <placeName key="place067">Poland</placeName>   
-                        </location>
+                            <placeName key="place002">Lviv</placeName></location>
+                           <location> <placeName key="place067">Poland</placeName></location>   
+                        
                         <note>Lviv, Hrodototska St 35</note>
                     </place>
                     <place xml:id="place064">
