@@ -259,7 +259,7 @@
                         </location>
                         <location type="located_in_place">
                             <placeName key="place021">China</placeName></location>
-                            <location><placeName key="place024">Asia</placeName>
+                            <location type="located_in_place"><placeName key="place024">Asia</placeName>
                         </location>
                         <note></note>
                     </place>
