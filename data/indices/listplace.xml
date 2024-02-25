@@ -53,14 +53,46 @@
                             <geo>52.2159335 19.134422</geo>
                         </location>
                     </place>
-                    <place>
+                    <place xml:id="place003">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Sonnengasse 27</placeName>
                     <location type="coords"><geo>50.4608794 30.5901523</geo>
                     <note>Lviv, Panteleimona Kulisha St</note></location>
                     <location type="located_in_place">
                         <placeName key="place067">Poland</placeName>
                         <geo>52.2159335 19.134422</geo>
+                    </location>
+                    </place>
+                    
+                    <place xml:id="place005">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Gaza</placeName>
+                    <location type="coords">
+                        <geo>31.4432234 34.360007</geo>
+                    </location>
+                    <note></note>
+                    </place>
+                    
+                    <place xml:id="place006">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Galicia</placeName>
+                    <location type="coords">
+                        <geo>49.83 24.0142</geo>
+                    </location>                    
+                    <location type="located_in_place">
+                        <placeName key="place067">Poland</placeName>
+                        <geo>52.2159335 19.134422</geo>
                     </location></place>
+                    
+                    <place xml:id="place007">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Vienna</placeName>
+                   <location>
+                       <geo>48.2083537 16.3725042</geo>
+                   </location>     
+                    <location type="located_in_place">
+                        <placeName key="place067">Poland</placeName>
+                        <geo>52.2159335 19.134422</geo>
+                    </location>
+                        <note></note>
+                    </place>
+                    
                 </listPlace>
             </div>
         </body>
