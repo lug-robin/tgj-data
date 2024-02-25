@@ -75,7 +75,7 @@ var editor = new LoadEditor({
           css_class: "wrk",
           chg_citation: "citation-url",
           hide: {
-            hidden: false,
+            hidden: true,
             class: "wrk .entity",
           },
           features: {
@@ -173,7 +173,7 @@ var editor = new LoadEditor({
             percent: "100",
           },
           hide: {
-            hidden: true,
+            hidden: false,
             class_to_hide: "facsimiles",
             class_to_show: "text",
             class_parent: "transcript",
