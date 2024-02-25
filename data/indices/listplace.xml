@@ -19,13 +19,21 @@
        <place xml:id="place060">
   <placeName>Przeworsk</placeName>
   <placeName type="person_namensvariante_nachname-komma-vorname">Przeworsk</placeName>
-  <desc type="entity_type">City</desc>
+  <desc type="entity_type">city</desc>
   <desc type="entity_type_id">26</desc>
 <location type="coords">
-    <geo>50.0544952 22.501379</geo>
+    <geo>50.0544952 16.387333</geo>
 </location>
-           <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q983875</idno>
-           
+<location type="located_in_place">
+  <placeName key="pmb53">III., Landstraße</placeName>
+  <geo>48.19811 16.39482</geo>
+</location>
+  <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/50496/</idno>
+  <idno type="URL" subtype="legalkraus">https://kraus.wienbibliothek.at/register/orte/pmb50496</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+<noteGrp><note target="D_000002-003-000.xml" type="mentions">2.3 Privatanklage von Karl Kraus gegen Reichspost (verantw. Red. Karl Schiffleitner) wegen Verweigerung einer Berichtigung</note></noteGrp></place>
        <place xml:id="pmb50653">
   <placeName>Strozzigasse</placeName>
   <desc type="entity_type">Straße (K.STR)</desc>
