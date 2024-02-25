@@ -24,11 +24,10 @@
                 <xsl:if test="./tei:location[@type='located_in_place']">
                     <tr>
                         <th>
-                            Teil von
+                            Part of
                         </th>
                         <td>
-                            <ul>
-                                <xsl:for-each select="./tei:location[@type='located_in_place']">
+                            <xsl:for-each select="./tei:location[@type='located_in_place']">
                                     
                                     <li>
                                         <a href="{./tei:placeName/@key}.html">
@@ -37,7 +36,6 @@
                                     </li>
                                     
                                 </xsl:for-each>
-                            </ul>
                         </td>
                     </tr>
                 </xsl:if> 
