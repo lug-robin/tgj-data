@@ -29,13 +29,10 @@
                         <td>
                             <xsl:for-each select="./tei:location[@type='located_in_place']">
                                     
-                                    <li>
                                         <a href="{./tei:placeName/@key}.html">
                                             <xsl:value-of select="./tei:placeName"/>
-                                        </a>            
-                                    </li>
-                                    
-                                </xsl:for-each>
+                                        </a>                                                
+                            </xsl:for-each>
                         </td>
                     </tr>
                 </xsl:if> 
@@ -48,6 +45,16 @@
                         <xsl:value-of select="./tei:country"/>
                     </td>
                 </tr>
+                </xsl:if>
+                <xsl:if test="./tei:note">
+                    <tr>
+                        <th>
+                            Notes
+                        </th>
+                        <td>
+                            <xsl:value-of select="./tei:note"/>
+                        </td>
+                    </tr>  
                 </xsl:if>
                 <xsl:if test="./tei:settlement">
                 <tr>
@@ -116,14 +123,7 @@
                 </tr>
                 </xsl:if>
                 <xsl:if test="./tei:note">
-                <tr>
-                    <th>
-                        Notes
-                    </th>
-                    <td>
-                        <xsl:value-of select="./tei:note"/>
-                    </td>
-                </tr>    
+  
                 </xsl:if>
                 <xsl:if test="./tei:listEvent">
                 <tr>
