@@ -46,16 +46,7 @@
                     </td>
                 </tr>
                 </xsl:if>
-                <xsl:if test="./tei:note">
-                    <tr>
-                        <th>
-                            Notes
-                        </th>
-                        <td>
-                            <xsl:value-of select="./tei:note"/>
-                        </td>
-                    </tr>  
-                </xsl:if>
+                
                 <xsl:if test="./tei:settlement">
                 <tr>
                     <th>
@@ -124,6 +115,16 @@
                 </xsl:if>
                 <xsl:if test="./tei:note">
   
+                </xsl:if>
+                <xsl:if test="./tei:note">
+                    <tr>
+                        <th>
+                            Notes
+                        </th>
+                        <td>
+                            <xsl:value-of select="./tei:note"/>
+                        </td>
+                    </tr>  
                 </xsl:if>
                 <xsl:if test="./tei:listEvent">
                 <tr>
