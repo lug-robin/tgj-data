@@ -17,7 +17,6 @@
             <div>
    <listPlace>
        <place xml:id="place060">
-  <placeName>Przeworsk</placeName>
   <placeName type="person_namensvariante_nachname-komma-vorname">Przeworsk</placeName>
   <desc type="entity_type">city</desc>
   <desc type="entity_type_id">26</desc>
