@@ -36,7 +36,7 @@
                             <geo>52.2159335 19.134422</geo>
                             <note>Test Note</note>
                         </location>
-                        <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q36?wprov=srpw1_0</idno>
+                        <idno type="WIKIDATA">https://www.wikidata.org/wiki/Q36?wprov=srpw1_0</idno>
                     </place>
                        
                 </listPlace>
