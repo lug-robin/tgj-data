@@ -198,7 +198,7 @@
                         <note>Also called Gomel</note>
                     </place>                   
                     
-                    <place xml:id="place021">
+                    <place xml:id="place21">
                         <placeName type="person_namensvariante_nachname-komma-vorname">China</placeName>
                         <location type="coords">
                             <geo>35.000074 104.999927</geo>
@@ -488,7 +488,7 @@
                     <place xml:id="place064">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Triest</placeName>
                         <location type="coords">
-                            <geo>52.215933 19.134422</geo>
+                            <geo>13.6989939 -89.1914249</geo>
                         </location>
                         <note></note>
                     </place>
