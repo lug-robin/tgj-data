@@ -29,9 +29,9 @@
                         <td>
                             <xsl:for-each select="./tei:location[@type='located_in_place']">
                                     
-                                        <a href="{./tei:placeName/@key}.html">
+                                        <li><a href="{./tei:placeName/@key}.html">
                                             <xsl:value-of select="./tei:placeName"/>
-                                        </a>                                                
+                                        </a> </li>                                               
                             </xsl:for-each>
                         </td>
                     </tr>
