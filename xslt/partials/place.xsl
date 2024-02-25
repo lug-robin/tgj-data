@@ -121,7 +121,7 @@
                         Notes
                     </th>
                     <td>
-                        <xsl:value-of select="./tei:notes"/>
+                        <xsl:value-of select="./tei:note"/>
                     </td>
                 </tr>    
                 </xsl:if>
