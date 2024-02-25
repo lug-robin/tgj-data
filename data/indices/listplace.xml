@@ -83,14 +83,92 @@
                     
                     <place xml:id="place007">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Vienna</placeName>
-                   <location>
+                   <location type="coords">
                        <geo>48.2083537 16.3725042</geo>
                    </location>     
                     <location type="located_in_place">
-                        <placeName key="place067">Poland</placeName>
-                        <geo>52.2159335 19.134422</geo>
+                        <placeName key="place067">Austria</placeName>
                     </location>
                         <note></note>
+                    </place>
+                    
+                    <place xml:id="place025">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Austria</placeName>
+                        <location type="coords">
+                            <geo>47.59397 14.12456</geo>
+                        </location>
+                    </place>
+                    
+                    <place xml:id="place008">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">America</placeName>
+                        <location type="coords">
+                            <geo>39.7837304 -100.445882</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place009">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Hungary</placeName>
+                        <location type="coords">
+                            <geo>47.1817585 19.5060937</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place010">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Germany</placeName>
+                        <location type="coords">
+                            <geo>51.1638175 10.4478313</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place011">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">England</placeName>
+                        <location type="coords">
+                            <geo>52.5310214 -1.2649062</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place012">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Babylon</placeName>
+                        <location type="coords">
+                            <geo>32.5422222 44.42111111111111</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place013">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Egypt</placeName>
+                        <location type="coords">
+                            <geo>26.2540493 29.2675469</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place014">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Russia</placeName>
+                        <location type="coords">
+                            <geo>64.6863136 97.7453061</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place015">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Chișinău</placeName>
+                        <location type="coords">
+                            <geo>47.0245117 28.8322923</geo>
+                        </location>
+                        <note></note>
+                    </place>
+                    
+                    <place xml:id="place016">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Hoymel</placeName>
+                        <location type="coords">
+                            <geo>52.4238936 31.0131698</geo>
+                        </location>
+                        <note>Also called Gomel</note>
                     </place>
                     
                 </listPlace>
