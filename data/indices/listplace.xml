@@ -55,7 +55,7 @@
                     </place>
                     <place xml:id="place003">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Sonnengasse 27</placeName>
-                    <location type="coords"><geo>50.4608794 30.5901523</geo>
+                        <location type="coords"><geo>49.84777348999111 24.024325540895227</geo>
                     <note>Lviv, Panteleimona Kulisha St</note></location>
                     <location type="located_in_place">
                         <placeName key="place067">Poland</placeName>
