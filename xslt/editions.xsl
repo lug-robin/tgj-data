@@ -140,7 +140,17 @@
             </body>
         </html>
     </xsl:template>
-
+    <xsl:template match="tei:ref">
+        <xsl:variable name="source">
+            <xsl:value-of select="./@source"/>
+        </xsl:variable>
+        <a href="{$source}">
+            <xsl:apply-templates/>
+        </a>
+        <p id="{local:makeId(.)}" class="yes-index">
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
     <xsl:template match="tei:p">
         <p id="{local:makeId(.)}" class="yes-index">
             <xsl:apply-templates/>
