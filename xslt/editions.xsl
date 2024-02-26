@@ -144,7 +144,7 @@
         <xsl:variable name="source">
             <xsl:value-of select="./@source"/>
         </xsl:variable>
-        <a href="{$source}">
+        <a href="{$source}" target="_blank">
             <xsl:apply-templates/>
         </a>
     </xsl:template>
