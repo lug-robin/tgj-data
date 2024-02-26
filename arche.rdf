@@ -26,9 +26,9 @@
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
       
       
-      <acdh:hasTitle xml:lang="de">The True Jew</acdh:hasTitle>
+      <acdh:hasTitle xml:lang="de">דער אַמת׳ר יוּד - The Geniune Jew</acdh:hasTitle>
       
-      <acdh:hasDescription xml:lang="de">Projektbeschreibung</acdh:hasDescription>
+      <acdh:hasDescription xml:lang="de">Project Description</acdh:hasDescription>
       
       <acdh:hasContact rdf:resource="xxx"></acdh:hasContact>
       
@@ -111,9 +111,9 @@
       
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/ttj-data"></acdh:isPartOf>
       
-      <acdh:hasTitle xml:lang="de">Editionen</acdh:hasTitle>Editionen
+      <acdh:hasTitle xml:lang="de">Editions</acdh:hasTitle>Editions
       
-      <acdh:hasDescription xml:lang="de">XML/TEI Dokumente </acdh:hasDescription>XML/TEI Dokumente 
+      <acdh:hasDescription xml:lang="de">XML/TEI Documents </acdh:hasDescription>XML/TEI Documents 
       
       <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
       </acdh:Collection>
