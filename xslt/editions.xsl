@@ -147,9 +147,7 @@
         <a href="{$source}">
             <xsl:apply-templates/>
         </a>
-        <p id="{local:makeId(.)}" class="yes-index">
-            <xsl:apply-templates/>
-        </p>
+
     </xsl:template>
     <xsl:template match="tei:p">
         <p id="{local:makeId(.)}" class="yes-index">
