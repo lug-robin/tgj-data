@@ -601,6 +601,7 @@
                May the memory of the righteous be a blessing!
             </p>
          </div>
+         <lb/>
          <div type="article" style="two columns" n="12">
             <head>
                Statistical information.
@@ -611,13 +612,14 @@
                6 million and 268,000 people. - The <rs type="place">Big Ocean</rs> (<rs type="place">Pacific</rs>) covers 175 million square kilometres and measures 9430 metres in depth. The <rs type="plcae">Atlantic Ocean</rs> covers 
                89 million square kilometres and measures 8340 metres in depth, and the <rs type="place">Indian Ocean</rs> covers 74 million square kilometres and measures 6300 metres in depth, the <rs type="place">Arctic Ocean</rs> 
                covers 33 million square kilometres and measures 4840 metres in depth. 
+               <lb/>
             </p>
          </div>
          <div type="ads" style="two columns" n="1">
             <div type="Ad" n="1">
                <head>
                <lb/>Coffee!
-               <lb/><hi rend="italic>">ll natural!</hi>
+               <lb/><hi rend="italic>">All natural!</hi>
             </head>
             <p>
                Also less than 5 kg, payment on delivery, prepaid, postage.
@@ -636,6 +638,7 @@
                   <cell role="data">Gold <rs type="place">Java</rs>   "   "   1,45 "</cell>
                </row>
             </table>
+               <lb/>
             <p>
                Free samle and payment on delivery
             </p>
@@ -643,6 +646,7 @@
                <rs type="person">Berger Ernö</rs>, <rs type="place">Fuime</rs>.
             </p>
             </div>
+            <lb/>
             <div type="Ad" n="2">
                <head>
                   The sugar refinery of <rs type="place">Przeworsk</rs>
@@ -651,6 +655,7 @@
                   Has immensely scaled up its sugar production for 1904 and recommends every variety to extremely low prices.
                </p>
             </div>
+            <lb/>
             <div type="Ad" n="3">
                <head>
                   Coffee
@@ -674,6 +679,7 @@
                </p>
             </div>   
          </div>
+         <lb/>
          <div type="footer" style="one columns" n="1">
             <p>
             <foreign xml:lang="de">
