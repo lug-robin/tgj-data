@@ -20,8 +20,7 @@
                         <placeName type="person_namensvariante_nachname-komma-vorname">Austria-Hungary</placeName>
                         <desc type="entity_type">Country</desc>
                         <location type="coords">
-                            <geo></geo>
-                            <note></note>
+                            <geo>48.2 16.35</geo>
                         </location>
                     </place>
                     <place xml:id="place002">
@@ -47,7 +46,6 @@
                         <location type="coords">
                             <geo>40.741895 -73.989308</geo>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place005">
@@ -55,7 +53,6 @@
                     <location type="coords">
                         <geo>31.4432234 34.360007</geo>
                     </location>
-                    <note></note>
                     </place>
                     
                     <place xml:id="place006">
@@ -73,7 +70,6 @@
                    <location type="coords">
                        <geo>48.2083537 16.3725042</geo>
                    </location>     
-                        <note></note>
                     </place>
                     
                     <place xml:id="place025">
@@ -88,7 +84,6 @@
                         <location type="coords">
                             <geo>39.7837304 -100.445882</geo>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place009">
@@ -96,7 +91,6 @@
                         <location type="coords">
                             <geo>47.1817585 19.5060937</geo>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place010">
@@ -104,7 +98,6 @@
                         <location type="coords">
                             <geo>51.1638175 10.4478313</geo>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place011">
@@ -112,15 +105,13 @@
                         <location type="coords">
                             <geo>52.5310214 -1.2649062</geo>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place012">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Babylon</placeName>
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Babylonia</placeName>
                         <location type="coords">
                             <geo>32.5422222 44.42111111111111</geo>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place013">
@@ -128,7 +119,6 @@
                         <location type="coords">
                             <geo>26.2540493 29.2675469</geo>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place014">
@@ -136,7 +126,6 @@
                         <location type="coords">
                             <geo>64.6863136 97.7453061</geo>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place015">
@@ -181,7 +170,6 @@
                         <location type="located_in_place">
                             <placeName key="place014">Russia</placeName>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place019">
@@ -189,7 +177,6 @@
                         <location type="coords">
                             <geo>36.5748441 139.2394179</geo>
                         </location>
-                        <note></note>
                     </place>     
                     <place xml:id="place020">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Belarus</placeName>
@@ -203,7 +190,6 @@
                         <location type="coords">
                             <geo>35.000074 104.999927</geo>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place022">
@@ -211,7 +197,6 @@
                         <location type="coords">
                             <geo>36.638392 127.6961188</geo>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place023">
@@ -227,7 +212,6 @@
                         <location type="coords">
                             <geo>51.2086975 89.2343748</geo>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place026">
@@ -238,7 +222,6 @@
                         <location type="located_in_place">
                             <placeName key="place001">Austria-Hungary</placeName>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place027">
@@ -249,7 +232,6 @@
                         <location type="located_in_place">
                             <placeName key="place001">Austria-Hungary</placeName>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place028">
@@ -261,7 +243,6 @@
                             <placeName key="place021">China</placeName></location>
                             <location type="located_in_place"><placeName key="place024">Asia</placeName>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place029">
@@ -272,7 +253,6 @@
                         <location type="located_in_place">
                             <placeName key="place067">Poland</placeName>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place030">
@@ -283,7 +263,6 @@
                         <location type="located_in_place">
                               <placeName key="place001">Austria Hungary</placeName>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place031">
@@ -294,7 +273,6 @@
                         <location type="located_in_place">
                             <placeName key="place010">Germany</placeName>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place032">
@@ -305,7 +283,6 @@
                         <location type="located_in_place">
                             <placeName key="place010">Germany</placeName>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place033">
@@ -316,14 +293,12 @@
                         <location type="located_in_place">
                             <placeName key="place067">Poland</placeName>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place034">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Israel</placeName>
                         <location type="coords">
                             <geo>30.8124247 34.8594762</geo>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place035">
@@ -334,7 +309,6 @@
                         <location type="located_in_place">
                             <placeName key="place068">Romania</placeName>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place036">
@@ -345,7 +319,6 @@
                         <location type="located_in_place">
                             <placeName key="place011">England</placeName>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place037">
@@ -356,7 +329,6 @@
                         <location type="located_in_place">
                             <placeName key="place069">Norway</placeName>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place038">
@@ -367,7 +339,6 @@
                         <location type="located_in_place">
                             <placeName key="place068">Romania</placeName>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place039">
@@ -378,7 +349,6 @@
                         <location type="located_in_place">
                             <placeName key="place040">Italy</placeName>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place040">
@@ -386,7 +356,6 @@
                         <location type="coords">
                             <geo>42.6384261 12.674297</geo>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place041">
@@ -397,7 +366,6 @@
                         <location type="located_in_place">
                             <placeName key="place043">Spain</placeName>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place042">
@@ -405,7 +373,6 @@
                         <location type="coords">
                             <geo>50.6402809 4.6667145</geo>
                         </location>
-                        <note></note>
                     </place>
                     
                     <place xml:id="place043">
@@ -413,14 +380,12 @@
                         <location type="coords">
                             <geo>48.2971626 4.0746257</geo>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place045">
                         <placeName type="person_namensvariante_nachname-komma-vorname">France</placeName>
                         <location type="coords">
                             <geo>46.603354 1.8883335</geo>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place046">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Mainz</placeName>
@@ -430,7 +395,6 @@
                         <location type="located_in_place">
                             <placeName key="place010">Germany</placeName>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place047">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Worms</placeName>
@@ -440,7 +404,6 @@
                         <location type="located_in_place">
                             <placeName key="place010">Germany</placeName>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place048">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Speyer</placeName>
@@ -450,56 +413,48 @@
                         <location type="located_in_place">
                             <placeName key="place010">Germany</placeName>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place050">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Jerusalem</placeName>
                         <location type="coords">
                             <geo>31.7788242 35.2257626</geo>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place051">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Australia</placeName>
                         <location type="coords">
                             <geo>-24.7761086 134.755</geo>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place052">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Indian Ocean</placeName>
                         <location type="coords">
                             <geo>&apos;-9.9999999 69.9999999</geo>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place053">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Artic Ocean</placeName>
                         <location type="coords">
                             <geo>83 -170</geo>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place054">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Santos</placeName>
                         <location type="coords">
                             <geo>&apos;-23.9335988 -46.3286399</geo>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place055">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Puerto Rico</placeName>
                         <location type="coords">
                             <geo>18.2247706 -66.4858295</geo>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place056">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Cuba</placeName>
                         <location type="coords">
                             <geo>23.0131338 -80.8328748</geo>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place057">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Sri Lanka</placeName>
@@ -513,21 +468,18 @@
                         <location type="coords">
                             <geo>&apos;-6.7115076 110.6337137</geo>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place059">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Fuime</placeName>
                         <location type="coords">
                             <geo>45.3530556 14.442777777777778</geo>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place061">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Ukraine</placeName>
                         <location type="coords">
                             <geo>49 32</geo>
                         </location>
-                        <note>Was not called Ukraine at the time.</note>
                     </place>
                     <place xml:id="place060">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Przeworsk</placeName>
@@ -537,16 +489,13 @@
                         </location>
                         <location type="located_in_place">
                             <placeName key="place067">Poland</placeName>
-                            <geo>52.2159335 19.134422</geo>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place062">
                         <placeName type="person_namensvariante_nachname-komma-vorname">San Salvador</placeName>
                         <location type="coords">
                             <geo>13.6989939 -89.1914249</geo>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place065">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Kasimirgasse</placeName>
@@ -556,7 +505,6 @@
                         <location type="located_in_place">
                             <placeName key="place002">Lviv</placeName></location>
                            <location> <placeName key="place067">Poland</placeName></location>   
-                        
                         <note>Lviv, Hrodototska St 35</note>
                     </place>
                     <place xml:id="place064">
@@ -564,14 +512,12 @@
                         <location type="coords">
                             <geo>13.6989939 -89.1914249</geo>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place067">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Poland</placeName>
                         <desc type="entity_type">Country</desc>
                         <location type="coords">
                             <geo>52.2159335 19.134422</geo>
-                            <note></note>
                         </location>
                     </place>
                     <place xml:id="place068">
@@ -579,14 +525,12 @@
                         <location type="coords">
                             <geo>46 25</geo>
                         </location>
-                        <note></note>
                     </place>
                     <place xml:id="place069">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Norway</placeName>
                         <location type="coords">
                             <geo>61 8</geo>
                         </location>
-                        <note></note>
                     </place>
                 </listPlace>
             </div>
