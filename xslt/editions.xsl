@@ -145,6 +145,7 @@
             <xsl:value-of select="./@source"/>
         </xsl:variable>
         <a href="{$source}">
+            <xsl:apply-templates/>
         </a>
     </xsl:template>
     <xsl:template match="tei:p">
