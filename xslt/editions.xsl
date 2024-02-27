@@ -162,11 +162,11 @@
         <xsl:apply-templates />
     </xsl:template>
     
-    <xsl:template match="tei:hi[@ref='italic']">
+    <xsl:template match="tei:hi[@rend='italic']">
         <em><xsl:apply-templates /></em>
     </xsl:template>
     
-    <xsl:template match="tei:hi[@ref='bold']">
+    <xsl:template match="tei:hi[@rend='bold']">
         <strong><xsl:apply-templates /></strong>
     </xsl:template>
     
