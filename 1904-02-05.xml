@@ -93,7 +93,7 @@
                The Geniune jew
             </head>
             <p>Organ for yiddish matters</p>
-            <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
+            <p><foreign xml:lang="de">DER GENIUNE JUDE</foreign></p>
             <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
          <div type="editorial" n="1" style="two columns">
@@ -151,25 +151,28 @@
          <pb/>
          <div type="editorial" style="text-align:center" n="3"> 
             <p>
-               Every edition of our newspaper contains
+               Every edition of our newspaper contains:
+            </p>
             <cb n="1"/>
+            <p>
             <seg style="two columns">
                <lb/>a) editorial, an article about all matters, which are relevant to the Jewish people.
                <lb/>b) letters and reports about the different cities and countries about the situations of our borthers and everything concerning them.
                <lb/>g) Political News, short, but precise information about all political events in the whole world
                <lb/>h) World news
+            </seg>
             <cb n="2"/>
+            <seg>
                <lb/>u) Feuilleton. interesting stories from Jewish life. Also, important chapters of our Yiddish history and biographies of rabbi. Gaon and other big Jewish men which have advocated for on behalf of the community.
                <lb/>z) Miscellaneous. Important information about new inventions,  medical articles, statistical news and similar whatever interests people.
             </seg>
-               </p>
+            </p>
          </div>
          <div type="article" style="one column" n="1">
             <p>
                We don’t want to promise our honored readers too much. We want to make an effort to follow the article of our sages: “Say little and do much!” We want to think, that our paper should always be 
                important and interesting and we hope that our Jewish brothers, in general our orthodox brothers want to support us if possible in order that we can pay what we are planning in <rs type="place">Gaza</rs>. 
             </p>
-            <lb/>
             <table rows="3" cols="1">
                <head>"The Geniune Jew" costs</head>
                <row role="data">
@@ -189,7 +192,6 @@
                <lb/> <foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place">Lviv, Sonnengasse 27</rs></foreign>
             </p>
          </div>
-         <lb/>
          <div type="article" style="two columns" n="2">
             <head> 
                A letter to the editor
@@ -224,7 +226,6 @@
                <rs type="place">Lviv</rs>,	<hi rend="italic">Y. L. L.</hi> 
             </p>
          </div>
-         <lb/>
          <div type="article" style="two columns" n="3">
             <head>
                Who is at fault? 
@@ -233,7 +234,7 @@
                “You can recognise them by their temple”. If we want to know, which damage the assimilation, the mingling with the other customs - has done to the Jewish peoples, we only need to look at the fruits 
                of the assimilation. Slowly, cautiously, step by step, the assimilation, what our “educated” Jews have called “progressive” and “culture”, has led the Jewry down a mountain. First, they have changed 
                the Jewish garment, afterwards the Jewish names, afterwards the Jewish language and at the end the entire religion…  when our blessed rabbis have written and fought against the assimilation, against 
-               the wrong <ref source="https://en.wikipedia.org/wiki/Haskalah">“Haskalah”</ref>, which blinds the eyes and confuses the thoughts, which has deceived the people, which will deliver the end of the whole movement to heresy in the religion 
+               the wrong <ref type="information" source="https://en.wikipedia.org/wiki/Haskalah">“Haskalah”</ref>, which blinds the eyes and confuses the thoughts, which has deceived the people, which will deliver the end of the whole movement to heresy in the religion 
                of God - they had been viewed as fanatics, they had been laughed at and mocked. Now, also the so-called Haskalahs have to admit that our ultra-orthodox brothers were right: the religious heresy has 
                indeed been a “small matter” now, it belongs to every day actions, that someone who is a religious heretic is too nice to a  job, an employment, too nice to a business, a wife or simply too nice to 
                “society”, too nice to his children - like he says - so that they don’t have to suffer for their Jewry like him. A “convert” as once been something very rare, it has both been for Jews and for non-Jews 
@@ -353,7 +354,7 @@
          <div type="article" style="two columns" n="6">
          <head>Letter from <rs type="place">Russia</rs></head>
          <p>
-            After the horrible persecution of <rs type="place">Chișinău</rs> and <rs type="place">Gomel</rs>, after the ridiculous comedy what was the <ref type="information" source="https://en.wikipedia.org/wiki/Kishinev_pogrom"><rs type="place">Chișinău</rs> progrom</ref>, which made the whole world indignant - do we all 
+            After the horrible persecution of <rs type="place">Chișinău</rs> and <rs type="place">Gomel</rs>, after the ridiculous comedy what was the <ref type="information" source="https://en.wikipedia.org/wiki/Kishinev_pogrom"><rs type="place">Chișinău</rs> progroms</ref>, which made the whole world indignant - do we all 
             of a sudden now hear that the government has called together all other provinces to an assembly, in which it is to be consulted if Jews should be allowed to live 
             in the whole country of <rs type="place">Russia</rs>, unlike now as they are crowded together in few provinces like chickens on the roost and only the best, for example those who are 
             in the highest tax brackets or graduates etc., can live in all of <rs type="place">Russia</rs>. Rumour has it, that several provinces are in favour of expanding the Jew’s rights to live 
@@ -440,7 +441,7 @@
                who are from different parties are part of the delegation and therefore they mainly talk about  <hi rend="italic">internal</hi>   matters, about the dispute between the Czech and 
                German, etc., and very little about foreign politics. Of course,  <cb/>nothing comes of this all this talking, idle words remain, without a purpose or practical value.
                - Concurrently, the government reigns with <rs type="information" source="https://www.verfassungen.eu/hu/verf48.htm#Gesetzesartikel_XII:1867">[III.] § 14</rs>, it is working as well as possible, it even wants to negotiate new trade contracts with 
-               German, and also the <ref type="information" source="https://en.wikipedia.org/wiki/Austro-Hungarian_Compromise_of_1867">Compromise with Hungary</ref> by the means of § 14, and because the Czech treathen not to approve the recruit law this year, 
+               German, and also the <ref type="information" source="https://www.wikidata.org/wiki/Q209601">Compromise with Hungary</ref> by the means of § 14, and because the Czech treathen not to approve the recruit law this year, 
                the government also wants to pass this law with § 14. 
             </p>
             <p>   
@@ -600,7 +601,6 @@
                May the memory of the righteous be a blessing!
             </p>
          </div>
-         <lb/>
          <div type="article" style="two columns" n="12">
             <head>
                Statistical information.
@@ -611,14 +611,13 @@
                6 million and 268,000 people. - The <rs type="place">Big Ocean</rs> (<rs type="place">Pacific</rs>) covers 175 million square kilometres and measures 9430 metres in depth. The <rs type="plcae">Atlantic Ocean</rs> covers 
                89 million square kilometres and measures 8340 metres in depth, and the <rs type="place">Indian Ocean</rs> covers 74 million square kilometres and measures 6300 metres in depth, the <rs type="place">Arctic Ocean</rs> 
                covers 33 million square kilometres and measures 4840 metres in depth. 
-               <lb/>
             </p>
          </div>
          <div type="ads" style="two columns" n="1">
             <div type="Ad" n="1">
                <head>
                <lb/>Coffee!
-               <lb/><hi rend="italic>">All natural!</hi>
+               <lb/><hi rend="italic>">ll natural!</hi>
             </head>
             <p>
                Also less than 5 kg, payment on delivery, prepaid, postage.
@@ -637,7 +636,6 @@
                   <cell role="data">Gold <rs type="place">Java</rs>   "   "   1,45 "</cell>
                </row>
             </table>
-               <lb/>
             <p>
                Free samle and payment on delivery
             </p>
@@ -645,7 +643,6 @@
                <rs type="person">Berger Ernö</rs>, <rs type="place">Fuime</rs>.
             </p>
             </div>
-            <lb/>
             <div type="Ad" n="2">
                <head>
                   The sugar refinery of <rs type="place">Przeworsk</rs>
@@ -654,7 +651,6 @@
                   Has immensely scaled up its sugar production for 1904 and recommends every variety to extremely low prices.
                </p>
             </div>
-            <lb/>
             <div type="Ad" n="3">
                <head>
                   Coffee
@@ -678,7 +674,6 @@
                </p>
             </div>   
          </div>
-         <lb/>
          <div type="footer" style="one columns" n="1">
             <p>
             <foreign xml:lang="de">
