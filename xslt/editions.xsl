@@ -158,4 +158,18 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>  
+    <xsl:template match="tei:hi">
+        <xsl:apply-templates />
+    </xsl:template>
+    
+    <xsl:template match="tei:hi[@ref='italic']">
+        <em><xsl:apply-templates /></em>
+    </xsl:template>
+    
+    <xsl:template match="tei:hi[@ref='bold']">
+        <strong><xsl:apply-templates /></strong>
+    </xsl:template>
+    
+
+      
 </xsl:stylesheet>

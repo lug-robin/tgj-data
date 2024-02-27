@@ -151,28 +151,25 @@
          <pb/>
          <div type="editorial" style="text-align:center" n="3"> 
             <p>
-               Every edition of our newspaper contains:
-            </p>
+               Every edition of our newspaper contains
             <cb n="1"/>
-            <p>
             <seg style="two columns">
                <lb/>a) editorial, an article about all matters, which are relevant to the Jewish people.
                <lb/>b) letters and reports about the different cities and countries about the situations of our borthers and everything concerning them.
                <lb/>g) Political News, short, but precise information about all political events in the whole world
                <lb/>h) World news
-            </seg>
             <cb n="2"/>
-            <seg>
                <lb/>u) Feuilleton. interesting stories from Jewish life. Also, important chapters of our Yiddish history and biographies of rabbi. Gaon and other big Jewish men which have advocated for on behalf of the community.
                <lb/>z) Miscellaneous. Important information about new inventions,  medical articles, statistical news and similar whatever interests people.
             </seg>
-            </p>
+               </p>
          </div>
          <div type="article" style="one column" n="1">
             <p>
                We don’t want to promise our honored readers too much. We want to make an effort to follow the article of our sages: “Say little and do much!” We want to think, that our paper should always be 
                important and interesting and we hope that our Jewish brothers, in general our orthodox brothers want to support us if possible in order that we can pay what we are planning in <rs type="place">Gaza</rs>. 
             </p>
+            <lb/>
             <table rows="3" cols="1">
                <head>"The Geniune Jew" costs</head>
                <row role="data">
@@ -192,6 +189,7 @@
                <lb/> <foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place">Lviv, Sonnengasse 27</rs></foreign>
             </p>
          </div>
+         <lb/>
          <div type="article" style="two columns" n="2">
             <head> 
                A letter to the editor
@@ -226,6 +224,7 @@
                <rs type="place">Lviv</rs>,	<hi rend="italic">Y. L. L.</hi> 
             </p>
          </div>
+         <lb/>
          <div type="article" style="two columns" n="3">
             <head>
                Who is at fault? 
