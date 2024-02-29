@@ -10,7 +10,7 @@
                 <xsl:if test="./tei:birth/tei:date">
                 <tr>
                     <th>
-                        Death of Birth
+                        Date of Birth
                     </th>
                     <td>
                         <xsl:value-of select="./tei:birth/tei:date"/>
