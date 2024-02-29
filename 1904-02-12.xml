@@ -106,15 +106,15 @@
                </row>
                <row role="data">
                   <cell role="data">For a whole year - 8 Kronen</cell>
-                  <cell role="data">For a whole year 8 Francs</cell>
+                  <cell role="data">For a whole year - 12 Francs</cell>
                </row>
                <row role="data">
-                  <cell role="data">For a half year - 4"</cell>
-                  <cell role="data">For a half year - 6"</cell>
+                  <cell role="data">For a half year - 4 "</cell>
+                  <cell role="data">For a half year - 6 "</cell>
                </row>
                <row role="data">
-                  <cell role="data">For a quarter year - 2.50"</cell>
-                  <cell role="data">For a quarter year - 3.50"</cell>
+                  <cell role="data">For a quarter year - 2.50 "</cell>
+                  <cell role="data">For a quarter year - 3.50 "</cell>
                </row>
             </table>
             <p><rs type="place">Lviv</rs>,<date when-iso="1904-02-05"> Friday 12th 1904</date></p>
@@ -126,6 +126,7 @@
                <lb/>The true Jew is published every Friday
                <lb/><foreign xml:lang="de"><rs type="place">Lemberg</rs>, <date when-iso="1904-02-05">den 12. Februar 1904</date></foreign>.</p>
          </div>
+         <lb/>
          <div type="article" style="two columns" n="1">
             <head>Our religious education</head>
             <p>“One could almost laugh about it, if it wasn’t so sad”... We can justifiably use this general idiom in regards to the religious education at our public schools when accusing our advanced Jewish people 
@@ -182,6 +183,7 @@
                <lb/>The Truth
             </p>
          </div>
+         <lb/>
          <div type="article" style="two columns" n="2">
             <head>Letter from Hungary</head>
             <p>
@@ -190,7 +192,7 @@
                letter. I just want to share important information which will interest every Jew.
             </p>
             <p>
-               In <rs type="place">Hungary</rs> live, beside <ref source="https://en.wikipedia.org/wiki/Hungarians">Magyars</ref>, several other tribes, like Germans, Romanians, Slowakians, Croatians, Ruthenians and others.
+               In <rs type="place">Hungary</rs> live - beside <ref source="https://en.wikipedia.org/wiki/Hungarians">Magyars</ref> - several other tribes, like Germans, Romanians, Slowakians, Croatians, Ruthenians and others.
                Together they would be the majority in the whole populace and the Magyars do know that if all those tribes get together, <rs type="place">Hungary</rs> would not be a Magyarianian state, nor a Slavish one. 
                Therefore they strive to strengthen the Magyarian populace, suppress the other nationalities, refuse them their national pride and don’t let them develop their national interests. The Jewish people in 
                <rs type="place">Hungary</rs> are always loyal to the government, supporting it in every situation and above all, the government has always got massive support during elections in the cities, where many Jewish 
@@ -207,8 +209,28 @@
                and also have to do so on Sunday. Closing their stores two days a week is difficult, especially for the little merchant. The Hungarian Jewish people managed to achieve some relief.
             </p>
             <p>
-               <pb/>
+               <pb/>A few months ago, the government issued a decree for every tobacco shop to be open for business on Sabbath. The licence is to be revoked of those who keep it closed on Sabbath. This decree has been a 
+               serious “punishment”. Several tobacconists, who didn’t want their licence to be revoked, and have therefore violated Sabbath. However, many pious Jewish people insisted and have not lost their livelihood over 
+               this. The Jewish people have raised tumult: they have handed over petitions to the finance minister. Last week he gave confirmation to the chancellery of Orthodox Jews in Budapest that he meets half of their 
+               demands. That means: he issued another decree that those who ran their shops before the previous decree may close their shops on Sabbath. And those who have had their licences revoked, will get it back. Still, 
+               tobacconists who get their licence now have to vow to keep their shop open on Sabbath. In other words, pious Jewish people cannot open tobacco shops anymore…
             </p>
+            <p>
+               The minister has already written to the chancellery that he cannot back down anymore and they cannot ask for more. However, the pious Jewish people of Hungary must not remain silent and have to use all means
+               at their disposal to abolish the rest of this punishment. If the government doesn’t want to give in, they have to turn to the parliament. And if that doesn’t help as well they have to submit to our Lord, 
+               King … and they will hopefully achieve everything. 
+            </p>
+            <p>
+               Jewish people have made Romanians and Slavs their enemies because they have always supported the government! In those places where a lot of Slavs live there is a great hostility between them and the Jewish 
+               people there which leads to fights and brawls. I do not want to judge whether the Jewish people gain advantages for themselves by being devoted to the Magyars and therefore make enemies with the other peoples. 
+               Maybe it would have been better for the Jewish people to stay neutral and not form alliances with any other nationality. I want to write about that another time. The Jewish people are already suffering because #
+               they support the government and should therefore not make them suffer more. However, if the government forgets their duty, the Jewish people need to remind them as long as they are listened to. 
+            </p>
+         </div>
+         <div type="article" style="two columns" n="3">
+            <head>The War
+            <lb/>Between <rs type="place">Japan</rs> and <rs type="place">Russia</rs></head>
+            
          </div>
       </body>
   </text>
