@@ -15,7 +15,8 @@
      <text>
         <body>
           <div>
-            <listPerson><person xml:id="person001">
+            <listPerson>
+              <person xml:id="person001">
             <persName>
               <forename>Jan</forename>
               <surname>Žáček</surname>
@@ -29,8 +30,8 @@
               <occupation>Vice Preident of the imperial council of Austria-Hungary</occupation>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q12023385</idno>
           </person>
-          </listPerson>
-          <listPerson><person xml:id="person002">
+          
+          <person xml:id="person002">
               <persName>
                 <forename>Sergey Dmitriyevich</forename>
                 <surname>Urusov</surname>
@@ -44,8 +45,7 @@
               <occupation>Prince, govenor of Bessabaria.</occupation>
               <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q4477401</idno>
             </person>
-            </listPerson>
-            <listPerson><person xml:id="person003">
+            <person xml:id="person003">
               <persName>
                 <forename>Franz Joseph</forename>
                 <surname>of Habsburg</surname>
@@ -55,42 +55,45 @@
               <occupation>Emperor of Austria-Hungary</occupation>
               <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q51056</idno>
             </person>
-            </listPerson>
-            <listPerson><person xml:id="person004"><persName><forename>Ernest</forename>
+            <person xml:id="person004"><persName><forename>Ernest</forename>
               <surname>von Koerber</surname></persName>
               <birth><date when-iso="1850-11-06">1850-11-06</date></birth>
               <death><date when-iso="1919-03-05">1919-03-05</date></death>
               <occupation>Minister President of Austria-Hungary</occupation>
-              <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q72242</idno></person></listPerson>
-            <listPerson><person xml:id="person005">
+              <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q72242</idno>
+            </person>
+              <person xml:id="person005">
               <persName>  <forename>István</forename>
                 <surname>Tisza</surname></persName>
               <birth>Not Known</birth>
               <death><date when-iso="1918-10-31">1918-10-31</date></death>
               <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q336493</idno>
-              <occupation>Count, Minister President of Hungary</occupation></person></listPerson>
-              <listPerson><person xml:id="person006">
+              <occupation>Count, Minister President of Hungary</occupation>
+              </person>
+              <person xml:id="person006">
                 <persName>  <forename>Paul</forename>
                   <surname>Gautsch von Frankenthurn</surname></persName>
                 <birth><date when-iso="1851-02-26">1851-02-26</date></birth>
                 <death><date when-iso="1918-04-20">1918-04-20</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q241524</idno>
-                <occupation>President of the Austrian Delegation in Lviv</occupation></person></listPerson>
-              <listPerson><person xml:id="person007">
+                <occupation>President of the Austrian Delegation in Lviv</occupation>
+              </person>
+              <person xml:id="person007">
                 <persName> <forename>Emil</forename>
                   <surname>Byk</surname></persName>
                 <birth><date when-iso="1845-01-14">1845-01-14</date></birth>
                 <death><date when-iso="1906">1906</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q5371197</idno>
-                <occupation>Polish-Austrian lawyer and politician</occupation></person></listPerson>
-              <listPerson><person xml:id="person008">    
+                <occupation>Polish-Austrian lawyer and politician</occupation></person>
+              <person xml:id="person008">    
                 <persName> <forename>Samuel</forename>
                   <surname>Straus</surname></persName>
                 <birth><date when-iso="1844-09-21">1844-09-21</date></birth>
                 <death><date when-iso="1904-01-25">1904-01-25</date></death>
                 <idno type="URL" subtype="geni">https://www.geni.com/people/Samuel-Straus/6000000011631522278</idno>
-                <occupation>Philantrophst in Berlin</occupation></person></listPerson>
-            <listPerson><person xml:id="person009"><persName><forename>Ferdinand August</forename>
+                <occupation>Philantrophst in Berlin</occupation>
+              </person>
+              <person xml:id="person009"><persName><forename>Ferdinand August</forename>
               <surname>Bebel</surname></persName>
               <birth><date when-iso="1840-02-22">1840-02-22</date></birth>
               <death><date when-iso="1913-08-13">1913-08-13</date></death>
@@ -102,184 +105,203 @@
               <birth><date when-iso="1859-01-27">1859-01-27</date></birth>
               <death><date when-iso="1941-06-04">1941-06-04</date></death>
               <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2677</idno>
-              <occupation>Emperor of Germany</occupation></person></listPerson>
+              <occupation>Emperor of Germany</occupation>
+            </person>
             
-            <listPerson><person xml:id="person011"> <persName><forename>King David</forename>
+            <person xml:id="person011"> <persName><forename>King David</forename>
               <surname></surname></persName>
               <birth><date when-iso="-1039">1039 BCE</date></birth>
               <death><date when-iso="-969">969 BCE</date></death>
               <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q41370</idno>
-              <occupation>Third King of the United Kingdom of Isreal</occupation></person></listPerson>
-            
-            <listPerson><person xml:id="person012">    
+              <occupation>Third King of the United Kingdom of Isreal</occupation>
+            </person>
+              
+            <person xml:id="person012">    
               <persName>  <forename>Gheorghe Grigore</forename>
                 <surname>Cantacuzino</surname></persName>
               <birth><date when-iso="1832-09-22">1832-09-22</date></birth>
               <death><date when-iso="1913-03-22">1913-03-22</date></death>
               <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2002136</idno>
-              <occupation>Member of Parliament in Bucharest</occupation></person></listPerson>
-              <listPerson><person xml:id="person013">
+              <occupation>Member of Parliament in Bucharest</occupation>
+            </person>
+              <person xml:id="person013">
                 <persName><forename>Stéphanie</forename>
                   <surname>of Belgium</surname></persName>
                 <birth><date when-iso="1864-05-21">1864-05-21</date></birth>
                 <death><date when-iso="1945-08-23">1945-08-23</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q3027839</idno>
-                <occupation>Princess of Belium, Crown Princess of Austria</occupation></person></listPerson>
-            
-              <listPerson><person xml:id="person014">
+                <occupation>Princess of Belium, Crown Princess of Austria</occupation>
+              </person>
+              <person xml:id="person014">
                 <persName><forename>Leopold II</forename>
                   <surname>of Belgium</surname></persName>
                 <birth><date when-iso="1835-04-09">1835-04-09</date></birth>
                 <death><date when-iso="1909-12-17">1909-12-17</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q12967</idno>
-                <occupation>King of Belgium</occupation></person></listPerson>
+                <occupation>King of Belgium</occupation>
+              </person>
             
-              <listPerson><person xml:id="person015">
+              <person xml:id="person015">
                 <persName><forename>Shlomo</forename>
                   <surname>Yitzchaki</surname></persName>
                 <birth when-iso="1040-02-22">1040-02-22</birth>
                 <death when-iso="1105-07-13">1105-07-13</death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q26456</idno>
-                <occupation>Rabbi. Known as Rashi.</occupation></person></listPerson>
+                <occupation>Rabbi. Known as Rashi.</occupation>
+              </person>
            
-              <listPerson><person xml:id="person016">
+              <person xml:id="person016">
                 <persName><forename>Hai</forename>
                   <surname>ben Sherira</surname></persName>
                 <birth><date when-iso="939">939</date></birth>
                 <death><date when-iso="1038-03-28">1038-03-28</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q982194</idno>
-                <occupation>Last Goan of Babylon, Also known as Hai Goan</occupation></person></listPerson>
+                <occupation>Last Goan of Babylon, Also known as Hai Goan</occupation>
+              </person>
             
-              <listPerson><person xml:id="person017">
+              <person xml:id="person017">
                 <persName><forename>Simeon</forename>
                   <surname>bar Isaac</surname></persName>
                 <birth><date when-iso="950">950</date></birth>
                 <death><date when-iso="1015">1015</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1276109</idno>
-                <occupation>Rabbi. Uncle of Rashi.</occupation></person></listPerson>
-            
-              <listPerson><person xml:id="person018">
+                <occupation>Rabbi. Uncle of Rashi.</occupation>
+              </person>
+              <person xml:id="person018">
                 <persName><forename>Gershom</forename>
                   <surname>ben Judah</surname></persName>
                 <birth><date when-iso="960">960</date></birth>
                 <death><date when-iso="1040">1040</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q982050</idno>
-                <occupation>Rabbi, taught in Mainz</occupation></person></listPerson>
+                <occupation>Rabbi, taught in Mainz</occupation>
+              </person>
             
-              <listPerson><person xml:id="person019">
+              <person xml:id="person019">
                 <persName><forename>Yaakov</forename>
                   <surname>ben Yakar</surname></persName>
                 <birth when-iso="990">990</birth>
                 <death when-iso="1064">1064</death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1187659</idno>
-                <occupation>Rabbi. Taught in Mainz.</occupation></person></listPerson>
+                <occupation>Rabbi. Taught in Mainz.</occupation>
+              </person>
           
-              <listPerson><person xml:id="person020">
+              <person xml:id="person020">
                 <persName><forename>Isaac</forename>
                   <surname>ben Eliezer Halevi</surname></persName>
                 <birth>Not Known</birth>
                 <death><date when-iso="1070">1070</date></death>
                 <idno type="URL" subtype="wikiwant">https://www.wikiwand.com/en/Isaac_ben_Eliezer_Halevi</idno>
-                <occupation>Rabbi. Taught in Worms.</occupation></person></listPerson>
-            
-              <listPerson><person xml:id="person2021">
+                <occupation>Rabbi. Taught in Worms.</occupation>
+              </person>
+              <person xml:id="person2021">
                 <persName><forename>Eleazar</forename>
                   <surname>ben Jehuda</surname></persName>
                 <birth>Not Known</birth>
                 <death>Not Known</death>
                 <idno></idno>
-                <occupation>Rabbi. Taught in Worms.</occupation></person></listPerson>
-            
-              <listPerson><person xml:id="person022">
+                <occupation>Rabbi. Taught in Worms.</occupation>
+              </person>
+              <person xml:id="person022">
                 <persName><forename>Eliakim</forename>
                   <surname>ben Meshullam</surname></persName>
                 <birth><date when-iso="1030">1030s</date></birth>
                 <death><date when-iso="1100">1100s</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q5360397</idno>
-                <occupation>Rabbi. Taught in Speyer.</occupation></person></listPerson>
-          
-              <listPerson><person xml:id="person023">
+                <occupation>Rabbi. Taught in Speyer.</occupation>
+              </person>          
+              <person xml:id="person023">
                 <persName><forename>Godfrey</forename>
                   <surname>of Bouillon</surname></persName>
                 <birth><date when-iso="1060">1060</date></birth>
                 <death><date when-iso="1100">1100</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q76721</idno>
-                <occupation>Leader of the First Crusade</occupation></person></listPerson>
-            
-              <listPerson><person xml:id="person024">
+                <occupation>Leader of the First Crusade</occupation>
+              </person>
+              <person xml:id="person024">
                 <persName><forename>Judah</forename>
                   <surname>ben Nathan</surname></persName>
                 <birth><date notBefore="1000" notAfter="1100">11th century</date></birth>
                 <death><date notBefore="1100" notAfter="1200">12th century</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q6302174</idno>
-                <occupation>Rashi&apos;s disciple and son-in-law</occupation></person></listPerson>
-          
-              <listPerson><person xml:id="person025">
+                <occupation>Rashi&apos;s disciple and son-in-law</occupation>
+              </person>
+              <person xml:id="person025">
                 <persName><forename>Meir</forename>
                   <surname>ben Samuel</surname></persName>
                 <birth><date notBefore="1060" notAfter="1070">1060s</date></birth>
                 <death><date notBefore="1130" notAfter="1140">1130s</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q6810277</idno>
-                <occupation>Rashi&apos;s disciple and son-in-law</occupation></person></listPerson>
-          
-              <listPerson><person xml:id="person026">
+                <occupation>Rashi&apos;s disciple and son-in-law</occupation>
+              </person>
+              <person xml:id="person026">
                 <persName><forename>Samuel</forename>
                   <surname>ben Meir</surname></persName>
                 <birth><date when-iso="1085">1085</date></birth>
                 <death><date when-iso="1158">1158</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q722697</idno>
-                <occupation>Rabbi. Known as RaShbaM. Rashi&apos;s grandson.</occupation></person></listPerson>
-           
-              <listPerson><person xml:id="person027">
+                <occupation>Rabbi. Known as RaShbaM. Rashi&apos;s grandson.</occupation>
+              </person><person xml:id="person027">
                 <persName><forename>Isaac</forename>
                   <surname>ben Meir</surname></persName>
                 <birth><date notBefore="1090" notAfter="1100">1090s</date></birth>
                 <death><date notBefore="1130" notAfter="1140">1130s</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q7336982</idno>
-                <occupation>Rabbi. Known as RIvaM. Rashi&apos;s grandson.</occupation></person></listPerson>
-          
-              <listPerson><person xml:id="person028">
+                <occupation>Rabbi. Known as RIvaM. Rashi&apos;s grandson.</occupation>
+              </person>
+              <person xml:id="person028">
                 <persName><forename>Jacob</forename>
                   <surname>ben Meir</surname></persName>
                 <birth><date notBefore="1100" notAfter="1110">1100s</date></birth>
                 <death><date when-iso="1171">1171</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q944289</idno>
-                <occupation>Rabbi. Known as Tam. Rashi&apos;s grandson.</occupation></person></listPerson>
-         
-              <listPerson><person xml:id="person029">
+                <occupation>Rabbi. Known as Tam. Rashi&apos;s grandson.</occupation>
+              </person>
+              <person xml:id="person029">
                 <persName><forename>Ernö</forename>
                   <surname>Berger</surname></persName>
                 <birth>Not Known</birth>
                 <death>Not Known</death>
-                <occupation>Coffee trader. Advertising in The Geniune Jew.</occupation></person></listPerson>
-         
-              <listPerson><person xml:id="person030">
+                <occupation>Coffee trader. Advertising in The Geniune Jew.</occupation>
+              </person>
+              <person xml:id="person030">
                 <persName><forename>Ignatz</forename>
                   <surname>Rath</surname></persName>
                 <birth>Not Known</birth>
                 <death>Not Known</death>
-                <occupation>Coffee trader. Advertising in The Geniune Jew.</occupation></person></listPerson>
-          
-              <listPerson><person xml:id="person031">
+                <occupation>Coffee trader. Advertising in The Geniune Jew.</occupation>
+              </person>
+              <person xml:id="person031">
                 <name><forename>Osias H.</forename>
                   <surname>Wilf</surname></name>
                 <birth>Not Known</birth>
                 <death>Not Known</death>
-                <occupation>Editor of The Geniune Jew.</occupation></person></listPerson>
-         
-              <listPerson><person xml:id="person032"> <name><forename>E.</forename>
+                <occupation>Editor of The Geniune Jew.</occupation>
+              </person>
+              <person xml:id="person032"> <name><forename>E.</forename>
                 <surname>Salat</surname></name>
                 <birth>Not Known</birth>
                 <death>Not Known</death>
-                <occupation>Printer of The Geniune Jew.</occupation></person></listPerson>
-           
-              <listPerson><person xml:id="person033">
+                <occupation>Printer of The Geniune Jew.</occupation>
+              </person>           
+              <person xml:id="person033">
                 <name><forename>U.W.</forename>
                   <surname>Salat</surname></name>
                 <birth>Not Known</birth>
                 <death>Not Known</death>
                 <idno></idno>
-                <occupation>Dead Husband of E. Salat. Printer.</occupation></person></listPerson>
+                <occupation>Dead Husband of E. Salat. Printer.</occupation>
+              </person>
+              <person xml:id="pesron034">
+                <name>
+                  <forename>Kálmán</forename>
+                  <surname>Széll</surname>
+                </name>
+                <birth when-iso="1843-06-18">1843-06-18</birth>
+                <death when-iso="1915-08-16">1915-08-16</death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q640475</idno>
+                <occupation>Prime Minister of the Kingdom of Hungary, 1899-1903</occupation>
+              </person>
+            </listPerson>
           </div>
         </body>
       </text>
