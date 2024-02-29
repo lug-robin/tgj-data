@@ -549,6 +549,15 @@
                             <geo>-5 120</geo>
                         </location>
                     </place>
+                    <place xml:id="place071">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Seoul</placeName>
+                        <location type="coords">
+                            <geo>37.566 126.9784</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place022">Korea</placeName>
+                        </location>
+                    </place>
                 </listPlace>
             </div>
         </body>
