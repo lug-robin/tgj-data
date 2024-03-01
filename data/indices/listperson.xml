@@ -303,6 +303,16 @@
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q640475</idno>
                 <occupation>Prime Minister of the Kingdom of Hungary, 1899-1903</occupation>
               </person>
+              <person xml:id="person035">
+                <name>
+                  <forename>Pius X</forename>
+                  <surname></surname>
+                </name>
+                <birth><date when-iso="1835-06-02">1835-06-02</date></birth>
+                <death><date when-iso="1094-08-20">1904-08-20</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q43739</idno>
+                <occupation>Pope from 1903-1914. Birthname: Giuseppe Melchiorre Sarto</occupation>
+              </person>
             </listPerson>
           </div>
         </body>

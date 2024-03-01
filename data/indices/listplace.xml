@@ -558,6 +558,24 @@
                             <placeName key="place022">Korea</placeName>
                         </location>
                     </place>
+                    <place xml:id="place072">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Mediterranean Sea</placeName>
+                        <location type="coords">
+                            <geo>34.553127, 18.048012</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place073">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Dardanelles</placeName>
+                        <location type="coords">
+                            <geo>34.553127, 18.048012</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place074">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Suez-Canal</placeName>
+                        <location type="coords">
+                            <geo>30.45499818 32.3499986</geo>
+                        </location>
+                    </place>
                 </listPlace>
             </div>
         </body>
