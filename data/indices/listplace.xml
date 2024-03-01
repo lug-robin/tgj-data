@@ -569,11 +569,23 @@
                         <location type="coords">
                             <geo>34.553127, 18.048012</geo>
                         </location>
+                        <location type="person_namesvariente_nachname-komma-vorname">
+                            <placeName key="place075">Turkey</placeName>
+                        </location>
                     </place>
                     <place xml:id="place074">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Suez-Canal</placeName>
                         <location type="coords">
                             <geo>30.45499818 32.3499986</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place013">Egypt</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place075">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Turkey</placeName>
+                        <location type="coords">
+                            <geo>38.9573415 35.240741</geo>
                         </location>
                     </place>
                 </listPlace>
