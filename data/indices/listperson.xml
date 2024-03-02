@@ -27,7 +27,7 @@
             <death>
               <date when-iso="1934-10-04">1934-10-04</date>
             </death>
-              <occupation>Vice Preident of the imperial council of Austria-Hungary</occupation>
+              <occupation>Vice Preident of the imperial council of Austria-Hungary, 1901-1907.</occupation>
             <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q12023385</idno>
           </person>
           
@@ -42,7 +42,7 @@
               <death>
                 <date when-iso="1937-09-05">1937-09-05</date>
               </death>
-              <occupation>Prince, govenor of Bessabaria.</occupation>
+              <occupation>Prince, govenor of Bessabaria, 1903-1905.</occupation>
               <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q4477401</idno>
             </person>
             <person xml:id="person003">
@@ -52,14 +52,14 @@
               </persName>
               <birth><date when-iso="1830-08-18">1830-08-18</date></birth>
               <death><date when-iso="1916-11-21">1916-11-21</date></death>
-              <occupation>Emperor of Austria-Hungary</occupation>
+              <occupation>Emperor of Austria-Hungary, 1848-1916.</occupation>
               <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q51056</idno>
             </person>
             <person xml:id="person004"><persName><forename>Ernest</forename>
               <surname>von Koerber</surname></persName>
               <birth><date when-iso="1850-11-06">1850-11-06</date></birth>
               <death><date when-iso="1919-03-05">1919-03-05</date></death>
-              <occupation>Minister President of Austria-Hungary</occupation>
+              <occupation>Minister President of Austria-Hungary, 1900-1904.</occupation>
               <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q72242</idno>
             </person>
               <person xml:id="person005">
@@ -70,7 +70,7 @@
                 <birth><date><date>Not Known</date></date></birth>
               <death><date when-iso="1918-10-31">1918-10-31</date></death>
               <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q336493</idno>
-              <occupation>Count, Minister President of Hungary</occupation>
+              <occupation>Count, Minister President of Hungary, 1903-1905.</occupation>
               </person>
               <person xml:id="person006">
                 <persName>  <forename>Paul</forename>
@@ -100,31 +100,29 @@
               <birth><date when-iso="1840-02-22">1840-02-22</date></birth>
               <death><date when-iso="1913-08-13">1913-08-13</date></death>
               <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q76520</idno>
-              <occupation>Socialist Member of German Parliament. 
-                Goes by August Bebel</occupation></person></listPerson>
-            <listPerson><person xml:id="person010"><persName><forename>Wilhelm II.</forename>
+              <occupation>Socialist Member of German Parliament, 1871-1918. Goes by August Bebel.</occupation>
+              </person>
+              <person xml:id="person010"><persName><forename>Wilhelm II.</forename>
               <surname></surname></persName>
               <birth><date when-iso="1859-01-27">1859-01-27</date></birth>
               <death><date when-iso="1941-06-04">1941-06-04</date></death>
               <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2677</idno>
-              <occupation>Emperor of Germany</occupation>
+              <occupation>Emperor of Germany, 1888-1918.</occupation>
             </person>
-            
             <person xml:id="person011"> <persName><forename>King David</forename>
               <surname></surname></persName>
               <birth><date when-iso="-1039">1039 BCE</date></birth>
               <death><date when-iso="-969">969 BCE</date></death>
               <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q41370</idno>
-              <occupation>Third King of the United Kingdom of Isreal</occupation>
+              <occupation>Third King of the United Kingdom of Isreal.</occupation>
             </person>
-              
             <person xml:id="person012">    
               <persName>  <forename>Gheorghe Grigore</forename>
                 <surname>Cantacuzino</surname></persName>
               <birth><date when-iso="1832-09-22">1832-09-22</date></birth>
               <death><date when-iso="1913-03-22">1913-03-22</date></death>
               <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2002136</idno>
-              <occupation>Member of Parliament in Bucharest</occupation>
+              <occupation>Member of Parliament in Bucharest, 1900-1907.</occupation>
             </person>
               <person xml:id="person013">
                 <persName><forename>Stéphanie</forename>
@@ -132,7 +130,7 @@
                 <birth><date when-iso="1864-05-21">1864-05-21</date></birth>
                 <death><date when-iso="1945-08-23">1945-08-23</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q3027839</idno>
-                <occupation>Princess of Belium, Crown Princess of Austria</occupation>
+                <occupation>Princess of Belium, Crown Princess of Austria.</occupation>
               </person>
               <person xml:id="person014">
                 <persName><forename>Leopold II</forename>
@@ -140,9 +138,8 @@
                 <birth><date when-iso="1835-04-09">1835-04-09</date></birth>
                 <death><date when-iso="1909-12-17">1909-12-17</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q12967</idno>
-                <occupation>King of Belgium</occupation>
+                <occupation>King of Belgium, 1865-1909.</occupation>
               </person>
-            
               <person xml:id="person015">
                 <persName><forename>Shlomo</forename>
                   <surname>Yitzchaki</surname></persName>
@@ -151,16 +148,14 @@
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q26456</idno>
                 <occupation>Rabbi. Known as Rashi.</occupation>
               </person>
-           
               <person xml:id="person016">
                 <persName><forename>Hai</forename>
                   <surname>ben Sherira</surname></persName>
                 <birth><date when-iso="939">939</date></birth>
                 <death><date when-iso="1038-03-28">1038-03-28</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q982194</idno>
-                <occupation>Last Goan of Babylon, Also known as Hai Goan</occupation>
+                <occupation>Last Goan of Babylon, Also known as Hai Goan.</occupation>
               </person>
-            
               <person xml:id="person017">
                 <persName><forename>Simeon</forename>
                   <surname>bar Isaac</surname></persName>
@@ -177,7 +172,6 @@
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q982050</idno>
                 <occupation>Rabbi, taught in Mainz</occupation>
               </person>
-            
               <person xml:id="person019">
                 <persName><forename>Yaakov</forename>
                   <surname>ben Yakar</surname></persName>
@@ -186,7 +180,6 @@
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1187659</idno>
                 <occupation>Rabbi. Taught in Mainz.</occupation>
               </person>
-          
               <person xml:id="person020">
                 <persName><forename>Isaac</forename>
                   <surname>ben Eliezer Halevi</surname></persName>

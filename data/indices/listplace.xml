@@ -588,6 +588,43 @@
                             <geo>38.9573415 35.240741</geo>
                         </location>
                     </place>
+                    <place xml:id="place076">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Congress Poland</placeName>
+                        <location type="coords">
+                            <geo>52.2319581 21.0067249</geo>
+                        </location>
+                        <note>Congress Poland, Congress Kingdom of Poland, or Russian Poland, formally known as the Kingdom of Poland.</note>
+                    </place>
+                    <place xml:id="place077">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Balkan</placeName>
+                        <location type="coords">
+                            <geo>44 23</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place078">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Greece</placeName>
+                        <location type="coords">
+                            <geo>38.9953683 21.9877132</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place079">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Crete</placeName>
+                        <location type="coords">
+                            <geo>35.3084952 24.4633423</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place080">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Macedonia</placeName>
+                        <location type="coords">
+                            <geo>42.9868853 19.5180992</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place081">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Macedonia</placeName>
+                        <location type="coords">
+                            <geo>41.6171214 21.7168387</geo>
+                        </location>
+                    </place>
                 </listPlace>
             </div>
         </body>

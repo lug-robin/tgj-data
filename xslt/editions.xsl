@@ -148,6 +148,14 @@
             <xsl:apply-templates/>
         </a>
     </xsl:template>
+    <xsl:template match="tei:rs">
+        <xsl:variable name="key">
+            <xsl:value-of select="./@source"/>
+        </xsl:variable>
+        <a ref="{$key}" target="_blank">
+            <xsl:apply-templates/>
+        </a>
+    </xsl:template>
     <xsl:template match="tei:p">
         <p id="{local:makeId(.)}" class="yes-index">
             <xsl:apply-templates/>
