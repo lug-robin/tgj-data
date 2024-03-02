@@ -101,7 +101,7 @@
             <table rows="4" cols="2">
                <head>The Geniune Jew costs</head>
                <row role="data">
-                  <cell role="data">In <rs type="place">Austria-Hungary</rs></cell>
+                  <cell role="data">In <rs type="place" key="place001">Austria-Hungary</rs></cell>
                   <cell role="data">Abroad</cell>
                </row>
                <row role="data">
@@ -264,6 +264,27 @@
                Russia as every country is in conflict with them. Even their ally, France, is not happy with Russia’s occupation of <rs type="place">Manchuria</rs>. Japan has England and America on their side, as Japan is waging 
                war for them as well. They want the same thing Japan does: for Russia to leave <rs type="place">Manchuria</rs>. But if England and America support Japan, France will certainly not watch from afar. Then, Germany and 
                Italy also need to intervene, therefore developing the war into a world war, for which no one can know how that will end. 
+            </p>
+            <p>
+               An important question now is the significance the Russian-Japanese war has in <rs type="place">Austria-Hungary</rs>. On the outside, Austria-Hungary and Russia are at peace, but the differences between those two countries 
+               have not ceased to exist. Austria-Hungary has always been in conflict with Russia about Russia settling in Turkey and bothering Austria there. Austria can breathe a sigh of relief and act more freely in the Balkan, now that 
+               Russia is occupied in Asia. The time has come for Austria to declare <rs type="place">Bosnia</rs> and <rs type="place">Herzegovina</rs> as its own. Until now, those two countries belonged to <rs type="place">Turkey</rs> while 
+               Austria had merely occupied it. 
+            </p>
+            <p>
+               There is another reason why Austria is interested in the Russian-Japanese War. As is known, Bulgaria intends to wage war with Turkey for a while now as <rs type="place">Macedonia</rs> belongs to <rs type="place">Bulgaria</rs>. 
+               Additionally, <rs type="place">Montenegro</rs> is also constantly looking to involve Turkey in a conflict. Bulgaria and Montenegro hope to drive Turkey completely out of Europe. And if they lose the war, they may take no 
+               damage from it like <rs type="place">Greece</rs> has taken no damage after losing the war with Turkey. The European powers did not let something bad happen to Greece. Even though Turkey has won the war, they had to give up 
+               the island <hi rend="italic"><rs type="place">Crete</rs></hi>. Therefore, Bulgaria and Montenegro hope for the Christian powers to interfere in case they lose the war and take <rs type="place">Macedonia</rs> away from Turkey. 
+               <rs type="place">Serbia</rs> has <cb/> not wanted to interfere with disputes on the <rs type="place">Balkan</rs> as long as <rs type="person">King Aleksandar</rs> has ruled. However, since the revolution against 
+               <rs type="place">King Aleksandar</rs> and the war of the new king, <rs type="person">King Peter</rs>, dissatisfaction has risen in the country. The king has not punished the murder of <rs type="person">King Aleksandar</rs> 
+               but started a war with Turkey to quench the discontent in the country.
+            </p>
+            <p>
+               Until now, every <rs type="place">Balkan</rs> country was afraid to declare war on Turkey, because Austria-Hungary and Russia warned them not to start as they don’t want the situation in Turkey to change. But now, as Russia 
+               is occupied in <rs type="place">Asia</rs>, the question is whether the <rs type="place">Balkan</rs> countries prepare for war. News came via telegram that Austria-Hungary needs to convene their reservists and prepare in case a 
+               war breaks out in <rs type="place">Turkey</rs>. - The Russian-Japanese war can therefore have set off another war which is of great interest to Austria-Hungary as well as the whole world. - Besides, the whole world is greatly 
+               interested in the war in Russia and expect daily news from the warside.
             </p>
          </div>
       </body>
