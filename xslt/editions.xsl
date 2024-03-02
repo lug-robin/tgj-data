@@ -140,16 +140,22 @@
             </body>
         </html>
     </xsl:template>
-       
-       
+    
+    <li><a href="{./tei:placeName/@key}.html">
+        <xsl:value-of select="./tei:placeName"/>
+    </a> </li>  
+    
     <xsl:template match="tei:ref">
         <xsl:variable name="source">
             <xsl:value-of select="./@source"/>
         </xsl:variable>
-               <xsl:variable name="source">
+        <a href="{$source}" target="_blank">
+            <xsl:apply-templates/>
+        </a>
+        <xsl:variable name="key">
             <xsl:value-of select="./tei:persName"/>
         </xsl:variable>
-        <a href="{./tei:persName/@key}.html" target="_blank">
+        <a href="{$key}" target="_blank">
             <xsl:apply-templates/>
         </a>    
     </xsl:template>
