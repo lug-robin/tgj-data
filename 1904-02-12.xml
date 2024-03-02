@@ -101,7 +101,7 @@
             <table rows="4" cols="2">
                <head>The Geniune Jew costs</head>
                <row role="data">
-                  <cell role="data">In <rs type="place" key="place001">Austria-Hungary</rs></cell>
+                  <cell role="data">In <rs type="place"><ref >Austria-Hungary</ref></rs></cell>
                   <cell role="data">Abroad</cell>
                </row>
                <row role="data">
@@ -200,7 +200,7 @@
             </p>
             <p>
                Furthermore, the Jewish people in <rs type="place">Hungary</rs> can influence the government in certain ways and if they want something, they have the power to do so. Still, there have been some cases where the 
-               government issued laws, which harmed Jewish people there. The last minister president <rs type="person">Kálmán Széll</rs> allowed Christians to open shops and banks in frontier districts where a lot of Jewish 
+               government issued laws, which harmed Jewish people there. The last minister president <rs type="person"><ref source="person035">Kálmán Széll</ref></rs> allowed Christians to open shops and banks in frontier districts where a lot of Jewish 
                people live among Ruthenians and Slavs in order to support the populace there. That harmed the Jewish people there. As soon as they opposed it, the government had to stop. Jewish people seem to have a bit more 
                influence in <rs type="place">Hungary</rs> compared to other countries.
             </p>
