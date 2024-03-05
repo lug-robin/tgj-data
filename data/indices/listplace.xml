@@ -625,6 +625,18 @@
                             <geo>41.6171214 21.7168387</geo>
                         </location>
                     </place>
+                    <place xml:id="place082">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Vladivostok</placeName>
+                        <location type="coords">
+                            <geo>43.133333 131.9</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place083">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Port Arthur</placeName>
+                        <location type="coords">
+                            <geo>38.802 121.266</geo>
+                        </location>
+                    </place>
                 </listPlace>
             </div>
         </body>
