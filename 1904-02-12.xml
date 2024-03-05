@@ -101,7 +101,7 @@
             <table rows="4" cols="2">
                <head>The Geniune Jew costs</head>
                <row role="data">
-                  <cell role="data">In <rs type="place"><ref >Austria-Hungary</ref></rs></cell>
+                  <cell role="data">In <rs type="place"><ref source="place001">Austria-Hungary</ref></rs></cell>
                   <cell role="data">Abroad</cell>
                </row>
                <row role="data">
@@ -185,7 +185,7 @@
          </div>
          <lb/>
          <div type="article" style="two columns" n="2">
-            <head>Letter from Hungary</head>
+            <head>Letter from <rs type="place">Hungary</rs></head>
             <p>
                The Hungarian Jews, their lives, their political and economical situation, are not really known to our Jewish readers. The Hungarian Jew is a different “type”, he differs from the Polish and the German ones. 
                They live miles apart and don’t come in contact with each other. I’m not looking to describe Hungarian Jewish people in detail, their situation, their conditions and their states. I will do that in another 
@@ -200,7 +200,7 @@
             </p>
             <p>
                Furthermore, the Jewish people in <rs type="place">Hungary</rs> can influence the government in certain ways and if they want something, they have the power to do so. Still, there have been some cases where the 
-               government issued laws, which harmed Jewish people there. The last minister president <rs type="person"><ref source="person034">Kálmán Széll</ref></rs> allowed Christians to open shops and banks in frontier districts where a lot of Jewish 
+               government issued laws, which harmed Jewish people there. The last minister president <rs type="person" key="person034">Kálmán Széll</rs> allowed Christians to open shops and banks in frontier districts where a lot of Jewish 
                people live among Ruthenians and Slavs in order to support the populace there. That harmed the Jewish people there. As soon as they opposed it, the government had to stop. Jewish people seem to have a bit more 
                influence in <rs type="place">Hungary</rs> compared to other countries.
             </p>
