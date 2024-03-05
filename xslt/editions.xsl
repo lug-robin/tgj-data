@@ -143,11 +143,11 @@
     <xsl:template match="tei:ref">
         <xsl:variable name="source">
             <xsl:value-of select="./@source"/>
+            <xsl:value-of select="./@key"/>
         </xsl:variable>
         <a href="{$source}" target="_blank">
             <xsl:apply-templates/>
         </a>
-        
     </xsl:template>
     <xsl:template match="tei:p">
         <p id="{local:makeId(.)}" class="yes-index">
