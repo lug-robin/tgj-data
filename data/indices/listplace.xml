@@ -73,29 +73,19 @@
                    <location type="coords">
                        <geo>48.2083537 16.3725042</geo>
                    </location>     
-                    </place>
-                    
-                    <place xml:id="place025">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Austria</placeName>
-                        <location type="coords">
-                            <geo>47.59397 14.12456</geo>
-                        </location>
-                    </place>
-                    
+                    </place>                   
                     <place xml:id="place008">
                         <placeName type="person_namensvariante_nachname-komma-vorname">America</placeName>
                         <location type="coords">
                             <geo>39.7837304 -100.445882</geo>
                         </location>
                     </place>
-                    
                     <place xml:id="place009">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Hungary</placeName>
                         <location type="coords">
                             <geo>47.1817585 19.5060937</geo>
                         </location>
                     </place>
-                    
                     <place xml:id="place010">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Germany</placeName>
                         <location type="coords">
@@ -216,7 +206,12 @@
                             <geo>51.2086975 89.2343748</geo>
                         </location>
                     </place>
-                    
+                    <place xml:id="place025">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Austria</placeName>
+                        <location type="coords">
+                            <geo>47.59397 14.12456</geo>
+                        </location>
+                    </place>
                     <place xml:id="place026">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Bohemia</placeName>
                         <location type="coords">
