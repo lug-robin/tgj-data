@@ -47,7 +47,7 @@
                     <place xml:id="place004">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Moldova</placeName>
                         <location type="coords">
-                            <geo>40.741895 -73.989308</geo>
+                            <geo>46.9803875 28.3896969</geo>
                         </location>
                     </place>
                     
@@ -635,6 +635,12 @@
                         <placeName type="person_namesvariente_nachname-komma-vorname">Port Arthur</placeName>
                         <location type="coords">
                             <geo>38.802 121.266</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place084">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Philippines</placeName>
+                        <location type="coords">
+                            <geo>13 22</geo>
                         </location>
                     </place>
                 </listPlace>

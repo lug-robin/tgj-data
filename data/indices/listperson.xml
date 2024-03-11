@@ -306,6 +306,16 @@
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q43739</idno>
                 <occupation>Pope from 1903-1914. Birthname: Giuseppe Melchiorre Sarto</occupation>
               </person>
+              <person xml:id="person036">
+                <name>
+                  <forename>George</forename>
+                  <surname>Dewey</surname>
+                </name>
+                <birth><date when-iso="1837-12-26">1837-12-26</date></birth>
+                <death><date when-iso="1917-01-16">1917-01-16</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q467093</idno>
+                <occupation>United States Navy Admiral</occupation>
+              </person>
             </listPerson>
           </div>
         </body>
