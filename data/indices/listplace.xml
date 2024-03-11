@@ -521,7 +521,6 @@
                     </place>
                     <place xml:id="place067">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Poland</placeName>
-                        <desc type="entity_type">Country</desc>
                         <location type="coords">
                             <geo>52.2159335 19.134422</geo>
                         </location>
@@ -625,12 +624,20 @@
                         <location type="coords">
                             <geo>43.133333 131.9</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place014">Russia</placeName>
+                        </location>
                     </place>
                     <place xml:id="place083">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Port Arthur</placeName>
                         <location type="coords">
                             <geo>38.802 121.266</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place021">China</placeName>
+                        </location>
+                        <note>Now called Lüshun Port. Part of Imperial Russia until 1904, Imperial Japan 1905-1945, the Soviet Union
+                        1945-1956, and China since 1956.</note>
                     </place>
                     <place xml:id="place084">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Philippines</placeName>

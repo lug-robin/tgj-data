@@ -188,7 +188,7 @@
                 <idno type="URL" subtype="wikiwant">https://www.wikiwand.com/en/Isaac_ben_Eliezer_Halevi</idno>
                 <occupation>Rabbi. Taught in Worms.</occupation>
               </person>
-              <person xml:id="person2021">
+              <person xml:id="person021">
                 <persName><forename>Eleazar</forename>
                   <surname>ben Jehuda</surname></persName>
                 <birth><date>Not Known</date></birth>
@@ -308,16 +308,6 @@
               </person>
               <person xml:id="person036">
                 <name>
-                  <forename>George</forename>
-                  <surname>Dewey</surname>
-                </name>
-                <birth><date when-iso="1837-12-26">1837-12-26</date></birth>
-                <death><date when-iso="1917-01-16">1917-01-16</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q467093</idno>
-                <occupation>United States Navy Admiral</occupation>
-              </person>
-              <person xml:id="person037">
-                <name>
                   <forename>Peter</forename>
                   <surname>Karađorđević</surname>
                 </name>
@@ -326,7 +316,7 @@
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q211827</idno>
                 <occupation>King of Serbia, 1903-1921.</occupation>
               </person>
-              <person xml:id="person038">
+              <person xml:id="person037">
                 <name>
                   <forename>Aleksandar</forename>
                   <surname>Obrenović</surname>
@@ -335,6 +325,16 @@
                 <death><date when-iso="1903-05-29">1903-05-29</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q297547</idno>
                 <occupation>King of Serbia, 1889-1903.</occupation>
+              </person>
+              <person xml:id="person038">
+                <name>
+                  <forename>George</forename>
+                  <surname>Dewey</surname>
+                </name>
+                <birth><date when-iso="1837-12-26">1837-12-26</date></birth>
+                <death><date when-iso="1917-01-16">1917-01-16</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q467093</idno>
+                <occupation>United States Navy Admiral</occupation>
               </person>
               <person xml:id="person039">
                 <name>
