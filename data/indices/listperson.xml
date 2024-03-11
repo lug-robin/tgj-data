@@ -318,8 +318,8 @@
               </person>
               <person xml:id="person037">
                 <name>
-                  <forename>George</forename>
-                  <surname>Dewey</surname>
+                  <forename>Peter</forename>
+                  <surname>Karađorđević</surname>
                 </name>
                 <birth><date when-iso="1844-06-29">1844-06-29</date></birth>
                 <death><date when-iso="1921-08-16">1921-08-16</date></death>
@@ -335,6 +335,26 @@
                 <death><date when-iso="1903-05-29">1903-05-29</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q297547</idno>
                 <occupation>King of Serbia, 1889-1903.</occupation>
+              </person>
+              <person xml:id="person039">
+                <name>
+                  <forename>Jozef</forename>
+                  <surname>Israëls</surname>
+                </name>
+                <birth><date when-iso="1824-01-27">1824-01-27</date></birth>
+                <death><date when-iso="1911-08-12">1911-08-12</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q528460</idno>
+                <occupation>Dutch painter.</occupation>
+              </person>
+              <person xml:id="person040">
+                <name>
+                  <forename>Marie Henriette</forename>
+                  <surname>of Austria</surname>
+                </name>
+                <birth><date when-iso="1836-08-23">1836-08-23</date></birth>
+                <death><date when-iso="1902-09-19">1902-09-19</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q234047</idno>
+                <occupation>Queen Consort of Belgium.</occupation>
               </person>
             </listPerson>
           </div>

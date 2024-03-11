@@ -295,7 +295,7 @@
                thing we do know, there will be absolutely no benefit for us Jewish people resulting from that. 
             </p>
             <p>
-               “If we don’t get that, what do we have?” If we don’t want to take care of ourselves, no one will. “Go and make a living for yourself!” said <rs type="person">King David</rs> already. Therefore, it’s 
+               “If we don’t get that, what do we have?” If we don’t want to take care of ourselves, no one will. “Go and make a living for yourself!” said <rs type="person"><ref source="person011">King David</ref></rs> already. Therefore, it’s 
                time that Jewish committees should be made already, who should investigate creating new enterprises, who should give our poor brothers a livelihood. Here in <rs type="place">Galicia</rs>, there are 
                enough Jewish people who have assets and can found companies, from which hundreds of families can survive and don’t have to wander around abroad and be roaming around. Already, there is no luck left to be 
                found in <rs type="place">America</rs>, in <rs type="place">Hungary</rs>, in <rs type="place">Germany</rs>, in <rs type="place">England</rs>, the Polish and the Galician Jewish people are not welcome anymore, 
@@ -356,14 +356,15 @@
          <div type="article" style="two columns" n="6">
          <head>Letter from <rs type="place">Russia</rs></head>
          <p>
-            After the horrible persecution of <rs type="place">Chișinău</rs> and <rs type="place">Gomel</rs>, after the ridiculous comedy what was the <ref type="information" source="https://en.wikipedia.org/wiki/Kishinev_pogrom"><rs type="place">Chișinău</rs> progrom</ref>, which made the whole world indignant - do we all 
+            After the horrible persecution of <rs type="place">Chișinău</rs> and <rs type="place">Gomel</rs>, after the ridiculous comedy what was the 
+            <ref type="information" source="https://en.wikipedia.org/wiki/Kishinev_pogrom"><rs type="place">Chișinău</rs> progrom</ref>, which made the whole world indignant - do we all 
             of a sudden now hear that the government has called together all other provinces to an assembly, in which it is to be consulted if Jewish people should be allowed to live 
             in the whole country of <rs type="place">Russia</rs>, unlike now as they are crowded together in few provinces like chickens on the roost and only the best, for example those who are 
             in the highest tax brackets or graduates etc., can live in all of <rs type="place">Russia</rs>. Rumour has it, that several provinces are in favour of expanding the Jew’s rights to live 
             in <rs type="place">Russia</rs> as they cannot watch anymore at the misery and poverty, in which those Jewish people have to live in, and which are caused by living cramped like this and having 
-            to rip bits out of each other’s mouths. The governor of <rs type="place">Bessarabia</rs>, <rs type="person">Prince <hi rend="italic">Urusov</hi> [Sergey Dmitriyevich]</rs>, was particularly fond of caring for Jewish people said: “The whole Jewish question is 
-            <rs type="place">Russia</rs> is only a consequence of the bad economical state in which Jewish people have to live because of living so closely squeezed together that they should be allowed to 
-            expand their right of abode, so they would fare better and also to weaken the hatred towards them.”</p>
+            to rip bits out of each other’s mouths. The governor of <rs type="place">Bessarabia</rs>, <rs type="person"><ref source="person022">Prince <hi rend="italic">Urusov</hi> [Sergey Dmitriyevich]</ref></rs>, 
+            was particularly fond of caring for Jewish people said: “The whole Jewish question is <rs type="place">Russia</rs> is only a consequence of the bad economical state in which Jewish people have to live 
+            because of living so closely squeezed together that they should be allowed to expand their right of abode, so they would fare better and also to weaken the hatred towards them.”</p>
          <p>
             It must be really bad and bitter for Jewish people in <rs type="place">Russia</rs> that now Antisemites like those provinces now have pity towards them. That is the truth! The situation of the 
             Russian Jewish people is indeed very unfortunate, and it gets worse each day. However, we do not really believe that the government sincerely wants to actually help them. All of that consulting 
@@ -427,30 +428,27 @@
          <div type="article" style="two columns" n="8">
             <head>Political News</head>
             <p>
-               <rs type="place">Austria-Hungary</rs>: Despite all efforts of theAustrian and Hungarian govnerments they were not 
-               able to reconcile the different parties. In <rs type="place">Austria</rs>, the Czech do not want to knock off any of their demands. 
-               They are dertermined to block the imperial council as long as possible, they will not permit regular council and negotiation until the Czech language will 
-               be introduced as an official language in <rs type="place">Bohemia</rs> as well as establish a  Czech university in <rs type="place">Moravia</rs>. Lately, 
-               all negociations that had been held let to no results, even what the <rs type="person">Emporer [Franz Joseph]</rs> has said only to the vice president of 
-               the council, <rs type="person" xml:id="person_001">Dr. <hi rend="italic">Žáček</hi> [Jan]</rs> at the court ball, that the Czech people should strive to make peace, remained without success. The Czech 
-               do not want to succumb. - The government cannot give way to the Czech though, because the German wanted to block and it would have been their own. - In the 
-               meantime, the Czech lost the little trust they had in the government; they say that the current minister president <rs type="person">Dr. <hi rend="italic">Koerber</hi> [Ernest]</rs> 
-               is not capable of making peace and they demand that he should step down and another one should step up. However, the <rs type="person">Emperor [Franz Joseph]</rs> 
-               does not want to send him home until they are sure that neither the Czech nor the German want to give way to the new minister president. But this is not for sure 
-               and it doesn’t make sense if there should be another minister. 
+               <rs type="place">Austria-Hungary</rs>: Despite all efforts of theAustrian and Hungarian govnerments they were not able to reconcile the different parties. In <rs type="place">Austria</rs>, 
+               the Czech do not want to knock off any of their demands. They are dertermined to block the imperial council as long as possible, they will not permit regular council and negotiation until the 
+               Czech language will be introduced as an official language in <rs type="place">Bohemia</rs> as well as establish a  Czech university in <rs type="place">Moravia</rs>. Lately, all negociations 
+               that had been held let to no results, even what the <rs type="person"><ref source="person003">Emporer [Franz Joseph]</ref></rs> has said only to the vice president of the council, 
+               <rs type="person"><ref source="peron001"> Dr. <hi rend="italic">Žáček</hi> [Jan]</ref></rs> at the court ball, that the Czech people should strive to make peace, remained without success. The 
+               Czech do not want to succumb. - The government cannot give way to the Czech though, because the German wanted to block and it would have been their own. - In the meantime, the Czech lost the 
+               little trust they had in the government; they say that the current minister president <rs type="person"><ref source="person004">Dr. <hi rend="italic">Koerber</hi> [Ernest]</ref></rs> is not 
+               capable of making peace and they demand that he should step down and another one should step up. However, the <rs type="person">Emperor [Franz Joseph]</rs> does not want to send him home until 
+               they are sure that neither the Czech nor the German want to give way to the new minister president. But this is not for sure and it doesn’t make sense if there should be another minister. 
             </p>
             <p>
-               In the meantime the imperial council has shut down and only the delegations are counceling. The delegation is only to concern itself with
-              <hi rend="italic"> foreign</hi>   politics and with military matters. But because a great deal of members of the imperial council and the manor house 
-               who are from different parties are part of the delegation and therefore they mainly talk about  <hi rend="italic">internal</hi>   matters, about the dispute between the Czech and 
-               German, etc., and very little about foreign politics. Of course,  <cb/>nothing comes of this all this talking, idle words remain, without a purpose or practical value.
-               - Concurrently, the government reigns with <rs type="information" source="https://www.verfassungen.eu/hu/verf48.htm#Gesetzesartikel_XII:1867">[III.] § 14</rs>, it is working as well as possible, it even wants to negotiate new trade contracts with 
-               German, and also the <ref type="information" source="https://en.wikipedia.org/wiki/Austro-Hungarian_Compromise_of_1867">Compromise with Hungary</ref> by the means of § 14, and because the Czech treathen not to approve the recruit law this year, 
-               the government also wants to pass this law with § 14. 
+               In the meantime the imperial council has shut down and only the delegations are counceling. The delegation is only to concern itself with <hi rend="italic"> foreign</hi>   politics and with 
+               military matters. But because a great deal of members of the imperial council and the manor house who are from different parties are part of the delegation and therefore they mainly talk about  
+               <hi rend="italic">internal</hi> matters, about the dispute between the Czech and German, etc., and very little about foreign politics. Of course,  <cb/>nothing comes of this all this talking, 
+               idle words remain, without a purpose or practical value. - Concurrently, the government reigns with <rs type="information" source="https://www.verfassungen.eu/hu/verf48.htm#Gesetzesartikel_XII:1867">[III.] § 14</rs>, 
+               it is working as well as possible, it even wants to negotiate new trade contracts with German, and also the <ref type="information" source="https://en.wikipedia.org/wiki/Austro-Hungarian_Compromise_of_1867">Compromise with Hungary</ref> 
+               by the means of § 14, and because the Czech treathen not to approve the recruit law this year, the government also wants to pass this law with § 14. 
             </p>
             <p>   
                However in   <rs type="place"><hi rend="italic">Hungary</hi></rs>,  there is not § 14. There, the government’s situation is a lot more difficult. The new minister president [of Hungary], 
-               <rs type="person">Count   <hi rend="italic">Tisza</hi>    [István]</rs> may have approved almost everything what the opposition wanted, solely the command langauge in <rs type="place">Hungary</rs> 
+               <rs type="person"><ref source="person005">Count <hi rend="italic">Tisza</hi> [István]</ref></rs> may have approved almost everything what the opposition wanted, solely the command langauge in <rs type="place">Hungary</rs> 
                being Hungarian, he did not grant. The greater part of the opposition also found peace with this decision as well, merely some of the deportees don’t want to end this 
                discussion and don’t want to give in the obstruction until the Hungarian command langauge is being introduced as well, and the minister president cannot give this to them.
                - That is why he decided to break the obstruction with force, he has announced in parliament that if the opposition will not sign off the recruit law by <rs type="date">February 3rd</rs>, 
@@ -488,8 +486,8 @@
             <p>
                (<rs type="place">Vienna</rs>). In the Austrian Delegation the antisemite <rs type="person">Schneider</rs> seized the opportunity to grumble about Jewish people. He said that Jewish 
                merchants would sell poor merchandise abroad and therefore the reputation of Austrian merchandise is sullied leading to no buyers. He also showed torn-up boots, which a 
-               Jewish merchant wanted to export abroad. The delegation president Baron <rs type="person"><hi rend="italic">Gautsch</hi> [Paul]</rs> called him to order several times and after <rs type="person">Schneider</rs> 
-               said at the end that Jewish people are not humans he shut him down. The delegate Dr. <rs type="person"><hi rend="italic">Byk</hi> [Emil]</rs> punished him severely. The president of our religious community 
+               Jewish merchant wanted to export abroad. The delegation president Baron <rs type="person"><ref source="person006"><hi rend="italic">Gautsch</hi> [Paul]</ref></rs> called him to order several times and after <rs type="person">Schneider</rs> 
+               said at the end that Jewish people are not humans he shut him down. The delegate Dr. <rs type="person"><ref source="person007"><hi rend="italic">Byk</hi> [Emil]</ref></rs> punished him severely. The president of our religious community 
               <rs type="person"> Mr. Klinger</rs> wants him to resign immediately.
             </p>   
             <p>
@@ -497,14 +495,14 @@
                in severity, but the sales clerks wish for the stores to be closed all Sunday. The minister of Commerce promised the merchants to soften the law in their favour. 
            </p>
             <p>
-               (<rs type="place">Berlin</rs>). The well known benefactor <rs type="person">Samuel <hi rend="italic">Straus</hi></rs> died in <rs type="place">Karlsruhe</rs>. He was a great philanthropist 
-               and a pious Jew. May his memory be a blessing. - The  socialist member of parliament <rs type="person"><hi rend="italic">Bebel</hi> [Ferdinand August]</rs> took on the subject of Russian Jewish people 
+               (<rs type="place">Berlin</rs>). The well known benefactor <rs type="person"><ref source="person008">Samuel <hi rend="italic">Straus</hi></ref></rs> died in <rs type="place">Karlsruhe</rs>. He was a great philanthropist 
+               and a pious Jew. May his memory be a blessing. - The  socialist member of parliament <rs type="person"><ref source="person009"><hi rend="italic">Bebel</hi> [Ferdinand August]</ref></rs> took on the subject of Russian Jewish people 
                and reproached the government that it allows the Russian secret police to be stationed in <rs type="place">Germany</rs> and spy out and denounce Russian Jewish people who migrated to 
                <rs type="place">Germany</rs>. 
             </p>
             <p>
-               The famous Jewish painter <rs type="pereson">Josef <hi rend="italic">Israël</hi></rs> is celebrating his 80th birthday these days. For that occasion he was honoured by the German Emperor 
-               [<rs type="person">Willhelm II.</rs>] and the Berlin Academy. 
+               The famous Jewish painter <rs type="person"><ref source="person039">Jozef <hi rend="italic">Israëls</hi></ref></rs> is celebrating his 80th birthday these days. For that occasion he was honoured by the German Emperor 
+               [<rs type="person"><ref source="person010">Willhelm II</ref></rs>] and the Berlin Academy. 
             </p>
             <p>
                (<rs type="place">Warsaw</rs>). More than 150 Jewish workers have been arrested because they have been suspected of being socialists.
@@ -515,7 +513,7 @@
                - Many cities asked the government to allow Jewish people to live there for the sake of trade. The government now allowed Jewish people to stay in over 50 cities where it has been forbidden up until now. 
             </p>  
             <p>
-               (<rs type="place">Bucharest</rs>). A member of parliament <rs type="person"><hi rend="italic">Cantacuzino</hi> [Gheorghe Grigore]</rs> gave an important speech for Jewish people. He reproaches the government 
+               (<rs type="place">Bucharest</rs>). A member of parliament <rs type="person"><ref source="person012"><hi rend="italic">Cantacuzino</hi> [Gheorghe Grigore]</ref></rs> gave an important speech for Jewish people. He reproaches the government 
                for treating Jewish people harmfully and the whole country suffers because of it. Maybe it is going better already. 
             </p>
             <p>
@@ -547,15 +545,15 @@
                Several dynamite bombs have been found in the king’s castle in <rs type="place"><hi rend="italic">Madrid</hi></rs> (<rs type="place">Spain</rs>), which have been set there by anarchists in order to destroy the castle. 
             </p>
            <p>
-              The previous Austrian crown princess <rs type="person">Stéphanie [of <rs type="place">Belgium</rs>]</rs> has handed over a complaint to her father, <rs type="person">King [Leopold II.]</rs> of <rs type="palce">Belgium</rs> to hand over part of her 
-              <rs type="rs">mother´s [Marie Henriette]</rs> inheritance, over 20 million francs. 
+              The previous Austrian crown princess <rs type="person"><ref source="person013">Stéphanie [of <rs type="place">Belgium</rs>]</ref></rs> has handed over a complaint to her father, <rs type="person">
+                 <ref source="person014">King [Leopold II]</ref></rs> of <rs type="palce">Belgium</rs> to hand over part of her <rs type="person">mother´s <ref source="person040">[Marie Henriette]</ref></rs> inheritance, over 20 million francs. 
            </p>
          </div>
          <lb/>
          <div type="article" style="two columns" n="11">
             <head>
                <lb/>Feuilleton.
-               <lb/>Rabbi <rs type="person">Shlomo Yitzchaki</rs> (<rs type="person">Rashi</rs>)
+               <lb/>Rabbi <ref source="person015"><rs type="person">Shlomo Yitzchaki</rs> (<rs type="person">Rashi</rs></ref>)
                <lb/>(A memoir).
             </head>
             <p>
@@ -569,10 +567,10 @@
             </p>
             <p>
                <rs type="person">Rashi</rs> was born during the fifth century in the fifth millennium (in the year 1028 according to the Christian calendar) in  <rs type="place"><hi rend="italic">Troyes</hi></rs> in <rs type="place">France</rs> 
-               at the same time as the last gaon of <rs type="place">Babylon</rs> <rs type="person">Rabbi Hai [Goan]</rs> died. The sun of the holy doctrine which has stopped shining in the East (<rs type="place">Babylon</rs>), has started to rise 
+               at the same time as the last gaon of <rs type="place">Babylon</rs> <rs type="person"><ref source="person016">Rabbi Hai [Goan]</ref></rs> died. The sun of the holy doctrine which has stopped shining in the East (<rs type="place">Babylon</rs>), has started to rise 
                again in <rs type="place">Troyes</rs> (<rs type="place">France</rs>). <rs type="person">Rashi</rs> comes from a family of scholars. His father was a great Talmud scholar, his mother was a sister of the well 
-               known Rabbi <rs type="person">Simeon bar Isaac</rs>, who has written a lot of poems. In his youth, <rs type="person">Rashi</rs> went to <rs type="place">Mainz</rs> (<rs type="place">Germany</rs>) where at that 
-               time was an important rabbinical academy where <rs type="person">Gerschom ben Jehuda</rs> taught, and now during <rs type="person">Rashi</rs>’s time, Rabbi <rs type="person">Yaakov ben Yadar</rs>, which 
+               known Rabbi <rs type="person"><ref source="person017">Simeon bar Isaac</ref></rs>, who has written a lot of poems. In his youth, <rs type="person">Rashi</rs> went to <rs type="place">Mainz</rs> (<rs type="place">Germany</rs>) where at that 
+               time was an important rabbinical academy where <rs type="person"><ref source="person018">Gerschom ben Jehuda</ref></rs> taught, and now during <rs type="person">Rashi</rs>’s time, Rabbi <rs type="person">Yaakov ben Yadar</rs>, which 
                <rs type="person">Rashi</rs> has mentioned often in his commentary. From <rs type="place">Mainz</rs>, <rs type="persono">Rashi</rs> went to <rs type="place">Worms</rs> and studied there under the great 
                goan rabbi <rs type="person">Isaac ben Eliezer Halevi</rs> and rabbi <rs type="person">Eleazar ben Jehudah</rs>. After that he studied under rabbi <rs type="person">Eliakim ben Meshullam</rs> in 
                <rs type="place">Speyer</rs> and from there he went back to <rs type="place">France</rs>, where he spread the light of his doctrine about the whole world.
