@@ -660,7 +660,7 @@
                     <place xml:id="place085">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Chemulp'o</placeName>
                         <location type="coords">
-                            <geo>37.483333, 126.633333</geo>
+                            <geo>37.483333 126.633333</geo>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place022">Korea</placeName>
