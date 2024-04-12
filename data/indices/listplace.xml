@@ -657,6 +657,19 @@
                             <geo>13 22</geo>
                         </location>
                     </place>
+                    <place xml:id="place085">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Chemulp'o</placeName>
+                        <location type="coords">
+                            <geo>37.483333, 126.633333</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place022">Korea</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <note>Was also  known as Jemulpo. Since 1910 it is called Incheon (Metropolitan City).</note>
+                    </place>
                 </listPlace>
             </div>
         </body>

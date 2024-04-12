@@ -356,6 +356,26 @@
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q234047</idno>
                 <occupation>Queen Consort of Belgium.</occupation>
               </person>
+              <person xml:id="person041">
+                <name>
+                  <forename>Yevgeni Ivanovich</forename>
+                  <surname>Alekseyev</surname>
+                </name>
+                <birth><date when-iso="1836-08-23">1843-05-13</date></birth>
+                <death><date when-iso="1902-09-19">1917-05-27</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q701150</idno>
+                <occupation>Imperial Russian Navy admiral.</occupation>
+              </person>
+              <person xml:id="person042">
+                <name>
+                  <forename>Nikolai</forename>
+                  <surname>Romanov</surname>
+                </name>
+                <birth><date when-iso="1836-08-23">1868-05-18</date></birth>
+                <death><date when-iso="1902-09-19">1918-07-17</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q40787</idno>
+                <occupation>Emperor of Russia from 1894 to 1917</occupation>
+              </person>
             </listPerson>
           </div>
         </body>
