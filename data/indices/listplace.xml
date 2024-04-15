@@ -853,7 +853,7 @@
                             <geo>50.1075 7.7266193</geo>
                         </location>
                         <location type="located_in_place">
-                            <placeName key="place0101">Rhineland-Palatinate</placeName>
+                            <placeName key="place101">Rhineland-Palatinate</placeName>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place010">Germany</placeName>
@@ -895,7 +895,7 @@
                     <place xml:id="place109">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Prague</placeName>
                         <location type="coords">
-                            <geo>50.0875, 14.421389
+                            <geo>50.0875 14.421389
                             </geo>
                         </location>
                         <location type="located_in_place">
