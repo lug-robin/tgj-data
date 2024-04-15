@@ -859,6 +859,52 @@
                             <placeName key="place010">Germany</placeName>
                         </location>
                     </place>
+                    <place xml:id="place106">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Brody</placeName>
+                        <location type="coords">
+                            <geo>50.08 25.151389</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place107">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Razová</placeName>
+                        <location type="coords">
+                            <geo>49.939167 17.538889</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place108">Silesia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place108">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Silesia</placeName>
+                        <location type="coords">
+                            <geo>51.6 17.2</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place109">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Prague</placeName>
+                        <location type="coords">
+                            <geo>50.0875, 14.421389
+                            </geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place026">Bohemia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                    </place>
                 </listPlace>
             </div>
         </body>
