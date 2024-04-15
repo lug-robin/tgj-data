@@ -159,7 +159,7 @@
                     </place>
                     
                     <place xml:id="place018">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Petersburg</placeName>
+                        <placeName type="person_namensvariante_nachname-komma-vorname">St. Petersburg</placeName>
                         <location type="coords">
                             <geo>59.938732 30.316229</geo>
                         </location>
@@ -669,6 +669,195 @@
                             <placeName key="place024">Asia</placeName>
                         </location>
                         <note>Was also  known as Jemulpo. Since 1910 it is called Incheon (Metropolitan City).</note>
+                    </place>
+                    <place xml:id="place086">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Tokyo</placeName>
+                        <location type="coords">
+                            <geo>35.6821936 139.762221</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place019">Japan</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place087">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Osaka</placeName>
+                        <location type="coords">
+                            <geo>34.661629 135.4999268</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place019">Japan</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place088">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Kyoto</placeName>
+                        <location type="coords">
+                            <geo>35.021041 135.7556075</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place019">Japan</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place089">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Nagoyá</placeName>
+                        <location type="coords">
+                            <geo>35.1851045 136.8998438</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place019">Japan</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place090">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Taiwan</placeName>
+                        <location type="coords">
+                            <geo>23.9739374 120.9820179</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place019">Japan</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place091">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Kōbe</placeName>
+                        <location type="coords">
+                            <geo>34.6932379 135.1943764</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place019">Japan</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place092">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Yokohoma</placeName>
+                        <location type="coords">
+                            <geo>35.4443947 139.6367727</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place019">Japan</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place093">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Frankfurt</placeName>
+                        <location type="coords">
+                            <geo>50.1109221 8.68212677</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place094">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">USA</placeName>
+                        <location type="coords">
+                            <geo>39.7837304 -100.445882</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place095">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Paris</placeName>
+                        <location type="coords">
+                            <geo>48.8588897 2.320041</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place045">France</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place096">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">New York</placeName>
+                        <location type="coords">
+                            <geo>40.7127281 -74.0060152</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place094">France</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place097">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Morroco</placeName>
+                        <location type="coords">
+                            <geo>31.1728205 -7.3362482</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place098">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Settat</placeName>
+                        <location type="coords">
+                            <geo>33.002397 -7.619867</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place097">France</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place099">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Rothenburg</placeName>
+                        <location type="coords">
+                            <geo>33.002397 -7.619867</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place0102">Bavaria</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place100">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Worms</placeName>
+                        <location type="coords">
+                            <geo>49.6302618 8.3620898</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place0101">Rhineland-Palatinate</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place101">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Rhineland-Palatinate</placeName>
+                        <location type="coords">
+                            <geo>49.9531599 7.310646</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place102">Germany</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place102">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Bavaria</placeName>
+                        <location type="coords">
+                            <geo>48.9467562 11.4038717</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place103">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Mainz</placeName>
+                        <location type="coords">
+                            <geo>50.0012314 8.2762513</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place101">Rhineland-Palatinate</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place104">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Munich</placeName>
+                        <location type="coords">
+                            <geo>48.1371079 11.5753822</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place102">Bavaria</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place105">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Oberwesel</placeName>
+                        <location type="coords">
+                            <geo>50.1075 7.7266193</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place0101">Rhineland-Palatinate</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
                     </place>
                 </listPlace>
             </div>

@@ -425,7 +425,7 @@
             </p>
          </div>
          <lb/>
-         <div type="article" style="two columns" n="8">
+         <div type="News" style="two columns" n="1">
             <head>Political News</head>
             <p>
                <rs type="place">Austria-Hungary</rs>: Despite all efforts of theAustrian and Hungarian govnerments they were not able to reconcile the different parties. In <rs type="place">Austria</rs>, 
@@ -472,7 +472,7 @@
             </p>
          </div>
          <lb/>
-         <div type="article" style="two columns" n="9">
+         <div type="News" style="two columns" n="2">
             <head>News.
             <lb/>Jewish News.</head>
             <p>
@@ -523,9 +523,9 @@
             </p>
          </div>
          <lb/>
-         <div type="article" style="two columns" n="10">
+         <div type="News" style="two columns" n="3">
             <head>
-               General News
+               General News.
             </head>
             <p>
                The whole Norwegian town <rs type="place">Ålesund</rs> burnt down. The damage is estimated to be 4 Million. Over 12,000 people are without a home.
@@ -550,7 +550,7 @@
            </p>
          </div>
          <lb/>
-         <div type="article" style="two columns" n="11">
+         <div type="article" style="two columns" n="8">
             <head>
                <lb/>Feuilleton.
                <lb/>Rabbi <ref source="person015"><rs type="person">Shlomo Yitzchaki</rs> (<rs type="person">Rashi)</rs></ref>
@@ -608,7 +608,7 @@
             </p>
          </div>
          <lb/>
-         <div type="article" style="two columns" n="12">
+         <div type="article" style="two columns" n="9">
             <head>
                Statistical information.
             </head>

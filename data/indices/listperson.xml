@@ -376,6 +376,46 @@
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q40787</idno>
                 <occupation>Emperor of Russia from 1894 to 1917</occupation>
               </person>
+              <person xml:id="person043">
+                <name>
+                  <forename>Frederick II</forename>
+                  <surname>of Staufen</surname>
+                </name>
+                <birth><date when-iso="1194-12-26">1194-12-26</date></birth>
+                <death><date when-iso="1250-12-13">1250-12-13</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q130221</idno>
+                <occupation>Holy Roman Emperor, 1230-1250.</occupation>
+              </person>
+              <person xml:id="person044">
+                <name>
+                  <forename>Eberhard I</forename>
+                  <surname>of Wittenberg</surname>
+                </name>
+                <birth><date when-iso="1265-03-13">1265-03-13</date></birth>
+                <death><date when-iso="1325-06-05">1325-06-05</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q650606</idno>
+                <occupation>Count of Württemberg, 1279–1325.</occupation>
+              </person>
+              <person xml:id="person045">
+                <name>
+                  <forename>Rudolf I</forename>
+                  <surname>of Germany</surname>
+                </name>
+                <birth><date when-iso="1218-05-01">1218-05-01</date></birth>
+                <death><date when-iso="1291-07-12">1291-07-12</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q76956</idno>
+                <occupation>King of Germany/King of the Romans, 1273-1291.</occupation>
+              </person>
+              <person xml:id="person046">
+                <name>
+                  <forename>Nikolai</forename>
+                  <surname>Romanov</surname>
+                </name>
+                <birth><date when-iso="1215">1215</date></birth>
+                <death><date when-iso="1293-04-27">1293-04-27</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q72163</idno>
+                <occupation>Called Rabbi Meir of Rothenburg. <lb/>German rabbi and poet.</occupation>
+              </person>
             </listPerson>
           </div>
         </body>
