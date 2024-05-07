@@ -117,14 +117,14 @@
                   <cell role="data">For a quarter year - 3.50 "</cell>
                </row>
             </table>
-            <p><rs type="place">Lviv</rs>,<date when-iso="1904-02-05"> Friday 12th 1904</date></p>
+            <p><rs type="place">Lviv</rs>,<date when-iso="1904-02-12"> Friday 12th 1904</date></p>
             <cb n="2"/>
             <p>
                <lb/>Adverts are cheaply calculated
                <lb/>All letters and money send to:
                <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place">Lviv</rs>, <rs type="place">Sonnengasse 27</rs></foreign>
                <lb/>The true Jew is published every Friday
-               <lb/><foreign xml:lang="de"><rs type="place">Lemberg</rs>, <date when-iso="1904-02-05">den 12. Februar 1904</date></foreign>.</p>
+               <lb/><foreign xml:lang="de"><rs type="place">Lemberg</rs>, <date when-iso="1904-02-12">den 12. Februar 1904</date></foreign>.</p>
          </div>
          <lb/>
          <div type="article" style="two columns" n="1">
@@ -560,7 +560,7 @@
                <lb/><rs type="person">A. Hübscher</rs>, <rs type="place">Prague</rs>.
             </p>
             </div>
-            <div type="Ad" n="1">
+            <div type="ad" n="4">
                <head>
                   <lb/>Coffee!
                   <lb/><hi rend="italic>">All natural!</hi>

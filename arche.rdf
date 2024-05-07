@@ -251,4 +251,36 @@
       
       <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
       </acdh:Resource>
+   <acdh:Resource xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" rdf:about="/">
+      <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/ttj-data/"></acdh:hasIdentifier>
+      <acdh:hasTitle xml:lang="de"></acdh:hasTitle>
+      <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"></acdh:hasAccessRestriction>
+      <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"></acdh:hasCategory>
+      <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"></acdh:hasLanguage>
+      <acdh:isPartOf rdf:resource=""></acdh:isPartOf>
+      
+      <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"></acdh:hasLicense>
+      
+      <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasLicensor>
+      
+      <acdh:hasContact rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasContact>
+      
+      <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"></acdh:hasOwner>
+      
+      <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"></acdh:hasRightsHolder>
+      
+      <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602014"></acdh:hasRelatedDiscipline>
+      
+      <acdh:hasCreator rdf:resource="xxx"></acdh:hasCreator>
+      
+      <acdh:hasDepositor rdf:resource="xxx"></acdh:hasDepositor>
+      
+      <acdh:hasCurator rdf:resource="xxx"></acdh:hasCurator>
+      
+      <acdh:hasMetadataCreator rdf:resource="xxx"></acdh:hasMetadataCreator>
+      
+      <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"></acdh:hasOaiSet>
+      
+      <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"></acdh:hasOaiSet>
+      </acdh:Resource>
 </rdf:RDF>
