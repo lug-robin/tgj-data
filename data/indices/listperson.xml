@@ -408,13 +408,125 @@
               </person>
               <person xml:id="person046">
                 <name>
-                  <forename>Nikolai</forename>
-                  <surname>Romanov</surname>
+                  <forename>Baruch</forename>
+                  <surname>ben Meir</surname>
                 </name>
                 <birth><date when-iso="1215">1215</date></birth>
                 <death><date when-iso="1293-04-27">1293-04-27</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q72163</idno>
-                <occupation>Called Rabbi Meir of Rothenburg. <lb/>German rabbi and poet.</occupation>
+                <occupation>Called Rabbi Meir of Rothenburg. <lb/>Known by the Hebrew language acronym Maharam of Rothenburg<lb/>German rabbi and poet.</occupation>
+              </person>
+              <person xml:id="person047">
+                <name>
+                  <forename>Vittorio Emanuele III</forename>
+                  <surname>of Italy</surname>
+                </name>
+                <birth><date when-iso="1869-11-11">1869-11-11</date></birth>
+                <death><date when-iso="1947-12-28">1947-12-28</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q150642</idno>
+                <occupation>King of Italy from 1900 to 1946.</occupation>
+              </person>
+              <person xml:id="person048">
+                <name>
+                  <forename>Ricciotti</forename>
+                  <surname>Garibaldi</surname>
+                </name>
+                <birth><date when-iso="1847-02-24">1847-02-24</date></birth>
+                <death><date when-iso="1924-07-17">1924-07-17</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1236827</idno>
+                <occupation>Italian politician, 1847-1924.</occupation>
+              </person>
+              <person xml:id="person049">
+                <name>
+                  <forename>Giuseppe</forename>
+                  <surname>Garibaldi</surname>
+                </name>
+                <birth><date when-iso="1807-07-04">1807-07-04</date></birth>
+                <death><date when-iso="1882-06-02">1882-06-02</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q539</idno>
+                <occupation>Italian general, patriot, and republican, 1807–1882.</occupation>
+              </person>
+              <person xml:id="person050">
+                <name>
+                  <forename>Nicholas II</forename>
+                  <surname>Romanov</surname>
+                </name>
+                <birth><date when-iso="1868-05-06">1868-05-06</date></birth>
+                <death><date when-iso="1918-07-17">1918-07-17</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q40787</idno>
+                <occupation>Emperor of Russia, 1894 - 1917.</occupation>
+              </person>
+              <person xml:id="person051">
+                <name>
+                  <forename>Habibullah</forename>
+                  <surname>Khan</surname>
+                </name>
+                <birth><date when-iso="1872-06-03">1872-06-03</date></birth>
+                <death><date when-iso="1919-02-20">1919-02-20</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q334869</idno>
+                <occupation>Emir of Afghanistan, 1901-1919.</occupation>
+              </person>
+              <person xml:id="person052">
+                <name>
+                  <forename>Meiji</forename>
+                  <surname></surname>
+                </name>
+                <birth><date when-iso="1852-11-03">1852-11-03</date></birth>
+                <death><date when-iso="1912-07-30">1912-07-30</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q174231</idno>
+                <occupation>Emperor of Japan, 1867 - 1912.
+                  <lb/>Given Name: Mutsuhito.</occupation>
+              </person>
+              <person xml:id="person053">
+                <name>
+                  <forename>L.</forename>
+                  <surname>Aperman</surname>
+                </name>
+                <occupation>Coffee merchant from Brody.</occupation>
+              </person>
+              <person xml:id="person054">
+                <name>
+                  <forename>Kneppe</forename>
+                  <surname></surname>
+                </name>
+                <occupation>Baptised Jew. Imprisoned Rabbi Meir of Rothenburg.</occupation>
+              </person>
+              <person xml:id="person055">
+                <name>
+                  <forename>A.</forename>
+                  <surname>Hübscher</surname>
+                </name>
+                <occupation>Employer in Prague. Advertised in The Genuine Jew.</occupation>
+              </person>
+              <person xml:id="person056">
+                <name>
+                  <forename>Joel</forename>
+                  <surname>Weinreb</surname>
+                </name>
+                <occupation>Merchant in Lviv. Advertised in The Genuine Jew.</occupation>
+              </person>
+              <person xml:id="person057">
+                <name>
+                  <forename>Zweibel</forename>
+                  <surname>Leydesdorf</surname>
+                </name>
+                <death><date when-iso="1848">1848</date></death>
+                <occupation>Jew who immigrated to the USA. 
+                  <lb/>Left 700,000 dollars to his heirs.</occupation>
+              </person>
+              <person xml:id="person058">
+                <name>
+                  <forename>Elijah</forename>
+                  <surname>Hift</surname>
+                </name>
+                <occupation>Relative of Zweibel Leydesdorf. Inherited 7 million dollars.</occupation>
+              </person>
+              <person xml:id="person059">
+                <name>
+                  <forename></forename>
+                  <surname>Asher</surname>
+                </name>
+                <occupation>Student of Rabbi Meir of Rothenburg</occupation>
               </person>
             </listPerson>
           </div>
