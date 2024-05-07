@@ -54,13 +54,13 @@
                      <th>
                         Latitude
                         </th>
-                     <td></td>
+                     <td>33.5945144</td>
                   </tr>
                   <tr>
                      <th>
                         Longitude
                         </th>
-                     <td></td>
+                     <td>-7.6200284</td>
                   </tr>
                </tbody>
             </table>
@@ -75,9 +75,8 @@
             }
             window.addEventListener('load', addDarkmodeWidget);
         </script><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" /><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script><script>
-                                var lat = 
-;
-                                var long = ;
+                                var lat = 33.5945144;
+                                var long = -7.6200284;
                                 $("#map_detail").css("height", "500px");
                                 var map = L.map('map_detail').setView([Number(lat), Number(long)], 13);
                                 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
