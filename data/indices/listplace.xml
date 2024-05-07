@@ -898,9 +898,7 @@
                     <place xml:id="place109">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Dalmatia</placeName>
                         <location type="coords">
-                            <geo>
-                                43.5387965 16.1752356
-                            </geo>
+                            <geo>43.5387965 16.1752356</geo>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place001">Austria-Hungary</placeName>
@@ -912,9 +910,7 @@
                     <place xml:id="place110">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Croatia</placeName>
                         <location type="coords">
-                            <geo>
-                                45.3658443 15.6575209
-                            </geo>
+                            <geo>45.3658443 15.6575209</geo>
                         </location>
                     </place>
                     <place xml:id="place111">
