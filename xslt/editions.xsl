@@ -52,6 +52,7 @@
                     h3 { font-size: 16pt; }
                 </style>
             </head>
+
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0">
@@ -143,6 +144,20 @@
             </body>
         </html>
     </xsl:template>
+    <xsl:template match="tei:head[@rend='h1']">
+        <h1>
+            <xsl:apply-templates/>
+        </h1>
+    </xsl:template>
+    
+    <head>
+        <title>Your Title</title>
+        <style>
+            h1 { font-size: 20pt; font-weight: bold; }
+            h2 { font-size: 18pt; font-weight: bold; }
+            h3 { font-size: 16pt; }
+        </style>
+    </head>
     <xsl:template match="tei:ref">
         <xsl:variable name="source">
             <xsl:value-of select="./@source"/>
