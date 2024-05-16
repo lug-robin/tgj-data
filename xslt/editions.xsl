@@ -100,7 +100,7 @@
                         </div>
                         
 
-                        <p style="text-align:center;">
+                        <p style="text-align:left;">
                             <xsl:for-each select=".//tei:note[not(./tei:p)]">
                                 <div class="footnotes" id="{local:makeId(.)}">
                                     <xsl:element name="a">
@@ -159,9 +159,6 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>  
-    <xsl:template match="tei:hi">
-        <xsl:apply-templates />
-    </xsl:template>
     
     <xsl:template match="tei:hi[@rend='italic']">
         <em><xsl:apply-templates /></em>
@@ -176,7 +173,5 @@
         <xsl:attribute name="font-size">20pt</xsl:attribute>
         <xsl:attribute name="font-weight">bold</xsl:attribute>
     </xsl:template>
-    
-
-      
+          
 </xsl:stylesheet>
