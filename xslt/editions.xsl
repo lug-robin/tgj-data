@@ -172,12 +172,14 @@
     </xsl:template>
     
     <xsl:template match="tei:head [@rend='h1']">
-        <xsl:if test="string-length(.) > 0">  <xsl:copy>
-            <xsl:attribute name="font-size">20pt</xsl:attribute>
-            <xsl:attribute name="font-weight">bold</xsl:attribute>
-            <xsl:apply-templates select="*"/>
-        </xsl:copy>
-        </xsl:if>
+        <strong><xsl:apply-templates /></strong>
+        <xsl:attribute name="font-size">20pt</xsl:attribute>
+    </xsl:template>
+    
+    <xsl:template match="tei:head [@rend='h1']">
+        <xsl:apply-templates/>
+        <xsl:attribute name="font-size">20pt</xsl:attribute>
+        <xsl:attribute name="font-weight">bold</xsl:attribute>
     </xsl:template>
     
 
