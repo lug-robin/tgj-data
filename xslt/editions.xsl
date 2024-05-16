@@ -45,9 +45,9 @@
                     .navBarNavDropdown ul li:nth-child(2) {
                         display: none !important;
                     }
-                    h1 
-                    h2
-                    h3
+                    h1 { font-size: 20pt; font-weight: bold; }
+                    h2 { font-size: 18pt; font-weight: bold; }
+                    h3 { font-size: 16pt; }
                 </style>
             </head>
 
