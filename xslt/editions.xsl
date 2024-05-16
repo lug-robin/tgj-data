@@ -167,11 +167,6 @@
     <xsl:template match="tei:hi[@rend='bold']">
         <strong><xsl:apply-templates /></strong>
     </xsl:template>
-        
-    <xsl:template match="tei:head [@rend='h1']">
-        <xsl:apply-templates/>
-        <xsl:attribute name="font-size">20pt</xsl:attribute>
-        <xsl:attribute name="font-weight">bold</xsl:attribute>
-    </xsl:template>
+       
           
 </xsl:stylesheet>
