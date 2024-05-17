@@ -45,7 +45,7 @@
                     .navBarNavDropdown ul li:nth-child(2) {
                         display: none !important;
                     }
-                 </style>
+                </style>
             </head>
             <body class="d-flex flex-column h-100">
                 
@@ -69,13 +69,20 @@
                             </div>
                             <div class="col-md-8 col-lg-8 col-sm-12">
                                 <xsl:apply-templates select="*"/>  <xsl:for-each select="tei:head">
-                                <h1 align="center">
-                                    <xsl:value-of select="text()"/>
+                                    <h1>  <xsl:value-of select="text()"/>
+                                    </h1>
+                                    <h2>  <xsl:value-of select="text()"/>
+                                    </h2>
+                                    <h3>  <xsl:value-of select="text()"/>
+                                    </h3>
                                     <style>
                                         h1 { font-size: 20pt; font-weight: bold; }
+                                        h2 { font-size: 18pt; font-weight: bold; }
+                                        h3 {  font-size: 13pt;  /* Adjust as needed */
+                                        }
                                     </style>
-                                </h1>
                                 </xsl:for-each>
+                                
                                 <h3 align="center">
                                     <a href="{$teiSource}">
                                         <i class="bi bi-download" title="TEI/XML"/>
