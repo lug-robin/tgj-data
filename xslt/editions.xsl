@@ -105,12 +105,12 @@
                         </div>
                         <head style="text-align:center">
                             <xsl:for-each select="tei:head">
-                                <h1>  <xsl:value-of select="text()"/>
+                                <h2>  <xsl:value-of select="text()"/>
                                     <style>
-                                        h1 {  font-size: 20pt;  /* Adjust as needed */
+                                        h2 {  font-size: 20pt;  /* Adjust as needed */
                                         }
                                     </style>
-                                </h1>
+                                </h2>
                             </xsl:for-each>     
                         </head>
 
