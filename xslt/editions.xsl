@@ -37,7 +37,7 @@
         <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
         <html xmlns="http://www.w3.org/1999/xhtml" class="h-100">
     
-            <title>
+            <head>
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
                 </xsl:call-template>
@@ -45,13 +45,6 @@
                     .navBarNavDropdown ul li:nth-child(2) {
                         display: none !important;
                     }
-                    h1 { font-size: 20pt; font-weight: bold; }
-                    h2 { font-size: 18pt; font-weight: bold; }
-                    h3 { font-size: 16pt; }
-                </style>
-            </title>
-            <head>
-                <style>
                     h1 { font-size: 20pt; font-weight: bold; }
                     h2 { font-size: 18pt; font-weight: bold; }
                     h3 { font-size: 16pt; }
@@ -176,6 +169,22 @@
     
     <xsl:template match="tei:hi[@rend='bold']">
         <strong><xsl:apply-templates /></strong>
+    </xsl:template>
+    <xsl:template match="tei:body">
+        <xsl:apply-templates select="*"/>  <xsl:for-each select="tei:head">
+            <h1>  <xsl:value-of select="text()"/>
+            </h1>
+            <h2>  <xsl:value-of select="text()"/>
+            </h2>
+            <h3>  <xsl:value-of select="text()"/>
+            </h3>
+            <style>
+                h1 { font-size: 20pt; font-weight: bold; }
+                h2 { font-size: 18pt; font-weight: bold; }
+                h3 {  font-size: 13pt;  /* Adjust as needed */
+                }
+            </style>
+        </xsl:for-each>
     </xsl:template>
        
           
