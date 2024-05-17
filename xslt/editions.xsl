@@ -175,12 +175,12 @@
     </xsl:template>
     <xsl:template match="tei:body">
         <xsl:apply-templates select="*"/>  <xsl:for-each select="tei:head">
-            <h3>  <xsl:value-of select="text()"/>
-            </h3>
+            <h1>  <xsl:value-of select="text()"/>
             <style>
                 h1 {  font-size: 20pt;  /* Adjust as needed */
                 }
             </style>
+            </h1>
         </xsl:for-each>
     </xsl:template>
        
