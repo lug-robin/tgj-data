@@ -69,7 +69,10 @@
                             </div>
                             <div class="col-md-8 col-lg-8 col-sm-12">
                                 <h1 align="center">
-                                    <xsl:value-of select="$doc_title"/>
+                                    <xsl:value-of select="text()"/>
+                                    <style>
+                                        h1 { font-size: 20pt; font-weight: bold; }
+                                    </style>
                                 </h1>
                                 <h3 align="center">
                                     <a href="{$teiSource}">
