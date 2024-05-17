@@ -68,12 +68,14 @@
                                 </xsl:if>
                             </div>
                             <div class="col-md-8 col-lg-8 col-sm-12">
+                                <xsl:apply-templates select="*"/>  <xsl:for-each select="tei:head">
                                 <h1 align="center">
                                     <xsl:value-of select="text()"/>
                                     <style>
                                         h1 { font-size: 20pt; font-weight: bold; }
                                     </style>
                                 </h1>
+                                </xsl:for-each>
                                 <h3 align="center">
                                     <a href="{$teiSource}">
                                         <i class="bi bi-download" title="TEI/XML"/>
