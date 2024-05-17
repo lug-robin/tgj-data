@@ -37,7 +37,7 @@
         <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
         <html xmlns="http://www.w3.org/1999/xhtml" class="h-100">
     
-            <head>
+            <title>
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
                 </xsl:call-template>
@@ -49,7 +49,7 @@
                     h2 { font-size: 18pt; font-weight: bold; }
                     h3 { font-size: 16pt; }
                 </style>
-            </head>
+            </title>
             <head>
                 <style>
                     h1 { font-size: 20pt; font-weight: bold; }
