@@ -53,6 +53,11 @@
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0">
                     <div class="container">
+                        <div class="head">
+                            <div class="col-md-8 col-lg-8 col-sm-12">
+                                
+                            </div>
+                        </div>
 
 
                         <div class="row">
@@ -170,16 +175,10 @@
     </xsl:template>
     <xsl:template match="tei:body">
         <xsl:apply-templates select="*"/>  <xsl:for-each select="tei:head">
-            <h1>  <xsl:value-of select="text()"/>
-            </h1>
-            <h2>  <xsl:value-of select="text()"/>
-            </h2>
             <h3>  <xsl:value-of select="text()"/>
             </h3>
             <style>
-                h1 { font-size: 20pt; font-weight: bold; }
-                h2 { font-size: 18pt; font-weight: bold; }
-                h3 {  font-size: 13pt;  /* Adjust as needed */
+                h1 {  font-size: 20pt;  /* Adjust as needed */
                 }
             </style>
         </xsl:for-each>
