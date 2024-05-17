@@ -103,7 +103,16 @@
                         <div data-index="true">
                             <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                         </div>
-                        
+                        <head style="text-align:center">
+                            <xsl:for-each select="tei:head">
+                                <h1>  <xsl:value-of select="text()"/>
+                                    <style>
+                                        h1 {  font-size: 20pt;  /* Adjust as needed */
+                                        }
+                                    </style>
+                                </h1>
+                            </xsl:for-each>     
+                        </head>
 
                         <p style="text-align:left;">
                             <xsl:for-each select=".//tei:note[not(./tei:p)]">
