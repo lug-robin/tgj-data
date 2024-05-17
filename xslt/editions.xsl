@@ -50,7 +50,13 @@
                     h3 { font-size: 16pt; }
                 </style>
             </head>
-
+            <head>
+                <style>
+                    h1 { font-size: 20pt; font-weight: bold; }
+                    h2 { font-size: 18pt; font-weight: bold; }
+                    h3 { font-size: 16pt; }
+                </style>
+            </head>
             <body class="d-flex flex-column h-100">
                 
                 <xsl:call-template name="nav_bar"/>
