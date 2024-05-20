@@ -25,8 +25,8 @@
     <xsl:variable name="teiSource">
         <xsl:value-of select="data(tei:TEI/@source)"/>
     </xsl:variable>
-    <xsl:variable name="link">
-        <xsl:value-of select="replace($teiSource, '.xml', '.html')"/>
+    <xsl:variable name="downloadLink">
+        <a href="{replace($teiSource, '.xml', '.html')}" download="{replace($teiSource, '.xml', '.html')}">Download HTML</a>
     </xsl:variable>
     <xsl:variable name="doc_title">
         <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
