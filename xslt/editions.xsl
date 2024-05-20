@@ -185,23 +185,5 @@
     <xsl:template match="tei:hi[@rend='bold']">
         <strong><xsl:apply-templates /></strong>
     </xsl:template>
-    
-    <xsl:template match="tei:body">
-        <xsl:apply-templates select="*"/>  <xsl:for-each select="tei:head">
-            <h1>  <xsl:value-of select="text()"/>
-            <style>
-                h1 {  font-size: 20pt;  /* Adjust as needed */
-                }
-            </style>
-            </h1>
-        </xsl:for-each>
-    </xsl:template>
-    <xsl:template match="tei:hand[@style='h1']">
-        <style>
-            h1 {  font-size: 20pt;  /* Adjust as needed */
-            }
-        </style>
-    </xsl:template>
-       
-          
+            
 </xsl:stylesheet>
