@@ -23,7 +23,7 @@
         <xsl:value-of select="replace(tokenize(data(tei:TEI/@next), '/')[last()], '.xml', '.html')"/>
     </xsl:variable>
     <xsl:variable name="teiSource">
-        <xsl:value-of select="data(tei:TEI/@xml:id)"/>
+        <xsl:value-of select="data(tei:TEI/@source)"/>
     </xsl:variable>
     <xsl:variable name="link">
         <xsl:value-of select="replace($teiSource, '.xml', '.html')"/>
@@ -40,7 +40,9 @@
             <head>
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
+                    
                 </xsl:call-template>
+                
                 <style>
                     .navBarNavDropdown ul li:nth-child(2) {
                         display: none !important;
