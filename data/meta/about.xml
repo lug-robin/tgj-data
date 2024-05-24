@@ -16,11 +16,13 @@
     <text>
         <body>
            <p>
-               The Geniuine Jew is a Newspaper that was published from February to November 1904 in Lviv, at that time part of Poland, now in the Ukraine. The aim of this project is
-               to translate that paper, give more context about the people and places mentioned, and make this source more accessible to those who do not understand the Yiddish
+               The Geniuine Jew is a Newspaper that was published from February to November 1904 in Lviv, at that time part of the Habsburg monarchy, now in the Ukraine. The aim of this project is
+               to translate that paper, provide context about the themes and topics written about, the people and places mentioned, and make the source more accessible to those who do not understand the Yiddish
                language. 
+               <lb/>The Genuine Jew is an ongoing work in process. At the end, it will contain all 31 issues published from February 1904 unti October 1904. For now, the focus lies on enriching the website with content,
+               enhancing accesibility, and providing Yiddish press translated into the English language for further usage.
                <lb/>
-               <lb/>Repository: https://github.com/lug-robin/tgj-data
+               <lb/>Repository: <ref source="https://github.com/lug-robin/tgj-data">https://github.com/lug-robin/tgj-data</ref>
            </p>
         </body>
     </text>
