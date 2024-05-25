@@ -40,7 +40,7 @@
                 <main>
                     <div class="container">
                         <h1><xsl:value-of select="$doc_title"/></h1>
-                        <div id="map"/>
+                        
                         <table class="table" id="myTable">
                             <thead>
                                 <tr>
@@ -91,6 +91,7 @@
                         </table>
                         <xsl:call-template name="tabulator_dl_buttons"/>
                     </div>
+                    <div id="map"/>
                 </main>
                 <xsl:call-template name="html_footer"/>
                 <xsl:call-template name="tabulator_js"/>
