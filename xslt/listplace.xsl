@@ -7,13 +7,7 @@
     
     <xsl:output encoding="UTF-8" media-type="text/html" method="xhtml" version="1.0" indent="yes" omit-xml-declaration="yes"/>
     
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-        crossorigin=""/>
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-        crossorigin=""></script>
-
+    
     <xsl:import href="partials/html_navbar.xsl"/>
     <xsl:import href="partials/html_head.xsl"/>
     <xsl:import href="partials/html_footer.xsl"/>
@@ -40,7 +34,8 @@
                 <main>
                     <div class="container">
                         <h1><xsl:value-of select="$doc_title"/></h1>
-                        
+                        <div id="map"/>
+                        <div id="map_detail"/>
                         <table class="table" id="myTable">
                             <thead>
                                 <tr>
@@ -91,7 +86,7 @@
                         </table>
                         <xsl:call-template name="tabulator_dl_buttons"/>
                     </div>
-                    <div id="map"/>
+                    
                 </main>
                 <xsl:call-template name="html_footer"/>
                 <xsl:call-template name="tabulator_js"/>
