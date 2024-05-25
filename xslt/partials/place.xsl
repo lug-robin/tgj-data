@@ -23,7 +23,49 @@
                 var marker = L.marker([Number(lat), Number(long)]).addTo(map);
             </script>
         </xsl:if>
-        <div id="map_detail"/>
+        <xsl:for-each select=".//tei:place[@xml:id]">
+            <xsl:variable name="filename" select="concat(./@xml:id, '.html')"/>
+            <xsl:variable name="name" select="normalize-space(string-join(./tei:placeName[1]//text()))"></xsl:variable>
+            <xsl:result-document href="{$filename}">
+                <html  class="h-100">
+                    
+                    <body class="d-flex flex-column h-100">
+                        
+                        <main>
+                            <div class="container">
+                                <h1>
+                                    <xsl:value-of select="$name"/>
+                                </h1>
+                                <xsl:call-template name="place_detail"/>
+                                <xsl:if test="./tei:location/tei:geo">
+                                    <div id="map_detail"/>
+                                </xsl:if>
+                            </div>
+                        </main>
+                        
+                        <xsl:if test="./tei:location/tei:geo">
+                            <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+                                integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+                                crossorigin=""/>
+                            <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+                                integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+                                crossorigin=""></script>
+                            <script>
+                                var lat = <xsl:value-of select="tokenize(./tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>;
+                                var long = <xsl:value-of select="tokenize(./tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;
+                                $("#map_detail").css("height", "500px");
+                                var map = L.map('map_detail').setView([Number(lat), Number(long)], 13);
+                                L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                                maxZoom: 19,
+                                attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+                                }).addTo(map);
+                                var marker = L.marker([Number(lat), Number(long)]).addTo(map);
+                            </script>
+                        </xsl:if>
+                    </body>
+                </html>
+            </xsl:result-document>
+        </xsl:for-each>
         <table class="table entity-table">
             <tbody>
                 <?tr >
