@@ -100,15 +100,38 @@
                         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
                         crossorigin=""></script>
                     <script>
-                        var lat = <xsl:value-of select="tokenize(./place/tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>;
-                        var long = <xsl:value-of select="tokenize(./place/tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;
+                        var map;
+                        
+                        
+                        function getCoordinates() {
+                        const lat = parseFloat(<xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>);
+                        const long = parseFloat(<xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>);
+                        return { latitude: lat, longitude: long };
+                        }
+                        
+                        function initMap() {
                         $("#map_detail").css("height", "500px");
-                        var map = L.map('map_detail').setView([Number(lat), Number(long)], 13);
+                        
+                       
+                        const coordinates = [getCoordinates(), /* Add more calls to getCoordinates if you have multiple coordinates */];
+                        
+                        
+                        map = L.map('map_detail').setView([coordinates[0].latitude, coordinates[0].longitude], 13);
                         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
                         maxZoom: 19,
                         attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
                         }).addTo(map);
-                        var marker = L.marker([Number(lat), Number(long)]).addTo(map);
+                        
+                       
+                        for (const coord of coordinates) {
+                        const marker = L.marker([coord.latitude, coord.longitude]).addTo(map);
+                        }
+                        }
+                        
+                       
+                        initMap();
+                        
+                        
                     </script>
                 </xsl:if>
             </body>
