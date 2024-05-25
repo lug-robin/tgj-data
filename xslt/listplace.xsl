@@ -34,9 +34,8 @@
                 <main>
                     <div class="container">
                         <h1><xsl:value-of select="$doc_title"/></h1>
-                        <xsl:if test="./tei:location/tei:geo">
+                        
                             <div id="map_detail"/>
-                        </xsl:if>
                         
                         <table class="table" id="myTable">
                             <thead>
