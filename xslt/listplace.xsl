@@ -102,7 +102,7 @@
                     <script>
                         
                         var lat = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>;
-                        
+                        console.log("lat", lat)
                         var long = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;
                         $("#map_detail").css("height", "500px");
                         var map = L.map('map_detail').setView([Number(lat), Number(long)], 13);
