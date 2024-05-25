@@ -7,7 +7,7 @@
         
         <table class="table entity-table">
             <tbody>
-                <tr >
+                <?tr >
                     <th>
                         Place
                     </th>
@@ -21,7 +21,7 @@
                             </xsl:otherwise>
                         </xsl:choose>
                     </td>
-                </tr>
+                </tr?>
                 <xsl:if test="./tei:location[@type='located_in_place']">
                     <tr>
                         <th>
@@ -69,15 +69,9 @@
                     </td>
                 </tr>
                 </xsl:if>
-                <xsl:if test="./tei:note">
-  
+                <xsl:if test="./tei:note"> 
                 </xsl:if>
-
-            </tbody>
-            
-        </table>
-
-        
-    </xsl:template>
-    
+            </tbody>         
+        </table>     
+    </xsl:template>   
 </xsl:stylesheet>
