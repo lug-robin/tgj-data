@@ -76,8 +76,7 @@
             </tbody>
             
         </table>
-        <div id="map"/>
-        <div id="map_detail"/>
+
         
     </xsl:template>
     
