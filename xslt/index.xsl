@@ -33,7 +33,7 @@
                 <main class="flex-shrink-0">
                     <div class="container">
                         <h1><xsl:value-of select="$project_short_title"/></h1>
-                        <h2><xsl:value-of select="$project_title"/></h2>
+                        <!--h2><xsl:value-of select="$project_title"/></h2-->
                     </div>
                 </main>
                 <xsl:call-template name="html_footer"/>
