@@ -4,8 +4,7 @@
     version="2.0" exclude-result-prefixes="xsl tei xs">
 
     <xsl:template match="tei:place" name="place_detail">
-        <div id="map"/>
-        <div id="map_detail"/>
+        
         <table class="table entity-table">
             <tbody>
                 <?tr >
@@ -75,6 +74,8 @@
                 </xsl:if>
 
             </tbody>
+            <div id="map"/>
+            <div id="map_detail"/>
         </table>
     </xsl:template>
 </xsl:stylesheet>
