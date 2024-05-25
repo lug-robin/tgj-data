@@ -23,6 +23,7 @@
                 var marker = L.marker([Number(lat), Number(long)]).addTo(map);
             </script>
         </xsl:if>
+        <div id="map_detail"/>
         <table class="table entity-table">
             <tbody>
                 <?tr >
