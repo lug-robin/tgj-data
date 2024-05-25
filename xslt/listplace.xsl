@@ -104,13 +104,13 @@
                         var lat = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>;
                         console.log("lat", lat)
                         var long = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;
-                        $("#map_detail").css("height", "500px");
+                       <!-- $("#map_detail").css("height", "500px");
                         var map = L.map('map_detail').setView([Number(lat), Number(long)], 13);
                         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
                         maxZoom: 19,
                         attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
                         }).addTo(map);
-                        var marker = L.marker([Number(lat), Number(long)]).addTo(map);
+                        var marker = L.marker([Number(lat), Number(long)]).addTo(map);-->
                     </script>
                 </xsl:if>
             </body>
