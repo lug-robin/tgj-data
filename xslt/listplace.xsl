@@ -35,7 +35,7 @@
                     <div class="container">
                         <h1><xsl:value-of select="$doc_title"/></h1>
 
-                        <xsl:if test="./place/tei:location/tei:geo">
+                        <xsl:if test=".//tei:place/tei:location/tei:geo">
                             <div id="map_detail"/>
                         </xsl:if>
                         <table class="table" id="myTable">
@@ -92,7 +92,7 @@
                 </main>
                 <xsl:call-template name="html_footer"/>
                 <xsl:call-template name="tabulator_js"/>
-                <xsl:if test="./tei:location/tei:geo">
+                <xsl:if test=".//tei:place/tei:location/tei:geo">
                     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
                         integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
                         crossorigin=""/>
