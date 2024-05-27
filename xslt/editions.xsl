@@ -185,5 +185,8 @@
     <xsl:template match="tei:hi[@rend='bold']">
         <strong><xsl:apply-templates /></strong>
     </xsl:template>
+   <xsl:template match="tei:head[@style='text-align:center']">
+       
+   </xsl:template>
             
 </xsl:stylesheet>
