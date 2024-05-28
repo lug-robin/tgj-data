@@ -92,7 +92,7 @@
                 </main>
                 <xsl:call-template name="html_footer"/>
                 <xsl:call-template name="tabulator_js"/>
-                <xsl:for-each select=".//tei:place/tei:location/tei:geo">
+                <!--xsl:for-each select=".//tei:place/tei:location/tei:geo">
                     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
                         integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
                         crossorigin=""/>
@@ -111,7 +111,7 @@
                         }).addTo(map);
                         var marker = L.marker([Number(lat), Number(long)]).addTo(map);
                     </script>
-                </xsl:for-each>
+                </xsl:for-each-->
             </body>
         </html>
         <xsl:for-each select=".//tei:place[@xml:id]">
