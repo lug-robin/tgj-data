@@ -21,6 +21,9 @@
                                     <li>
                                         <a class="dropdown-item" href="about.html">About the Project</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item" href="ressources.html">Further Ressources</a>
+                                    </li>
                                 </ul>
                             </li>
 
