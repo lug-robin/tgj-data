@@ -90,7 +90,7 @@
          </div>
          <div type="title" n="1">
             <head>
-               The Geniune jew
+               <hi rend="bold">The Geniune jew</hi>
             </head>
             <p>Organ for yiddish matters</p>
             <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
@@ -128,7 +128,7 @@
          </div>
          <lb/>
          <div type="article" style="two columns" n="1">
-            <head>The Rabbinical question in <rs type="place">Galicia</rs></head>
+            <head><hi rend="bold">The Rabbinical question in <rs type="place">Galicia</rs></hi></head>
             <p>
                In almost no other country is the rabbinical question as important as it is here. In more developed countries the rabbinical question has long lost importance already. Nobody cares what a rabbi should be, 
                finishing the <ref source="https://www.wikidata.org/wiki/Q1739398">Jewish seminary</ref>, having gained the title “Doctor” and being able to preach a good sermon - that already is sufficient. Nobody 
@@ -177,7 +177,7 @@
             <p>Hira and Harad.</p>
          </div>
          <div type="article" style="two columns" n="2">
-            <head>Political News.</head>
+            <head><hi rend="bold">Political News.</hi></head>
             <p>
                The war between Japan and Russia has taken up everyone’s attention around the world as it seems that all other political issues, which have happened, are being forgotten about. Not that anything particularly important has 
                happened in the world, but it is well known that non-important things can become very important. Furthermore, we think it is only right to inform our readers about political news which happened in the last few days.
@@ -241,7 +241,7 @@
             </p>
          </div>
          <div type="article" style="two columns" n="3">
-            <head>The War <lb/>Between Japan and Russia.</head>
+            <head><hi rend="bold">The War <lb/>Between Japan and Russia.</hi></head>
             <p>
                After the first news about the Russian losses at sea, more messages arrived according to which Russia has lost some more. Over half of its battleships have been destroyed, the military’s courage has been broken, 
                they have lost their desire for war and everything seems like torture. The police in the country force the people to organise patriotic demonstrations, to yell “Hurray”, and are reporting on various misinformation 
@@ -302,7 +302,7 @@
             </p>
          </div>
          <div>
-            <head>Threat of war on the <rs type="place">Balkans</rs>.</head> 
+            <head><hi rend="bold">Threat of war on the <rs type="place">Balkans</rs>.</hi></head> 
             <p>
                According to the latest reports from <rs type="place">Vienna</rs> and <rs type="place">Constantinople</rs>, the war between Turkey and Bulgaria can break out any moment. Rumours originating from the Viennese stock market 
                say that Austria-Hungary has already started mobilising the military to occupy <rs type="place">Macedonia</rs>. In <rs type="place">Rome</rs> and <rs type="place">England</rs> as well, people are also talking about a war 
@@ -320,7 +320,7 @@
             </p> 
          </div>
          <div type="article" style="two columns" n="4">
-            <head>Perils of war between Russia and England.</head>
+            <head><hi rend="bold">Perils of war between Russia and England.</hi></head>
             <p>
                Since the start of the war between Russia and Japan it has been an open secret that Japan is supported by England and the USA. Russia gnashed their teeth, but had to keep silent. Once they win the war against Japan, they will 
                settle the score with England and the USA. This hope has been crushed. Russia has been demolished at sea and there is no real chance to win on land. Therefore, a dangerous scheme was contrived. They realised that Japan is more 
@@ -388,7 +388,7 @@
             </p>
          </div>
          <div type="article" style="two columns" n="5">
-            <head>Jewish persecution in <rs type="place">Morocco</rs></head>
+            <head><hi rend="bold">Jewish persecution in <rs type="place">Morocco</rs></hi></head>
             <p>
                New details to the horrible persecution against Jews in <rs type="place">Morocco</rs>, which we have reported on in No. 2 have been reported on. On December 17th, a horrible disaster befell the Jewish community in <rs type="place">Settat</rs>. 
                The Jewish community, about 7,500 souls, mostly artisans and peddlers fell into misery after a sudden attack. The Jewish people were praying in the synagogue when a heap of “<ref source="https://www.wikidata.org/wiki/Q648255">Kabyle people</ref>” 
@@ -400,7 +400,7 @@
             </p>
          </div>
          <div>
-            <head>Feuilleton
+            <head><hi rend="bold">Feuilleton</hi>
                <lb/><rs type="person">Rabbi Meir</rs> of <rs type="place">Rothenburg</rs>.
                <lb/>(A historical retelling).
                <lb/>b.
@@ -445,7 +445,7 @@
             </p>
          </div>
          <div  type="statistics" style="two columns" n="1">
-            <head>Statistical Reports.
+            <head><hi rend="bold">Statistical Reports.</hi>
                <lb/>Salt, beer and spirits - production in <rs type="place">Galicia</rs>.</head>
             <p>
                In <rs type="place">Galicia</rs>, in December 1903, 754 spirit distilleries produced 9,790,861 degrees. Namely, in the <rs type="place">Brody</rs> oblast are 86 distilleries (production of 1,237,455 degrees), in the <rs type="place">Berezhany</rs> 
@@ -467,7 +467,7 @@
          <div type="ads" n="1" style="one column">
             <head>The editor does not take responsibility for the advertisements in this paper.</head>
             <div type="ad" n="1" style="two columns">
-               <head>Fine tea</head>
+               <head><hi rend="bold">Fine tea</hi></head>
                <p>
                   <lb/>If you want to drink pure, unadulterated tea, write to the address below,
                   <lb/>1 kg fine, pure tea only 6 crowns.
@@ -493,7 +493,7 @@
                </p>               
             </div>
             <div type="ad" n="3" style="two columns">
-               <head>The sugar refinery of <rs type="place">Przeworsk</rs></head>
+               <head><hi rend="bold">The sugar refinery of <rs type="place">Przeworsk</rs></hi></head>
                <p>
                   Has immensely scaled up its sugar production for 1904 and recommends every variety to extremely low prices.
                   <lb/>You can get various useful instructions for register handlers, head of cultural affairs, private individuals, etc. at different prices.
@@ -502,7 +502,7 @@
             </div>
             <cb/>
             <div>
-               <head>Coffee</head>
+               <head><hi rend="bold">Coffee</hi></head>
                <p>The best varieties are sent in 5 kilogram packages prepaid against sending details, the rest payment on delivery, sending to all towns of <rs type="place">Austria-Hungary</rs>.
                <lb/>Everything duty-free
                <lb/>5 kg  Santos fine 6 guildes - 5 kg Santos prima 6.20 guildes. - 5kg Kuba fine 7.50 guildes - 5kg Kuba prima 7.90 guildes - 5 kg Gold-Menados 7.60 guildes - 5 kg Gold-Java 7.60 guildes - 5 kg Ceylon super fine 9 guildes - 5 kg San Salvador 7 guildes - 5 kg Puerto Rica very strong 7.50 guildes - 5 kg Mokka super fine 9.20 guildes</p>
@@ -521,7 +521,7 @@
             </div>
             <div type="ad" n="5" style="two columns">
                <head>
-                  <lb/>Coffee!
+                  <lb/><hi rend="bold">Coffee!</hi>
                   <lb/><hi rend="italic>">All natural!</hi>
                </head>
                <p>

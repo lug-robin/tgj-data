@@ -185,7 +185,7 @@
          </div>
          <lb/>
          <div type="article" style="two columns" n="2">
-            <head>Letter from <rs type="place">Hungary</rs></head>
+            <head><hi rend="bold">Letter from <rs type="place">Hungary</rs></hi></head>
             <p>
                The Hungarian Jews, their lives, their political and economical situation, are not really known to our Jewish readers. The Hungarian Jew is a different “type”, he differs from the Polish and the German ones. 
                They live miles apart and don’t come in contact with each other. I’m not looking to describe Hungarian Jewish people in detail, their situation, their conditions and their states. I will do that in another 
@@ -229,8 +229,8 @@
          </div>
          <lb/>
          <div type="article" style="two columns" n="3">
-            <head>The War
-            <lb/>Between <rs type="place">Japan</rs> and <rs type="place">Russia</rs></head>
+            <head><hi rend="bold">The War
+</hi>            <lb/>Between <rs type="place">Japan</rs> and <rs type="place">Russia</rs></head>
             <p>
                After lengthy negotiation going back and forth, the war between <rs type="place">Japan</rs> and <rs type="place">Russia</rs> has ultimately broken out. Both have hesitated a long time, waiting for the other 
                one to start the one so as to not bear the responsibility of inaugurating it. <cb/> Finally, Japan lost its patience and called back their ambassador from Petersburg immediately leading to war. The first few 
@@ -289,7 +289,7 @@
          </div>
          <lb/>
          <div style="two columns" type="article" n="4">
-            <head>The first Russian defeat.</head>
+            <head><hi rend="bold">The first Russian defeat.</hi></head>
             <p>
                Russia has already been harshly defeated in three battles on the ocean in the first few days of war. The first losses have shown that the Russian marines are not able to oppose the Japanese one on the water making one think the 
                war is as good as won to the benefit of Japan. Over half of the Russian ships which are in <rs type="place">East Asia</rs> have already been destroyed or at least have been incapacitated. Part of the other half are in the port 
@@ -344,7 +344,7 @@
          </div>
          <lb/>
          <div style="two columns" type="article" n="5">
-            <head>The causes of the war.</head>
+            <head><hi rend="bold">The causes of the war.</hi></head>
             <p>
                The war between Russia and Japan broke out mainly because of <rs type="place">Korea</rs> and <rs type="place">Manchuria</rs>. Meaning, Russia and Japan are not at war because of their own countries, but because of foreign ones. <rs type="place">Korea</rs> is a 
                small country, amassing 218,650 square kilometres with 10 million inhabitants. Those inhabitants are great fanatics, lazy, half-asleep and live like their ancestors a hundred years ago. The ruler of the country calls himself an “emperor”, but is in reality a 
@@ -371,7 +371,7 @@
          </div>
          <lb/>
          <div type="article" style="two columns" n="6">
-            <head><rs type="place">Japan</rs>.</head>
+            <head><rs type="place"><hi rend="bold">Japan</hi></rs>.</head>
             <head>b.</head>
             <p>
                <rs type="place">Japan</rs> mostly consists of mountains. There are several high mountains and even volcanoes, which means the mountain erupts fire. The climate there is healthy: in the summer there is a warm and moist south wind, in the winter it is cold, 
@@ -388,7 +388,7 @@
          </div>
          <lb/>
          <div type="news" style="two columns" n="1">
-            <head>News.</head>
+            <head><hi rend="bold">News.</hi></head>
             <head>Jewish News.</head>
             <p>
                (<rs type="place">Lviv</rs>). This coming Shabbat in the evening the <ref source="https://www.wikidata.org/wiki/Q833536">Chasidim synagogue</ref> will be holding the general meeting of the חלואת חן (Chesed Channah) society at 7 PM.
@@ -417,7 +417,7 @@
          <lb/>
          <div type="news" style="two columns" n="2">
             <head>
-               General news.
+               <hi rend="bold">General news.</hi>
             </head>
             <p>
                (<rs type="place">Vienna</rs>). This Monday, Emperor <rs type="person">Franz Joseph</rs> felt something in his lung. He has complained about rheumatism and stayed in bed all day. On Thursday, he already felt better, but your 
@@ -436,7 +436,7 @@
             </p>
          </div>
          <div type="article" style="two columns" n="7">
-            <head>Feuilleton.</head>
+            <head><hi rend="bold">Feuilleton.</hi></head>
             <head>Rabbi Meir of Rothenburg. May his memory be a blessing.</head>
             <p style="center">
                (A historical retelling). <lb/> I
@@ -516,7 +516,7 @@
             <p>(To be continued).</p>
          </div>
          <div type="article" n="8" style="two columns">
-            <head>Letterbox.</head>
+            <head><hi rend="bold">Letterbox.</hi></head>
             <p>
                To <rs type="person">Rabbi Moore</rs>. When you have been the sole Rabbi in a small town before, the <ref source="https://www.parlament.gv.at/dokument/XXIV/ME/199/fname_197101.pdf">decree of March 21st 1890</ref> 
                has been released - you were also the Rabbi in a bigger city. - that men were allowed to graduate by law. 
@@ -526,7 +526,7 @@
          <div type="ads" n="1" style="one column">
             <head>The editor does not take responsibility for the advertisements in this paper.</head>
             <div type="ad" n="1" style="two columns">
-               <head>Fine tea</head>
+               <head><hi rend="bold">Fine tea</hi></head>
                <p>
                <lb/>If you want to drink pure, unadulterated tea, write to the address below,
                <lb/>1 kg fine, pure tea only 6 crowns.
@@ -537,7 +537,7 @@
                </p>
             </div>
             <div type="ad" n="2" style="two columns">
-               <head>The proof of the pudding</head>
+               <head><hi rend="bold">The proof of the pudding</hi></head>
                <p>
                <lb/>Is in the eating.
                <lb/>If you want a natural, working remedy for coughing, sore throats, congestion, against  digestive problems, lack of appetite or similar problems, you should try the remedy from the first 
@@ -562,7 +562,7 @@
             </div>
             <div type="ad" n="4">
                <head>
-                  <lb/>Coffee!
+                  <lb/><hi rend="bold">Coffee!</hi>
                   <lb/><hi rend="italic>">All natural!</hi>
                </head>
                <p>
