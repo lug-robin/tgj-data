@@ -644,15 +644,14 @@
                   <cell role="data">Gold <rs type="place">Java</rs>   "   "   1,45 "</cell>
                </row>
             </table>
-               <lb/>
+               
             <p>
                Free samle and payment on delivery
-            </p>
-            <p>
+            <lb/>
                <rs type="person">Berger Ernö</rs>, <rs type="place">Fuime</rs>.
             </p>
             </div>
-            <lb/>
+            
             <div type="Ad" n="2">
                <head>
                   The sugar refinery of <rs type="place">Przeworsk</rs>
