@@ -621,10 +621,10 @@
                <lb/>
             </p>
          </div>
-         <div type="ads" style="two columns" n="1">
-            <div type="Ad" n="1">
+         <div type="advertisements" style="two columns" n="1">
+            <div type="ad" n="1">
                <head>
-               <lb/>Coffee!
+               <lb/><hi rend="bold">Coffee!</hi>
                <lb/><hi rend="italic>">All natural!</hi>
             </head>
             <p>
@@ -651,7 +651,7 @@
                <rs type="person">Berger Ernö</rs>, <rs type="place">Fuime</rs>.
             </p>
             </div>
-            
+            <lb/>
             <div type="Ad" n="2">
                <head>
                   The sugar refinery of <rs type="place">Przeworsk</rs>
@@ -663,7 +663,7 @@
             <lb/>
             <div type="Ad" n="3">
                <head>
-                  Coffee
+                  <hi rend="bold">Coffee</hi>
                </head>
                <p>
                   The best varieties are sent in 5 kilogram packages prepaid against sending details, the rest payment on delivery, sending to all towns of <rs type="place">Austria-Hungary</rs>. 
