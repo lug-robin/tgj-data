@@ -82,7 +82,18 @@
                             </a>
                         </td>
                     </tr>
-                    
+                </xsl:if>
+                <xsl:if test="./tei:idno[@type='URL']/text()">
+                    <tr>
+                        <th>
+                            Wikidata ID
+                        </th>
+                        <td>
+                            <a href="{./tei:idno[@type='URL']}" target="_blank">
+                                <xsl:value-of select="tokenize(./tei:idno[@type='URL'], '/')[last()]"/>
+                            </a>
+                        </td>
+                    </tr>
                 </xsl:if>
             </tbody>         
         </table>     

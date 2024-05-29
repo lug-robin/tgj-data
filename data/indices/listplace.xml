@@ -22,7 +22,10 @@
                         <location type="coords">
                             <geo>48.2 16.35</geo>
                         </location>
-                        <idno type="GEONAMES"></idno>
+                        <note>
+                            Empire in Central Europe, 1867–1918.
+                        </note>
+                        <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q28513</idno>
                     </place>
                     <place xml:id="place002">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Lviv</placeName>
