@@ -71,6 +71,19 @@
                 </xsl:if>
                 <xsl:if test="./tei:note"> 
                 </xsl:if>
+                <xsl:if test="./tei:idno[@type='GEONAMES']/text()">
+                    <tr>
+                        <th>
+                            Geoname
+                        </th>
+                        <td>
+                            <a href="{./tei:idno[@type='GEONAMES']}" target="_blank">
+                                <xsl:value-of select="tokenize(./tei:idno[@type='GEONAMES'], '/')[4]"/>
+                            </a>
+                        </td>
+                    </tr>
+                    
+                </xsl:if>
             </tbody>         
         </table>     
     </xsl:template>   

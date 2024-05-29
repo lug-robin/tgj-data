@@ -22,6 +22,7 @@
                         <location type="coords">
                             <geo>48.2 16.35</geo>
                         </location>
+                        <idno type="GEONAMES"></idno>
                     </place>
                     <place xml:id="place002">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Lviv</placeName>
@@ -30,6 +31,7 @@
                             <placeName key="place067">Poland</placeName>
                             <geo>52.2159335 19.134422</geo>
                         </location>
+                        <idno type="GEONAMES">https://www.geonames.org/702550/lviv.html</idno>
                     </place>
                     
                     <place xml:id="place003">
