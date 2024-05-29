@@ -31,10 +31,11 @@
                         <placeName type="person_namensvariante_nachname-komma-vorname">Lviv</placeName>
                         <location type="coords"><geo>49.841952 24.0315921</geo></location>
                         <location type="located_in_place">
-                            <placeName key="place067">Poland</placeName>
+                            <placeName key="place061">Ukraine</placeName>
                             <geo>52.2159335 19.134422</geo>
                         </location>
                         <idno type="GEONAMES">https://www.geonames.org/702550/lviv.html</idno>
+                        <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q36036</idno>
                     </place>
                     
                     <place xml:id="place003">
@@ -45,9 +46,11 @@
                         <placeName key="place002">Lviv</placeName>
                     </location>
                         <location type="located_in_place">
-                        <placeName key="place067">Poland</placeName>
+                        <placeName key="place061">Ukraine</placeName>
                         </location>
                         <note>Now called Panteleimona Kulisha St</note>
+                        <idno type="GEONAMES">https://www.geonames.org/702550/lviv.html</idno>
+                        <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q36036</idno>
                     </place>
                     <place xml:id="place004">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Moldova</placeName>
@@ -55,7 +58,6 @@
                             <geo>46.9803875 28.3896969</geo>
                         </location>
                     </place>
-                    
                     <place xml:id="place005">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Gaza</placeName>
                     <location type="coords">
