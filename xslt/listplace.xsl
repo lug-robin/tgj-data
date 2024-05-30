@@ -45,7 +45,7 @@
                                     <th scope="col" tabulator-headerFilter="input">Place</th>
                                     <th scope="col" tabulator-headerFilter="input">Lat</th>
                                     <th scope="col" tabulator-headerFilter="input">Long</th>
-                                    <th scope="col" tabulator-headerFilter="input">ID</th>
+                                    
                                 </tr>
                             </thead>
                             <tbody>
@@ -79,7 +79,9 @@
                                                 </xsl:when>
                                             </xsl:choose>
                                         </td>
-                                        
+                                        <td>
+                                            <xsl:value-of select="$id"/>
+                                        </td>
                                     </tr>
                                 </xsl:for-each>
                             </tbody>
