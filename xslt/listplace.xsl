@@ -45,7 +45,7 @@
                                     <th scope="col" tabulator-headerFilter="input">Place</th>
                                     <th scope="col" tabulator-headerFilter="input">Lat</th>
                                     <th scope="col" tabulator-headerFilter="input">Long</th>
-                                    
+                                    <th scope="col" tabulator-headerFilter="input">ID</th>
                                 </tr>
                             </thead>
                             <tbody>
