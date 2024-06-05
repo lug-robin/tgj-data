@@ -108,13 +108,14 @@
                         
                         <div data-index="true">
                             <div class="conatiner">
-                                <div class="col-md-2 facsimile" style="padding:.5em;margin-top:2em;">
-                                <xsl:apply-templates select=".//tei:facsimile">
-                                </xsl:apply-templates>
-                            </div>
-                            <div class="col-md-8 text" style="text-align:left">
+                                <div class="row">
+                                    <div class="col-md-2 facsimile" style="padding:.5em;margin-top:2em;">
+                                    <xsl:apply-templates select=".//tei:facsimile"></xsl:apply-templates>
+                                </div>
+                                <div class="col-md-8 text" style="text-align:left">
                                 <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
-                            </div>
+                                </div>
+                                </div>
                             </div>
                         </div>
                         <head style="text-align:center">
