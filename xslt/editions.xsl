@@ -103,7 +103,10 @@
                         </div>
                         
                         <div data-index="true">
-                            <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
+                            <div class="col"></div>
+                            <div class="col" style="text-align:left">
+                                <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
+                            </div>
                         </div>
                         <head style="text-align:center">
                             <xsl:for-each select="tei:head">
