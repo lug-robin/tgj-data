@@ -59,7 +59,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="4435" lry="6183" xml:id="facs_1">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|1|100.0|0" width="4435px" height="6183px"/>
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|1|30.0|0" width="4435px" height="6183px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="4397" lry="6154" xml:id="facs_2">
          <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|2|100.0|0" width="4397px" height="6154px"/>
