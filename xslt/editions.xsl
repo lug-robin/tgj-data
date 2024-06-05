@@ -106,7 +106,7 @@
                             </div>
                         </div>
                         
-                        <div class="row">
+                        <div data-index="true">
                             <div class="col-md-6 facsimile">
                                 <xsl:apply-templates select=".//tei:facsimile">
                                 </xsl:apply-templates>
