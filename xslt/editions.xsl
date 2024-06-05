@@ -109,10 +109,10 @@
                         <div data-index="true">
                             <div class="conatiner">
                                 <div class="row">
-                                    <div class="col-md-7 facsimile">
+                                    <div class="col-md-2 facsimile">
                                     <xsl:apply-templates select=".//tei:facsimile"></xsl:apply-templates>
                                 </div>
-                                <div class="col-md-7 text" style="text-align:left">
+                                <div class="col-md-8 text" style="text-align:left">
                                 <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                                 </div>
                                 </div>
