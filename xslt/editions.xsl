@@ -103,8 +103,8 @@
                         </div>
                         
                         <div data-index="true">
-                            <div class="col-md-7 col-lg-7 col-sm12" style="text-align:center"></div>
-                            <div class="col-md-7 col-lg-7 col-sm12" style="text-align:left">
+                            <div class="col-md-7 col-lg-7 col-sm12" style="text-align:left"></div>
+                            <div class="col-md-7 col-lg-7 col-sm12" style="text-align:right">
                                 <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                             </div>
                         </div>
