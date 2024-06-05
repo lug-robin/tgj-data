@@ -107,12 +107,11 @@
                         </div>
                         
                         <div data-index="true">
-                            <div class="col-md-7 col-lg-7 col-sm12" style="text-align:left">
+                            <div class="col-md-6 col-lg-6 col-sm12" style="text-align:left">
                                 <xsl:apply-templates select=".//tei:facsimile">
-                                    
                                 </xsl:apply-templates>
                             </div>
-                            <div class="col-md-7 col-lg-7 col-sm12" style="text-align:left">
+                            <div class="col-md-6 col-lg-6 col-sm12" style="text-align:left">
                                 <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                             </div>
                         </div>
