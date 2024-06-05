@@ -4,12 +4,12 @@
     
    
     <xsl:template match="tei:facsimile">
-        <xsl:param name="iiif-ext" select="'full/full/0/default.jpg'"/>        
+                
         <xsl:if test="./tei:surface">
             <xsl:for-each select="./tei:surface/tei:graphic">
                 <img class="tei-xml-images">
                     <xsl:attribute name="src">
-                        <xsl:value-of select="concat(@url , $iiif-ext)"/>
+                        <xsl:value-of select="@url"/>
                     </xsl:attribute>
                 </img>
             </xsl:for-each>

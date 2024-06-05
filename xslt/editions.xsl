@@ -15,6 +15,7 @@
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="./partials/html_footer.xsl"/>
     <xsl:import href="./partials/aot-options.xsl"/>
+    <xsl:import href="./partials/facsimile.xsl"/>
 
     <xsl:variable name="prev">
         <xsl:value-of select="replace(tokenize(data(tei:TEI/@prev), '/')[last()], '.xml', '.html')"/>
@@ -30,6 +31,9 @@
     </xsl:variable>
     <xsl:variable name="doc_title">
         <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
+    </xsl:variable>
+    <xsl:variable name="facsimile">
+        <xsl:value-of select="data(tei:facsimile/tei:surface/tei:graphic/@url)"/>
     </xsl:variable>
 
 
@@ -104,7 +108,9 @@
                         
                         <div data-index="true">
                             <div class="col-md-7 col-lg-7 col-sm12" style="text-align:left">
-                                <xsl:apply-templates select=".//tei:facsimile"></xsl:apply-templates>
+                                <xsl:apply-templates select=".//tei:facsimile">
+                                    
+                                </xsl:apply-templates>
                             </div>
                             <div class="col-md-7 col-lg-7 col-sm12" style="text-align:left">
                                 <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
