@@ -118,12 +118,12 @@
                   <cell role="data">For a quarter year - 3.50 "</cell>
                </row>
             </table>
-            <p><rs type="place">Lviv</rs>,<date when-iso="1904-02-05"> Friday 5th 1904</date></p>
+            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-02-05"> Friday 5th 1904</date></p>
             <cb n="2"/>
             <p>
                <lb/>Adverts are cheaply calculated
                <lb/>All letters and money send to:
-               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place">Lviv</rs>, <rs type="place">Sonnengasse 27</rs></foreign>
+               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place"><ref source="place003">Sonnengasse 27</ref></rs></foreign>
                <lb/>The Genuine Jew is published every Friday
                <lb/><foreign xml:lang="de"><rs type="place">Lemberg</rs>, <date when-iso="1904-02-05">den 5. Februar 1904</date></foreign>.</p>
          </div>
@@ -168,7 +168,7 @@
          <div type="article" style="one column" n="1">
             <p>
                We don’t want to promise our honored readers too much. We want to make an effort to follow the article of our sages: “Say little and do much!” We want to think, that our paper should always be 
-               important and interesting and we hope that our Jewish brothers, in general our orthodox brothers want to support us if possible in order that we can pay what we are planning in <rs type="place">Gaza</rs>. 
+               important and interesting and we hope that our Jewish brothers, in general our orthodox brothers want to support us if possible in order that we can pay what we are planning in <rs type="place"><ref source="place005">Gaza</ref></rs>. 
             </p>
             <lb/>
             <table rows="3" cols="1">
