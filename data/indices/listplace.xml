@@ -801,15 +801,9 @@
                         </location>
                     </place>
                     <place xml:id="place100">
-                        <placeName type="person_namesvariente_nachname-komma-vorname">Worms</placeName>
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Europe</placeName>
                         <location type="coords">
                             <geo>49.6302618 8.3620898</geo>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place0101">Rhineland-Palatinate</placeName>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place010">Germany</placeName>
                         </location>
                     </place>
                     <place xml:id="place101">
@@ -831,15 +825,9 @@
                         </location>
                     </place>
                     <place xml:id="place103">
-                        <placeName type="person_namesvariente_nachname-komma-vorname">Mainz</placeName>
+                        <placeName type="person_namesvariente_nachname-komma-vorname"></placeName>
                         <location type="coords">
-                            <geo>50.0012314 8.2762513</geo>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place101">Rhineland-Palatinate</placeName>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place010">Germany</placeName>
+                            <geo></geo>
                         </location>
                     </place>
                     <place xml:id="place104">
@@ -1143,6 +1131,27 @@
                         </location>
                         <location type="located_in_place">
                             <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place136">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">East Asia</placeName>
+                        <location type="coords">
+                            <geo></geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place026">Asia</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place137">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Africa</placeName>
+                        <location type="coords">
+                            <geo></geo>
+                        </location>
+                    </place>
+                    <place xml:id="place138">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Troyes</placeName>
+                        <location type="coords">
+                            <geo></geo>
                         </location>
                     </place>
                 </listPlace>

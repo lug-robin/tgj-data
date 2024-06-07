@@ -187,7 +187,7 @@
                Those who send the money at least half a year in advance will get an important Jewish book as a bonus for free.
                <lb/> The editors
                <lb/> The address is:
-               <lb/> <foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place">Lviv, Sonnengasse 27</rs></foreign>
+               <lb/> <foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place"><ref source="place003">Sonnengasse 27</ref></rs></foreign>
             </p>
          </div>
          <lb/>
@@ -201,8 +201,8 @@
             <p>
                Your announcement that you are publishing a Jewish paper in ordinary Jewish native language, a newspaper which you are promising us in your program that it will only be written in a Yiddish format, 
                unlike every other newspaper sincerely simply delighted me - I have touched upon this matter several times and emphasized it at every possibility, that a Jewish paper in simple language is missing 
-               for our Jewish people in <rs type="place">Galicia</rs> - some would claim that such a paper could not exist in <rs type="place">Galicia</rs> and that it cannot survive in any way, proof being that every 
-               Jewish jargon newspaper in <rs type="place">Galicia</rs> had to give up very shortly after publishing the first time, they could not create an existence for themselves. But the reason for that is, 
+               for our Jewish people in <rs type="place"><ref source="place006">Galicia</ref></rs> - some would claim that such a paper could not exist in <rs type="place"><ref source="place006">Galicia</ref></rs> and that it cannot survive in any way, proof being that every 
+               Jewish jargon newspaper in <rs type="place"><ref source="place006">Galicia</ref></rs> had to give up very shortly after publishing the first time, they could not create an existence for themselves. But the reason for that is, 
                the big difference between those papers and yours is that they were edited and written by another class of writers, and “The Geniune Jew” on the other hand will be in another manner, those papers were 
                party journals, for example, Zionist, socialist, etc.  This on the other hand according to the program will be paper for the common Jew, it will publish articles from good writers, but in Jewish 
                manner, good stories, anecdotes from sages and heroes and historical events, which will interest our Jewish <cb/>audience. Summarised, the need for this type of newspaper is currently very acute.
@@ -218,11 +218,11 @@
             </p>
             <p>
                It might also be that I alone have made a mistake, and you cannot say with certainty that your paper will not have enemies, perhaps it is wrong, there will be many good friends, who want to support 
-               your work and furthermore give “gratitude”, the public will finally be convinced that this paper is the right organ that is needed in <rs type="place">Galicia</rs>. - <pb/>either way, you have to think 
+               your work and furthermore give “gratitude”, the public will finally be convinced that this paper is the right organ that is needed in <rs type="place"><ref source="place006">Galicia</ref></rs>. - <pb/>either way, you have to think 
                about creating a good paper, and not about upcoming opinion of everyone, you have to turn your hope to the Jewish public, who hopefully will understand the value of the “Geniune Jew”.
             </p>
             <p>
-               <rs type="place">Lviv</rs>,	<hi rend="italic">Y. L. L.</hi> 
+               <rs type="place"><ref source="place002">Lviv</ref></rs>,	<hi rend="italic">Y. L. L.</hi> 
             </p>
          </div>
          
@@ -241,7 +241,7 @@
                alike an “event”, people talked and wrote about it - today this has all stopped: nowadays there are already so many baptised each year, that is has been necessary to publish a set of statistics each time.
             </p>
             <p>
-               And thus, a statistic about the baptised Jewish people in <rs type="place">Vienna</rs> has been published now, from which we can see, that in one of the last years 551 Jewish people have been baptised in <rs type="place">Vienna</rs>, 
+               And thus, a statistic about the baptised Jewish people in <rs type="place"><ref source="place007">Vienna</ref></rs> has been published now, from which we can see, that in one of the last years 551 Jewish people have been baptised in <rs type="place"><ref source="place007">Vienna</ref></rs>, 
                namely 313 men and 238 women. In this statistic, the job and occupation of the baptised Jewish people has exactly been noted down and we found, for example, 72 girls under 30, of which most have surely been baptised on the 
                occasion of “love” to a Christian, which is the consequence of a non-Jewish upbringing of our daughters. We also find 84 baptisms of people, who work so-called freelance jobs, for example attorneys, 
                doctors, public officers, and such, also 51 students, so exactly those people, who have come across with Haskalah and progress and have hidden until the atheism. 
@@ -272,13 +272,13 @@
                <hi rend="bold">New livelihoods.</hi>
             </head>
             <p>
-               <rs type="place">Galicia</rs> is a poor country, there are no factories here, nothing proper is being produced in the country, there is a shortage of work and earnings, most of the money is 
-               going abroad from where most goods are being imported. Each year ten, twenty thousand healthy, industrious people, who could be of use for the country, emigrate from <rs type="place">Galicia</rs> 
-               to <rs type="place">America</rs> and other faraway countries, so they can choose a job and are able to earn a lot of money. A big part of those emigrants consists of Jewish people, who don’t have anything 
+               <rs type="place"><ref source="place006">Galicia</ref></rs> is a poor country, there are no factories here, nothing proper is being produced in the country, there is a shortage of work and earnings, most of the money is 
+               going abroad from where most goods are being imported. Each year ten, twenty thousand healthy, industrious people, who could be of use for the country, emigrate from <rs type="place"><ref source="place006">Galicia</ref></rs> 
+               to <rs type="place"><ref source="place008">America</ref></rs> and other faraway countries, so they can choose a job and are able to earn a lot of money. A big part of those emigrants consists of Jewish people, who don’t have anything 
                to do in this country.
             </p>
             <p>
-               Lately, people in <rs type="place">Galicia</rs> have started talking about creating new sources of income, societies are being created, gatherings are being convened and committees are being elected, 
+               Lately, people in <rs type="place"><ref source="place006">Galicia</ref></rs> have started talking about creating new sources of income, societies are being created, gatherings are being convened and committees are being elected, 
                who pay attention to the question how to improve the financial situation. A <ref type="information" source="https://www.wikidata.org/wiki/Q2908887">Bat Kol</ref> has been shared: “let’s support the domestic products” - whoever establishes a new business, who wants to build a 
                new factory, get subsidies and support, in order to be able to survive against the competition from abroad and keep existing. 
             </p>
@@ -292,16 +292,16 @@
             <p>
                The situation of the Galician Jewish people is even worse than the situation of other Galician peoples, for they are cared for by the state committee, different institutions, and associations like the 
                “Kulka Ralnitsche” and others. Many associations and committees care for them. We Jewish people are dependent on ourselves; nobody cares for us, and nobody worries about us. We do not 
-               know if the effort of the various societies and committees will result in a working industry and factories in <rs type="place">Galicia</rs>, which will have a practical success or not. But one 
+               know if the effort of the various societies and committees will result in a working industry and factories in <rs type="place"><ref source="place006">Galicia</ref></rs>, which will have a practical success or not. But one 
                thing we do know, there will be absolutely no benefit for us Jewish people resulting from that. 
             </p>
             <p>
                “If we don’t get that, what do we have?” If we don’t want to take care of ourselves, no one will. “Go and make a living for yourself!” said <rs type="person"><ref source="person011">King David</ref></rs> already. Therefore, it’s 
-               time that Jewish committees should be made already, who should investigate creating new enterprises, who should give our poor brothers a livelihood. Here in <rs type="place">Galicia</rs>, there are 
+               time that Jewish committees should be made already, who should investigate creating new enterprises, who should give our poor brothers a livelihood. Here in <rs type="place"><ref source="place006">Galicia</ref></rs>, there are 
                enough Jewish people who have assets and can found companies, from which hundreds of families can survive and don’t have to wander around abroad and be roaming around. Already, there is no luck left to be 
-               found in <rs type="place">America</rs>, in <rs type="place">Hungary</rs>, in <rs type="place">Germany</rs>, in <rs type="place">England</rs>, the Polish and the Galician Jewish people are not welcome anymore, 
-               they are not met with friendly faces and everyone wants to get rid of them. With a little bit of entrepreneurial spirit people in <rs type="place">Galicia</rs> can create livelihood for oneself and 
-               others. The time and populace are ripe, and we have to make use of it. We have to fulfil our duties of being a citizen of <rs type="place">Babylon</rs> and especially as Jewish people.
+               found in <rs type="place"><ref source="place008">America</ref></rs>, in <rs type="place"><ref source="place61">Hungary</ref></rs>, in <rs type="place"><ref source="place010">Germany</ref></rs>, in <rs type="place"><ref source="place011">England</ref></rs>, the Polish and the Galician Jewish people are not welcome anymore, 
+               they are not met with friendly faces and everyone wants to get rid of them. With a little bit of entrepreneurial spirit people in <rs type="place"><ref source="place006">Galicia</ref></rs> can create livelihood for oneself and 
+               others. The time and populace are ripe, and we have to make use of it. We have to fulfil our duties of being a citizen of <rs type="place"><ref source="place012">Babylon</ref></rs> and especially as Jewish people.
                <lb/><hi rend="italic">A reader</hi>.
             </p>
          </div>
@@ -311,13 +311,13 @@
                <hi rend="bold">The education of our daughters.</hi>
             </head>
             <p>
-               A preacher once said as a joke that the appeal of the Pharao, King of <rs type="place">Egypt</rs> was, that the Jewish boys were tossed into water and 
+               A preacher once said as a joke that the appeal of the Pharao, King of <rs type="place"><ref source="place013">Egypt</ref></rs> was, that the Jewish boys were tossed into water and 
                the girls should continue living, because the Pharao wanted to eliminate the Jewish people and he knew that as long as the Jewish people stay Jewish and hold on 
                to their Jewry, nothing can harm them, that’s why he said to drown newborns, but only the boys because the girls know little of being Jewish and can 
-               therefore grow accustomed to <rs type="place">Egypt</rs> and learn its customs - therefore they have not disturbed his plan to eliminate the Jewish people. 
+               therefore grow accustomed to <rs type="place"><ref source="place013">Egypt</ref></rs> and learn its customs - therefore they have not disturbed his plan to eliminate the Jewish people. 
             </p>
             <p>
-               <cb/>Still, there is a little bit of truth in this joke, if we look at the manner, how it was for us Jewish people in <rs type="place">Galicia</rs>, now for the pious people, 
+               <cb/>Still, there is a little bit of truth in this joke, if we look at the manner, how it was for us Jewish people in <rs type="place"><ref source="place006">Galicia</ref></rs>, now for the pious people, 
                who raise daughters. But there is also a lot to complain about the education of our boys. We can see that the children raised in a Jewish manner are becoming less 
                and less. Also pious, honest parents sometimes don’t care too much about educating their children Jewish so it would plant the Jewish spirit and feel it in the young 
                hearts, and to awaken and maintain the love for their people, according to the Torah and our holy faith. But just the manner of our daughter’s education is already 
@@ -355,24 +355,24 @@
          </div>
          <lb/>
          <div type="article" style="two columns" n="6">
-         <head><hi rend="bold">Letter from <rs type="place">Russia</rs></hi></head>
+         <head><hi rend="bold">Letter from <rs type="place"><ref source="place014">Russia</ref></rs></hi></head>
          <p>
-            After the horrible persecution of <rs type="place">Chișinău</rs> and <rs type="place">Gomel</rs>, after the ridiculous comedy what was the 
-            <ref type="information" source="https://www.wikidata.org/wiki/Q1814439"><rs type="place">Chișinău</rs> progrom</ref>, which made the whole world indignant - do we all 
+            After the horrible persecution of <rs type="place"><ref source="place015">Chișinău</ref></rs> and <rs type="place"><ref source="place016">Gomel</ref></rs>, after the ridiculous comedy what was the 
+            <ref type="information" source="https://www.wikidata.org/wiki/Q1814439"><rs type="place"><ref source="place015">Chișinău</ref></rs> progrom</ref>, which made the whole world indignant - do we all 
             of a sudden now hear that the government has called together all other provinces to an assembly, in which it is to be consulted if Jewish people should be allowed to live 
-            in the whole country of <rs type="place">Russia</rs>, unlike now as they are crowded together in few provinces like chickens on the roost and only the best, for example those who are 
-            in the highest tax brackets or graduates etc., can live in all of <rs type="place">Russia</rs>. Rumour has it, that several provinces are in favour of expanding the Jew’s rights to live 
-            in <rs type="place">Russia</rs> as they cannot watch anymore at the misery and poverty, in which those Jewish people have to live in, and which are caused by living cramped like this and having 
-            to rip bits out of each other’s mouths. The governor of <rs type="place">Bessarabia</rs>, <rs type="person"><ref source="person002">Prince <hi rend="italic">Urusov</hi> [Sergey Dmitriyevich]</ref></rs>, 
-            was particularly fond of caring for Jewish people said: “The whole Jewish question is <rs type="place">Russia</rs> is only a consequence of the bad economical state in which Jewish people have to live 
+            in the whole country of <rs type="place"><ref source="place014">Russia</ref></rs>, unlike now as they are crowded together in few provinces like chickens on the roost and only the best, for example those who are 
+            in the highest tax brackets or graduates etc., can live in all of <rs type="place"><ref source="place014">Russia</ref></rs>. Rumour has it, that several provinces are in favour of expanding the Jew’s rights to live 
+            in <rs type="place"><ref source="place014">Russia</ref></rs> as they cannot watch anymore at the misery and poverty, in which those Jewish people have to live in, and which are caused by living cramped like this and having 
+            to rip bits out of each other’s mouths. The governor of <rs type="place"><ref source="place017">Bessarabia</ref></rs>, <rs type="person"><ref source="person002">Prince <hi rend="italic">Urusov</hi> [Sergey Dmitriyevich]</ref></rs>, 
+            was particularly fond of caring for Jewish people said: “The whole Jewish question is <rs type="place"><ref source="place014">Russia</ref></rs> is only a consequence of the bad economical state in which Jewish people have to live 
             because of living so closely squeezed together that they should be allowed to expand their right of abode, so they would fare better and also to weaken the hatred towards them.”</p>
          <p>
-            It must be really bad and bitter for Jewish people in <rs type="place">Russia</rs> that now Antisemites like those provinces now have pity towards them. That is the truth! The situation of the 
+            It must be really bad and bitter for Jewish people in <rs type="place"><ref source="place014">Russia</ref></rs> that now Antisemites like those provinces now have pity towards them. That is the truth! The situation of the 
             Russian Jewish people is indeed very unfortunate, and it gets worse each day. However, we do not really believe that the government sincerely wants to actually help them. All of that consulting 
-            done for the provinces is a joke in of itself, which has the purpose to palm off the world. The Russian government has now realised that, even as a big country as <rs type="place">Russia</rs> 
-            cannot defy the whole world, the persecution of <rs type="place">Chișinău</rs> and these cruelties outraged the whole world, <cb/>there were protests in the whole world. The American government 
-            even wanted to submit a written protest via their ambassador in <rs type="place">Petersburg</rs>. But the Russian government didn’t want to do anything with all of that, it didn’t want to 
-            accept the protests and let the joke of the <rs type="place">Chișinău</rs> litigation happen, apparently to show the world: I herd you like cats! -
+            done for the provinces is a joke in of itself, which has the purpose to palm off the world. The Russian government has now realised that, even as a big country as <rs type="place"><ref source="place014">Russia</ref></rs> 
+            cannot defy the whole world, the persecution of <rs type="place"><ref source="place015">Chișinău</ref></rs> and these cruelties outraged the whole world, <cb/>there were protests in the whole world. The American government 
+            even wanted to submit a written protest via their ambassador in <rs type="place"><ref source="place018">Petersburg</ref></rs>. But the Russian government didn’t want to do anything with all of that, it didn’t want to 
+            accept the protests and let the joke of the <rs type="place"><ref source="place015">Chișinău</ref></rs> litigation happen, apparently to show the world: I herd you like cats! -
          </p>
          <p>
             However now, as Russia is in conflict with Japan and war could break out any day, the Russian government sees, that they cannot resist the 
@@ -389,19 +389,19 @@
          </div>
          <lb/>
          <div type="article" style="two columns" n="7">
-            <head><rs type="place"><hi rend="bold">Japan</hi></rs>
+            <head><rs type="place"><hi rend="bold"><ref source="place019">Japan</ref></hi></rs>
             <lb/>I.</head>
             <p>
-               The whole world is interested now in <rs type="place">Japan</rs>, with the small Asian island state, which is willing to risk waging 
-               war against the giant and strong country of <rs type="place">Russia</rs> with which every European country is in conflict now, and the big Russia with its 
-               great deal of military, cannons, and war ships, is in conflict with <rs type="place">Japan</rs> and tries very possibility to evade this war honourably. It 
-               certainly would interest our readers now to get more knowledge about the Jewish community in <rs type="place">Japan</rs>, which until now the European reader 
+               The whole world is interested now in <rs type="place"><ref source="place019">Japan</ref></rs>, with the small Asian island state, which is willing to risk waging 
+               war against the giant and strong country of <rs type="place"><ref source="place014">Russia</ref></rs> with which every European country is in conflict now, and the big Russia with its 
+               great deal of military, cannons, and war ships, is in conflict with <rs type="place"><ref source="place019">Japan</ref></rs> and tries very possibility to evade this war honourably. It 
+               certainly would interest our readers now to get more knowledge about the Jewish community in <rs type="place"><ref source="place019">Japan</ref></rs>, which until now the European reader 
                has not had a lot of knowledge about. 
             </p>
             <p>
-               <rs type="place">Japan</rs> is an island state, it consists of 3850 big and smaller islands, which together amass to 412.400 km² (a bit smaller than 
-               <rs type="place">Austria-Hungary</rs>). The Islands are situated in the corner of <rs type="place">East-Asia</rs> and border with <rs type="place">China</rs>, 
-               <rs type="place">Korea</rs>, and the <rs type="place">Silent Ocean</rs> (<rs type="place">Pacific Ocean</rs>). <rs type="place">Japan</rs> has a population 
+               <rs type="place"><ref source="place019">Japan</ref></rs> is an island state, it consists of 3850 big and smaller islands, which together amass to 412.400 km² (a bit smaller than 
+               <rs type="place"><ref source="place001">Austria-Hungary</ref></rs>). The Islands are situated in the corner of <rs type="place"><ref source="place136">East-Asia</ref></rs> and border with <rs type="place"><ref source="place021">China</ref></rs>, 
+               <rs type="place"><ref source="place022">Korea</ref></rs>, and the <rs type="place"><ref source="place023">Silent Ocean</ref></rs> (<rs type="place"><ref source="place023">Pacific Ocean</ref></rs>). <rs type="place"><ref source="place019">Japan</ref></rs> has a population 
                of 46 million, mostly Japanese and very few foreigners. Every Japanese is liable for military service, as soon as he turns 20. In times of peace the 
                military counts 300,000 men, at war more than one million. The Japanese armada counts 65 battleships and cruise ships. The navy consists of 12,000 men. 
                The length of the railway system amounts to over 4,000 km, the length of the telegram lines over 14,000 km. In one year, the Japanese postal service 
@@ -410,14 +410,14 @@
                crowns. Japan’s annual income comes to 1000 million crowns, as well as the expenses.
             </p>
             <p>
-               <rs type="place">Japan</rs> is the only country in <rs type="place">Asia</rs> that has introduced a constitution. The emperor bares the title of “Mikado”. 
+               <rs type="place"><ref source="place019">Japan</ref></rs> is the only country in <rs type="place"><ref source="place024">Asia</ref></rs> that has introduced a constitution. The emperor bares the title of “Mikado”. 
                The parliament is split into the house of commons (with 252 members) and a house of lords (with 300 members). The country is freely governed and is 
                generally speaking very progressive and can be counted as a European country. 
             </p>
             <p>
-               For ten years, <rs type="place">Japan</rs> has waged war with <rs type="place">China</rs>, although <rs type="place">China</rs> is 10 times as big as 
-               Japan but has still proven itself on the mainland and at sea. At the moment, <rs type="place">Japan</rs> is about to wage war 
-               against Russia and even though <rs type="place">Russia</rs> is bigger, Japan will probably win, because it is better prepared to 
+               For ten years, <rs type="place"><ref source="place019">Japan</ref></rs> has waged war with <rs type="place"><ref source="place021">China</ref></rs>, although <rs type="place"><ref source="place021">China</ref></rs> is 10 times as big as 
+               Japan but has still proven itself on the mainland and at sea. At the moment, <rs type="place"><ref source="place019">Japan</ref></rs> is about to wage war 
+               against Russia and even though <rs type="place"><ref source="place014">Russia</ref></rs> is bigger, Japan will probably win, because it is better prepared to 
                wage war. Russia on the other hand is actually in conflict and if war doesn’t break out it will be because the big Russia 
                will succumb and give the small Japan what it wants. 
             </p>
@@ -429,9 +429,9 @@
          <div type="News" style="two columns" n="1">
             <head><hi rend="bold">Political News</hi></head>
             <p>
-               <rs type="place">Austria-Hungary</rs>: Despite all efforts of theAustrian and Hungarian govnerments they were not able to reconcile the different parties. In <rs type="place">Austria</rs>, 
+               <rs type="place"><ref source="place001">Austria-Hungary</ref></rs>: Despite all efforts of theAustrian and Hungarian govnerments they were not able to reconcile the different parties. In <rs type="place"><ref source="place025">Austria</ref></rs>, 
                the Czech do not want to knock off any of their demands. They are dertermined to block the imperial council as long as possible, they will not permit regular council and negotiation until the 
-               Czech language will be introduced as an official language in <rs type="place">Bohemia</rs> as well as establish a  Czech university in <rs type="place">Moravia</rs>. Lately, all negociations 
+               Czech language will be introduced as an official language in <rs type="place"><ref source="place026">Bohemia</ref></rs> as well as establish a  Czech university in <rs type="place"><ref source="place027">Moravia</ref></rs>. Lately, all negociations 
                that had been held let to no results, even what the <rs type="person"><ref source="person003">Emporer [Franz Joseph]</ref></rs> has said only to the vice president of the council, 
                <rs type="person"><ref source="person001"> Dr. <hi rend="italic">Žáček</hi> [Jan]</ref></rs> at the court ball, that the Czech people should strive to make peace, remained without success. The 
                Czech do not want to succumb. - The government cannot give way to the Czech though, because the German wanted to block and it would have been their own. - In the meantime, the Czech lost the 
@@ -448,8 +448,8 @@
                by the means of § 14, and because the Czech treathen not to approve the recruit law this year, the government also wants to pass this law with § 14. 
             </p>
             <p>   
-               However in   <rs type="place"><hi rend="italic">Hungary</hi></rs>,  there is not § 14. There, the government’s situation is a lot more difficult. The new minister president [of Hungary], 
-               <rs type="person"><ref source="person005">Count <hi rend="italic">Tisza</hi> [István]</ref></rs> may have approved almost everything what the opposition wanted, solely the command langauge in <rs type="place">Hungary</rs> 
+               However in   <rs type="place"><hi rend="italic"><ref source="place009">Hungary</ref></hi></rs>,  there is not § 14. There, the government’s situation is a lot more difficult. The new minister president [of Hungary], 
+               <rs type="person"><ref source="person005">Count <hi rend="italic">Tisza</hi> [István]</ref></rs> may have approved almost everything what the opposition wanted, solely the command langauge in <rs type="place"><ref source="place009">Hungary</ref></rs> 
                being Hungarian, he did not grant. The greater part of the opposition also found peace with this decision as well, merely some of the deportees don’t want to end this 
                discussion and don’t want to give in the obstruction until the Hungarian command langauge is being introduced as well, and the minister president cannot give this to them.
                - That is why he decided to break the obstruction with force, he has announced in parliament that if the opposition will not sign off the recruit law by <rs type="date">February 3rd</rs>, 
@@ -460,14 +460,14 @@
                Nevertheless, they will not succumb. Who will win, the government or the opposition, is not yet certain. 
             </p>
             <p>
-               <rs type="place">Japan</rs> and <rs type="place">Russia</rs>: Recently, the news about the situation is   <rs type="place"><hi rend="italic">East Asia</hi></rs>  has not been clear. 
+               <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs>: Recently, the news about the situation is   <rs type="place"><hi rend="italic"><ref source="place135">East Asia</ref></hi></rs>  has not been clear. 
                Soon they will say that the war is unavoidable and shots could be heard at any moment. Then again there will be reported that is still hope for war to not break out. 
                However, one thing is for sure, both Russia and Japan stay armed and prepared for war. Russia still hesitates 
                as they are not as prepared for war and because they are intimidated as Japan is closer to the theatre of war and can send all their military to battle, 
                but Russia only has a small portion of their military in this part of Asia and is unable to get all of their military there. Russia wanted to 
-               actually give in to Japan’s demands in <rs type="place">Korea</rs>, but not in <rs type="place">Manchuria</rs>. Russia invested loads of money until they were able to 
+               actually give in to Japan’s demands in <rs type="place"><ref source="place022">Korea</ref></rs>, but not in <rs type="place"><ref source="place028">Manchuria</ref></rs>. Russia invested loads of money until they were able to 
                get ahold of <rs type="place">Manchuria</rs>; to already give it up again would be a disgrace and shame. They would prefer going to war rather than relinquishing 
-               voluntarily. However, England and Amerika are also interested in <rs type="place">Manchuria</rs> and both support Japan in demanding <rs type="place">Manchuria</rs>, 
+               voluntarily. However, England and Amerika are also interested in <rs type="place"><ref source="place028">Manchuria</ref></rs> and both support Japan in demanding <rs type="place"><ref source="place028">Manchuria</ref></rs>, 
                which is actually a Chinese province and Russia had occupied it with brute force, should be free for all countries’ trade. And even if <pb/>Japan would lose the war with 
                Russia, England and America will come to rescue. - How this will turn out in the near future, maybe even in a few days, we will know if there will be war or if peace will remain.
             </p>
@@ -477,49 +477,49 @@
             <head><hi rend="bold">News.
             <lb/>Jewish News.</hi></head>
             <p>
-               (<rs type="place">Lviv</rs>). Lately, two important associations have been founded in our city. One society was founded by Russian Jewish people living here aiming to support the local 
+               (<rs type="place"><ref source="place002">Lviv</ref></rs>). Lately, two important associations have been founded in our city. One society was founded by Russian Jewish people living here aiming to support the local 
                Russian Jewish people or those from Russia who are passing through Lviv as well as possible. - The second society is the "Association for Jewish merchants",  with the purpose to represent 
                Jewish merchants. - Best of luck and development to both of them.
             </p>
-            <p>(<rs type="place">Rzeszów</rs>). The local board of Religious Affairs has been dissolved by the government. Until the next elections a government commissioner will administer the 
+            <p>(<rs type="place"><ref source="place029">Rzeszów</ref></rs>). The local board of Religious Affairs has been dissolved by the government. Until the next elections a government commissioner will administer the 
                religious community. One of the previous board members will be named as commissioner as well as some council members and previous board members will be added.
             </p>
             <p>
-               (<rs type="place">Vienna</rs>). In the Austrian Delegation the antisemite <rs type="person">Schneider</rs> seized the opportunity to grumble about Jewish people. He said that Jewish 
+               (<rs type="place"><ref source="place007">Vienna</ref></rs>). In the Austrian Delegation the antisemite <rs type="person">Schneider</rs> seized the opportunity to grumble about Jewish people. He said that Jewish 
                merchants would sell poor merchandise abroad and therefore the reputation of Austrian merchandise is sullied leading to no buyers. He also showed torn-up boots, which a 
                Jewish merchant wanted to export abroad. The delegation president Baron <rs type="person"><ref source="person006"><hi rend="italic">Gautsch</hi> [Paul]</ref></rs> called him to order several times and after <rs type="person">Schneider</rs> 
                said at the end that Jewish people are not humans he shut him down. The delegate Dr. <rs type="person"><ref source="person007"><hi rend="italic">Byk</hi> [Emil]</ref></rs> punished him severely. The president of our religious community 
               <rs type="person"> Mr. Klinger</rs> wants him to resign immediately.
             </p>   
             <p>
-               (<rs type="place">Budapest</rs>).  Merchants and sales clerks are in dispute on the matter of the Sunday rest. The merchants think the new act concerning this should be reduced 
+               (<rs type="place"><ref source="place030">Budapest</ref></rs>).  Merchants and sales clerks are in dispute on the matter of the Sunday rest. The merchants think the new act concerning this should be reduced 
                in severity, but the sales clerks wish for the stores to be closed all Sunday. The minister of Commerce promised the merchants to soften the law in their favour. 
            </p>
             <p>
-               (<rs type="place">Berlin</rs>). The well known benefactor <rs type="person"><ref source="person008">Samuel <hi rend="italic">Straus</hi></ref></rs> died in <rs type="place">Karlsruhe</rs>. He was a great philanthropist 
+               (<rs type="place"><ref source="place031">Berlin</ref></rs>). The well known benefactor <rs type="person"><ref source="person008">Samuel <hi rend="italic">Straus</hi></ref></rs> died in <rs type="place"><ref source="place032">Karlsruhe</ref></rs>. He was a great philanthropist 
                and a pious Jew. May his memory be a blessing. - The  socialist member of parliament <rs type="person"><ref source="person009"><hi rend="italic">Bebel</hi> [Ferdinand August]</ref></rs> took on the subject of Russian Jewish people 
-               and reproached the government that it allows the Russian secret police to be stationed in <rs type="place">Germany</rs> and spy out and denounce Russian Jewish people who migrated to 
-               <rs type="place">Germany</rs>. 
+               and reproached the government that it allows the Russian secret police to be stationed in <rs type="place"><ref source="place010">Germany</ref></rs> and spy out and denounce Russian Jewish people who migrated to 
+               <rs type="place"><ref source="place010">Germany</ref></rs>. 
             </p>
             <p>
                The famous Jewish painter <rs type="person"><ref source="person039">Jozef <hi rend="italic">Israëls</hi></ref></rs> is celebrating his 80th birthday these days. For that occasion he was honoured by the German Emperor 
                [<rs type="person"><ref source="person010">Willhelm II</ref></rs>] and the Berlin Academy. 
             </p>
             <p>
-               (<rs type="place">Warsaw</rs>). More than 150 Jewish workers have been arrested because they have been suspected of being socialists.
-               - The emigration Jewish people from <rs type="place">Russia</rs> is growing and growing. Hundreds of families leave the country and go to <rs type="place">America</rs>, <rs type="place">Africa</rs>, 
-               <rs type="place">Australia</rs> and <rs type="place">Israel</rs>. Generally, there are a lot of families from <cb/><rs type="place">Chișinău</rs> to <rs type="place">Israel</rs>. Most of them 
+               (<rs type="place"><ref source="place033">Warsaw</ref></rs>). More than 150 Jewish workers have been arrested because they have been suspected of being socialists.
+               - The emigration Jewish people from <rs type="place"><ref source="place014">Russia</ref></rs> is growing and growing. Hundreds of families leave the country and go to <rs type="place"><ref source="place008">America</ref></rs>, <rs type="place137">Africa</rs>, 
+               <rs type="place"><ref source="place051">Australia</ref></rs> and <rs type="place"><ref source="place034">Israel</ref></rs>. Generally, there are a lot of families from <cb/><rs type="place"><ref source="place015">Chișinău</ref></rs> to <rs type="place">Israel</rs>. Most of them 
                are craftsmen. 
                - In different Russian cities Jewish people are being prosecuted by police who also close down their stores and deport them. 
                - Many cities asked the government to allow Jewish people to live there for the sake of trade. The government now allowed Jewish people to stay in over 50 cities where it has been forbidden up until now. 
             </p>  
             <p>
-               (<rs type="place">Bucharest</rs>). A member of parliament <rs type="person"><ref source="person012"><hi rend="italic">Cantacuzino</hi> [Gheorghe Grigore]</ref></rs> gave an important speech for Jewish people. He reproaches the government 
+               (<rs type="place"><ref source="place035">Bucharest</ref></rs>). A member of parliament <rs type="person"><ref source="person012"><hi rend="italic">Cantacuzino</hi> [Gheorghe Grigore]</ref></rs> gave an important speech for Jewish people. He reproaches the government 
                for treating Jewish people harmfully and the whole country suffers because of it. Maybe it is going better already. 
             </p>
             <p>
-               (<rs type="place">England</rs>). In <rs type="place">England</rs>, which used to be a free country, the signs of hatred towards Jewish people are increasing. Generally speaking in the working class, 
-               which are motivated by the clergy. There have been riots against Jewish people in the city of <rs type="place">Dowlish Wake</rs>, two Jewish people have been attacked in the open street and beaten up terribly. 
+               (<rs type="place"><ref source="place011">England</ref></rs>). In <rs type="place"><ref source="place011">England</ref></rs>, which used to be a free country, the signs of hatred towards Jewish people are increasing. Generally speaking in the working class, 
+               which are motivated by the clergy. There have been riots against Jewish people in the city of <rs type="place"><ref source="place036">Dowlish Wake</ref></rs>, two Jewish people have been attacked in the open street and beaten up terribly. 
                One is in critical conditions. 
             </p>
          </div>
@@ -529,24 +529,24 @@
                <hi rend="bold">General News.</hi>
             </head>
             <p>
-               The whole Norwegian town <rs type="place">Ålesund</rs> burnt down. The damage is estimated to be 4 Million. Over 12,000 people are without a home.
+               The whole Norwegian town <rs type="place"><ref source="place037">Ålesund</ref></rs> burnt down. The damage is estimated to be 4 Million. Over 12,000 people are without a home.
             </p>
             <p>
-               In <rs type="place">Arad</rs> (<rs type="place">Hungary</rs> [now Rumania], a hawker froze to death in a barn. As the police superintendent went there, they found four thousand notes, 70  pieces of twenty crown notes, 
+               In <rs type="place"><ref source="place038">Arad</ref></rs> (<rs type="place"><ref source="place009">Hungary</ref></rs> [now Rumania], a hawker froze to death in a barn. As the police superintendent went there, they found four thousand notes, 70  pieces of twenty crown notes, 
                a savings book for 3,268 crowns and other bonds.
             </p>
            <p>
-              The governor of <rs type="place">Homel</rs> was shot at while he was hunting last week. The bullet went through his hat but did not hurt him. The murderer ran away and they 
+              The governor of <rs type="place"><ref source="place016">Homyel</ref></rs> was shot at while he was hunting last week. The bullet went through his hat but did not hurt him. The murderer ran away and they 
               did not chase him. 
            </p>
            <p>
-              In <rs type="place"><hi rend="italic">Turin</hi></rs> (<rs type="place">Italy</rs>), the university library burnt down. A lot of valuable books, several manuscripts amongst them burnt.
+              In <rs type="place"><hi rend="italic"><ref source="place039">Turin</ref></hi></rs> (<rs type="place"><ref source="place040">Italy</ref></rs>), the university library burnt down. A lot of valuable books, several manuscripts amongst them burnt.
            </p>
             <p>
-               Several dynamite bombs have been found in the king’s castle in <rs type="place"><hi rend="italic">Madrid</hi></rs> (<rs type="place">Spain</rs>), which have been set there by anarchists in order to destroy the castle. 
+               Several dynamite bombs have been found in the king’s castle in <rs type="place"><hi rend="italic"><ref source="place041">Madrid</ref></hi></rs> (<rs type="place"><ref source="place043">Spain</ref></rs>), which have been set there by anarchists in order to destroy the castle. 
             </p>
            <p>
-              The previous Austrian crown princess <rs type="person"><ref source="person013">Stéphanie [of <rs type="place">Belgium</rs>]</ref></rs> has handed over a complaint to her father, <rs type="person">
+              The previous Austrian crown princess <rs type="person"><ref source="person013">Stéphanie [of <rs type="place"><ref source="place042">Belgium</ref></rs>]</ref></rs> has handed over a complaint to her father, <rs type="person">
                  <ref source="person014">King [Leopold II]</ref></rs> of <rs type="palce">Belgium</rs> to hand over part of her <rs type="person">mother´s <ref source="person040">[Marie Henriette]</ref></rs> inheritance, over 20 million francs. 
            </p>
          </div>
@@ -567,30 +567,30 @@
                to read a short biography about <rs type="person">Rashi</rs>.
             </p>
             <p>
-               <rs type="person">Rashi</rs> was born during the fifth century in the fifth millennium (in the year 1028 according to the Christian calendar) in  <rs type="place"><hi rend="italic">Troyes</hi></rs> in <rs type="place">France</rs> 
-               at the same time as the last gaon of <rs type="place">Babylon</rs> <rs type="person"><ref source="person016">Rabbi Hai [Goan]</ref></rs> died. The sun of the holy doctrine which has stopped shining in the East (<rs type="place">Babylon</rs>), has started to rise 
-               again in <rs type="place">Troyes</rs> (<rs type="place">France</rs>). <rs type="person">Rashi</rs> comes from a family of scholars. His father was a great Talmud scholar, his mother was a sister of the well 
-               known Rabbi <rs type="person"><ref source="person017">Simeon bar Isaac</ref></rs>, who has written a lot of poems. In his youth, <rs type="person">Rashi</rs> went to <rs type="place">Mainz</rs> (<rs type="place">Germany</rs>) where at that 
+               <rs type="person">Rashi</rs> was born during the fifth century in the fifth millennium (in the year 1028 according to the Christian calendar) in  <rs type="place"><hi rend="italic"><ref source="place138">Troyes</ref></hi></rs> in <rs type="place"><ref source="place045">France</ref></rs> 
+               at the same time as the last gaon of <rs type="place"><ref source="place012">Babylonia</ref></rs> <rs type="person"><ref source="person016">Rabbi Hai [Goan]</ref></rs> died. The sun of the holy doctrine which has stopped shining in the East (<rs type="place"><ref source="place012">Babylonia</ref></rs>), has started to rise 
+               again in <rs type="place"><ref source="place138">Troyes</ref></rs> (<rs type="place"><ref source="place045">France</ref></rs>). <rs type="person">Rashi</rs> comes from a family of scholars. His father was a great Talmud scholar, his mother was a sister of the well 
+               known Rabbi <rs type="person"><ref source="person017">Simeon bar Isaac</ref></rs>, who has written a lot of poems. In his youth, <rs type="person">Rashi</rs> went to <rs type="place"><ref source="place046">Mainz</ref></rs> (<rs type="place"><ref source="place010">Germany</ref></rs>) where at that 
                time was an important rabbinical academy where <rs type="person"><ref source="person018">Gerschom ben Jehuda</ref></rs> taught, and now during <rs type="person">Rashi</rs>’s time, Rabbi <rs type="person">Yaakov ben Yadar</rs>, which 
-               <rs type="person">Rashi</rs> has mentioned often in his commentary. From <rs type="place">Mainz</rs>, <rs type="persono">Rashi</rs> went to <rs type="place">Worms</rs> and studied there under the great 
+               <rs type="person">Rashi</rs> has mentioned often in his commentary. From <rs type="place"><ref source="place043">Mainz</ref></rs>, <rs type="persono">Rashi</rs> went to <rs type="place"><ref source="place047">Worms</ref></rs> and studied there under the great 
                goan rabbi <rs type="person"><ref source="person020">Isaac ben Eliezer Halevi</ref></rs> and rabbi <rs type="person"><ref source="person021">Eleazar ben Jehuda</ref></rs>. After that he studied under rabbi 
-               <rs type="person"><ref source="person022">Eliakim ben Meshullam</ref></rs> in <rs type="place">Speyer</rs> and from there he went back to <rs type="place">France</rs>, where he spread the light of his doctrine about the whole world.
+               <rs type="person"><ref source="person022">Eliakim ben Meshullam</ref></rs> in <rs type="place"><ref source="place048">Speyer</ref></rs> and from there he went back to <rs type="place"><ref source="place045">France</ref></rs>, where he spread the light of his doctrine about the whole world.
             </p>
             <p>
-               <rs type="person">Rashi</rs> was, as has been reported, rabbi and <rs type="information">rosh yeshiva</rs> for a long time in <rs type="place">Worms</rs>. He probably lived in the prayer house there which 
+               <rs type="person">Rashi</rs> was, as has been reported, rabbi and <rs type="information">rosh yeshiva</rs> for a long time in <rs type="place"><ref source="place047">Worms</ref></rs>. He probably lived in the prayer house there which 
                is still standing today. A chair made of stone which has been found there is still being called “<rs type="person">Rashi</rs>’s Stuhl” [<rs type="person">Rashi</rs>’s chair].  A big A is carved into the wall of the prayer 
                house, as <rs type="person">Rashi</rs> used to show that A to his disciples who did not know something of the subject, meaning they have to start again from the top. 
             </p>
             <p>
-               <rs type="person">Rashi</rs>’s commentary is the best, most clear-cut and easiest to understand of all commentaries of Talmud Torah, he has also written other important books, which were to be printed in <rs type="place">Speyer</rs>, 
+               <rs type="person">Rashi</rs>’s commentary is the best, most clear-cut and easiest to understand of all commentaries of Talmud Torah, he has also written other important books, which were to be printed in <rs type="place"><ref source="place048">Speyer</ref></rs>, 
                some of them have not been printed yet and will only be printed to his 800th anniversary. 
             </p>
             <p>
                Nowadays, <rs type="person">Rashi</rs>’s wonders are still being talked about. We only want to talk about one miracle. During <rs type="person">Rashi</rs>’s time, the Christians went on a <ref type="information" source="https://www.wikidata.org/wiki/Q51649">crusade</ref>, 
-               which means they travelled to <rs type="place">Israel</rs> in order to take away the <rs type="place">Holy Land</rs> from the Turks. Jewish people have suffered tremendously because of the crusades and the 
+               which means they travelled to <rs type="place"><ref source="place034">Israel</ref></rs> in order to take away the Holy Land from the Turks. Jewish people have suffered tremendously because of the crusades and the 
                prosecution is today known as the “<ref type="information" source="https://www.wikidata.org/wiki/Q51651">Rhineland massacres</ref>”.  The leader of the First Crusade, 
                <rs type="person023"><ref source="person">Godfrey of Bouillon</ref></rs> asked <rs type="person">Rashi</rs> before departure if he 
-               would be prosperous. <rs type="person">Rashi</rs> told him he will win the war and become king of <rs type="place">Jerusalem</rs>. But after that the Turks will come back to drive him away and he will 
+               would be prosperous. <rs type="person">Rashi</rs> told him he will win the war and become king of <rs type="place"><ref source="place050">Jerusalem</ref></rs>. But after that the Turks will come back to drive him away and he will 
                return home with three horses only. In the end, it happened like that, the only difference being that <rs type="person">Godfrey</rs> came back with four horses. He wanted to punish <rs type="person">Rashi</rs>, because his 
                prophecy was not completely fulfilled, as he came back with four horses. However, as he arrived at the city gates, the gate suddenly fell and squashed one horse. Therefore, <rs type="person">Rashi</rs>`s prophecy came 
                completely true. He immediately went to <rs type="person">Rashi</rs>, but he had already died and several rabbis carried out the burial rites.
@@ -615,9 +615,9 @@
             </head>
             <p>
                The earth's surface covers 509 million and 950,000 square kilometres, one fourth land and three fourths water. The world’s population counts 1,611 million and 496,000 people. 395 million 985,000 people live 
-               in <rs type="place">Europe</rs>, 885 million 814,000 in <rs type="place">Asia</rs>, 176 million 314,000 in <rs type="place">Africa</rs>, in <rs type="place">America</rs> 147 million 115,000, and in <rs type="place">Australia</rs> 
-               6 million and 268,000 people. - The <rs type="place">Big Ocean</rs> (<rs type="place">Pacific</rs>) covers 175 million square kilometres and measures 9430 metres in depth. The <rs type="plcae">Atlantic Ocean</rs> covers 
-               89 million square kilometres and measures 8340 metres in depth, and the <rs type="place">Indian Ocean</rs> covers 74 million square kilometres and measures 6300 metres in depth, the <rs type="place">Arctic Ocean</rs> 
+               in <rs type="place"><ref source="place100">Europe</ref></rs>, 885 million 814,000 in <rs type="place"><ref source="place024">Asia</ref></rs>, 176 million 314,000 in <rs type="place"><ref source="place137">Africa</ref></rs>, in <rs type="place"><ref source="place008">America</ref></rs> 147 million 115,000, and in <rs type="place"><ref source="place051">Australia</ref></rs> 
+               6 million and 268,000 people. - The <rs type="place"><ref source="place023">Big Ocean</ref></rs> (<rs type="place"><ref source="place023">Pacific</ref></rs>) covers 175 million square kilometres and measures 9430 metres in depth. The <rs type="plcae">Atlantic Ocean</rs> covers 
+               89 million square kilometres and measures 8340 metres in depth, and the <rs type="place"><ref source="place052">Indian Ocean</ref></rs> covers 74 million square kilometres and measures 6300 metres in depth, the <rs type="place"><ref source="place053">Arctic Ocean</ref></rs> 
                covers 33 million square kilometres and measures 4840 metres in depth. 
                <lb/>
             </p>
@@ -633,29 +633,29 @@
             </p>
             <table rows="3" cols="2">
                <row role="data">
-                  <cell role="data"><rs type="place">Santos</rs> Coffee á 1,20 guilders</cell>
-                  <cell role="data"><rs type="place">Puerto Rico</rs> Pearl á 1,23 guilders</cell>
+                  <cell role="data"><rs type="place"><ref source="place054">Santos</ref></rs> Coffee á 1,20 guilders</cell>
+                  <cell role="data"><rs type="place"><ref source="place055">Puerto Rico</ref></rs> Pearl á 1,23 guilders</cell>
                </row>
                <row role="data">
-                  <cell role="data"><rs type="place">Cuba</rs>     "    "  1,46 "</cell>
-                  <cell role="data"><rs type="place">Ceylon</rs>     "     "  1,68 "  </cell>
+                  <cell role="data"><rs type="place"><ref source="place056">Cuba</ref></rs>     "    "  1,46 "</cell>
+                  <cell role="data"><rs type="place"><ref source="place057">Ceylon</ref></rs>     "     "  1,68 "  </cell>
                </row>
                <row role="data">
-                  <cell role="data"><rs type="place">Ceylon</rs>  "   "    1,62  "</cell>
-                  <cell role="data">Gold <rs type="place">Java</rs>   "   "   1,45 "</cell>
+                  <cell role="data"><rs type="place"><ref source="place057">Ceylon</ref></rs>  "   "    1,62  "</cell>
+                  <cell role="data">Gold <rs type="place"><ref source="place058">Java</ref></rs>   "   "   1,45 "</cell>
                </row>
             </table>
                
             <p>
                Free samle and payment on delivery
             <lb/>
-               <rs type="person">Berger Ernö</rs>, <rs type="place">Fuime</rs>.
+               <rs type="person">Berger Ernö</rs>, <rs type="place"><ref source="place059">Fuime</ref></rs>.
             </p>
             </div>
             <lb/>
             <div type="Ad" n="2">
                <head>
-                  The sugar refinery of <rs type="place">Przeworsk</rs>
+                  The sugar refinery of <rs type="place"><ref source="place060">Przeworsk</ref></rs>
                </head>
                <p>
                   Has immensely scaled up its sugar production for 1904 and recommends every variety to extremely low prices.
@@ -667,19 +667,19 @@
                   <hi rend="bold">Coffee</hi>
                </head>
                <p>
-                  The best varieties are sent in 5 kilogram packages prepaid against sending details, the rest payment on delivery, sending to all towns of <rs type="place">Austria-Hungary</rs>. 
+                  The best varieties are sent in 5 kilogram packages prepaid against sending details, the rest payment on delivery, sending to all towns of <rs type="place"><ref source="place001">Austria-Hungary</ref></rs>. 
                </p>
                <p>
                   Everything duty-free
                </p>
                <p>
-                  5 kg  <rs type="place">Santos</rs> fine 6 guildes - 5 kg <rs type="place">Santos</rs> prima 6.20 guildes. - 5kg <rs type="place">Cuba</rs> fine 7.50 guildes - 5kg <rs type="palce">Cuba</rs> prima 7.90 guildes - 
-                  5 kg Gold-<rs type="place">Menados</rs> 7.60 guildes - 5 kg Gold-<rs type="place">Java</rs> 7.60 guildes - 5 kg <rs type="place">Ceylon</rs> super fine 9 guildes - 5 kg <rs type="place">San Salvador</rs> 7 guildes - 
-                  5 kg <rs type="place">Puerto Rico</rs> very strong 7.50 guildes - 5 kg <rs type="place">Mokka</rs> super fine 9.20 guildes
+                  5 kg  <rs type="place"><ref source="place054">Santos</ref></rs> fine 6 guildes - 5 kg <rs type="place"><ref source="place054">Santos</ref></rs> prima 6.20 guildes. - 5kg <rs type="place"><ref source="place056">Cuba</ref></rs> fine 7.50 guildes - 5kg <rs type="palce">Cuba</rs> prima 7.90 guildes - 
+                  5 kg Gold-<rs type="place"><ref source="place103">Menados</ref></rs> 7.60 guildes - 5 kg Gold-<rs type="place"><ref source="place058">Java</ref></rs> 7.60 guildes - 5 kg <rs type="place"><ref source="place057">Ceylon</ref></rs> super fine 9 guildes - 5 kg <rs type="place"><ref source="place062">San Salvador</ref></rs> 7 guildes - 
+                  5 kg <rs type="place"><ref source="place055">Puerto Rico</ref></rs> very strong 7.50 guildes - 5 kg <rs type="place"><ref source="place129">Mokka</ref></rs> super fine 9.20 guildes
                </p>
                <p>
                   <foreign xml:lang="de">
-                     <lb/><rs type="person">IGNATZ RATH</rs>, <rs type="place">TRIEST</rs> <rs type="place">I</rs>.
+                     <lb/><rs type="person">IGNATZ RATH</rs>, <rs type="place"><ref source="place064">TRIEST</ref></rs> <rs type="place"><ref source="place040">I[taly]</ref></rs>.
                      <lb/>Südfrüchten Versandt en gros &amp; en detail
                   </foreign>
                </p>
@@ -690,7 +690,7 @@
             <p>
             <foreign xml:lang="de">
                <lb/>Herausgeber und verantwortlicher Redact. <rs type="person">OSIAS H. WILF</rs> recte Weinstock
-               <lb/>Druck von <rs type="person">E. Salat</rs> Witwe des <rs type="person">U.W. Salat</rs>, <rs type="place">Lemberg</rs> <rs type="place">Kasimirgasse 35</rs>
+               <lb/>Druck von <rs type="person">E. Salat</rs> Witwe des <rs type="person">U.W. Salat</rs>, <rs type="place"><ref source="place002">Lemberg</ref></rs> <rs type="place"><ref source="place065">Kasimirgasse 35</ref></rs>
             </foreign>
             </p>   
          </div>
