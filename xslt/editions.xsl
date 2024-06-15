@@ -27,7 +27,7 @@
         <xsl:value-of select="data(tei:TEI/@source)"/>
     </xsl:variable>
     <xsl:variable name="downloadLink">
-        <a href="{$teiSource}" download="{$teiSource, '.xml', '.html'}">Download HTML</a>
+        <a href="{$teiSource}" download="{$teiSource, '.xml', '.html'}" target="blank">Download HTML</a>
     </xsl:variable>
     <xsl:variable name="doc_title">
         <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
@@ -84,7 +84,7 @@
                                     <xsl:value-of select="$doc_title"/>
                                 </h1>
                                 <h3 align="center">
-                                    <a href="{$teiSource}">
+                                    <a href="{$teiSource}" target="blank">
                                         <i class="bi bi-download" title="TEI/XML"/>
                                     </a>
                                 </h3>
