@@ -33,21 +33,7 @@
                 <main class="flex-shrink-0">
                     <div class="container">
                         <h1><xsl:value-of select="$project_short_title"/></h1>
-                        <h2 type="main">About the Project</h2>
-                        <text>
-                            <body>
-                                <p>
-                                    The Geniuine Jew is a Newspaper that was published from February to November 1904 in Lviv, at that time part of the Habsburg monarchy, now in the Ukraine. It has been digitised by the <ref source="https://anno.onb.ac.at/info/emj_info.html">Austrian National Library</ref> as PDFs.
-                                    The aim of this project is to translate that paper, annotate and enrich it, provide context about the themes and topics written about, the people and places mentioned, and enhance accessibilty to those who do not understand the Yiddish
-                                    language using the Open Source and FAIR principles.
-                                    <lb/>
-                                    <lb/>The Genuine Jew is a Master's thesis project and an ongoing work in process. At the end, it will contain all 31 issues published from February 1904 until October 1904. Currently, the focus lies on enriching the website with content,
-                                    enhancing accesibility, and providing Yiddish press translated into the English language for further usage. More features will be added continously.
-                                    <lb/>
-                                    <lb/>Repository: <link url="https://github.com/lug-robin/tgj-data">https://github.com/lug-robin/tgj-data</link>
-                                </p>
-                            </body>
-                        </text>
+                        <h2><xsl:value-of select="$project_title"/></h2>
                     </div>
                 </main>
                 <xsl:call-template name="html_footer"/>
