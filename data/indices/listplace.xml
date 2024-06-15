@@ -825,7 +825,7 @@
                         </location>
                     </place>
                     <place xml:id="place103">
-                        <placeName type="person_namesvariente_nachname-komma-vorname"></placeName>
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Menados</placeName>
                         <location type="coords">
                             <geo></geo>
                         </location>
@@ -1065,7 +1065,7 @@
                         </location>
                     </place>
                     <place xml:id="place129">
-                        <placeName type="person_namesvariente_nachname-komma-vorname">Morroco</placeName>
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Mokka</placeName>
                         <location type="coords">
                             <geo>31.1728205 -7.3362482</geo>
                         </location>

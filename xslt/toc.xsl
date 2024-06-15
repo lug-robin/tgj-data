@@ -18,7 +18,7 @@
 
 
     <xsl:template match="/">
-        <xsl:variable name="doc_title" select="'Index'"/>
+        <xsl:variable name="doc_title" select="'Newspaper editions'"/>
 
 
     

@@ -102,7 +102,7 @@
             <table rows="4" cols="2">
                <head>The Geniune Jew costs</head>
                <row role="data">
-                  <cell role="data">In <rs type="place">Austria-Hungary</rs></cell>
+                  <cell role="data">In <rs type="place"><ref source="place001">Austria-Hungary</ref></rs></cell>
                   <cell role="data">Abroad</cell>
                </row>
                <row role="data">

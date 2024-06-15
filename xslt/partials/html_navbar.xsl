@@ -28,7 +28,7 @@
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="toc.html">Issues</a>
+                                <a class="nav-link" href="toc.html">Newspaper</a>
                             </li>
 
                             <li class="nav-item dropdown disabled">
