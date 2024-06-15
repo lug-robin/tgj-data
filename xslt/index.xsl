@@ -58,16 +58,12 @@
         <li id="{generate-id()}"><xsl:apply-templates/></li>
     </xsl:template>
     <xsl:template match="tei:ref">
-        <xsl:choose>
-            <xsl:when test="starts-with(data(@target), 'http')">
-                <a>
-                    <xsl:attribute name="href"><xsl:value-of select="@target"/></xsl:attribute>
-                    <xsl:value-of select="."/>
-                </a>
-            </xsl:when>
-            <xsl:otherwise>
-                <xsl:apply-templates/>
-            </xsl:otherwise>
-        </xsl:choose>
+        <xsl:variable name="target">
+            <xsl:value-of select="./@source"/>
+            <xsl:value-of select="./@key.html"/>
+        </xsl:variable>
+        <a href="{$target}" target="_blank">
+            <xsl:apply-templates/>
+        </a>
     </xsl:template>
 </xsl:stylesheet>
