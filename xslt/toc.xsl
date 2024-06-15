@@ -35,7 +35,7 @@
             <xsl:call-template name="nav_bar"/>
                 <main>
                     <div class="container">
-                        <h1>Index</h1>
+                        <h1>Newspaper editions</h1>
                         <table class="table" id="myTable">
                             <thead>
                                 <tr>
