@@ -53,7 +53,15 @@
     <xsl:template match="tei:list">
         <ul id="{generate-id()}"><xsl:apply-templates/></ul>
     </xsl:template>
-    
+    <xsl:template match="tei:ref">
+        <xsl:variable name="source">
+            <xsl:value-of select="./@source"/>
+            <xsl:value-of select="./@key.html"/>
+        </xsl:variable>
+        <a href="{$source}" target="_blank">
+            <xsl:apply-templates/>
+        </a>
+    </xsl:template>
     <xsl:template match="tei:item">
         <li id="{generate-id()}"><xsl:apply-templates/></li>
     </xsl:template>

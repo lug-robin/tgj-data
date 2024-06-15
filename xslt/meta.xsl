@@ -34,9 +34,7 @@
                 <main>
                     <div class="container">                        
                         <h1><xsl:value-of select="$doc_title"/></h1>    
-                        <div class="col-md-8 col-lg-8 col-sm-12 text" style="text-align:left">
-                            <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
-                        </div>
+                        <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                     </div>
                 </main>
                 <xsl:call-template name="html_footer"/>
