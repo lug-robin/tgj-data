@@ -52,15 +52,15 @@ var editor = new LoadEditor({
           },
         },
         {
-          opt: "wrk",
+          opt: "org",
           color: "lila",
-          title: "Works",
-          html_class: "works",
-          css_class: "wrk",
+          title: "Geopolitical Entities",
+          html_class: "geopolitical",
+          css_class: "org",
           chg_citation: "citation-url",
           hide: {
             hidden: false,
-            class: "wrk .entity",
+            class: "org .entity",
           },
           features: {
             all: false,

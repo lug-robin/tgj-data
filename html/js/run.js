@@ -58,7 +58,7 @@ var editor = new LoadEditor({
           html_class: "orgs",
           css_class: "org",
           hide: {
-            hidden: true,
+            hidden: false,
             class: "orgs .entity",
           },
           chg_citation: "citation-url",

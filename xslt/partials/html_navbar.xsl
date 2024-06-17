@@ -40,6 +40,9 @@
                                     <li>
                                         <a class="dropdown-item" href="listplace.html">Places</a>
                                     </li>
+                                    <li>
+                                        <a class="dropdown-item" href="listgpe.html">Geopolitical Entities</a>
+                                    </li>
                                 </ul>
                             </li>
 
