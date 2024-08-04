@@ -16,6 +16,7 @@
     <xsl:import href="./partials/html_footer.xsl"/>
     <xsl:import href="./partials/aot-options.xsl"/>
     <xsl:import href="./partials/facsimile.xsl"/>
+    <xsl:import href="./partials/container.xsl"/>
 
     <xsl:variable name="prev">
         <xsl:value-of select="replace(tokenize(data(tei:TEI/@prev), '/')[last()], '.xml', '.html')"/>
@@ -109,7 +110,7 @@
                         <div data-index="true">
                             <div class="conatiner">
                                 <div class="row">
-                                    <div class="col-md-6 col-lg-6 col-sm-12 facsimile">
+                                    <div class="col-md-6 col-lg-6 col-sm-12 container">
                                     <xsl:apply-templates select=".//tei:container"></xsl:apply-templates>
                                 </div>
                                     <div class="col-md-6 col-lg-6 col-sm-12 text" style="text-align:left">
