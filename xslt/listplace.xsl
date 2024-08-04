@@ -92,45 +92,26 @@
                 </main>
                 <xsl:call-template name="html_footer"/>
                 <xsl:call-template name="tabulator_js"/>
-                <script>
-                    function parseLocationsFromXml(xmlString) {
-                    const parser = new DOMParser();
-                    const xmlDoc = parser.parseFromString(xmlString, "text/xml");
+                <!--xsl:for-each select=".//tei:place/tei:location/tei:geo">
+                    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+                        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+                        crossorigin=""/>
+                    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+                        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+                        crossorigin=""></script>
                     
-                    const locations = [];
-                    const placeElements = xmlDoc.querySelectorAll("place");
-                    
-                    for (const placeElement of placeElements) {
-                    const geoElement = placeElement.querySelector("tei:location[1] tei:geo[1]");
-                    if (geoElement) { // Check if geo element exists
-                    const coords = geoElement.textContent.split(" ");
-                    locations.push({
-                    lat: Number(coords[0]),
-                    long: Number(coords[1])
-                    });
-                    }
-                    }
-                    
-                    return locations;
-                    }
-                    
-                    // Assuming you have the XML data in a variable called 'xmlData'
-                    const locations = parseLocationsFromXml(xmlData);
-                    
-                    $("#map_detail").css("height", "500px");
-                    var map = L.map('map_detail').setView([0, 0], 13); // Initial view before markers are added
-                    
-                    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                    maxZoom: 19,
-                    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-                    }).addTo(map);
-                    
-                    // Loop through locations and add markers
-                    for (var i = 0; i < locations.length; i++) {
-                    var marker = L.marker([locations[i].lat, locations[i].long]).addTo(map);
-                    
-                    
-                </script>
+                    <script>
+                        var lat = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>;
+                        var long = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;
+                        $("#map_detail").css("height", "500px").("background","red");
+                        var map = L.map('map_detail').setView([Number(lat), Number(long)], 13);
+                        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                        maxZoom: 19,
+                        attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+                        }).addTo(map);
+                        var marker = L.marker([Number(lat), Number(long)]).addTo(map);
+                    </script>
+                </xsl:for-each-->
                 
             </body>
         </html>
@@ -167,14 +148,14 @@
                                 integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
                                 crossorigin=""></script>
                             <script>
-                                var lat = <xsl:value-of select="tokenize(./tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>;
-                                var long = <xsl:value-of select="tokenize(./tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;
                                 $("#map_detail").css("height", "500px");
-                                var map = L.map('map_detail').setView([Number(lat), Number(long)], 13);
                                 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
                                 maxZoom: 19,
                                 attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
                                 }).addTo(map);
+                                var lat = <xsl:value-of select="tokenize(./tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>;
+                                var long = <xsl:value-of select="tokenize(./tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;
+                                var map = L.map('map_detail').setView([Number(lat), Number(long)], 13);
                                 var marker = L.marker([Number(lat), Number(long)]).addTo(map);
                             </script>
                         </xsl:if>
