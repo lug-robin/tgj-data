@@ -16,8 +16,6 @@
     <xsl:import href="./partials/html_footer.xsl"/>
     <xsl:import href="./partials/aot-options.xsl"/>
     <xsl:import href="./partials/facsimile.xsl"/>
-    <xsl:import href="./partials/container.xsl"/>
-    <xsl:import href="./view-type.xsl"/>
 
     <xsl:variable name="prev">
         <xsl:value-of select="replace(tokenize(data(tei:TEI/@prev), '/')[last()], '.xml', '.html')"/>
@@ -107,17 +105,12 @@
                                 <xsl:call-template name="annotation-options"></xsl:call-template>
                             </div>
                         </div>
-                        
-                        <div class="container-fluid" style="margin: 2em auto;">
-                            <xsl:call-template name="view-type"/>
-                        </div>
-                        
-                        
+                                           
                         <div data-index="true">
                             <div class="container">
                                 <div class="row">
                                     <div class="col-md-6 col-lg-6 col-sm-12 container" style="max-width:20%;">
-                                    <xsl:apply-templates select=".//tei:view-type"></xsl:apply-templates>
+                                    <xsl:apply-templates select=".//tei:facsimile"></xsl:apply-templates>
                                 </div>
                                     <div class="col-md-6 col-lg-6 col-sm-12 text" style="text-align:left">
                                 <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
