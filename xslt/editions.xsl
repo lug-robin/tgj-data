@@ -112,17 +112,14 @@
                             <xsl:call-template name="view-type"/>
                         </div>
                         
-                        <div class="container-fluid" style="margin: 2em auto;">
-                            <xsl:call-template name="container"/>
-                        </div>
                         
                         <div data-index="true">
                             <div class="container">
                                 <div class="row">
-                                    <div class="col-md-6 col-lg-6 col-sm-12 container">
+                                    <div class="col-md-6 col-lg-6 col-sm-12 container" style="max-width:50%;">
                                     <xsl:apply-templates select=".//tei:facsimile"></xsl:apply-templates>
                                 </div>
-                                    <div class="col-md-6 col-lg-6 col-sm-12 text" style="max-width:50%;text-align:left">
+                                    <div class="col-md-6 col-lg-6 col-sm-12 text" style="text-align:left">
                                 <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                                 </div>
                                 </div>
