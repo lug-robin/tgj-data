@@ -17,7 +17,7 @@
     <xsl:import href="./partials/aot-options.xsl"/>
     <xsl:import href="./partials/facsimile.xsl"/>
     <xsl:import href="./partials/container.xsl"/>
-    <xsl:import href="./partials/view-type.xsl"/>
+    <xsl:import href="./view-type.xsl"/>
 
     <xsl:variable name="prev">
         <xsl:value-of select="replace(tokenize(data(tei:TEI/@prev), '/')[last()], '.xml', '.html')"/>
