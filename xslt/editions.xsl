@@ -116,8 +116,8 @@
                         <div data-index="true">
                             <div class="container">
                                 <div class="row">
-                                    <div class="col-md-6 col-lg-6 col-sm-12 container" style="max-width:20%;padding:.5em;margin-top:2em;">
-                                    <xsl:apply-templates select=".//tei:facsimile"></xsl:apply-templates>
+                                    <div class="col-md-6 col-lg-6 col-sm-12 container" style="max-width:20%;">
+                                    <xsl:apply-templates select=".//tei:view-type"></xsl:apply-templates>
                                 </div>
                                     <div class="col-md-6 col-lg-6 col-sm-12 text" style="text-align:left">
                                 <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
@@ -125,11 +125,7 @@
                                 </div>
                             </div>
                         </div>
-                        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"></script>
-                        <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.0.0/openseadragon.min.js"></script>
-                        <script type="text/javascript" src="js/mark.js"></script>
-                        <script type="text/javascript" src="js/run_editions.js"></script>
-                        <script type="text/javascript" src="js/osd.js"></script>
+                      
                         <head style="text-align:center">
                             <xsl:for-each select="tei:head">
                                 <h2>  <xsl:value-of select="text()"/>
