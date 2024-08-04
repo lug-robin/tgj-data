@@ -6,6 +6,11 @@
     <xsl:template match="tei:facsimile">
                 
         <xsl:if test="./tei:surface">
+            <script>.tei-xml-images {
+                max-width: 50%; /* Maximale Breite für jedes Bild */
+                height: auto;  /* Automatische Anpassung der Höhe */
+                }
+            </script>
             <xsl:for-each select="./tei:surface/tei:graphic">
                 <img class="tei-xml-images">
                     <xsl:attribute name="src">
@@ -16,3 +21,4 @@
         </xsl:if>
     </xsl:template> 
 </xsl:stylesheet>
+
