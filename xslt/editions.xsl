@@ -120,7 +120,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-md-6 col-lg-6 col-sm-12 container">
-                                    <xsl:apply-templates select=".//tei:container"></xsl:apply-templates>
+                                    <xsl:apply-templates select=".//tei:facsimile"></xsl:apply-templates>
                                 </div>
                                     <div class="col-md-6 col-lg-6 col-sm-12 text" style="text-align:left">
                                 <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>

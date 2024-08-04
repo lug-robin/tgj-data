@@ -6,12 +6,8 @@
        
         <div class="row">
             <div class="col-md-6 facsimiles">
-                <div id="viewer-1">
-                    <!--<div id="spinner_1" class="text-center">
-                                        <div class="loader"></div>
-                                    </div>-->
-                    <div id="container_facs_1" style="padding:.5em;margin-top:2em;">
-                        <!-- image container accessed by OSD script -->                               
+                <div id="viewer-1">                   
+                    <div id="container_facs_1" style="padding:.5em;margin-top:2em;">                             
                     </div>  
                 </div>
             </div>
