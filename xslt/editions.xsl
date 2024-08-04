@@ -116,7 +116,7 @@
                         <div data-index="true">
                             <div class="container">
                                 <div class="row">
-                                    <div class="col-md-6 col-lg-6 col-sm-12 container" style="max-width:50%;padding:.5em;margin-top:2em;">
+                                    <div class="col-md-6 col-lg-6 col-sm-12 container" style="max-width:20%;padding:.5em;margin-top:2em;">
                                     <xsl:apply-templates select=".//tei:facsimile"></xsl:apply-templates>
                                 </div>
                                     <div class="col-md-6 col-lg-6 col-sm-12 text" style="text-align:left">
