@@ -105,15 +105,7 @@
                                 <xsl:call-template name="annotation-options"></xsl:call-template>
                             </div>
                         </div>
-                        <div id="openseadragon1" style="width: 800px; height: 600px;"></div>
-                        <script src="/openseadragon/openseadragon.min.js"></script>
-                        <script type="text/javascript">
-                            var viewer = OpenSeadragon({
-                            id: "openseadragon1",
-                            prefixUrl: "/openseadragon/images/",
-                            tileSources: "/path/to/my/image.dzi"
-                            });
-                        </script>      
+                            
                         <div data-index="true">
                             <div class="container">
                                 <div class="row" style="display:flex;">
