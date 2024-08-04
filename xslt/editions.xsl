@@ -108,11 +108,11 @@
                                            
                         <div data-index="true">
                             <div class="container">
-                                <div class="row">
-                                    <div class="col-md-6 col-lg-6 col-sm-12 container" style="max-width=50%">
+                                <div class="row" style="display:flex">
+                                    <div class="col-md-6 col-lg-6 col-sm-12 container" style="flex-grow:1;">
                                     <xsl:apply-templates select=".//tei:facsimile"></xsl:apply-templates>
                                 </div>
-                                    <div class="col-md-6 col-lg-6 col-sm-12 text" style="text-align:left">
+                                    <div class="col-md-6 col-lg-6 col-sm-12 text" style="flex-grow:1;text-align:left">
                                 <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                                 </div>
                                 </div>
