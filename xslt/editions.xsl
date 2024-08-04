@@ -17,6 +17,7 @@
     <xsl:import href="./partials/aot-options.xsl"/>
     <xsl:import href="./partials/facsimile.xsl"/>
     <xsl:import href="./partials/container.xsl"/>
+    <xsl:import href="./partials/view-type.xsl"/>
 
     <xsl:variable name="prev">
         <xsl:value-of select="replace(tokenize(data(tei:TEI/@prev), '/')[last()], '.xml', '.html')"/>
@@ -105,6 +106,10 @@
                             <div id="editor-widget">
                                 <xsl:call-template name="annotation-options"></xsl:call-template>
                             </div>
+                        </div>
+                        
+                        <div class="container-fluid" style="max-width:75%; margin: 2em auto;">
+                            <xsl:call-template name="view-type"/>
                         </div>
                         
                         <div data-index="true">
