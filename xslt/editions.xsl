@@ -128,6 +128,11 @@
                                 </div>
                             </div>
                         </div>
+                        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"></script>
+                        <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.0.0/openseadragon.min.js"></script>
+                        <script type="text/javascript" src="js/mark.js"></script>
+                        <script type="text/javascript" src="js/run_editions.js"></script>
+                        <script type="text/javascript" src="js/osd.js"></script>
                         <head style="text-align:center">
                             <xsl:for-each select="tei:head">
                                 <h2>  <xsl:value-of select="text()"/>
