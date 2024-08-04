@@ -60,8 +60,7 @@
                 <main class="flex-shrink-0">
                     <div class="container">
                         <div class="head">
-                            <div class="col-md-8 col-lg-8 col-sm-12">
-                                
+                            <div class="col-md-8 col-lg-8 col-sm-12">   
                             </div>
                         </div>
 
@@ -107,7 +106,7 @@
                         </div>
                             
                         <div data-index="true">
-                            <div class="container">
+                            <div class="flex-shrink-0">
                                 <div class="row" style="display:flex;">
                                     <div class="col-md-6 col-lg-6 col-sm-12 container" style="flex-grow:1;height:auto">
                                     <xsl:apply-templates select=".//tei:facsimile"></xsl:apply-templates>
@@ -202,5 +201,9 @@
    <xsl:template match="tei:head[@style='text-align:center']">
        
    </xsl:template>
+    <xsl:template match="tei:pb">
+        
+        
+    </xsl:template>
             
 </xsl:stylesheet>
