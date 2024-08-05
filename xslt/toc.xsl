@@ -63,7 +63,7 @@
                                             </a>
                                         </td>
                                         <td>
-                                            <a href="{tokenize($full_path, '/')[last()]}"> 
+                                            <a href="{tokenize($full_path, '/')[last()],'.html'}"> 
                                                 <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/></a>                                                                          
                                         </td>
                                         <!--td>
