@@ -87,4 +87,28 @@
             </body>
         </html>
     </xsl:template>
+    <xsl:template match="tei:p">
+        <p id="{generate-id()}"><xsl:apply-templates/></p>
+    </xsl:template>
+    
+    <xsl:template match="tei:list">
+        <ul id="{generate-id()}"><xsl:apply-templates/></ul>
+    </xsl:template>
+    
+    <xsl:template match="tei:item">
+        <li id="{generate-id()}"><xsl:apply-templates/></li>
+    </xsl:template>
+    <xsl:template match="tei:ref">
+        <xsl:choose>
+            <xsl:when test="starts-with(data(@target), 'http')">
+                <a>
+                    <xsl:attribute name="href"><xsl:value-of select="@target"/></xsl:attribute>
+                    <xsl:value-of select="."/>
+                </a>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates/>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
 </xsl:stylesheet>
