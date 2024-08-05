@@ -66,7 +66,7 @@
                                                 select=".//tei:titleStmt/tei:title[1]/text()"/>
                                         </td>
                                         <td>
-                                            <xsl:value-of select="tokenize($full_path, '/')[last()]"
+                                            <xsl:value-of select="replace(tokenize($full_path, '/')[last()],'xml','html')"
                                             />
                                         </td>
                                     </tr>
