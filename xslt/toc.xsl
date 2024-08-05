@@ -51,11 +51,7 @@
                                         <xsl:value-of select="document-uri(/)"/>
                                     </xsl:variable>
                                     <tr>
-                                        <xsl:attribute name="href">
-                                            <xsl:value-of
-                                                select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"
-                                            />
-                                        </xsl:attribute>
+                                       
                                         <td>
                                             
                                             <a>
@@ -68,13 +64,13 @@
                                             </a>
                                         </td>
                                         <td>
-                                            <!--xsl:attribute name="href">
+                                            <a><xsl:attribute name="href">
                                                 <xsl:value-of select="replace(tokenize($full_path, '/')[last()],'xml','html')"
                                                 />
-                                            </xsl:attribute-->
-                                                <xsl:value-of
-                                                select=".//tei:titleStmt/tei:title[1]/text()"/>  
-                                                                                   </td>
+                                            </xsl:attribute>
+                                             <xsl:value-of
+                                                select=".//tei:titleStmt/tei:title[1]/text()"/></a>                                                                                 
+                                        </td>
                                         <!--td>
                                             <xsl:value-of select="tokenize($full_path, '/')[last()]"
                                             />
