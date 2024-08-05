@@ -50,7 +50,7 @@
                                     <xsl:variable name="full_path">
                                         <xsl:value-of select="document-uri(/)"/>
                                     </xsl:variable>
-                                    <tr>
+                                    <tr onclick="window.location.href='{replace(tokenize($full_path, '/')[last()], '.xml', '.html')};'">
                                         <a href="{replace(tokenize($full_path, '/')[last()], '.xml', '.html')}">
                                             <td>
                                             <a href="{replace(tokenize($full_path, '/')[last()], '.xml', '.html')}">
