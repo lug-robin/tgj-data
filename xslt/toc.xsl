@@ -41,7 +41,7 @@
                                 <tr>
                                     <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
                                     <th scope="col" tabulator-headerFilter="input">Title</th>
-                                    <th scope="col" tabulator-headerFilter="input">File Name</th>
+                                    <!--th scope="col" tabulator-headerFilter="input">File Name</th-->
                                 </tr>
                             </thead>
                             <tbody>
@@ -68,18 +68,17 @@
                                             </a>
                                         </td>
                                         <td>
-                                            <a><xsl:attribute name="href">
+                                            <!--xsl:attribute name="href">
                                                 <xsl:value-of select="replace(tokenize($full_path, '/')[last()],'xml','html')"
                                                 />
-                                            </xsl:attribute>
+                                            </xsl:attribute-->
                                                 <xsl:value-of
                                                 select=".//tei:titleStmt/tei:title[1]/text()"/>  
-                                           </a>
-                                        </td>
-                                        <td>
+                                                                                   </td>
+                                        <!--td>
                                             <xsl:value-of select="tokenize($full_path, '/')[last()]"
                                             />
-                                        </td>
+                                        </td-->
                                     </tr>
                                 </xsl:for-each>
                             </tbody>
