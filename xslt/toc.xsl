@@ -50,6 +50,7 @@
                                     <xsl:variable name="full_path">
                                         <xsl:value-of select="document-uri(/)"/>
                                     </xsl:variable>
+                                    <a href="{replace(tokenize($full_path, '/')[last()], '.xml', '.html')}">
                                     <tr onclick="window.location.href='{replace(tokenize($full_path, '/')[last()], '.xml', '.html')};'">
                                         <a href="{replace(tokenize($full_path, '/')[last()], '.xml', '.html')}">
                                             <td>
@@ -70,6 +71,7 @@
                                             />
                                         </td-->
                                     </tr>
+                                    </a>
                                 </xsl:for-each>
                             </tbody>
                         </table>
