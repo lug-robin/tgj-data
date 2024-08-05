@@ -62,17 +62,15 @@
                                             </a>
                                         </td>
                                         <td>
-                                            <xsl:value-of
-                                                select=".//tei:titleStmt/tei:title[1]/text()"/>
                                             <xsl:attribute name="href">
-                                                <xsl:value-of
-                                                    select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"
+                                                <xsl:value-of select="replace(tokenize($full_path, '/')[last()],'xml','html')"
                                                 />
-                                            </xsl:attribute>
+                                                <xsl:value-of
+                                                select=".//tei:titleStmt/tei:title[1]/text()"/>      
+                                            </xsl:attribute>                             
                                         </td>
                                         <td>
-                                            <xsl:value-of select="replace(tokenize($full_path, '/')[last()],'xml','html')"
-                                            />
+                                            
                                         </td>
                                     </tr>
                                 </xsl:for-each>
