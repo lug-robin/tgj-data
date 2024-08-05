@@ -40,19 +40,18 @@
                             <thead>
                                 <tr>
                                     <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
-                                    <th scope="col" tabulator-headerFilter="input">Title</th>
+                                    <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">Title</th>
                                     <!--th scope="col" tabulator-headerFilter="input">File Name</th-->
                                 </tr>
                             </thead>
                             <tbody>
                                 <xsl:for-each
-                                    select="collection('../data/editions?select=*.xml')//tei:TEI">
+                                    select="collection('../data/editions')//tei:TEI">
                                     <xsl:variable name="full_path">
                                         <xsl:value-of select="document-uri(/)"/>
                                     </xsl:variable>
-                                    <a href="{replace(tokenize($full_path, '/')[last()], '.xml', '.html')}">
+                                    
                                     <tr onclick="window.location.href='{replace(tokenize($full_path, '/')[last()], '.xml', '.html')};'">
-                                        <a href="{replace(tokenize($full_path, '/')[last()], '.xml', '.html')}">
                                             <td>
                                             <a href="{replace(tokenize($full_path, '/')[last()], '.xml', '.html')}">
                                                 <!--xsl:attribute name="href">
@@ -66,13 +65,12 @@
                                         <td>
                                             <a href="{tokenize($full_path, '/')[last()], '.xml', '.html'}"> 
                                                 <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/></a>                                                                          
-                                        </td></a>
+                                        </td>
                                         <!--td>
                                             <xsl:value-of select="tokenize($full_path, '/')[last()]"
                                             />
                                         </td-->
                                     </tr>
-                                    </a>
                                 </xsl:for-each>
                             </tbody>
                         </table>
