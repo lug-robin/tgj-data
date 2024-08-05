@@ -41,6 +41,10 @@
                 </li>
             </ul>                                                    
         </div>
-        
+        <script type="text/javascript">
+            $('#aot-navBarNavDropdown .dropdown-menu .nav-item').click(function(e) {
+            e.stopPropagation();
+            });
+        </script>
     </xsl:template>
 </xsl:stylesheet>

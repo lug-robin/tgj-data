@@ -173,7 +173,7 @@ var editor = new LoadEditor({
             percent: "100",
           },
           hide: {
-            hidden: false,
+            hidden: true,
             class_to_hide: "facsimiles",
             class_to_show: "text",
             class_parent: "transcript",
