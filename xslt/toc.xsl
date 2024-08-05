@@ -65,9 +65,9 @@
                                             <xsl:attribute name="href">
                                                 <xsl:value-of select="tokenize($full_path, '/')[last()],'xml','html'"
                                                 />
+                                            </xsl:attribute>
                                                 <xsl:value-of
-                                                select=".//tei:titleStmt/tei:title[1]/text()"/>      
-                                            </xsl:attribute>                             
+                                                select=".//tei:titleStmt/tei:title[1]/text()"/>                             
                                         </td>
                                         <td>
                                             
