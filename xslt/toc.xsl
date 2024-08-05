@@ -54,24 +54,17 @@
                                        
                                         <td>
                                             
-                                            <a>
-                                                <xsl:attribute name="href">
+                                            <a href="{replace(tokenize($full_path, '/')[last()], '.xml', '.html')}">
+                                                <!--xsl:attribute name="href">
                                                   <xsl:value-of
                                                   select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"
                                                   />
-                                                </xsl:attribute>
+                                                </xsl:attribute-->
                                                 <i class="bi bi-link-45deg"/>
                                             </a>
                                         </td>
                                         <td>
-                                            
-                                              <xsl:attribute name="href">
-                                                <xsl:value-of select="tokenize($full_path, '/')[last()],'xml','html'"
-                                                />
-                                              </xsl:attribute>
-                                             <xsl:value-of
-                                                select=".//tei:titleStmt/tei:title[1]/text()"/>
-                                                                                                                         
+                                             <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>                                                                          
                                         </td>
                                         <!--td>
                                             <xsl:value-of select="tokenize($full_path, '/')[last()]"
