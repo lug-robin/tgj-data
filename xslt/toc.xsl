@@ -51,7 +51,13 @@
                                         <xsl:value-of select="document-uri(/)"/>
                                     </xsl:variable>
                                     <tr>
+                                        <xsl:attribute name="href">
+                                            <xsl:value-of
+                                                select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"
+                                            />
+                                        </xsl:attribute>
                                         <td>
+                                            
                                             <a>
                                                 <xsl:attribute name="href">
                                                   <xsl:value-of
