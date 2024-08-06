@@ -35,7 +35,7 @@
                     <div class="container">
                         <h1><xsl:value-of select="$doc_title"/></h1>
 
-                        <xsl:if test=".//tei:location/tei:geo">
+                        <xsl:if test="./tei:location/tei:geo">
                             <div id="map_detail_all"/>
                         </xsl:if>
                         <table class="table" id="myTable">
@@ -107,29 +107,29 @@
                         }).addTo(map);
                         <a>var lat = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>;
                         var long = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;</a-->
-                        var latitudes = [
+                        var latitude = [
                         <xsl:for-each select="./tei:location/tei:geo">
                             <xsl:value-of select="tokenize(., ' ')[1]"/>
                             <xsl:if test="position() != last()">, </xsl:if>
                         </xsl:for-each>
                         ];
                         
-                        var longitudes = [
+                        var longitude = [
                         <xsl:for-each select="./tei:location/tei:geo">
                             <xsl:value-of select="tokenize(., ' ')[last()]"/>
                             <xsl:if test="position() != last()">, </xsl:if>
                         </xsl:for-each>
                         ];
-                        <!--a>console.log(latitude);
-                        console.log(longitude);</a-->
-                        $("#map_detail_all").css("height", "500px").("background","red");
-                        var map = L.map('map_detail_all').setView([Number(latitudes), Number(longitudes)], 13);
+                        console.log(latitude);
+                        console.log(longitude);
+                        $("#map_detail_all").css("height", "1000px").("background","red");
+                        var map = L.map('map_detail_all').setView([Number(latitude), Number(longitude)], 13);
                         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
                         maxZoom: 19,
                         attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
                         }).addTo(map);
-                        for (let i = 0; i &lt; latitudes.length; i++) {
-                        var marker = L.marker([Number(latitudes[i]), Number(longitudes[i])]).addTo(map);
+                        for (let i = 0; i &lt; latitude.length; i++) {
+                        var marker = L.marker([Number(latitude[i]), Number(longitude[i])]).addTo(map);
                         }
                     </script>
                 </xsl:if>
