@@ -35,7 +35,7 @@
                     <div class="container">
                         <h1><xsl:value-of select="$doc_title"/></h1>
 
-                        <xsl:if test="./tei:location/tei:geo">
+                        <xsl:if test=".//tei:location/tei:geo">
                             <div id="map_detail_all"/>
                         </xsl:if>
                         <table class="table" id="myTable">
@@ -120,9 +120,9 @@
                             <xsl:if test="position() != last()">, </xsl:if>
                         </xsl:for-each>
                         ];
-                        console.log(latitudes);
-                        console.log(longitudes);
-                        $("#map_detail_all").css("height", "1000px").("background","red");
+                        console.log(latitude);
+                        console.log(longitude);
+                        $("#map_detail_all").css("height", "500px").("background","red");
                         var map = L.map('map_detail_all').setView([Number(latitudes), Number(longitudes)], 13);
                         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
                         maxZoom: 19,
