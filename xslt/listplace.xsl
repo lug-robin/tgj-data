@@ -174,8 +174,8 @@
                                 maxZoom: 19,
                                 attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
                                 }).addTo(map);
-                                var lat = <xsl:value-of select="tokenize(./tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>;
-                                var long = <xsl:value-of select="tokenize(./tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;
+                                var lat = 40.7128<!--xsl:value-of select="tokenize(./tei:location[1]/tei:geo[1]/text(), ' ')[1]"/-->;
+                                var long = -74.0059<!--xsl:value-of select="tokenize(./tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/-->;
                                 var map = L.map('map_detail').setView([Number(lat), Number(long)], 13);
                                 var marker = L.marker([Number(lat), Number(long)]).addTo(map);
                             </script>
