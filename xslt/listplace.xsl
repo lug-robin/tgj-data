@@ -107,14 +107,14 @@
                         }).addTo(map);
                         <a>var lat = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>;
                         var long = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;</a-->
-                        let latitudes = [
+                        var latitudes = [
                         <xsl:for-each select="./tei:location/tei:geo">
                             <xsl:value-of select="tokenize(., ' ')[1]"/>
                             <xsl:if test="position() != last()">, </xsl:if>
                         </xsl:for-each>
                         ];
                         
-                        let longitudes = [
+                        var longitudes = [
                         <xsl:for-each select="./tei:location/tei:geo">
                             <xsl:value-of select="tokenize(., ' ')[last()]"/>
                             <xsl:if test="position() != last()">, </xsl:if>
