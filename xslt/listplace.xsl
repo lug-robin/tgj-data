@@ -170,7 +170,7 @@
                                 integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
                                 crossorigin=""/>
                             <script>
-                                $("#map_detail").css("height", "500px");
+                                $("map_detail").css("height", "500px");
                                 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
                                 maxZoom: 19,
                                 attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
