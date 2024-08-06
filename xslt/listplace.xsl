@@ -67,7 +67,10 @@
                                 maxZoom: 19,
                                 attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
                                 }).addTo(map);
-                                var marker = L.marker([Number(lat), Number(long)]).addTo(map);
+                                for (let i = 0; i &lt; latitudes.length; i++) {
+                                var marker = L.marker([Number(latitudes[i]), Number(longitudes[i])]).addTo(map);
+                                }
+                                
                             </script>
                         </xsl:if>
                         <table class="table" id="myTable">
