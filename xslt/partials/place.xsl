@@ -74,7 +74,7 @@
                 <xsl:if test="./tei:idno[@type='GEONAMES']/text()">
                     <tr>
                         <th>
-                            Geoname
+                            Geonames
                         </th>
                         <td>
                             <a href="{./tei:idno[@type='GEONAMES']}" target="_blank">
