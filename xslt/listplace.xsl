@@ -35,9 +35,9 @@
                     <div class="container">
                         <h1><xsl:value-of select="$doc_title"/></h1>
 
-                        <xsl:if test=".//tei:place/tei:location/tei:geo">
+                        <!--xsl:if test=".//tei:place/tei:location/tei:geo">
                             <div id="map_detail_all"/>
-                        </xsl:if>
+                        </xsl:if-->
                         <table class="table" id="myTable">
                             <thead>
                                 <tr>
@@ -130,7 +130,6 @@
                         attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
                         }).addTo(map);
                         for (let i = 0; i &lt; latitudes.length; i++) {
-                        var map = L.map('map_detail').setView([Number(latitudes[i]), Number(longitudes[i])], 13); 
                         var marker = L.marker([Number(latitudes[i]), Number(longitudes[i])]).addTo(map);
                         }
                     </script>
