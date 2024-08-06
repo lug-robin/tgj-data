@@ -107,29 +107,29 @@
                         }).addTo(map);
                         <a>var lat = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>;
                         var long = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;</a-->
-                        let latitude = [
+                        var latitudes = [
                         <xsl:for-each select="./tei:location/tei:geo">
                             <xsl:value-of select="tokenize(., ' ')[1]"/>
                             <xsl:if test="position() != last()">, </xsl:if>
                         </xsl:for-each>
                         ];
                         
-                        let longitude = [
+                        var longitudes = [
                         <xsl:for-each select="./tei:location/tei:geo">
                             <xsl:value-of select="tokenize(., ' ')[last()]"/>
                             <xsl:if test="position() != last()">, </xsl:if>
                         </xsl:for-each>
                         ];
-                        console.log(latitude);
-                        console.log(longitude);
-                        $("#map_detail_all").css("height", "1000px");
-                        var map = L.map('map_detail_all').setView([Number(latitude), Number(longitude)], 13);
+                        console.log(latitudes);
+                        console.log(longitudes);
+                        $("#map_detail_all").css("height", "1000px").("background","red");
+                        var map = L.map('map_detail_all').setView([Number(latitudes), Number(longitudes)], 13);
                         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
                         maxZoom: 19,
                         attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
                         }).addTo(map);
-                        for (let i = 0; i &lt; latitude.length; i++) {
-                        var marker = L.marker([Number(latitude[i]), Number(longitude[i])]).addTo(map);
+                        for (let i = 0; i &lt; latitudes.length; i++) {
+                        var marker = L.marker([Number(latitudes[i]), Number(longitudes[i])]).addTo(map);
                         }
                     </script>
                 </xsl:if>
