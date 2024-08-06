@@ -35,9 +35,9 @@
                     <div class="container">
                         <h1><xsl:value-of select="$doc_title"/></h1>
 
-                        <!--xsl:if test=".//tei:place/tei:location/tei:geo">
+                        <xsl:if test=".//tei:place/tei:location/tei:geo">
                             <div id="map_detail_all"/>
-                        </xsl:if-->
+                        </xsl:if>
                         <table class="table" id="myTable">
                             <thead>
                                 <tr>
@@ -106,8 +106,8 @@
                         maxZoom: 19,
                         attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
                         }).addTo(map);
-                        <a>var lat = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>;
-                        var long = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;</a>
+                        <!--a>var lat = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>;
+                        var long = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;</a-->
                         let latitudes = [
                         <xsl:for-each select="//tei:location/tei:geo">
                             <xsl:value-of select="tokenize(., ' ')[1]"/>
