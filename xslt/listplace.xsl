@@ -99,9 +99,8 @@
                     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
                         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
                         crossorigin=""/>
-                    
                     <script>
-                        $("#map_detail_all").css("height", "500px");
+                        $("#map_detail_all").css("height", "1000px");
                         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
                         maxZoom: 19,
                         attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
@@ -123,8 +122,8 @@
                         ];
                         console.log(latitude);
                         console.log(longitude);
-                        $("#map_detail").css("height", "500px").("background","red");
-                        var map = L.map('map_detail').setView([Number(lat), Number(long)], 13);
+                        $("#map_detail_all").css("height", "500px").("background","red");
+                        var map = L.map('map_detail_all').setView([Number(lat), Number(long)], 13);
                         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
                         maxZoom: 19,
                         attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
