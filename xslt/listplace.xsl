@@ -107,7 +107,7 @@
                         }).addTo(map);
                         <a>var lat = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>;
                         var long = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;</a-->
-                        <!--a>var latitudes = [
+                        var latitudes = [
                         <xsl:for-each select="./tei:location/tei:geo">
                             <xsl:value-of select="tokenize(., ' ')[1]"/>
                             <xsl:if test="position() != last()">, </xsl:if>
@@ -120,10 +120,8 @@
                             <xsl:if test="position() != last()">, </xsl:if>
                         </xsl:for-each>
                         ];
-                        console.log(latitude);
+                        <!--a>console.log(latitude);
                         console.log(longitude);</a-->
-                        var latitudes= 12.53
-                        var longitudes= -75.468
                         $("#map_detail_all").css("height", "500px").("background","red");
                         var map = L.map('map_detail_all').setView([Number(latitudes), Number(longitudes)], 13);
                         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
