@@ -92,7 +92,7 @@
                 </main>
                 <xsl:call-template name="html_footer"/>
                 <xsl:call-template name="tabulator_js"/>
-                <!--xsl:if test=".//tei:place/tei:location/tei:geo">
+                <xsl:if test=".//tei:place/tei:location/tei:geo">
                     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
                         integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
                         crossorigin=""/>
@@ -100,13 +100,13 @@
                         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
                         crossorigin=""/>
                     <script>
-                        $("#map_detail_all").css("height", "1000px");
+                        <!--a>$("#map_detail_all").css("height", "1000px");
                         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
                         maxZoom: 19,
                         attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
                         }).addTo(map);
                         <a>var lat = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>;
-                        var long = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;</a>
+                        var long = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;</a-->
                         let latitudes = [
                         <xsl:for-each select="//tei:location/tei:geo">
                             <xsl:value-of select="tokenize(., ' ')[1]"/>
@@ -132,7 +132,7 @@
                         var marker = L.marker([Number(latitudes[i]), Number(longitudes[i])]).addTo(map);
                         }
                     </script>
-                </xsl:if-->
+                </xsl:if>
                 
             </body>
         </html>
