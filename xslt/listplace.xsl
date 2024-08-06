@@ -120,8 +120,8 @@
                             <xsl:if test="position() != last()">, </xsl:if>
                         </xsl:for-each>
                         ];
-                        console.log(latitude);
-                        console.log(longitude);
+                        console.log(latitudes);
+                        console.log(longitudes);
                         $("#map_detail_all").css("height", "500px").("background","red");
                         var map = L.map('map_detail_all').setView([Number(latitudes), Number(longitudes)], 13);
                         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
