@@ -123,7 +123,7 @@
                         console.log(latitude);
                         console.log(longitude);
                         $("#map_detail_all").css("height", "500px").("background","red");
-                        var map = L.map('map_detail_all').setView([Number(lat), Number(long)], 13);
+                        var map = L.map('map_detail_all').setView([Number(latitudes), Number(longitudes)], 13);
                         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
                         maxZoom: 19,
                         attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
