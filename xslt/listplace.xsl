@@ -92,7 +92,7 @@
                 </main>
                 <xsl:call-template name="html_footer"/>
                 <xsl:call-template name="tabulator_js"/>
-                <!--xsl:for-each select=".//tei:place/tei:location/tei:geo">
+                <xsl:for-each select=".//tei:place/tei:location/tei:geo">
                     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
                         integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
                         crossorigin=""/>
@@ -103,6 +103,10 @@
                     <script>
                         var lat = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>;
                         var long = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;
+                        let latitude = [<xsl:for-each  select="./tei:location/tei:geo[1]/@latitude"><xsl:value-of select="."/></xsl:for-each>];
+                        let longitude = [<xsl:for-each  select="./tei:location/tei:geo[1]/@longitude"><xsl:value-of select="."/></xsl:for-each>];
+                        console.log(latitude);
+                        console.log(longitude);
                         $("#map_detail").css("height", "500px").("background","red");
                         var map = L.map('map_detail').setView([Number(lat), Number(long)], 13);
                         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -111,7 +115,7 @@
                         }).addTo(map);
                         var marker = L.marker([Number(lat), Number(long)]).addTo(map);
                     </script>
-                </xsl:for-each-->
+                </xsl:for-each>
                 
             </body>
         </html>
