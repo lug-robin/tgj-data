@@ -98,7 +98,7 @@
                         crossorigin=""/>
                     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
                         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-                        crossorigin=""></script>
+                        crossorigin=""/>
                     
                     <script>
                         $("#map_detail_all").css("height", "500px");
@@ -168,7 +168,7 @@
                                 crossorigin=""/>
                             <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
                                 integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-                                crossorigin=""></script>
+                                crossorigin=""/>
                             <script>
                                 $("#map_detail").css("height", "500px");
                                 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
