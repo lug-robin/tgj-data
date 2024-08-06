@@ -1133,7 +1133,7 @@
                             <placeName key="place001">Austria-Hungary</placeName>
                         </location>
                     </place>
-                    <place xml:id="place136">
+                    <!--a><place xml:id="place136">
                         <placeName type="person_namesvariente_nachname-komma-vorname">East Asia</placeName>
                         <location type="coords">
                             <geo></geo>
@@ -1153,7 +1153,7 @@
                         <location type="coords">
                             <geo></geo>
                         </location>
-                    </place>
+                    </place></a-->
                 </listPlace>
             </div>
         </body>
