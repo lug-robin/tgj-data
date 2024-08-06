@@ -35,54 +35,9 @@
                     <div class="container">
                         <h1><xsl:value-of select="$doc_title"/></h1>
 
-                        <xsl:if test="./tei:place/tei:location/tei:geo">
+                        <xsl:if test=".//tei:location/tei:geo">
                             <div id="map_detail_all"/>
-                            <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-                                integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-                                crossorigin=""/>
-                            <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-                                integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-                                crossorigin=""/>
-                            <script>
-                                <!--a>$("#map_detail_all").css("height", "1000px");
-                        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                        maxZoom: 19,
-                        attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-                        }).addTo(map);
-                        <a>var lat = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>;
-                        var long = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;</a-->
-                                var latitudes = [
-                                <xsl:for-each select="./tei:place/tei:location/tei:geo">
-                                    <xsl:value-of select="tokenize(., ' ')[1]"/>
-                                    <xsl:if test="position() != last()">,</xsl:if>
-                                </xsl:for-each>
-                                ];
-                                
-                                var longitudes = [
-                                <xsl:for-each select="./tei:location/tei:geo">
-                                    <xsl:value-of select="tokenize(., ' ')[last()]"/>
-                                    <xsl:if test="position() != last()">,</xsl:if>
-                                </xsl:for-each>
-                                ];
-                                
-                                // Access first element for initial view (adjust if you want a different center)
-                                var initialLat = Number(latitudes[0]);
-                                var initialLong = Number(longitudes[0]);
-                                
-                                $("#map_detail_all").css("height", "500px").css("background", "red"); // Added semicolon
-                                var map = L.map('map_detail_all').setView([initialLat, initialLong], 13);
-                                
-                                L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                                maxZoom: 19,
-                                attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-                                }).addTo(map);
-                                
-                                // Loop through arrays to add markers
-                                for (let i = 0; i &lt; latitudes.length; i++) {
-                                var marker = L.marker([Number(latitudes[i]), Number(longitudes[i])]).addTo(map);
-                                }
-                                
-                            </script>
+                            
                         </xsl:if>
                         <table class="table" id="myTable">
                             <thead>
@@ -166,20 +121,18 @@
                             <xsl:if test="position() != last()">,</xsl:if>
                         </xsl:for-each>
                         ];
-                        
-                        // Access first element for initial view (adjust if you want a different center)
+
                         var initialLat = Number(latitudes[0]);
                         var initialLong = Number(longitudes[0]);
                         
-                        $("#map_detail_all").css("height", "500px").css("background", "red"); // Added semicolon
+                        $("#map_detail_all").css("height", "500px").css("background", "red"); 
                         var map = L.map('map_detail_all').setView([initialLat, initialLong], 13);
                         
                         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
                         maxZoom: 19,
                         attribution: '&amp;copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
                         }).addTo(map);
-                        
-                        // Loop through arrays to add markers
+
                         for (let i = 0; i &lt; latitudes.length; i++) {
                         var marker = L.marker([Number(latitudes[i]), Number(longitudes[i])]).addTo(map);
                         }
@@ -214,7 +167,7 @@
                             </div>
                         </main>
                         <xsl:call-template name="html_footer"/>
-                        <!--xsl:if test="./tei:location/tei:geo">
+                        <xsl:if test="./tei:location/tei:geo">
                             <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
                                 integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
                                 crossorigin=""/>
@@ -232,7 +185,7 @@
                                 }).addTo(map);
                                 var marker = L.marker([Number(lat), Number(long)]).addTo(map);
                             </script>
-                        </xsl:if-->
+                        </xsl:if>
                     </body>
                 </html>
             </xsl:result-document>
