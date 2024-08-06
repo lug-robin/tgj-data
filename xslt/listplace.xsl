@@ -35,7 +35,7 @@
                     <div class="container">
                         <h1><xsl:value-of select="$doc_title"/></h1>
 
-                        <xsl:if test=".//tei:location/tei:geo">
+                        <xsl:if test="./tei:place/tei:location/tei:geo">
                             <div id="map_detail_all"/>
                             <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
                                 integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
@@ -52,7 +52,7 @@
                         <a>var lat = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[1]"/>;
                         var long = <xsl:value-of select="tokenize(.//tei:place/tei:location[1]/tei:geo[1]/text(), ' ')[last()]"/>;</a-->
                                 var latitudes = [
-                                <xsl:for-each select="./tei:location/tei:geo">
+                                <xsl:for-each select="./tei:place/tei:location/tei:geo">
                                     <xsl:value-of select="tokenize(., ' ')[1]"/>
                                     <xsl:if test="position() != last()">,</xsl:if>
                                 </xsl:for-each>
@@ -214,7 +214,7 @@
                             </div>
                         </main>
                         <xsl:call-template name="html_footer"/>
-                        <xsl:if test="./tei:location/tei:geo">
+                        <!--xsl:if test="./tei:location/tei:geo">
                             <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
                                 integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
                                 crossorigin=""/>
@@ -232,7 +232,7 @@
                                 }).addTo(map);
                                 var marker = L.marker([Number(lat), Number(long)]).addTo(map);
                             </script>
-                        </xsl:if>
+                        </xsl:if-->
                     </body>
                 </html>
             </xsl:result-document>
