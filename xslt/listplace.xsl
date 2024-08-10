@@ -54,9 +54,10 @@
                                     <xsl:variable name="id">
                                         <xsl:value-of select="data(@xml:id)"/>
                                     </xsl:variable>
+                                    
                                     <tr>
                                         <td>
-                                            <a>
+                                            <a href="">
                                               <xsl:attribute name="href">
                                               <xsl:value-of select="concat($id, '.html')"/>
                                               </xsl:attribute>
@@ -64,11 +65,15 @@
                                             </a>
                                         </td>
                                         <td>
-                                           <a><xsl:attribute name="href">
-                                               <xsl:value-of select="concat($id, '.html')"/>
-                                           </xsl:attribute>
-                                              <i><xsl:value-of select="./tei:placeName[1]/text()"/></i>
-                                           </a>
+                                            <xsl:attribute name="href">
+                                                <xsl:value-of select="concat($id, '.html')"/>
+                                            </xsl:attribute>
+                                        </td>
+                                        <td>
+                                           
+                                            <a href="concat($id,'.html')">
+                                                <xsl:value-of select="./tei:placeName[1]/text()"/></a>
+                                           
                                         </td>
                                         <td>
                                             <xsl:choose>
@@ -84,9 +89,7 @@
                                                 </xsl:when>
                                             </xsl:choose>
                                         </td>
-                                        <td>
-                                            <xsl:value-of select="$id"/>
-                                        </td>
+                                        
                                     </tr>
                                 </xsl:for-each>
                             </tbody>
