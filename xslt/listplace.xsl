@@ -54,20 +54,18 @@
                                     <xsl:variable name="id">
                                         <xsl:value-of select="data(@xml:id)"/>
                                     </xsl:variable>
-                                    
                                     <tr>
                                         <td>
-                                            <a href="">
+                                            <a>
                                               <xsl:attribute name="href">
                                               <xsl:value-of select="concat($id, '.html')"/>
                                               </xsl:attribute>
                                               <i class="bi bi-link-45deg"/>
                                             </a>
                                         </td>
-                                       
                                         <td>
                                            
-                                            <a select="{concat($id,'.html')}">
+                                            <a href="{concat($id, '.html')}">
                                                 <xsl:value-of select="./tei:placeName[1]/text()"/></a>
                                            
                                         </td>
@@ -85,7 +83,9 @@
                                                 </xsl:when>
                                             </xsl:choose>
                                         </td>
-                                        
+                                        <td>
+                                            <xsl:value-of select="$id"/>
+                                        </td>
                                     </tr>
                                 </xsl:for-each>
                             </tbody>
