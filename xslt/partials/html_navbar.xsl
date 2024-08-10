@@ -15,17 +15,7 @@
                     </button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Project</a>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <a class="dropdown-item" href="about.html">About the Project</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="ressources.html">Further Ressources</a>
-                                    </li>
-                                </ul>
-                            </li>
+                            
 
                             <li class="nav-item">
                                 <a class="nav-link" href="toc.html">Newspaper</a>
@@ -49,6 +39,16 @@
                             <li class="nav-item">
                                 <a title="Suche" class="nav-link" href="search.html">Search</a>
                             </li>
+                            <li class="nav-item">
+                                <a class="dropdown-item" href="ressources.html">Further Ressources</a>
+                            </li>
+                                <!--a><a class="nav-item" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Further Ressources</a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a class="dropdown-item" href="about.html">About the Project</a>
+                                    </li>   
+                               </ul>
+                            </li><a-->
                         </ul>
                     </div>
                 </div>
