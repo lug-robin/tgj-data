@@ -67,7 +67,7 @@
                                            <a><xsl:attribute name="href">
                                                <xsl:value-of select="concat($id, '.html')"/>
                                            </xsl:attribute>
-                                              <xsl:value-of select="./tei:placeName[1]/text()"/>
+                                              <i><xsl:value-of select="./tei:placeName[1]/text()"/></i>
                                            </a>
                                         </td>
                                         <td>
