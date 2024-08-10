@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" source="listplace.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -22,32 +22,42 @@
                         <location type="coords">
                             <geo>48.2 16.35</geo>
                         </location>
+                        <note>
+                            Empire in Central Europe, 1867–1918.
+                        </note>
+                        <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q28513</idno>
                     </place>
                     <place xml:id="place002">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Lviv</placeName>
                         <location type="coords"><geo>49.841952 24.0315921</geo></location>
                         <location type="located_in_place">
-                            <placeName key="place067">Poland</placeName>
+                            <placeName key="place061">Ukraine</placeName>
                             <geo>52.2159335 19.134422</geo>
                         </location>
+                        <idno type="GEONAMES">https://www.geonames.org/702550/lviv.html</idno>
+                        <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q36036</idno>
                     </place>
+                    
                     <place xml:id="place003">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Sonnengasse 27</placeName>
                         <location type="coords"><geo>49.84777348999111 24.024325540895227</geo>
-                    <note>Lviv, Panteleimona Kulisha St</note></location>
+                    </location>
                     <location type="located_in_place">
                         <placeName key="place002">Lviv</placeName>
-                        <placeName key="place067">Poland</placeName>
-                        <geo>52.2159335 19.134422</geo>
                     </location>
+                        <location type="located_in_place">
+                        <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <note>Now called Panteleimona Kulisha St</note>
+                        <idno type="GEONAMES">https://www.geonames.org/702550/lviv.html</idno>
+                        <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q36036</idno>
                     </place>
                     <place xml:id="place004">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Moldava</placeName>
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Moldova</placeName>
                         <location type="coords">
-                            <geo>40.741895 -73.989308</geo>
+                            <geo>46.9803875 28.3896969</geo>
                         </location>
                     </place>
-                    
                     <place xml:id="place005">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Gaza</placeName>
                     <location type="coords">
@@ -63,36 +73,29 @@
                     <location type="located_in_place">
                         <placeName key="place067">Poland</placeName>
                         <geo>52.2159335 19.134422</geo>
-                    </location></place>
-                    
+                    </location>
+                    </place>
                     <place xml:id="place007">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Vienna</placeName>
                    <location type="coords">
                        <geo>48.2083537 16.3725042</geo>
-                   </location>     
-                    </place>
-                    
-                    <place xml:id="place025">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Austria</placeName>
-                        <location type="coords">
-                            <geo>47.59397 14.12456</geo>
-                        </location>
-                    </place>
-                    
+                   </location>
+                   <location type="located_in_place">
+                       <placeName key="place025">Austria</placeName>
+                    </location>
+                    </place>                   
                     <place xml:id="place008">
                         <placeName type="person_namensvariante_nachname-komma-vorname">America</placeName>
                         <location type="coords">
                             <geo>39.7837304 -100.445882</geo>
                         </location>
                     </place>
-                    
                     <place xml:id="place009">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Hungary</placeName>
                         <location type="coords">
                             <geo>47.1817585 19.5060937</geo>
                         </location>
                     </place>
-                    
                     <place xml:id="place010">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Germany</placeName>
                         <location type="coords">
@@ -134,7 +137,7 @@
                             <geo>47.0245117 28.8322923</geo>
                         </location>
                         <location type="located_in_place">
-                            <placeName key="place004">Moldava</placeName>
+                            <placeName key="place004">Moldova</placeName>
                         </location>
                         <note>Was part of the Russian kingdom.</note>
                     </place>
@@ -156,14 +159,14 @@
                             <geo>47 29</geo>
                         </location>
                         <location type="located_in_place">
-                            <placeName key="place020">Belarus</placeName>
+                            <placeName key="place004">Moldova</placeName>
                             <placeName key="place061">Ukraine</placeName>
                         </location>
-                        <note>Historical Region, today located in Moldava and Ukraine.</note>
+                        <note>Historical Region, today located in Moldova and Ukraine.</note>
                     </place>
                     
                     <place xml:id="place018">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Petersburg</placeName>
+                        <placeName type="person_namensvariante_nachname-komma-vorname">St. Petersburg</placeName>
                         <location type="coords">
                             <geo>59.938732 30.316229</geo>
                         </location>
@@ -176,6 +179,9 @@
                         <placeName type="person_namensvariante_nachname-komma-vorname">Japan</placeName>
                         <location type="coords">
                             <geo>36.5748441 139.2394179</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
                         </location>
                     </place>     
                     <place xml:id="place020">
@@ -190,15 +196,19 @@
                         <location type="coords">
                             <geo>35.000074 104.999927</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
                     </place>
-                    
                     <place xml:id="place022">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Korea</placeName>
                         <location type="coords">
                             <geo>36.638392 127.6961188</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
                     </place>
-                    
                     <place xml:id="place023">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Pacific Ocean</placeName>
                         <location type="coords">
@@ -206,14 +216,18 @@
                         </location>
                         <note>Called Silent Ocean in the Source.</note>
                     </place>
-                    
                     <place xml:id="place024">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Asia</placeName>
                         <location type="coords">
                             <geo>51.2086975 89.2343748</geo>
                         </location>
                     </place>
-                    
+                    <place xml:id="place025">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Austria</placeName>
+                        <location type="coords">
+                            <geo>47.59397 14.12456</geo>
+                        </location>
+                    </place>
                     <place xml:id="place026">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Bohemia</placeName>
                         <location type="coords">
@@ -233,7 +247,6 @@
                             <placeName key="place001">Austria-Hungary</placeName>
                         </location>
                     </place>
-                    
                     <place xml:id="place028">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Manchuria</placeName>
                         <location type="coords">
@@ -244,7 +257,6 @@
                             <location type="located_in_place"><placeName key="place024">Asia</placeName>
                         </location>
                     </place>
-                    
                     <place xml:id="place029">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Rzeszów</placeName>
                         <location type="coords">
@@ -254,17 +266,18 @@
                             <placeName key="place067">Poland</placeName>
                         </location>
                     </place>
-                    
                     <place xml:id="place030">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Budapest</placeName>
                         <location type="coords">
                             <geo>47.4978789 19.0402383</geo>
                         </location>
                         <location type="located_in_place">
-                              <placeName key="place001">Austria Hungary</placeName>
+                              <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place009">Hungary</placeName>
                         </location>
                     </place>
-                    
                     <place xml:id="place031">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Berlin</placeName>
                         <location type="coords">
@@ -274,7 +287,6 @@
                             <placeName key="place010">Germany</placeName>
                         </location>
                     </place>
-                    
                     <place xml:id="place032">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Karlsruhe</placeName>
                         <location type="coords">
@@ -284,7 +296,6 @@
                             <placeName key="place010">Germany</placeName>
                         </location>
                     </place>
-                    
                     <place xml:id="place033">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Warsaw</placeName>
                         <location type="coords">
@@ -300,7 +311,6 @@
                             <geo>30.8124247 34.8594762</geo>
                         </location>
                     </place>
-                    
                     <place xml:id="place035">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Bucharest</placeName>
                         <location type="coords">
@@ -310,7 +320,6 @@
                             <placeName key="place068">Romania</placeName>
                         </location>
                     </place>
-                    
                     <place xml:id="place036">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Dowlish Wake</placeName>
                         <location type="coords">
@@ -320,7 +329,6 @@
                             <placeName key="place011">England</placeName>
                         </location>
                     </place>
-                    
                     <place xml:id="place037">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Ålesund</placeName>
                         <location type="coords">
@@ -330,7 +338,6 @@
                             <placeName key="place069">Norway</placeName>
                         </location>
                     </place>
-                    
                     <place xml:id="place038">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Arad</placeName>
                         <location type="coords">
@@ -340,7 +347,6 @@
                             <placeName key="place068">Romania</placeName>
                         </location>
                     </place>
-                    
                     <place xml:id="place039">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Turin</placeName>
                         <location type="coords">
@@ -350,14 +356,12 @@
                             <placeName key="place040">Italy</placeName>
                         </location>
                     </place>
-                    
                     <place xml:id="place040">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Italy</placeName>
                         <location type="coords">
                             <geo>42.6384261 12.674297</geo>
                         </location>
                     </place>
-                    
                     <place xml:id="place041">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Madrid</placeName>
                         <location type="coords">
@@ -367,14 +371,12 @@
                             <placeName key="place043">Spain</placeName>
                         </location>
                     </place>
-                    
                     <place xml:id="place042">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Belgium</placeName>
                         <location type="coords">
                             <geo>50.6402809 4.6667145</geo>
                         </location>
                     </place>
-                    
                     <place xml:id="place043">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Spain</placeName>
                         <location type="coords">
@@ -429,7 +431,7 @@
                     <place xml:id="place052">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Indian Ocean</placeName>
                         <location type="coords">
-                            <geo>&apos;-9.9999999 69.9999999</geo>
+                            <geo>-9.9999999 69.9999999</geo>
                         </location>
                     </place>
                     <place xml:id="place053">
@@ -441,7 +443,7 @@
                     <place xml:id="place054">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Santos</placeName>
                         <location type="coords">
-                            <geo>&apos;-23.9335988 -46.3286399</geo>
+                            <geo>-23.9335988 -46.3286399</geo>
                         </location>
                     </place>
                     <place xml:id="place055">
@@ -461,6 +463,9 @@
                         <location type="coords">
                             <geo>7.5554942 80.7137847</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
                         <note>Named Ceylon in the Source.</note>
                     </place>
                     <place xml:id="place058">
@@ -468,18 +473,19 @@
                         <location type="coords">
                             <geo>&apos;-6.7115076 110.6337137</geo>
                         </location>
+                        <location type="place_located_in">
+                        <placeName key="place070">Indonesia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
                     </place>
                     <place xml:id="place059">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Fuime</placeName>
                         <location type="coords">
                             <geo>45.3530556 14.442777777777778</geo>
                         </location>
-                    </place>
-                    <place xml:id="place061">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Ukraine</placeName>
-                        <location type="coords">
-                            <geo>49 32</geo>
-                        </location>
+                        <note>Was an exclave of Hungary. Now in Croatia, called Rijeka.</note>
                     </place>
                     <place xml:id="place060">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Przeworsk</placeName>
@@ -491,6 +497,12 @@
                             <placeName key="place067">Poland</placeName>
                         </location>
                     </place>
+                    <place xml:id="place061">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Ukraine</placeName>
+                        <location type="coords">
+                            <geo>49 32</geo>
+                        </location>
+                    </place>
                     <place xml:id="place062">
                         <placeName type="person_namensvariante_nachname-komma-vorname">San Salvador</placeName>
                         <location type="coords">
@@ -498,24 +510,27 @@
                         </location>
                     </place>
                     <place xml:id="place065">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Kasimirgasse</placeName>
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Kasimirgasse 35</placeName>
                         <location type="coords">
                             <geo>49.842922 24.0209546</geo>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place002">Lviv</placeName></location>
-                           <location> <placeName key="place067">Poland</placeName></location>   
-                        <note>Lviv, Hrodototska St 35</note>
+                           <location type="located_in_place"> 
+                               <placeName key="place067">Poland</placeName></location>   
+                        <note>Hrodototska St 35</note>
                     </place>
                     <place xml:id="place064">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Triest</placeName>
                         <location type="coords">
                             <geo>13.6989939 -89.1914249</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place040">Italy</placeName>
+                        </location>
                     </place>
                     <place xml:id="place067">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Poland</placeName>
-                        <desc type="entity_type">Country</desc>
                         <location type="coords">
                             <geo>52.2159335 19.134422</geo>
                         </location>
@@ -532,6 +547,613 @@
                             <geo>61 8</geo>
                         </location>
                     </place>
+                    <place xml:id="place070">
+                       <placeName type="person_namensvariente_nachname-komma-vorname">Indonesia</placeName>
+                        <location type="coords">
+                            <geo>-5 120</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place071">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Seoul</placeName>
+                        <location type="coords">
+                            <geo>37.566 126.9784</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place022">Korea</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place072">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Mediterranean Sea</placeName>
+                        <location type="coords">
+                            <geo>34.553127, 18.048012</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place073">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Dardanelles</placeName>
+                        <location type="coords">
+                            <geo>34.553127, 18.048012</geo>
+                        </location>
+                        <location type="person_namesvariente_nachname-komma-vorname">
+                            <placeName key="place075">Turkey</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place074">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Suez-Canal</placeName>
+                        <location type="coords">
+                            <geo>30.45499818 32.3499986</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place013">Egypt</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place075">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Turkey</placeName>
+                        <location type="coords">
+                            <geo>38.9573415 35.240741</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place076">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Congress Poland</placeName>
+                        <location type="coords">
+                            <geo>52.2319581 21.0067249</geo>
+                        </location>
+                        <note>Congress Poland, Congress Kingdom of Poland, or Russian Poland, formally known as the Kingdom of Poland.</note>
+                    </place>
+                    <place xml:id="place077">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Balkan</placeName>
+                        <location type="coords">
+                            <geo>44 23</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place078">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Greece</placeName>
+                        <location type="coords">
+                            <geo>38.9953683 21.9877132</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place079">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Crete</placeName>
+                        <location type="coords">
+                            <geo>35.3084952 24.4633423</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place080">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Montenegro</placeName>
+                        <location type="coords">
+                            <geo>42.9868853 19.5180992</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place081">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Macedonia</placeName>
+                        <location type="coords">
+                            <geo>41.6171214 21.7168387</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place082">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Vladivostok</placeName>
+                        <location type="coords">
+                            <geo>43.133333 131.9</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place014">Russia</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place083">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Port Arthur</placeName>
+                        <location type="coords">
+                            <geo>38.802 121.266</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place021">China</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <note>Now called Lüshun Port. Part of Imperial Russia until 1904, Imperial Japan 1905-1945, the Soviet Union
+                        1945-1956, and China since 1956.</note>
+                    </place>
+                    <place xml:id="place084">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Philippines</placeName>
+                        <location type="coords">
+                            <geo>13 22</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place085">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Chemulp'o</placeName>
+                        <location type="coords">
+                            <geo>37.483333 126.633333</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place022">Korea</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <note>Was also  known as Jemulpo. Since 1910 it is called Incheon (Metropolitan City).</note>
+                    </place>
+                    <place xml:id="place086">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Tokyo</placeName>
+                        <location type="coords">
+                            <geo>35.6821936 139.762221</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place019">Japan</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place087">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Osaka</placeName>
+                        <location type="coords">
+                            <geo>34.661629 135.4999268</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place019">Japan</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place088">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Kyoto</placeName>
+                        <location type="coords">
+                            <geo>35.021041 135.7556075</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place019">Japan</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place089">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Nagoyá</placeName>
+                        <location type="coords">
+                            <geo>35.1851045 136.8998438</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place019">Japan</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place090">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Taiwan</placeName>
+                        <location type="coords">
+                            <geo>23.9739374 120.9820179</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place019">Japan</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place091">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Kōbe</placeName>
+                        <location type="coords">
+                            <geo>34.6932379 135.1943764</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place019">Japan</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place092">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Yokohoma</placeName>
+                        <location type="coords">
+                            <geo>35.4443947 139.6367727</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place019">Japan</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place093">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Frankfurt</placeName>
+                        <location type="coords">
+                            <geo>50.1109221 8.68212677</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place094">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">USA</placeName>
+                        <location type="coords">
+                            <geo>39.7837304 -100.445882</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place095">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Paris</placeName>
+                        <location type="coords">
+                            <geo>48.8588897 2.320041</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place045">France</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place096">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">New York</placeName>
+                        <location type="coords">
+                            <geo>40.7127281 -74.0060152</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place094">France</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place097">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Morroco</placeName>
+                        <location type="coords">
+                            <geo>31.1728205 -7.3362482</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place098">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Settat</placeName>
+                        <location type="coords">
+                            <geo>33.002397 -7.619867</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place097">France</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place099">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Rothenburg</placeName>
+                        <location type="coords">
+                            <geo>33.002397 -7.619867</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place0102">Bavaria</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place100">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Europe</placeName>
+                        <location type="coords">
+                            <geo>49.6302618 8.3620898</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place101">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Rhineland-Palatinate</placeName>
+                        <location type="coords">
+                            <geo>49.9531599 7.310646</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place102">Germany</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place102">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Bavaria</placeName>
+                        <location type="coords">
+                            <geo>48.9467562 11.4038717</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place103">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Menados</placeName>
+                        <location type="coords">
+                            <geo></geo>
+                        </location>
+                    </place>
+                    <place xml:id="place104">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Munich</placeName>
+                        <location type="coords">
+                            <geo>48.1371079 11.5753822</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place102">Bavaria</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place105">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Oberwesel</placeName>
+                        <location type="coords">
+                            <geo>50.1075 7.7266193</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place101">Rhineland-Palatinate</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place106">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Drohobytsch</placeName>
+                        <location type="coords">
+                            <geo>49.3513996 23.5061662</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place107">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Rome</placeName>
+                        <location type="coords">
+                            <geo>41.8933203 12.4829321</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place040">Italy</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place108">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">South Tyrol</placeName>
+                        <location type="coords">
+                            <geo>51.6 17.2</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place040">Italy</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place109">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Dalmatia</placeName>
+                        <location type="coords">
+                            <geo>43.5387965 16.1752356</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place110">Croatia</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place110">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Croatia</placeName>
+                        <location type="coords">
+                            <geo>45.3658443 15.6575209</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place111">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Serbia</placeName>
+                        <location type="coords">
+                            <geo>44.1534121 20.55144</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place112">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Bulgaria</placeName>
+                        <location type="coords">
+                            <geo>42.6073975 25.4856617</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place113">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Syria</placeName>
+                        <location type="coords">
+                            <geo>34.6401861 39.0494106</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place114">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Asia Minor</placeName>
+                        <location type="coords">
+                            <geo>38.9519465 35.5012585</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place115">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Timișoara</placeName>
+                        <location type="coords">
+                            <geo>45.7538355 21.2257474</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place124">Romania</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place116">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Cluj-Napoca</placeName>
+                        <location type="coords">
+                            <geo>46.769379 23.5899542</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place124">Romania</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place117">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Constantinople</placeName>
+                        <location type="coords">
+                            <geo>41.006381 28.9758715</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place075">Turkey</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place118">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Tuurkestan</placeName>
+                        <location type="coords">
+                            <geo>43.3019457 68.2703698</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place119">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">India</placeName>
+                        <location type="coords">
+                            <geo>22.3511148 78.6677428</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place120">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">British India</placeName>
+                        <location type="coords">
+                            <geo>22.5411111 88.33777777777777</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place075">Turkey</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place121">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Afghanistan</placeName>
+                        <location type="coords">
+                            <geo>33.7680065 66.2385139</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place122">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Tibet</placeName>
+                        <location type="coords">
+                            <geo>29.8556443 90.8749807</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place021">China</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place123">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Berehove</placeName>
+                        <location type="coords">
+                            <geo>48.2050985 22.6453246</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place124">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Czechia</placeName>
+                        <location type="coords">
+                            <geo>49.7439047 15.3381061</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place125">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">San Francisco</placeName>
+                        <location type="coords">
+                            <geo>37.7792588 -122.4193286</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place094">USA</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place126">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Płock</placeName>
+                        <location type="coords">
+                            <geo>52.5353471 19.7136301</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place076">Congress Poland</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place076">Poland</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place127">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Chernivtsi</placeName>
+                        <location type="coords">
+                            <geo>48.2864702 25.9376532</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place128">Bukovina</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place128">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Bukovina</placeName>
+                        <location type="coords">
+                            <geo>49.2974402 16.7732698</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place068">Romania</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place129">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Mokka</placeName>
+                        <location type="coords">
+                            <geo>31.1728205 -7.3362482</geo>
+                        </location>
+                    </place>
+                    <place xml:id="place130">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Casablanca</placeName>
+                        <location type="coords">
+                            <geo>33.5945144 -7.6200284</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place129">Morroco</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place131">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Marrakech</placeName>
+                        <location type="coords">
+                            <geo>31.6258257 -7.9891608</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place129">Morroco</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place132">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Brody</placeName>
+                        <location type="coords">
+                            <geo>50.08 25.151389</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place133">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Razová</placeName>
+                        <location type="coords">
+                            <geo>49.939167 17.538889</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place108">Silesia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place134">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Silesia</placeName>
+                        <location type="coords">
+                            <geo>51.6 17.2</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place135">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Prague</placeName>
+                        <location type="coords">
+                            <geo>50.0875 14.421389</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place026">Bohemia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                    </place>
+                    <!--a><place xml:id="place136">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">East Asia</placeName>
+                        <location type="coords">
+                            <geo></geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place026">Asia</placeName>
+                        </location>
+                    </place>
+                    <place xml:id="place137">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Africa</placeName>
+                        <location type="coords">
+                            <geo></geo>
+                        </location>
+                    </place>
+                    <place xml:id="place138">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Troyes</placeName>
+                        <location type="coords">
+                            <geo></geo>
+                        </location>
+                    </place></a-->
                 </listPlace>
             </div>
         </body>

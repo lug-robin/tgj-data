@@ -3,7 +3,7 @@
         <fileDesc>
            <titleStmt>
               <title type="main">About the Project</title>
-               <title type="sub">דֶער אֱמֶת׳ר יוּ - The Geniune Jew</title>
+               <title type="sub">דער אַמת׳ר יוּד - The Geniune Jew</title>
            </titleStmt>
            <publicationStmt>
               <p>Publication Information</p>
@@ -15,13 +15,19 @@
     </teiHeader>
     <text>
         <body>
-           <p>
-               The Geniuine Jew is a Newspaper that was published from February to November 1904 in Lviv, at that time part of Poland, now in the Ukraine. The aim of this project is
-               to translate that paper, give more context about the people and places mentioned, and make this source more accessible to those who do not understand the Yiddish
-               language. 
-               <lb/>The text is structured in paragraphs as seen in the facsimile - not line per line as the syntax of English and the syntax of Yiddish differs greatly. Highlighted people
-               and places are indexed. 
-           </p>
+           <div>
+               <p>
+               The Geniuine Jew is a Newspaper that was published from February to November 1904 in Lviv, at that time part of the Habsburg monarchy, now in the Ukraine. It has been digitised by the <ref target="https://anno.onb.ac.at/info/emj_info.html">Austrian National Library</ref> as PDFs.
+               The aim of this project is to translate that paper, annotate and enrich it, provide context about the themes and topics written about, the people and places mentioned, and enhance accessibilty to those who do not understand the Yiddish
+               language using the Open Source and FAIR principles.
+               </p>
+               <p>
+                   
+               </p>
+               <p>The Genuine Jew is a Master's thesis project and an ongoing work in process. At the end, it will contain all 31 issues published from February 1904 until October 1904. Currently, the focus lies on enriching the website with content,
+               enhancing accesibility, and providing Yiddish press translated into the English language for further usage. More features will be added continously.</p>
+               <p>Repository: <ref target="https://github.com/lug-robin/tgj-data">https://github.com/lug-robin/tgj-data</ref></p>
+           </div>
         </body>
     </text>
   </TEI>
