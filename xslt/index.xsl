@@ -50,6 +50,10 @@
         <p id="{generate-id()}"><xsl:apply-templates/></p>
     </xsl:template>
     
+    <xsl:template match="tei:lb">
+        <lb id="{generate-id()}"><xsl:apply-templates/></lb>
+    </xsl:template>
+    
     <xsl:template match="tei:list">
         <ul id="{generate-id()}"><xsl:apply-templates/></ul>
     </xsl:template>
