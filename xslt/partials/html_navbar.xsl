@@ -18,7 +18,7 @@
                             
 
                             <li class="nav-item">
-                                <a class="nav-link" href="toc.html">Newspaper</a>
+                                <a class="nav-link" href="toc.html">Edition</a>
                             </li>
 
                             <li class="nav-item dropdown disabled">
@@ -30,9 +30,9 @@
                                     <li>
                                         <a class="dropdown-item" href="listplace.html">Places</a>
                                     </li>
-                                    <li>
+                                    <!--li>
                                         <a class="dropdown-item" href="listgpe.html">Geopolitical Entities</a>
-                                    </li>
+                                    </li-->
                                 </ul>
                             </li>
 
