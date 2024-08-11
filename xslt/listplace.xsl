@@ -65,7 +65,7 @@
                                         </td>
                                         <td>
                                            
-                                            <a href="{$id}">
+                                            <a href="{concat($id, '.html')}">
                                                 <xsl:value-of select="./tei:placeName[1]/text()"/></a>
                                            
                                         </td>
