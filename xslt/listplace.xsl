@@ -53,7 +53,8 @@
                             <tbody>
                                 <xsl:for-each select=".//tei:place">
                                     <xsl:variable name="id">
-                                        <xsl:value-of select="data(@xml:id)"/>
+                                        <!--xsl:value-of select="data(@xml:id)"/-->
+                                        <xsl:variable name="link" select="concat('place', data(@xml:id), '.html')"/>
                                     </xsl:variable>
                                     <tr>
                                         <td>
