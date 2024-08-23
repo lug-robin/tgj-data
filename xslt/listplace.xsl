@@ -66,8 +66,8 @@
                                             </a>
                                         </td>
                                         <td>
-                                           <xsl:attribute name="href"><a href="{concat($id, '.html')}"/></xsl:attribute>
-                                            <xsl:value-of select="$id"/>
+                                           <a href="{concat($id, '.html')}"/>
+                                            <!--xsl:value-of select="$id"/-->
                                         </td>
                                         <td>
                                            
