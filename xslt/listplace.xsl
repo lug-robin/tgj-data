@@ -43,10 +43,11 @@
                             <thead>
                                 <tr>
                                     <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
+                                    <th scope="col" tabulator-headerFilter="input">ID</th>
                                     <th scope="col" tabulator-headerFilter="input">Place</th>
                                     <th scope="col" tabulator-headerFilter="input">Lat</th>
                                     <th scope="col" tabulator-headerFilter="input">Long</th>
-                                    <th scope="col" tabulator-headerFilter="input">ID</th>
+                                    
                                 </tr>
                             </thead>
                             <tbody>
@@ -56,6 +57,7 @@
                                     </xsl:variable>
                                     <tr>
                                         <td>
+                                            
                                             <a>
                                               <xsl:attribute name="href">
                                               <xsl:value-of select="concat($id, '.html')"/>
@@ -64,9 +66,13 @@
                                             </a>
                                         </td>
                                         <td>
+                                           <a href="{concat($id, '.html')}"> <xsl:value-of select="$id"/></a>
+                                        </td>
+                                        <td>
                                            
                                             <a href="{concat($id, '.html')}">
-                                                <xsl:value-of select="./tei:placeName[1]/text()"/></a>
+                                                <xsl:value-of select="./tei:placeName[1]/text()"/>
+                                            </a>
                                            
                                         </td>
                                         <td>
@@ -83,9 +89,7 @@
                                                 </xsl:when>
                                             </xsl:choose>
                                         </td>
-                                        <td>
-                                            <xsl:value-of select="$id"/>
-                                        </td>
+                                       
                                     </tr>
                                 </xsl:for-each>
                             </tbody>
