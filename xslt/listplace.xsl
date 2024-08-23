@@ -75,11 +75,12 @@
                                        
                                         <td href="{concat($id, '.html')}">
                                            
-                                            <!--a href="{concat($id, '.html')}"-->
+                                            <a href="{concat($id, '.html')}">
                                                 <xsl:value-of select="./tei:placeName[1]/text()"/>
-                                            <!--/a-->
+                                            </a>
                                            
                                         </td>
+                                        
                                         <td>
                                             <xsl:choose>
                                                 <xsl:when test="./tei:location[1]/tei:geo[1]">
