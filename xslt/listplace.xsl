@@ -67,8 +67,8 @@
                                             </a>
                                         </td>
                                         <td>
-                                           <a href="{($id)}">
-                                            <xsl:value-of select="$id"/></a>
+                                           <a ref="{($id)}">
+                                            <xsl:value-of select="$id/text()"/></a>
                                         
                                             
                                         </td>
