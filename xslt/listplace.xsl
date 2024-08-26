@@ -42,8 +42,8 @@
                         <table class="table" id="myTable">
                             <thead>
                                 <tr>
-                                    <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
-                                    <th scope="col" tabulator-headerFilter="input">ID</th>
+                                    <!--th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
+                                    <th scope="col" tabulator-headerFilter="input">ID</th-->
                                     <th scope="col" tabulator-headerFilter="input">Place</th>
                                     <th scope="col" tabulator-headerFilter="input">Lat</th>
                                     <th scope="col" tabulator-headerFilter="input">Long</th>
@@ -67,17 +67,15 @@
                                               <i class="bi bi-link-45deg"/>
                                             </a>
                                         </td-->
-                                        <td>
+                                        <!--td>
                                             <a href="{concat($id, '.html')}">
                                                 <xsl:value-of select="$id/text()"/> </a>  
-                                        </td>
+                                        </td-->
                                        
-                                        <td href="{concat($id, '.html')}">
-                                           
-                                           
-                                                <xsl:value-of select="./tei:placeName[1]/text()"/>
-                                                
-                                            
+                                        <td>
+                                             <a href="{concat($id, '.html')}">
+                                                 <xsl:value-of select="./tei:placeName[1]/text()"/>
+                                             </a>
                                         </td>
                                         
                                         <td>
