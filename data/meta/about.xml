@@ -17,7 +17,7 @@
         <body>
            <div>
                <p>
-               The Geniuine Jew is a Newspaper that was published from February to November 1904 in Lviv, at that time part of the Habsburg monarchy, now in the Ukraine. It has been digitised by the <ref target="https://anno.onb.ac.at/info/emj_info.html">Austrian National Library</ref> as PDFs.
+               The Geniuine Jew is a Newspaper that was published from February to November 1904 in Lviv, at that time part of the Habsburg monarchy, now in the Ukraine. It has been digitised by the <ref source="https://anno.onb.ac.at/info/emj_info.html">Austrian National Library</ref> as PDFs.
                The aim of this project is to translate that paper, annotate and enrich it, provide context about the themes and topics written about, the people and places mentioned, and enhance accessibilty to those who do not understand the Yiddish
                language using the Open Source and FAIR principles.
                </p>
@@ -26,17 +26,17 @@
                    Other links lead to Wikidata pages for information on, for example, an event, concept, or law. 
                </p>
                <p>
-                   The register lists the <ref target="https://lug-robin.github.io/tgj-data/listperson.html">People</ref> and <ref target="https://lug-robin.github.io/tgj-data/listplace.html">Places</ref> mentioned in the source supplied with life data, coordination and links to external databases.
+                   The register lists the <ref source="https://lug-robin.github.io/tgj-data/listperson.html">People</ref> and <ref source="https://lug-robin.github.io/tgj-data/listplace.html">Places</ref> mentioned in the source supplied with life data, coordination and links to external databases.
                </p>
                <p>
-                   <ref target="https://lug-robin.github.io/tgj-data/search.html">Search</ref> provides a full-text search of only the translated text. As of now, the searched phrase needs to be spelled exactly how it is written with Umlauts and hyphens.
+                   <ref source="https://lug-robin.github.io/tgj-data/search.html">Search</ref> provides a full-text search of only the translated text. As of now, the searched phrase needs to be spelled exactly how it is written with Umlauts and hyphens.
                </p>
                <p>
-                   <ref target="https://lug-robin.github.io/tgj-data/ressources.html">Further Ressources</ref> will list tools used and further literature as well as presentations I have given on the topic and my thesis once completed. 
+                   <ref source="https://lug-robin.github.io/tgj-data/ressources.html">Further Ressources</ref> will list tools used and further literature as well as presentations I have given on the topic and my thesis once completed. 
                </p>
                <p>The Genuine Jew is a Master's thesis project and an ongoing work in process. At the end, it will contain all 31 issues published from February 1904 until October 1904. Currently, the focus lies on enriching the website with content,
                enhancing accesibility, and providing Yiddish press translated into the English language for further usage. More features will be added continously.</p>
-               <p>Repository: <ref target="https://github.com/lug-robin/tgj-data">https://github.com/lug-robin/tgj-data</ref></p>
+               <p>Repository: <ref source="https://github.com/lug-robin/tgj-data">https://github.com/lug-robin/tgj-data</ref></p>
            </div>
         </body>
     </text>
