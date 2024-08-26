@@ -44,7 +44,7 @@
                                 <tr>
                                     <!--th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
                                     <th scope="col" tabulator-headerFilter="input">ID</th-->
-                                    <th scope="col" tabulator-headerFilter="input">Place</th>
+                                    <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">Place</th>
                                     <th scope="col" tabulator-headerFilter="input">Lat</th>
                                     <th scope="col" tabulator-headerFilter="input">Long</th>
                                     
