@@ -59,10 +59,11 @@
                                     <tr>
                                         <td>
                                             
-                                            <a>
-                                              <xsl:attribute name="href">
+                                            <a href="{concat($id, '.html')}">
+                                                
+                                              <!--xsl:attribute name="href">
                                               <xsl:value-of select="concat($id, '.html')"/>
-                                              </xsl:attribute>
+                                              </xsl:attribute-->
                                               <i class="bi bi-link-45deg"/>
                                             </a>
                                         </td>
