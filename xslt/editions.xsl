@@ -33,7 +33,7 @@
         <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
     </xsl:variable>
     <xsl:variable name="teiFacsimile">
-        <xsl:value-of select="data(tei:facsimile/@source)"/>
+        <xsl:value-of select="data(.//tei:facsimile/@source)"/>
     </xsl:variable>
 
 
