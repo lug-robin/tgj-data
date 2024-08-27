@@ -83,8 +83,7 @@
                                     <xsl:value-of select="$doc_title"/>
                                 </h1>
                                 <h2 align="center">
-                                   
-                                       <a href="{$teiFacsimile}" target="blank">Facsimile</a>
+                                    <a href="{$teiFacsimile}" target="blank">Facsimile</a>
                                 </h2>
                                 <h3 align="center">
                                     <a href="{$teiSource}" target="blank">
@@ -202,14 +201,17 @@
     <xsl:template match="tei:hi[@rend='bold']">
         <strong><xsl:apply-templates /></strong>
     </xsl:template>
-   <xsl:template match="tei:head[@style='text-align:center']">
        
-   </xsl:template>
+    <xsl:template match="tei:p[@rend='bold']">
+        <strong><xsl:apply-templates /></strong>
+    </xsl:template>
+       
     <xsl:template match="tei:pb">
     </xsl:template>
     
     <xsl:template match="tei:p[@style='text-align:center']">
         <p align="center"><xsl:apply-templates/></p>
     </xsl:template>
+    
             
 </xsl:stylesheet>
