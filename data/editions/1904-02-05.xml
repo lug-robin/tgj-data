@@ -57,30 +57,30 @@
          </sourceDesc>
       </fileDesc>
   </teiHeader>
-  <facsimile>
+   <facsimile source="https://anno.onb.ac.at/pdfs/ONB_emj_19040205.pdf">
      <surface ulx="0" uly="0" lrx="425" lry="622">
-       <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|1|14.0|0"></graphic>
+       <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|1|100.0|0"></graphic>
      </surface>
      <surface ulx="0" uly="0" lrx="44" lry="61">
-        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|2|14.0|0"></graphic>
+        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|2|100.0|0"></graphic>
      </surface>
      <surface ulx="0" uly="0" lrx="4435" lry="6183">
-        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|3|14.0|0"></graphic>
+        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|3|100.0|0"></graphic>
      </surface>
      <surface ulx="0" uly="0" lrx="4411" lry="6180">
-        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|4|14.0|0"></graphic>
+        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|4|100.0|0"></graphic>
      </surface>
      <surface ulx="0" uly="0" lrx="4435" lry="6183">
-        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|5|14.0|0"></graphic>
+        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|5|100.0|0"></graphic>
      </surface>
      <surface ulx="0" uly="0" lrx="4411" lry="6180">
-        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|6|14.0|0"></graphic>
+        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|6|100.0|0"></graphic>
      </surface>
      <surface ulx="0" uly="0" lrx="4435" lry="6183">
-        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|7|14.0|0"></graphic>
+        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|7|100.0|0"></graphic>
      </surface>
      <surface ulx="0" uly="0" lrx="4411" lry="6180">
-        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|8|14.0|0"></graphic>
+        <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040205|8|100.0|0"></graphic>
      </surface>
   </facsimile>
   <text>
@@ -149,7 +149,7 @@
                "The Geniune Jew".
             </p>
          </div>
-         <div style="text-align:center"><p>1</p></div>
+         <div style="text-align:center"><p>[1]</p></div>
          <pb/>
          <div type="editorial" style="text-align:center" n="3"> 
             <p>
@@ -158,11 +158,11 @@
             <seg style="two columns">
                <lb/>a) editorial, an article about all matters, which are relevant to the Jewish people.
                <lb/>b) letters and reports about the different cities and countries about the situations of our borthers and everything concerning them.
-               <lb/>g) Political News, short, but precise information about all political events in the whole world
-               <lb/>h) World news
+               <lb/>c) Political News, short, but precise information about all political events in the whole world
+               <lb/>d) World news
             <cb n="2"/>
-               <lb/>u) Feuilleton. interesting stories from Jewish life. Also, important chapters of our Yiddish history and biographies of rabbi. Gaon and other big Jewish men which have advocated for on behalf of the community.
-               <lb/>z) Miscellaneous. Important information about new inventions,  medical articles, statistical news and similar whatever interests people.
+               <lb/>e) Feuilleton. interesting stories from Jewish life. Also, important chapters of our Yiddish history and biographies of rabbi. Gaon and other big Jewish men which have advocated for on behalf of the community.
+               <lb/>f) Miscellaneous. Important information about new inventions,  medical articles, statistical news and similar whatever interests people.
             </seg>
                </p>
          </div>

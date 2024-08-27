@@ -33,7 +33,7 @@
         <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
     </xsl:variable>
     <xsl:variable name="facsimile">
-        <xsl:value-of select="data(tei:facsimile/tei:surface/tei:graphic/@url)"/>
+        <xsl:value-of select="data(tei:facsimile/@source)"/>
     </xsl:variable>
 
 
@@ -82,6 +82,12 @@
                                 <h1 align="center">
                                     <xsl:value-of select="$doc_title"/>
                                 </h1>
+                                <h2 align="center">
+                                   <xsl:attribute name="href"> 
+                                       <xsl:value-of select="$facsimile"/>
+                                       <a>Facsimile</a>
+                                   </xsl:attribute>
+                                </h2>
                                 <h3 align="center">
                                     <a href="{$teiSource}" target="blank">
                                         <i class="bi bi-download" title="TEI/XML"/>
