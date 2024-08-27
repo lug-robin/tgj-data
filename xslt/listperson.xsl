@@ -40,11 +40,11 @@
                         <table class="table" id="myTable">
                             <thead>
                                 <tr>
-                                    <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
+                                    <!--th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th-->
                                     <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">Surname</th>
                                     <th scope="col" tabulator-headerFilter="input">Name</th>
                                     <th scope="col" tabulator-headerFilter="input">Notes</th>
-                                    <th scope="col" tabulator-headerFilter="input">ID</th>
+                                    <!--th scope="col" tabulator-headerFilter="input">ID</th-->
                                 </tr>
                             </thead>
                             <tbody>
@@ -53,14 +53,14 @@
                                         <xsl:value-of select="data(@xml:id)"/>
                                     </xsl:variable>
                                     <tr tabulator-formatter="html" href="{concat($id, '.html')}">
-                                        <td>
+                                        <!--td>
                                             <a>
                                               <xsl:attribute name="href">
                                               <xsl:value-of select="concat($id, '.html')"/>
                                               </xsl:attribute>
                                               <i class="bi bi-link-45deg"/>
                                             </a>
-                                        </td>
+                                        </td-->
                                         <td>
                                             <a href="{concat($id, '.html')}"><xsl:value-of select=".//tei:surname/text()"/></a>
                                         </td>
@@ -70,7 +70,7 @@
                                         <td>
                                             <xsl:value-of select=".//tei:occupation/text()"/>
                                         </td>
-                                        <td>
+                                        <!--td>
                                             <a>
                                                 <xsl:attribute name="href">
                                                     <xsl:value-of select="concat($id,'.html')"/>
@@ -78,7 +78,7 @@
                                                 <xsl:value-of select="$id/text()"/>
                                                     
                                             </a>
-                                        </td>
+                                        </td-->
                                     </tr>
                                 </xsl:for-each>
                             </tbody>
