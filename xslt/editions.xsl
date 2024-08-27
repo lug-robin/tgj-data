@@ -84,8 +84,7 @@
                                 </h1>
                                 <h2 align="center">
                                    <xsl:attribute name="href"> 
-                                       <xsl:value-of select="$facsimile"/>
-                                       <a>Facsimile</a>
+                                       <a href="{$facsimile}" target="blank">Facsimile</a>
                                    </xsl:attribute>
                                 </h2>
                                 <h3 align="center">
