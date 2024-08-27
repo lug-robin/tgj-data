@@ -122,7 +122,7 @@
                             </div>
                         </div>
                       
-                        <head style="text-align:center">
+                        <head align="center">
                             <xsl:for-each select="tei:head">
                                 <h2>  <xsl:value-of select="text()"/>
                                     <style>
@@ -133,7 +133,7 @@
                             </xsl:for-each>     
                         </head>
 
-                        <p style="text-align:left;">
+                        <p align="left;">
                             <xsl:for-each select=".//tei:note[not(./tei:p)]">
                                 <div class="footnotes" id="{local:makeId(.)}">
                                     <xsl:element name="a">
@@ -206,8 +206,10 @@
        
    </xsl:template>
     <xsl:template match="tei:pb">
-        
-        
+    </xsl:template>
+    
+    <xsl:template match="tei:p[@style='text-align:center']">
+        <p align="center"><xsl:apply-templates/></p>
     </xsl:template>
             
 </xsl:stylesheet>
