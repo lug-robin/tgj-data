@@ -41,7 +41,7 @@
                             <thead>
                                 <tr>
                                     <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
-                                    <th scope="col" tabulator-headerFilter="input">Surname</th>
+                                    <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">Surname</th>
                                     <th scope="col" tabulator-headerFilter="input">Name</th>
                                     <th scope="col" tabulator-headerFilter="input">Notes</th>
                                     <th scope="col" tabulator-headerFilter="input">ID</th>
@@ -52,7 +52,7 @@
                                     <xsl:variable name="id">
                                         <xsl:value-of select="data(@xml:id)"/>
                                     </xsl:variable>
-                                    <tr>
+                                    <tr tabulator-formatter="html" href="{concat($id, '.html')}">
                                         <td>
                                             <a>
                                               <xsl:attribute name="href">
@@ -62,7 +62,7 @@
                                             </a>
                                         </td>
                                         <td>
-                                            <xsl:value-of select=".//tei:surname/text()"/>
+                                            <a href="{concat($id, '.html')}"><xsl:value-of select=".//tei:surname/text()"/></a>
                                         </td>
                                         <td>
                                             <xsl:value-of select=".//tei:forename/text()"/>
