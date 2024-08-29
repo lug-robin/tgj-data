@@ -57,30 +57,30 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <facsimile>
+   <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040212">
       <surface ulx="0" uly="0" lrx="4435" lry="6183" xml:id="facs_1">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|1|14.0|0" width="4435px" height="6183px"/>
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|1|100.0|0" width="4435px" height="6183px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="4397" lry="6154" xml:id="facs_2">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|2|14.0|0" width="4397px" height="6154px"/>
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|2|100.0|0" width="4397px" height="6154px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="4435" lry="6183" xml:id="facs_3">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|3|14.0|0" width="4435px" height="6183px"/>
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|3|100.0|0" width="4435px" height="6183px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="4397" lry="6154" xml:id="facs_4">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|4|14.0|0" width="4397px" height="6154px"/>
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|4|100.0|0" width="4397px" height="6154px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="4435" lry="6138" xml:id="facs_5">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|5|14.0|0" width="4435px" height="6183px"/>
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|5|100.0|0" width="4435px" height="6183px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="4397" lry="6154" xml:id="facs_6">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|6|14.0|0" width="4397px" height="6154px"/>
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|6|100.0|0" width="4397px" height="6154px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="4435" lry="6138" xml:id="facs_7">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|7|14.0|0" width="4435px" height="6183px"/>
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|7|100.0|0" width="4435px" height="6183px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="4397" lry="6154" xml:id="facs_8">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|8|14.0|0" width="4397px" height="6154px"/>
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040212|8|100.0|0" width="4397px" height="6154px"/>
       </surface>
    </facsimile>
   <text>
@@ -153,7 +153,7 @@
             </p>
             <p>
                But if a teacher who wants to take a stance against that and wants to convince the children that the religion he teaches is the true Jewry - then a fight against him rises. He gets reported to the Local 
-               Education Administration, an investigation against him gets instigated and he is <pb/> being assaulted until he shuts up and is quiet.                
+               Education Administration, an investigation against him gets instigated and he is </p><p style="text-align:center" rend="bold">[1]</p><p><pb/> being assaulted until he shuts up and is quiet.                
             </p>
             <p>
                However, a Jewish representative sits in the Local Education Administration, who should take on the teacher, because doesn’t he sit there for exactly that reason? You will of course ask, but that is indeed a bad 
@@ -209,6 +209,7 @@
                This influence also proved useful in the case of the Sunday rest. Many pious Jewish people, especially in <rs type="place">Galicia</rs>, suffer under the law of Sunday Rest. They close their shop on Sabbath 
                and also have to do so on Sunday. Closing their stores two days a week is difficult, especially for the little merchant. The Hungarian Jewish people managed to achieve some relief.
             </p>
+            <p style="text-align:center" rend="bold">[2]</p>
             <p>
                <pb/>A few months ago, the government issued a decree for every tobacco shop to be open for business on Sabbath. The licence is to be revoked of those who keep it closed on Sabbath. This decree has been a 
                serious “punishment”. Several tobacconists, who didn’t want their licence to be revoked, and have therefore violated Sabbath. However, many pious Jewish people insisted and have not lost their livelihood over 
@@ -254,7 +255,7 @@
             <p>
                No one can say for sure how long the war will last, but it seems like it will end soon. A long war, which will not be cheap for Russia, will cause revolutions inside the country. Rumour has it there are preparations 
                for a revolution in <rs type="place">Russian Poland</rs> already. Therefore, Russia needs to end the war soon to keep its own country in check. The idiom: “The camel wanted horns, but cut off the ears as well” became 
-               true for Russia now. Russia wanted <pb/> to invade foreign countries, but is now busy with its own land. 
+               true for Russia now. Russia wanted </p><p style="text-align:center" rend="bold">[3]</p><p><pb/> to invade foreign countries, but is now busy with its own land. 
             </p>
             <lb/>
             <p>
@@ -288,6 +289,7 @@
                interested in the war in Russia and expect daily news from the warside.
             </p>
          </div>
+         <div><p style="text-align:center" rend="bold">[4]</p></div>
          <lb/>
          <div style="two columns" type="article" n="4">
             <head><hi rend="bold">The first Russian defeat.</hi></head>
@@ -329,7 +331,7 @@
             </p> 
             <p>The govener <rs type="person">Alekseyev</rs> sent the following telegram to the tsar: 
                <lb/>“On Monday, the Japanese troops, consiting of 15 battle ships, started to bomb the harbour of <rs type="place">Port Arthur</rs>. We shot back from the fortress. After one hour, the Japanese stopped firing arms and left the harbour. 
-               Two officers and 54 soldiers are wounded, 10 soldiers have been killed. The Russian battle ships “Poltava”, “Diana”, “Askold”, and “Novik” have been <pb/> damaged. The fortress has not been badly damaged.”
+               Two officers and 54 soldiers are wounded, 10 soldiers have been killed. The Russian battle ships “Poltava”, “Diana”, “Askold”, and “Novik” have been </p><p style="text-align:center" rend="bold">[5]</p><p><pb/> damaged. The fortress has not been badly damaged.”
             </p>
             <p>
                This is how the governor delivered the news, and everyone can therefore be certain that the Russian loss has been much worse. Again, four battleships were damaged, the fortress suffered. The second defeat was even worse than the first one.
@@ -357,7 +359,7 @@
             <p>
                After the last uprising in <rs type="place">China</rs>, the <ref source="https://www.wikidata.org/wiki/Q150229">Boxer Rebellion</ref>, where the “Boxers” rose up against foreigners, every country sent their military there to suppress the rebellion. 
                After the situation calmed down, everyone’s military retreated, except for Russia, which stayed in the Chinese province of <rs type="place">Manchuria</rs>. Russia occupied this region during the rebellion and refused to retreat. At first, it was looking 
-               for different excused, but the other <pb/> governments demanded Russia to vacate the area - after that Russia forced China to enter in an agreement after which Russia is allowed to keep occupying the province <rs type="place">Manchuaria</rs> as long as it wants to. 
+               for different excused, but the other </p><p style="text-align:center" rend="bold">[6]</p><p><pb/> governments demanded Russia to vacate the area - after that Russia forced China to enter in an agreement after which Russia is allowed to keep occupying the province <rs type="place">Manchuaria</rs> as long as it wants to. 
                <rs type="place">Manchuria</rs> should continue to be a Chinese province only by name. Because of the occupation of <rs type="place">Manchuria</rs>, Russia became a closer neighbour to Korea, which bothered Japan quite a lot. But also other governments are not 
                satisfied with this situation, mainly England and America, which are interested in <rs type="place">Manchuria</rs> because of trade. Therefore, they put stones in Russia’s path and disrupted their trading. They wanted to close every Manchurian harbours for 
                foreign trade. Still, China went into agreement with several other governments allowing them to trade however much they want. England and America therefore drove Japan continuously to not let Russia fob them off. And Japan, who could be sure that it had two 
@@ -415,6 +417,7 @@
                children, looted their houses. After they have killed numerous Jewish people, they took their women and children as captives. Over 300 houses were destroyed. The Arabs demand a lot of money to free the captives
             </p>
          </div>
+         <div><p style="text-align:center" rend="bold">[7]</p></div>
          <lb/>
          <div type="news" style="two columns" n="2">
             <head>
@@ -598,7 +601,8 @@
                   <lb/>Herausgeber und verantwortlicher Redact. <rs type="person">OSIAS H. WILF</rs> recte Weinstock
                   <lb/>Druck von <rs type="person">E. Salat</rs> Witwe des <rs type="person">U.W. Salat</rs>, <rs type="place">Lemberg</rs> <rs type="place">Kasimirgasse 35</rs>
                </foreign>
-            </p>   
+            </p>
+            <p style="text-align:center" rend="bold">[8]</p>
          </div>
          <pb/>
       </body>
