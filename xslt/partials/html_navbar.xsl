@@ -40,7 +40,7 @@
                                 <a title="Suche" class="nav-link" href="search.html">Search</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="ressources.html">Further Ressources</a>
+                                <a class="nav-link" href="ressources.html">Further Resources</a>
                             </li>
                                 <!--a><a class="nav-item" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Further Ressources</a>
                                 <ul class="dropdown-menu">
