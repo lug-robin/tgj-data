@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-02-19.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">The Genuine Jew - 1904-03-01</title>
+            <title level="a">1904-03-01</title>
+            <author>Multiple Authors</author>
+            <editor>
+               <name>Luger, Robin</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>TGJ</edition>
+            <respStmt>
+               <resp>Translation</resp>
+               <name>Luger, Robin</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Luger, Robin</name>
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2024">2024</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
+                  <p>You are free to: Share — copy and redistribute the material in any medium or
+                     format; adapt — remix, transform, and build upon the material for any purpose,
+                     even commercially.</p>
+                  <p>The licensor cannot revoke these freedoms as long as you follow the license
+                     terms. Under the following terms:</p>
+                  <p>Attribution — You must give appropriate credit, provide a link to the license,
+                     and indicate if changes were made. You may do so in any reasonable manner, but
+                     not in any way that suggests the licensor endorses you or your use. No
+                     additional restrictions — You may not apply legal terms or technological
+                     measures that legally restrict others from doing anything the license
+                     permits.</p>
+                  <p>Notices:</p>
+                  <p>You do not have to comply with the license for elements of the material in the
+                     public domain or where your use is permitted by an applicable exception or
+                     limitation. No warranties are given. The license may not give you all of the
+                     permissions necessary for your intended use. For example, other rights such as
+                     publicity, privacy, or moral rights may limit how you use the material.</p>
+               </licence>
+               <p>Copyright 2021 Österreichische Nationalbibliothek</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>A</country>
+                  <settlement>Vienna</settlement>
+                  <repository>Austrian National Library</repository>
+                  <collection/>
+                  <idno>429702-D NEU PER</idno>
+               </msIdentifier>
+               <history>
+                  <origin>
+                     <origDate when-iso="1904-02-19">1904-03-01</origDate>
+                     <origPlace>Sonngasse 27, Lemberg</origPlace>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040219">
+      <surface ulx="0" uly="0" lrx="4241" lry="6151" n="1">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040219|1|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4245" lry="6128" n="2">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040219|2|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4241" lry="6151" n="3">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040219|3|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4245" lry="6128" n="4">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040219|4|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4241" lry="6151" n="5">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040219|5|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4245" lry="6128" n="6">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040219|6|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4241" lry="6151" n="7">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040219|7|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4245" lry="6128" n="8">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040219|8|100.0|0"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="heading" n="1" style="one column">
+
+            <p><foreign xml:lang="de">1.Jahrgang Nr. 5 </foreign> 1st year</p>
+         </div>
+         <div type="title" n="1">
+            <head>
+               <hi rend="bold">The Geniune jew</hi>
+            </head>
+            <p>Organ for yiddish matters</p>
+            <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
+            <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+         </div>
+         <div type="editorial" n="1" style="two columns">
+            <cb n="1"/>
+            <table rows="4" cols="2">
+               <head>The Geniune Jew costs</head>
+               <row role="data">
+                  <cell role="data">In <rs type="place">Austria-Hungary</rs></cell>
+                  <cell role="data">Abroad</cell>
+               </row>
+               <row role="data">
+                  <cell role="data">For a whole year - 8 Kronen</cell>
+                  <cell role="data">For a whole year - 12 Francs</cell>
+               </row>
+               <row role="data">
+                  <cell role="data">For a half year - 4 "</cell>
+                  <cell role="data">For a half year - 6 "</cell>
+               </row>
+               <row role="data">
+                  <cell role="data">For a quarter year - 2.50 "</cell>
+                  <cell role="data">For a quarter year - 3.50 "</cell>
+               </row>
+            </table>
+            <p><rs type="place">Lviv</rs>,<date when-iso="1904-03-01"> March 1st 1904</date></p>
+            <cb n="2"/>
+            <p>
+               <lb/>Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign
+                  xml:lang="de">Redaction "Der wahre Jude",<rs type="place">Lviv</rs>, <rs
+                     type="place">Sonnengasse 27</rs></foreign>
+               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign
+                  xml:lang="de"><rs type="place">Lemberg</rs>, <date when-iso="1904-03-01">den 01.
+                     März 1904</date></foreign>.</p>
+         </div>
+         <lb/>
+         <div type="article" style="two columns" n="1">
+            <head><hi rend="bold">Purim</hi></head>
+            <p>
+               Out of all Jewish holidays, <ref type="information" source="https://www.wikidata.org/wiki/Q180115">Purim</ref> is the only one where Jews celebrate in
+               remembrance of taking revenge on their enemies. The idea of vengeance is admittedly
+               foreign to the Jewish people, as it is explicitly in the holy Thora: “You shall not
+               take revenge and you shall not bear a grudge!” But against <ref source="https://www.wikidata.org/wiki/Q372091">Amalek</ref> and his children,
+               who want to destroy the Jewish people, against enemies like that is the thought of
+               vengeance, of revenge permitted. The positive commandment: “Remember what Amalek did
+               to you.” delays “You shall not take revenge and you shall not bear a grudge!” for
+               now.
+            </p>
+            <p> The children of Amalek are still alive to this day. “In every generation, they rise
+               up against us to destroy us ( בכל דור ודור קמים עלינו לכלותינו" (Bechol Dor V'Dor
+               Kamim Aleinu L'cholotenu))”, in every generation they rise up against us in order to
+               destroy us, but “והקב״ה מצילנו מידם" (V'ha'Kadosh Baruch Hu Motzi'lenu Meyadem), God
+               saves us from their hands. In His great revenge, we are not responsible, but they are
+               avenged upon by another hand in the end. </p>
+            <p>Lately, Russia plays the role of Amalek. In <rs type="place"><ref source="place014">Russia</ref></rs>, Jewish people are pursued the
+               most, they are prosecuted most, they are tormented. The whole world was shocked by
+               the horrible acts of violence against Jews in <rs type="place"><ref source="place015">Chișinău</ref></rs>. Brutality on this level has
+               not happened for hundreds of years, but God, blessed be He: “Pull long and pay
+               little”. As a proverb describes: Because Russia thinks it can do whatever it wants
+               without agitating anything, the same Russia will see its end because of Japan. Every
+               day, new messages arrive of the Russian defeat and the Japanese victories, it is
+               truly the downfall of Hama. ( ממש מפּלת המן" (Memesh Miflat Haman). For Russia, also
+               this quote will come true: “As you begin to fall, so shall you fall. (תּפּול"
+               (K'asher ha'halot l'napol ken nafol tifol). As you begin to fall, so <cb/>you shall
+               fall! Russia is being deserted from all sides, all its Asian neighbours, which used
+               to ally with Russia - Korea, China, Tibet, and others - turned away. They are also
+               looking forward to Russia’s losses and allied with Japan. The public opinion is also
+               against Russia, looking forward to its defeat. </p>
+            <p>Especially Jews in the whole world rejoice. News in <rs type="place"><ref source="place008">America</ref></rs> reports that the local
+               Jews want to buy a battleship with all supplies needed, cannons, gunpowder, and
+               so on. They want to name it “Chișinău” and gift it to Japan. We do not know if this
+               news is true, but it might as well be. “זכור את אשר עשה לך עמלק” (Remember what
+               Amalek did to you) - we always have to remember this verse, we cannot forget the
+               persecutions of <rs type="place"><ref source="place015">Chișinău</ref></rs>, not until Russia meets its end. Just like Spain, which once
+               was the biggest empire and these days it pummeled and lost its standing. Our
+               friendship with Japan is not מאהבת מרדכי (A friendship to Mordechai), because we do
+               not converse with Japan at all. The Japanese are completely foreign to us and we have
+               never been in contact with each other, except the same hatred of Haman. Our
+               resentment against Russia makes Japan and us friends. We want Japan to triumph and
+               therefore Russia should fall. The whole world will be convinced that there is a God
+               who cares about the persecuted and punishes the persecutor. Then when Russia is like
+               Haman, sad and cowering, then there will be light, and gladness, and joy, and honor
+               for the Jews.</p>
+         </div>
+         <div type="information" style="one column">
+            <p>We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the voice of the upholders of religion) to send every letter and money to this address:</p>
+            <p>OSIAS H. WILF, <rs type="place"><ref source="place002">LEMBERG</ref></rs> <ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.</p>  
+            <p style="text-align:center" rend="bold">[1]</p>
+         </div>
+         <pb/>
+         <div type="article" style="two columns" n="2">
+            <head><hi rend="bold"></hi></head>
+           
+         </div>
+         <div type="article" style="two columns" n="3">
+            
+         </div>
+         <div>
+           
+         </div>
+         <div type="article" style="two columns" n="4">
+            
+         </div>
+         <div>
+            <p style="text-align:center" rend="bold">[5]</p>
+         </div>
+         <pb/>
+         <div type="news" style="two columns" n="1">
+           
+         </div>
+         <div type="article" style="two columns" n="5">
+            
+         </div>
+        
+         <div type="footer" style="one columns" n="1">
+            <p>
+               <foreign xml:lang="de">
+                  <lb/>Herausgeber und verantwortlicher Redact. <rs type="person">OSIAS H. WILF</rs>
+                  recte Weinstock <lb/>Druck von <rs type="person">E. Salat</rs> Witwe des <rs
+                     type="person">U.W. Salat</rs>, <rs type="place">Lemberg</rs>
+                  <rs type="place">Kasimirgasse 35</rs>
+               </foreign>
+            </p>
+            <p style="text-align:center" rend="bold">[8]</p>
+         </div>
+      </body>
+   </text>
+</TEI>
