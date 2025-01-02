@@ -633,6 +633,7 @@
                         <location type="coords">
                             <geo>41.6171214 21.7168387</geo>
                         </location>
+                        <note>The historical region Macedonia is not the same as present day Republic of Macedonia.</note>
                     </place>
                     <place xml:id="place082">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Vladivostok</placeName>
@@ -1180,7 +1181,102 @@
                         </location>
                         <note></note>
                         <idno type="Geonames">https://www.geonames.org/597427/republic-of-lithuania.html</idno>
-                        <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q37</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q37</idno>
+                    </place>
+                    <place xml:id="place141">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Black Sea</placeName>
+                        <location type="coords">
+                            <geo>43.4131 34.29708</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <note></note>
+                        <idno type="Geonames">https://www.geonames.org/630673/black-sea.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q166</idno>
+                    </place>
+                    <place xml:id="place142">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Bosnia</placeName>
+                        <location type="coords">
+                            <geo>44.25 17.83333</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place081">Balkan</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3277605/bosnia-and-herzegovina.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q188736</idno>
+                    </place>
+                    <place xml:id="place143">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Herzegovina</placeName>
+                        <location type="coords">
+                            <geo>44.25 17.83333</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place081">Balkan</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3277605/bosnia-and-herzegovina.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q189863</idno>
+                    </place>
+                    <place xml:id="place144">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Thessaloniki</placeName>
+                        <location type="coords">
+                            <geo>44.25 17.83333</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place081">Macedonia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place089">Greece</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place081">Balkan</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <note>Thessaloniki, now a part of Greece in the province of Macedonia, was not part of Greece in 1904.</note>
+                        <idno type="Geonames">https://www.geonames.org/734077/thessaloniki.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q17151</idno>
+                    </place>
+                    <place xml:id="place145">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Armenia</placeName>
+                        <location type="coords">
+                            <geo>40.25 45</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/174982/republic-of-armenia.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q399</idno>
+                    </place>
+                    <place xml:id="place146">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Albania</placeName>
+                        <location type="coords">
+                            <geo>41 20</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place081">Balkan</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/783754/republic-of-albania.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q222</idno>
                     </place>
                 </listPlace>
             </div>

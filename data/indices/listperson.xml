@@ -528,6 +528,13 @@
                 </name>
                 <occupation>Student of Rabbi Meir of Rothenburg</occupation>
               </person>
+              <person xml:id="person060">
+                <name>
+                  <forename>Victor Emmanuel III</forename>
+                  <surname>of Savoy</surname>
+                </name>
+                <occupation>King of Italy, 1900-1946.</occupation>
+              </person>
             </listPerson>
           </div>
         </body>
