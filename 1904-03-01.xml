@@ -68,30 +68,18 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040219">
-      <surface ulx="0" uly="0" lrx="4241" lry="6151" n="1">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040219|1|100.0|0"/>
+   <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040301">
+      <surface ulx="0" uly="0" lrx="4245" lry="6128" n="1">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040301|1|100.0|0"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4245" lry="6128" n="2">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040219|2|100.0|0"/>
+      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="2">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040301|2|100.0|0"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4241" lry="6151" n="3">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040219|3|100.0|0"/>
+      <surface ulx="0" uly="0" lrx="4245" lry="6128" n="3">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040301|3|100.0|0"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4245" lry="6128" n="4">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040219|4|100.0|0"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="4241" lry="6151" n="5">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040219|5|100.0|0"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="4245" lry="6128" n="6">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040219|6|100.0|0"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="4241" lry="6151" n="7">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040219|7|100.0|0"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="4245" lry="6128" n="8">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040219|8|100.0|0"/>
+      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="4">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040301|4|100.0|0"/>
       </surface>
    </facsimile>
    <text>
@@ -142,82 +130,158 @@
          <lb/>
          <div type="article" style="two columns" n="1">
             <head><hi rend="bold">Purim</hi></head>
-            <p>
-               Out of all Jewish holidays, <ref type="information" source="https://www.wikidata.org/wiki/Q180115">Purim</ref> is the only one where Jews celebrate in
-               remembrance of taking revenge on their enemies. The idea of vengeance is admittedly
-               foreign to the Jewish people, as it is explicitly in the holy Thora: “You shall not
-               take revenge and you shall not bear a grudge!” But against <ref source="https://www.wikidata.org/wiki/Q372091">Amalek</ref> and his children,
-               who want to destroy the Jewish people, against enemies like that is the thought of
+            <p> Out of all Jewish holidays, <ref type="information"
+                  source="https://www.wikidata.org/wiki/Q180115">Purim</ref> is the only one where
+               Jews celebrate in remembrance of taking revenge on their enemies. The idea of
+               vengeance is admittedly foreign to the Jewish people, as it is explicitly in the holy
+               Thora: “You shall not take revenge and you shall not bear a grudge!” But against <ref
+                  source="https://www.wikidata.org/wiki/Q372091">Amalek</ref> and his children, who
+               want to destroy the Jewish people, against enemies like that is the thought of
                vengeance, of revenge permitted. The positive commandment: “Remember what Amalek did
                to you.” delays “You shall not take revenge and you shall not bear a grudge!” for
-               now.
-            </p>
+               now. </p>
             <p> The children of Amalek are still alive to this day. “In every generation, they rise
                up against us to destroy us ( בכל דור ודור קמים עלינו לכלותינו" (Bechol Dor V'Dor
                Kamim Aleinu L'cholotenu))”, in every generation they rise up against us in order to
                destroy us, but “והקב״ה מצילנו מידם" (V'ha'Kadosh Baruch Hu Motzi'lenu Meyadem), God
                saves us from their hands. In His great revenge, we are not responsible, but they are
                avenged upon by another hand in the end. </p>
-            <p>Lately, Russia plays the role of Amalek. In <rs type="place"><ref source="place014">Russia</ref></rs>, Jewish people are pursued the
-               most, they are prosecuted most, they are tormented. The whole world was shocked by
-               the horrible acts of violence against Jews in <rs type="place"><ref source="place015">Chișinău</ref></rs>. Brutality on this level has
-               not happened for hundreds of years, but God, blessed be He: “Pull long and pay
-               little”. As a proverb describes: Because Russia thinks it can do whatever it wants
-               without agitating anything, the same Russia will see its end because of Japan. Every
-               day, new messages arrive of the Russian defeat and the Japanese victories, it is
-               truly the downfall of Hama. ( ממש מפּלת המן" (Memesh Miflat Haman). For Russia, also
-               this quote will come true: “As you begin to fall, so shall you fall. (תּפּול"
-               (K'asher ha'halot l'napol ken nafol tifol). As you begin to fall, so <cb/>you shall
-               fall! Russia is being deserted from all sides, all its Asian neighbours, which used
-               to ally with Russia - Korea, China, Tibet, and others - turned away. They are also
-               looking forward to Russia’s losses and allied with Japan. The public opinion is also
-               against Russia, looking forward to its defeat. </p>
-            <p>Especially Jews in the whole world rejoice. News in <rs type="place"><ref source="place008">America</ref></rs> reports that the local
-               Jews want to buy a battleship with all supplies needed, cannons, gunpowder, and
-               so on. They want to name it “Chișinău” and gift it to Japan. We do not know if this
-               news is true, but it might as well be. “זכור את אשר עשה לך עמלק” (Remember what
-               Amalek did to you) - we always have to remember this verse, we cannot forget the
-               persecutions of <rs type="place"><ref source="place015">Chișinău</ref></rs>, not until Russia meets its end. Just like Spain, which once
-               was the biggest empire and these days it pummeled and lost its standing. Our
-               friendship with Japan is not מאהבת מרדכי (A friendship to Mordechai), because we do
-               not converse with Japan at all. The Japanese are completely foreign to us and we have
-               never been in contact with each other, except the same hatred of Haman. Our
-               resentment against Russia makes Japan and us friends. We want Japan to triumph and
-               therefore Russia should fall. The whole world will be convinced that there is a God
-               who cares about the persecuted and punishes the persecutor. Then when Russia is like
-               Haman, sad and cowering, then there will be light, and gladness, and joy, and honor
-               for the Jews.</p>
+            <p>Lately, Russia plays the role of Amalek. In <rs type="place"><ref source="place014"
+                     >Russia</ref></rs>, Jewish people are pursued the most, they are prosecuted
+               most, they are tormented. The whole world was shocked by the horrible acts of
+               violence against Jews in <rs type="place"><ref source="place015">Chișinău</ref></rs>.
+               Brutality on this level has not happened for hundreds of years, but God, blessed be
+               He: “Pull long and pay little”. As a proverb describes: Because Russia thinks it can
+               do whatever it wants without agitating anything, the same Russia will see its end
+               because of Japan. Every day, new messages arrive of the Russian defeat and the
+               Japanese victories, it is truly the downfall of Hama. ( ממש מפּלת המן" (Memesh Miflat
+               Haman). For Russia, also this quote will come true: “As you begin to fall, so shall
+               you fall. (תּפּול" (K'asher ha'halot l'napol ken nafol tifol). As you begin to fall,
+               so <cb/>you shall fall! Russia is being deserted from all sides, all its Asian
+               neighbours, which used to ally with Russia - Korea, China, Tibet, and others - turned
+               away. They are also looking forward to Russia’s losses and allied with Japan. The
+               public opinion is also against Russia, looking forward to its defeat. </p>
+            <p>Especially Jews in the whole world rejoice. News in <rs type="place"><ref
+                     source="place008">America</ref></rs> reports that the local Jews want to buy a
+               battleship with all supplies needed, cannons, gunpowder, and so on. They want to name
+               it “Chișinău” and gift it to Japan. We do not know if this news is true, but it might
+               as well be. “זכור את אשר עשה לך עמלק” (Remember what Amalek did to you) - we always
+               have to remember this verse, we cannot forget the persecutions of <rs type="place"
+                     ><ref source="place015">Chișinău</ref></rs>, not until Russia meets its end.
+               Just like Spain, which once was the biggest empire and these days it pummeled and
+               lost its standing. Our friendship with Japan is not מאהבת מרדכי (A friendship to
+               Mordechai), because we do not converse with Japan at all. The Japanese are completely
+               foreign to us and we have never been in contact with each other, except the same
+               hatred of Haman. Our resentment against Russia makes Japan and us friends. We want
+               Japan to triumph and therefore Russia should fall. The whole world will be convinced
+               that there is a God who cares about the persecuted and punishes the persecutor. Then
+               when Russia is like Haman, sad and cowering, then there will be light, and gladness,
+               and joy, and honor for the Jews.</p>
          </div>
          <div type="information" style="one column">
-            <p>We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the voice of the upholders of religion) to send every letter and money to this address:</p>
-            <p>OSIAS H. WILF, <rs type="place"><ref source="place002">LEMBERG</ref></rs> <ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.</p>  
+            <p>We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the
+               voice of the upholders of religion) to send every letter and money to this
+               address:</p>
+            <p>OSIAS H. WILF, <rs type="place"><ref source="place002">LEMBERG</ref></rs>
+               <ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.</p>
             <p style="text-align:center" rend="bold">[1]</p>
          </div>
          <pb/>
          <div type="article" style="two columns" n="2">
-            <head><hi rend="bold"></hi></head>
-           
+            <head><hi rend="bold"> The Austrian Balkan Politics</hi></head>
+            <p>Austrian’s Balkan Politics have been talked about a lot again lately; about which
+               side Austria-Hungary will take in case a war between Turkey and Bulgaria breaks out.
+               That question is not new. This question has been talked and written about for
+               hundreds of years. Earlier, before Germany and Italy had been one great empire, but
+               several small countries and kingdoms which did not live in peace, the Austrian agenda
+               was mainly about intervening in their affairs and increasing the Austrian’s
+               influence. From 1866 onwards, after the war between Austria and Prussia with Italy,
+               Austria had to renounce any influence it could have had in the united Germany and
+               Italy. From then on, Austria had two great, strong neighbours and has to be satisfied
+               with being able to do what it can do alone. But now, Austria’s foreign politics can
+               concentrate on Balkan politics again like it did in earlier centuries with its empire
+               and Turkey. It is in the nature of every great empire to desire to increase their
+               influence and greaten its borders. The grand global powers like England, France,
+               Germany, and America strive towards conquering new countries in other parts of the
+               world like Asia and Africa. Small Italy has won several oversea territories in
+               Africa, even though it was done under great strain and with hardly any benefits.
+               Russia is broadening their borders into Asia and if Russia is not hindered by Japan
+               in the current war, Russia wants to become the main power of Asia.</p>
+            <p>However, Austria, because of their geographical position, is not able to conquer
+               other parts of the world. There are no pathways with the oceans and prepared to even
+               do so. Austria can also not take anything from its neighbours, the great powers of
+               Russia, Germany, and Italy. What remains is that part of the world: the small Balkan
+               countries: Romania, Bulgaria, Serbia, and Montenegro as well as old, weak Turkey.
+               Austria wanted to take some of Turkey for itself wasn’t it for the other great powers
+               standing in the way.</p>
+            <p>Now, Austrian politics addresses the Balkan in depth once again. But not only the
+               other powers stand in its way, also some of its own people are against it. The
+               Germans do not want Austria to have any more slaves (Peoples on the Balkan are mostly
+               slaves), as Austria would become a Slavic state causing the German influence to
+               weaken. Hungarians are against it for the same reason, because they are scared of the
+               slaves. Hungarians would prefer Austria to take Poland away from Russia. First, they
+               could take revenge on Russia which helped suppress them in 1848. Second, the new
+               Slavs Austria would gain come from the Austrian side, not the Hungarian one, like the
+               Balkan countries.</p>
+            <p>Having said the truth, Austrian politics might want to desire more of Poland -
+               however, Russia is big and strong and is not to be messed with and <cb/>what remains
+               is the Balkan. And now, Austria almost managed to win some land there. After the
+               Russian-Turkish war of 1877, Austria got the approval of the Berlin Congress to
+               occupy two Turkish lands with its military for an undisclosed amount of time: Bosnia
+               and Herzegovina. Ostensibly, both countries remain Turkish, but Austria is occupying
+               both to establish order there. Russia, always the holder of the Slavic peoples,
+               agreed to this, because Russia already agreed to Austria gaining Bosnia-Herzegovina
+               before the war so Austria would not interfere in the war.</p>
+            <p>However later on, Russia regretted this whole thing: It realised that Russia had
+               gained nothing in the war while investing huge amounts of money into people.
+               Meanwhile, Austria, which did nothing at all, gained two countries. Russia started to
+               hold resentment against Austria and watched Austria as well as paid close attention
+               to the countries on the Balkan. Austria should not be able to gain any more land. </p>
+            <p>To be clear, Bosnia and Herzegovina is not enough for Austria. These are two poor
+               countries which only need to receive money. Austria also desires Macedonia with the
+               port city Thessaloniki. If Austria took Thessaloniki in possession, it would gain
+               access to the Black Sea, expand its trade and increase influence. But Russia stood in
+               its path. Besides, Austrian politics sufficed to pay attention to the condition in
+               the Balkan countries to stay as they are. That means, several small, but weak
+               countries as to harm Austria should remain like this for a for years. Both Russia and
+               Austria strive to gain influence there. Austria has the biggest authority in Armenia,
+               Russia in Montenegro; the tables have turned in Bulgaria and Serbia. Some time
+               Austria had more to say, some time Russia had more to say. Lately, both realised the
+               great disorder prevailing in the Balkan countries. Every country does whatever they
+               want as they are either reliant on Austria or Russia. Furthermore, both countries
+               agreed to keep order and kept the Balkan countries to wage war with Turkey because of
+               Macedonia. However, Turkey demanded to introduce reforms in Macedonia to reassure the
+               Macedonians.</p>
+            <p>The Turkish, the Balkan countries, the Macedonians - until now they all had to stay
+               quiet. But now, as Russia’s hands are tied in Asia because of the war with Japan,
+               they are starting to bestir again. Turkey gathered a lot of military, Bulgaria is
+               getting ready for war, and the Macedonians are restarting their revolution again. </p>
+            <p>And now the question remains: What will Austria do? - Voices multilaterally claim
+               that Austria, which was not even afraid of Russia, will take the chance to occupy
+               Macedonia and Thessaloniki. Austria’s government denies these allegations, mostly
+               because it does not want to start off badly with Italy. Namely because Italy has also
+               started to mingle in the Balkan affairs. It desires Albania. Austria on the other
+               hand dislikes these schemes, because it does not want Italy to be its neighbour on
+               all sides. But the<pb/>king of Italy is the son-in-law of a Montenegrin prince and
+               sees itself as a big part of the families of the Balkan.</p>
+            <p>In the end, it comes down to this: if a war breaks out on the Balkan, then Austria is
+               going to use that opportunity to march into Macedonia with its military. It is going
+               to occupy Serbia as well and King Peter will sit weak and alone on his throne, not
+               being able to do anything. Russia will be indignant, but will also have to keep quiet
+               temporarily. Only Turkey’s and Italy’s reactions are still unclear: Whether they are
+               going to war with Austria or they want to reconcile with each other in peace. In any
+               case, one thing is for sure: If war breaks out on the Balkan, Austria will have to
+               intervene.</p>
          </div>
-         <div type="article" style="two columns" n="3">
-            
-         </div>
+         <div type="article" style="two columns" n="3"> </div>
+         <div type="article" style="two columns" n="4"> </div>
          <div>
-           
-         </div>
-         <div type="article" style="two columns" n="4">
-            
-         </div>
-         <div>
-            <p style="text-align:center" rend="bold">[5]</p>
+            <p style="text-align:center" rend="bold">[2]</p>
          </div>
          <pb/>
-         <div type="news" style="two columns" n="1">
-           
-         </div>
-         <div type="article" style="two columns" n="5">
-            
-         </div>
-        
+         <div type="news" style="two columns" n="1"> </div>
+         <div type="article" style="two columns" n="5"> </div>
+
          <div type="footer" style="one columns" n="1">
             <p>
                <foreign xml:lang="de">
@@ -227,7 +291,7 @@
                   <rs type="place">Kasimirgasse 35</rs>
                </foreign>
             </p>
-            <p style="text-align:center" rend="bold">[8]</p>
+            <p style="text-align:center" rend="bold">[4]</p>
          </div>
       </body>
    </text>

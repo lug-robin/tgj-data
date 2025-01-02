@@ -17,8 +17,7 @@
             <div>
                 <listPlace>     
                     <place xml:id="place001">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Austria-Hungary</placeName>
-                        <desc type="entity_type">Country</desc>
+                        <placeName>Austria-Hungary</placeName>
                         <location type="coords">
                             <geo>48.2 16.35</geo>
                         </location>
@@ -50,7 +49,7 @@
                         </location>
                         <note>Now called Panteleimona Kulisha St</note>
                         <idno type="GEONAMES">https://www.geonames.org/702550/lviv.html</idno>
-                        <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q36036</idno>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q36036</idno>
                     </place>
                     <place xml:id="place004">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Moldova</placeName>
@@ -1133,7 +1132,7 @@
                             <placeName key="place001">Austria-Hungary</placeName>
                         </location>
                     </place>
-                    <!--a><place xml:id="place136">
+                    <place xml:id="place136">
                         <placeName type="person_namesvariente_nachname-komma-vorname">East Asia</placeName>
                         <location type="coords">
                             <geo></geo>
@@ -1153,7 +1152,36 @@
                         <location type="coords">
                             <geo></geo>
                         </location>
-                    </place></a-->
+                    </place>
+                    <place xml:id="place139">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Prussia Province</placeName>
+                        <location type="coords">
+                            <geo>54.733333 20.483333</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place140">Lithuania</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place076">Poland</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place014">Russia</placeName>
+                        </location>
+                        <note>Prussia Province existed from 1824 to 1878. Before and after it was divided into East and West Prussia.</note>
+                        <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q675291</idno>
+                    </place>
+                    <place xml:id="place140">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Lithuania</placeName>
+                        <location type="coords">
+                            <geo>55.41667 24</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <note></note>
+                        <idno type="Geonames">https://www.geonames.org/597427/republic-of-lithuania.html</idno>
+                        <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q37</idno>
+                    </place>
                 </listPlace>
             </div>
         </body>
