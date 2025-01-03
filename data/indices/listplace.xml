@@ -165,7 +165,7 @@
                     </place>
                     
                     <place xml:id="place018">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">St. Petersburg</placeName>
+                        <placeName type="person_namensvariante_nachname-komma-vorname">St Petersburg</placeName>
                         <location type="coords">
                             <geo>59.938732 30.316229</geo>
                         </location>
@@ -1277,6 +1277,154 @@
                         </location>
                         <idno type="Geonames">https://www.geonames.org/783754/republic-of-albania.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q222</idno>
+                    </place>
+                    <place xml:id="place147">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Zabolotiv</placeName>
+                        <location type="coords">
+                            <geo>48.469444 25.283333</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/687965/zabolotiv.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q520110</idno>
+                    </place>
+                    <place xml:id="place148">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Kolomyia</placeName>
+                        <location type="coords">
+                            <geo>48.52496 25.03712</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/705392/kolomyia.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q52193</idno>
+                    </place>
+                    <place xml:id="place149">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Krakow</placeName>
+                        <location type="coords">
+                            <geo>50.06143 19.93658</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place067">Poland</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3094802/krakow.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q31487</idno>
+                    </place>
+                    <place xml:id="place150">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Husiatyn</placeName>
+                        <location type="coords">
+                            <geo>49.07123 26.20464</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/707840/husiatyn.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q976295</idno>
+                    </place>
+                    <place xml:id="place151">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Moscow</placeName>
+                        <location type="coords">
+                            <geo>55.75222 37.61556</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place014">Russia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/524901/moscow.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q649</idno>
+                    </place>
+                    <place xml:id="place152">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Mohyliv-Podilskyi</placeName>
+                        <location type="coords">
+                            <geo>48.44278 27.79975</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/700918/mohyliv-podilskyy.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q997469</idno>
+                    </place>
+                    <place xml:id="place153">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Kovel</placeName>
+                        <location type="coords">
+                            <geo>51.21526 24.70867</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/704617/kovel.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q156704</idno>
+                    </place>
+                    <place xml:id="place154">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Mitrovica</placeName>
+                        <location type="coords">
+                            <geo>42.88333 20.86667</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place155">Kosovo</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/789225/mitrovice.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q178168</idno>
+                    </place>
+                    <place xml:id="place155">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Kosovo</placeName>
+                        <location type="coords">
+                            <geo>42.58333 20.91667</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/831053/republic-of-kosovo.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1246</idno>
+                    </place>
+                    <place xml:id="place156">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">London</placeName>
+                        <location type="coords">
+                            <geo>51.50853 -0.12574</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place011">England</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2643743/london.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q84</idno>
+                    </place>
+                    <place xml:id="place157">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Cologne</placeName>
+                        <location type="coords">
+                            <geo>50.93333 6.95</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2886242/koeln.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q365</idno>
                     </place>
                 </listPlace>
             </div>
