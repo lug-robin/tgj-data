@@ -530,10 +530,53 @@
               </person>
               <person xml:id="person060">
                 <name>
-                  <forename>Victor Emmanuel III</forename>
-                  <surname>of Savoy</surname>
+                  <forename>Agenor Maria</forename>
+                  <surname>Gołuchowski </surname>
                 </name>
-                <occupation>King of Italy, 1900-1946.</occupation>
+                <birth><date when-iso="1849-03-25">1849-03-25</date></birth>
+                <death><date when-iso="1921-03-28">1921-03-28</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q392632</idno>
+                <occupation>Austrian politician, Minister of Foreign Affairs of Austria-Hungary, 1895-1906.</occupation>
+              </person>
+              <person xml:id="person061">
+                <name>
+                  <forename>Heinrich</forename>
+                  <surname>von Pitreich</surname>
+                </name>
+                <birth><date when-iso="1841-11-10">1841-11-10</date></birth>
+                <death><date when-iso="1920-01-01">1920-01-01</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q698652</idno>
+                <occupation>Austrian-Hungarian General and Minister of War, 1902-1906.</occupation>
+              </person>
+              <person xml:id="person062">
+                <name>
+                  <forename>Arthur</forename>
+                  <surname>Balfour</surname>
+                </name>
+                <birth><date when-iso="1848-07-25">1848-07-25</date></birth>
+                <death><date when-iso="1930-03-19">1930-03-19</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q19008</idno>
+                <occupation>British Prime Minister, Conservative politician, and statesman.</occupation>
+              </person>
+              <person xml:id="person063">
+                <name>
+                  <forename>Théophile</forename>
+                  <surname>Delcassé</surname>
+                </name>
+                <birth><date when-iso="1852-03-01">1852-03-01</date></birth>
+                <death><date when-iso="1930-03-19">1923-02-22</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q503827</idno>
+                <occupation>French statesman.</occupation>
+              </person>
+              <person xml:id="person064">
+                <name>
+                  <forename>Anatol</forename>
+                  <surname>Stessel</surname>
+                </name>
+                <birth><date when-iso="1852-03-01">1848-06-28</date></birth>
+                <death><date when-iso="1930-03-19">1915-01-18</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2524487</idno>
+                <occupation>Russian general. Admiral during the Russo-Japanese war.</occupation>
               </person>
             </listPerson>
           </div>
