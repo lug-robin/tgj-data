@@ -41,15 +41,18 @@
                <tbody>
                   <tr>
                      <th>
-                        Latitude
+                        Part of
                         </th>
-                     <td>64.6863136</td>
+                     <td>
+                        <li><a href="place024.html">Asia</a></li>
+                        <li><a href="place100.html">Europe</a></li>
+                     </td>
                   </tr>
                   <tr>
                      <th>
-                        Longitude
+                        Geonames
                         </th>
-                     <td>97.7453061</td>
+                     <td><a href="https://www.geonames.org/2017370/russian-federation.html" target="_blank">2017370</a></td>
                   </tr>
                </tbody>
             </table>
@@ -64,8 +67,8 @@
             }
             window.addEventListener('load', addDarkmodeWidget);
         </script><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" /><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script><script>
-                                var lat = 64.6863136;
-                                var long = 97.7453061;
+                                var lat = 60;
+                                var long = 100;
                                 $("#map_detail").css("height", "500px");
                                 var map = L.map('map_detail').setView([Number(lat), Number(long)], 13);
                                 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {

@@ -14,29 +14,39 @@
     </teiHeader>
     <text>
         <body>
-            <div>
+            <div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
                 <listPlace>     
                     <place xml:id="place001">
                         <placeName>Austria-Hungary</placeName>
                         <location type="coords">
                             <geo>48.2 16.35</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q28513</idno>
                         <note>
                             Empire in Central Europe, 1867–1918.
                         </note>
-                        <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q28513</idno>
                     </place>
                     <place xml:id="place002">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Lviv</placeName>
                         <location type="coords"><geo>49.841952 24.0315921</geo></location>
                         <location type="located_in_place">
-                            <placeName key="place061">Ukraine</placeName>
-                            <geo>52.2159335 19.134422</geo>
+                            <placeName key="place006">Galicia</placeName>
                         </location>
-                        <idno type="GEONAMES">https://www.geonames.org/702550/lviv.html</idno>
-                        <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q36036</idno>
-                    </place>
-                    
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/702550/lviv.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q36036</idno>
+                    </place> 
                     <place xml:id="place003">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Sonnengasse 27</placeName>
                         <location type="coords"><geo>49.84777348999111 24.024325540895227</geo>
@@ -44,35 +54,58 @@
                     <location type="located_in_place">
                         <placeName key="place002">Lviv</placeName>
                     </location>
+                    <location type="located_in_place">
+                        <placeName key="place006">Galicia</placeName>
+                    </location>
                         <location type="located_in_place">
-                        <placeName key="place061">Ukraine</placeName>
+                            <placeName key="place001">Austria-Hungary</placeName>
                         </location>
-                        <note>Now called Panteleimona Kulisha St</note>
-                        <idno type="GEONAMES">https://www.geonames.org/702550/lviv.html</idno>
-                        <idno type="wikidata">https://www.wikidata.org/wiki/Q36036</idno>
+                    <location type="located_in_place">
+                        <placeName key="place061">Ukraine</placeName>
+                    </location>
+                    <location type="located_in_place">
+                        <placeName key="place100">Europe</placeName>
+                    </location>
+                    <note>Now called Panteleimona Kulisha St</note>
                     </place>
                     <place xml:id="place004">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Moldova</placeName>
                         <location type="coords">
                             <geo>46.9803875 28.3896969</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/617790/republic-of-moldova.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q217</idno>
                     </place>
                     <place xml:id="place005">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Gaza</placeName>
-                    <location type="coords">
+                        <location type="coords">
                         <geo>31.4432234 34.360007</geo>
-                    </location>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/281133/gaza.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q39760</idno>
                     </place>
-                    
                     <place xml:id="place006">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Galicia</placeName>
-                    <location type="coords">
-                        <geo>49.83 24.0142</geo>
-                    </location>                    
-                    <location type="located_in_place">
-                        <placeName key="place067">Poland</placeName>
-                        <geo>52.2159335 19.134422</geo>
-                    </location>
+                        <location type="coords">
+                            <geo>49.83 24.0142</geo>
+                        </location>                    
+                        <location type="located_in_place">
+                            <placeName key="place067">Poland</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/562153/galicia.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q180086</idno>
                     </place>
                     <place xml:id="place007">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Vienna</placeName>
@@ -82,54 +115,95 @@
                    <location type="located_in_place">
                        <placeName key="place025">Austria</placeName>
                     </location>
+                    <location type="located_in_place">
+                        <placeName key="place001">Austria-Hungary</placeName>
+                    </location> 
+                    <location type="located_in_place">
+                        <placeName key="place100">Europe</placeName>
+                    </location>
+                        <idno type="Geonames">https://www.geonames.org/2761369/vienna.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1741</idno>
                     </place>                   
                     <place xml:id="place008">
                         <placeName type="person_namensvariante_nachname-komma-vorname">America</placeName>
                         <location type="coords">
                             <geo>39.7837304 -100.445882</geo>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/6255149/north-america.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q49</idno>
                     </place>
                     <place xml:id="place009">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Hungary</placeName>
                         <location type="coords">
                             <geo>47.1817585 19.5060937</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location> 
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/719819/hungary.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q28</idno>
                     </place>
                     <place xml:id="place010">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Germany</placeName>
                         <location type="coords">
                             <geo>51.1638175 10.4478313</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2921044/federal-republic-of-germany.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q183</idno>
                     </place>
-                    
                     <place xml:id="place011">
                         <placeName type="person_namensvariante_nachname-komma-vorname">England</placeName>
                         <location type="coords">
                             <geo>52.5310214 -1.2649062</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/6269131/england.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q21</idno>
                     </place>
-                    
                     <place xml:id="place012">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Babylonia</placeName>
                         <location type="coords">
                             <geo>32.5422222 44.42111111111111</geo>
                         </location>
-                    </place>
-                    
+                        <idno type="Geonames">https://www.geonames.org/12489746/babylonian-empire.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q47690</idno>
+                    </place>       
                     <place xml:id="place013">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Egypt</placeName>
                         <location type="coords">
                             <geo>26.2540493 29.2675469</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place137">Africa</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/357994/arab-republic-of-egypt.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q79</idno>
                     </place>
-                    
                     <place xml:id="place014">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Russia</placeName>
                         <location type="coords">
-                            <geo>64.6863136 97.7453061</geo>
+                            <geo>60 100</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2017370/russian-federation.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q159</idno>
                     </place>
-                    
                     <place xml:id="place015">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Chișinău</placeName>
                         <location type="coords">
@@ -138,9 +212,13 @@
                         <location type="located_in_place">
                             <placeName key="place004">Moldova</placeName>
                         </location>
-                        <note>Was part of the Russian kingdom.</note>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/618426/chisinau.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q21197</idno>
+                        <note>Capital of Moldova, part of the Russian kingdom from 1812 to 1917.</note>
                     </place>
-                    
                     <place xml:id="place016">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Homyel</placeName>
                         <location type="coords">
