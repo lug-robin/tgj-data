@@ -49,7 +49,7 @@
                     </tr>  
                 </xsl:if>
 
-                <xsl:if test=".//tei:location">
+                <!--a><xsl:if test=".//tei:location">
                 <tr>
                     <th>
                         Latitude
@@ -68,17 +68,17 @@
                         <xsl:value-of select="tokenize(./tei:location[1]/tei:geo[1], '\s')[2]"/>
                     </td>
                 </tr>
-                </xsl:if>
+                </xsl:if></a-->
                 <xsl:if test="./tei:note"> 
                 </xsl:if>
-                <xsl:if test="./tei:idno[@type='GEONAMES']/text()">
+                <xsl:if test="./tei:idno[@type='Geonames']/text()">
                     <tr>
                         <th>
                             Geonames
                         </th>
                         <td>
-                            <a href="{./tei:idno[@type='GEONAMES']}" target="_blank">
-                                <xsl:value-of select="tokenize(./tei:idno[@type='GEONAMES'], '/')[4]"/>
+                            <a href="{./tei:idno[@type='Geonames']}" target="_blank">
+                                <xsl:value-of select="tokenize(./tei:idno[@type='Geonames'], '/')[4]"/>
                             </a>
                         </td>
                     </tr>
@@ -89,8 +89,8 @@
                             Wikidata ID
                         </th>
                         <td>
-                            <a href="{./tei:idno[@type='URL']}" target="_blank">
-                                <xsl:value-of select="tokenize(./tei:idno[@type='URL'], '/')[last()]"/>
+                            <a href="{./tei:idno[@type='Wikidata']}" target="_blank">
+                                <xsl:value-of select="tokenize(./tei:idno[@type='Wikidata'], '/')[last()]"/>
                             </a>
                         </td>
                     </tr>
