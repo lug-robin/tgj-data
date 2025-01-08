@@ -83,7 +83,7 @@
                         </td>
                     </tr>
                 </xsl:if>
-                <xsl:if test="./tei:idno[@type='URL']/text()">
+                <xsl:if test="./tei:idno[@type='Wikidata']/text()">
                     <tr>
                         <th>
                             Wikidata ID
