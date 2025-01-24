@@ -578,6 +578,57 @@
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2524487</idno>
                 <occupation>Russian general. Admiral during the Russo-Japanese war.</occupation>
               </person>
+              <person xml:id="person065">
+                <persName>
+                  <forename>Moshe</forename>
+                  <surname></surname>
+                </persName>
+                <birth><date>Between 1689 BCE and 1391 BCE</date></birth>
+                <death><date>Between 1473 BCE and 1271 BCE</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q9077</idno>
+                <occupation>Abrahamic prophet said to have led the Israelites out of Egypt. Important prophet in Judaism.</occupation>
+              </person>
+              <person xml:id="person066">
+                <persName>
+                  <forename>Napoleon</forename>
+                  <surname>Bonaparte</surname>
+                </persName>
+                <birth><date when-iso="1769-08-15">1769-08-15</date></birth>
+                <death><date when-iso="1821-05-08">1821-05-08</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q517</idno>
+                <occupation>French military leader, French Emperor, 1804–1814 and 1815.</occupation>
+              </person>
+              <person xml:id="person067">
+                <persName> 
+                  <forename>Yevgeni Ivanovich</forename>
+                  <surname>Alekseyev</surname>
+                </persName>
+                <birth><date when-iso="1843-05-13">1843-05-13</date></birth>
+                <death><date when-iso="1917-05-27">1917-05-27</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q701150</idno>
+                <occupation>Imperial Russian Navy admiral (1843-1917)</occupation>
+              </person>
+              <person xml:id="person068">
+                <persName> 
+                  <forename>Alexei</forename>
+                  <surname>Kuropatkin</surname>
+                </persName>
+                <birth><date when-iso="1848-03-17">1848-03-17</date></birth>
+                <death><date when-iso="1925-01-16">1925-01-16</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q527156</idno>
+                <occupation>Imperial Russian general and war minister.</occupation>
+              </person>
+              <person xml:id="person069">
+                <persName> 
+                  <forename>Aryeh Leibish Haleivy Ish</forename>
+                  <surname>Horowitz</surname>
+                </persName>
+                <birth><date when-iso="1847">1847</date></birth>
+                <death><date when-iso="1909">1909</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.geni.com/people/Rabbi-Aryeh-Leibish-Horowitz-Rabbi-of-Stryj-Author-of-Horei-Besomim/6000000002765083489</idno>
+                <occupation>Rabbi in Stanislau, 1904-1909.</occupation>
+              </person>
+              
             </listPerson>
           </div>
         </body>

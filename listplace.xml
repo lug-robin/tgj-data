@@ -125,7 +125,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1741</idno>
                     </place>                   
                     <place xml:id="place008">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">America</placeName>
+                        <placeName type="person_namensvariante_nachname-komma-vorname">North America</placeName>
                         <location type="coords">
                             <geo>39.7837304 -100.445882</geo>
                         </location>
@@ -848,7 +848,10 @@
                             <geo>40.7127281 -74.0060152</geo>
                         </location>
                         <location type="located_in_place">
-                            <placeName key="place094">France</placeName>
+                            <placeName key="place094">USA</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place008">North America</placeName>
                         </location>
                     </place>
                     <place xml:id="place097">
@@ -1503,6 +1506,529 @@
                         </location>
                         <idno type="Geonames">https://www.geonames.org/2886242/koeln.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q365</idno>
+                    </place>
+                    <place xml:id="place158">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Mount Sinai</placeName>
+                        <location type="coords">
+                            <geo>28.53914 33.97496</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Egypt</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/351820/jabal-musa.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q377485</idno>
+                    </place>
+                    <place xml:id="place159">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Tysmenytsia</placeName>
+                        <location type="coords">
+                            <geo>49.50022 23.74137</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/690872/tysmenytsia.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q156588</idno>
+                    </place>
+                    <place xml:id="place160">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Podolia</placeName>
+                        <location type="coords">
+                            <geo>48.83333 28</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/696861/rehion-podillia.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q191607</idno>
+                    </place>
+                    <place xml:id="place161">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Złotów</placeName>
+                        <location type="coords">
+                            <geo>53.36346 17.04082</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place062">Poland</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3080071/zlotow.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q249166</idno>
+                    </place>
+                    <place xml:id="place162">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Zalishchyky</placeName>
+                        <location type="coords">
+                            <geo>48.64098 25.7317</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/687826/zalishchyky.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q213183</idno>
+                    </place>
+                    <place xml:id="place163">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Kosiv</placeName>
+                        <location type="coords">
+                            <geo>48.32051 25.09109</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/704764/kosiv.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q157461</idno>
+                    </place>
+                    <place xml:id="place164">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Kamianka-Buzka</placeName>
+                        <location type="coords">
+                            <geo>50.10655 24.34451</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/707027/kamianka-buzka.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1020330</idno>
+                    </place>
+                    <place xml:id="place165">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Budaniv</placeName>
+                        <location type="coords">
+                            <geo>49.16231 25.70932</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/711327/budaniv.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1000641</idno>
+                    </place>
+                    <place xml:id="place166">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Mykulyntsi</placeName>
+                        <location type="coords">
+                            <geo>49.39187 25.60685</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/701119/mykulyntsi.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1956628</idno>
+                    </place>
+                    <place xml:id="place167">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Pidhaitsi</placeName>
+                        <location type="coords">
+                            <geo>49.26792 25.12781</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/9526289/pidhaytsi-rayon.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q149170</idno>
+                    </place>
+                    <place xml:id="place168">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Przemyśl</placeName>
+                        <location type="coords">
+                            <geo>49.78498 22.76728</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/761168/przemysl.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q208473</idno>
+                    </place>
+                    <place xml:id="place169">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Berezhany</placeName>
+                        <location type="coords">
+                            <geo>49.44578 24.93686</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/712374/berezhany.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q793424</idno>
+                    </place>
+                    <place xml:id="place170">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Zboriv</placeName>
+                        <location type="coords">
+                            <geo>49.66673 25.13828</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/687448/zboriv-raion.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q148928</idno>
+                    </place>
+                    <place xml:id="place171">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Skalat</placeName>
+                        <location type="coords">
+                            <geo>49.42544 25.97598</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/693700/skalat.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q149159</idno>
+                    </place>
+                    <place xml:id="place172">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Horodok</placeName>
+                        <location type="coords">
+                            <geo>49.78465 23.64806</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/708313/horodok.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q930449</idno>
+                    </place>
+                    <place xml:id="place173">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Busk</placeName>
+                        <location type="coords">
+                            <geo>49.96548 24.61227</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/711103/busk.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q282824</idno>
+                    </place>
+                    <place xml:id="place174">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Vinnytsia</placeName>
+                        <location type="coords">
+                            <geo>49.2322 28.46871</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/689558/vinnytsya.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q157144</idno>
+                    </place>
+                    <place xml:id="place175">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Harbin</placeName>
+                        <location type="coords">
+                            <geo>45.75 126.65</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place021">China</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2037013/harbin.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q42956</idno>
+                    </place>
+                    <place xml:id="place176">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Lake Baikal</placeName>
+                        <location type="coords">
+                            <geo>54 109</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place014">Russia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2026982/lake-baikal.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q5513</idno>
+                    </place>
+                    <place xml:id="place177">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Shenyang</placeName>
+                        <location type="coords">
+                            <geo>41.79222 123.43278</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place021">China</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2034937/shenyang.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q11138504</idno>
+                        <note>
+                            Was called Mukden from the 17th century until 1914.
+                        </note>
+                    </place>
+                    <place xml:id="place178">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Siberia</placeName>
+                        <location type="coords">
+                            <geo>60 10</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place014">Russia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2016590/siberia.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q5428</idno>
+                    </place>
+                    <place xml:id="place179">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Stanislau</placeName>
+                        <location type="coords">
+                            <geo>60 10</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place014">Russia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2016590/siberia.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q5428</idno>
+                    </place>
+                    <place xml:id="place180">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Iași</placeName>
+                        <location type="coords">
+                            <geo>47.16667 27.6</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place068">Romania</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place004">Moldova</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/675810/iasi.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q46852</idno>
+                    </place>
+                    <place xml:id="place181">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Stockholm</placeName>
+                        <location type="coords">
+                            <geo>59.32938 18.06871</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2673730/stockholm.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1754</idno>
+                    </place>
+                    <place xml:id="place182">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Chicago</placeName>
+                        <location type="coords">
+                            <geo>41.85003 -87.65005</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place094">USA</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place008">North America</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/4887398/chicago.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1754</idno>
+                    </place>
+                    <place xml:id="place183">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Philadelphia</placeName>
+                        <location type="coords">
+                            <geo>39.95238 -75.16362</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place094">USA</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place008">North America</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/4560349/philadelphia.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1345</idno>
+                    </place>
+                    <place xml:id="place184">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Baltimore</placeName>
+                        <location type="coords">
+                            <geo>39.29038 -76.61219</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place094">USA</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place008">North America</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/4347778/baltimore.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q5092</idno>
+                    </place>
+                    <place xml:id="place185">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Nalyvaika St</placeName>
+                        <location type="coords">
+                            <geo>49.84298011237862 24.024792502932716</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place002">Lviv</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <note>Was called Rzeznicka from 1871-1941</note>
+                        <idno type="Geonames">https://www.geonames.org/4347778/baltimore.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q5092</idno>
+                    </place>
+                    <place xml:id="place186">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Petra Doroshenka St</placeName>
+                        <location type="coords">
+                            <geo>49.83828264278652 24.023342621845593</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place002">Lviv</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <note>Was called Sykstuska from 1871 till 1938.</note>
                     </place>
                 </listPlace>
             </div>
