@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-01.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">The Genuine Jew - 1904-03-01</title>
+            <title level="a">1904-03-01</title>
+            <author>Multiple Authors</author>
+            <editor>
+               <name>Luger, Robin</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>TGJ</edition>
+            <respStmt>
+               <resp>Translation</resp>
+               <name>Luger, Robin</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Luger, Robin</name>
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2025">2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
+                  <p>You are free to: Share — copy and redistribute the material in any medium or
+                     format; adapt — remix, transform, and build upon the material for any purpose,
+                     even commercially.</p>
+                  <p>The licensor cannot revoke these freedoms as long as you follow the license
+                     terms. Under the following terms:</p>
+                  <p>Attribution — You must give appropriate credit, provide a link to the license,
+                     and indicate if changes were made. You may do so in any reasonable manner, but
+                     not in any way that suggests the licensor endorses you or your use. No
+                     additional restrictions — You may not apply legal terms or technological
+                     measures that legally restrict others from doing anything the license
+                     permits.</p>
+                  <p>Notices:</p>
+                  <p>You do not have to comply with the license for elements of the material in the
+                     public domain or where your use is permitted by an applicable exception or
+                     limitation. No warranties are given. The license may not give you all of the
+                     permissions necessary for your intended use. For example, other rights such as
+                     publicity, privacy, or moral rights may limit how you use the material.</p>
+               </licence>
+               <p>Copyright 2021 Österreichische Nationalbibliothek</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>A</country>
+                  <settlement>Vienna</settlement>
+                  <repository>Austrian National Library</repository>
+                  <collection/>
+               </msIdentifier>
+               <history>
+                  <origin>
+                     <origDate when-iso="1904-03-01">1904-03-01</origDate>
+                     <origPlace>Sonngasse 27, Lemberg</origPlace>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040301">
+      <surface ulx="0" uly="0" lrx="4245" lry="6128" n="1">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040301|1|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="2">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040301|2|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4245" lry="6128" n="3">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040301|3|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="4">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040301|4|100.0|0"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="heading" n="1" style="one column">
+
+            <p><foreign xml:lang="de">1.Jahrgang Nr. 6 </foreign> 1st year</p>
+         </div>
+         <div type="title" n="1">
+            <head>
+               <hi rend="bold">The Geniune jew</hi>
+            </head>
+            <p>Organ for yiddish matters</p>
+            <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
+            <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+         </div>
+         <div type="editorial" n="1" style="two columns">
+            <cb n="1"/>
+            <table rows="4" cols="2">
+               <head>The Geniune Jew costs</head>
+               <row role="data">
+                  <cell role="data">In <rs type="place">Austria-Hungary</rs></cell>
+                  <cell role="data">Abroad</cell>
+               </row>
+               <row role="data">
+                  <cell role="data">For a whole year - 12 Kronen</cell>
+                  <cell role="data">For a whole year - 20 Francs</cell>
+               </row>
+               <row role="data">
+                  <cell role="data">For a half year - 6 "</cell>
+                  <cell role="data">For a half year - 10 "</cell>
+               </row>
+               <row role="data">
+                  <cell role="data">For a quarter year - 3.50 "</cell>
+                  <cell role="data">For a quarter year - 5.50 "</cell>
+               </row>
+            </table>
+            <p><rs type="place">Lviv</rs>,<date when-iso="1904-03-04"> March 4th 1904</date></p>
+            <cb n="2"/>
+            <p>
+               <lb/>Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign
+                  xml:lang="de">Redaction "Der wahre Jude",<rs type="place">Lviv</rs>, <rs
+                     type="place">Sonnengasse 27</rs></foreign>
+               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign
+                  xml:lang="de"><rs type="place">Lemberg</rs>, <date when-iso="1904-03-04">den 04.
+                     März 1904</date></foreign>.</p>
+         </div>
+         <lb/>
+         <div n="1">
+            <p>
+               We ask our subscribers who paid for the “Genuine Jew” when it was published only once a week, to please send money to add to their subscription according to the current price of the newspaper. For those who do not 
+               remargin, we will deduct the difference from their current subscription. This means those who subscribed for half a year will receive the paper for only four months. The same applies to yearly and quarterly subscribers. 
+            </p>
+            <p style="text-align:right">- The editorial office.</p>
+         </div>
+         <div>
+            <head style="text-align:center"><hi rend="bold"><ref source="https://en.wiktionary.org/wiki/%D7%AA%D6%BC%D7%9C%D7%9E%D7%95%D7%93%D6%BE%D7%AA%D6%BC%D7%95%D7%A8%D7%94">Talmetoyre</ref></hi></head>
+            <p style="text-align:center">The study of Torah is equivalent to all other commandments combined.</p>
+            <p>
+               It is sad to recount, our hearts hurt and we want to cry when we look around all the corners of Jewish life in <rs type="place"><ref source="place006">Galicia</ref></rs>. We do not find one thing we are happy about. 
+               No matter where we look, there is neglect, dereliction, and chaos - it is shocking!
+            </p>
+            <p>
+               The “talmetoyre” belongs to this sad chapter of our life. Talme-Toyre is the greatest commandment for us Jews, “The study of Torah is equivalent to all other commandments combined.”<cb/> our scholars, <ref source="https://www.wikidata.org/wiki/Q2902413">may their memory be a blessing</ref>
+               Our talme-toyre are [<hi rend="italic">more than anything else, heavily neglected</hi>. The more important a commandment is, the bigger we neglect them. The bigger the benefit, the less it is badly administered.
+            </p>
+            <p>
+               We do not need to tell you how important the Talme-Toyre is, every Jew understands that on their own. We are not only referring to learning the <ref source="https://www.wikidata.org/wiki/Q930585">Gemara</ref> and <ref source="place">Pirush Hamishnayot</ref> 
+               - we are also referring to simply learning the (Hebrew) alphabet, to the reading of Hebrew, about the Torah, how to pray, to understand the meaning of all of that. All the things we cannot imagine a child not knowing about without being very sad, dark, and bitter. 
+               The number of children not knowing how to read and write, not knowing the alphabet, who do not know the prayers and lore in the Torah is increasing. The children of rich parents who can afford a tutor, do not suffer as badly, they are still learning something. 
+               However, the children of the lower class, the children of which our scholars, may their memory be a blessing, have said: “Beware of the poor, for from them Torah will come.” These children are neglected completely. 
+            </p>
+            <p>  
+               Those who visit school, do not know about the Torah at all. They are being taught religion at school, but do not ask how. However, those children who do not visit a school, do not have a great knowledge. Their parents cannot 
+               afford a tutor and without money, they cannot learn a lot.
+            </p>
+            <pb/>
+         </div>
+         <div type="information" style="one column">
+            <p>We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the
+               voice of the upholders of religion) to send every letter and money to this
+               address:</p>
+            <p>OSIAS H. WILF, <rs type="place"><ref source="place002">LEMBERG</ref></rs>
+               <ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.</p>
+            <p style="text-align:center" rend="bold">[1]</p>
+         </div>
+         <pb/>
+         <div n="1">
+         </div>
+         <div type="article" style="two columns" n="3">
+            <p>
+               It has always been like that poor parents were not able to provide an education. That is why every community founded a talmetoyre where a teacher taught and poor children could learn for free. Nowadays there is a talmetoyre in 
+               every community - but in what condition? What do children learn there? What can they do when they finish it? These questions could anyone who has experienced these conditions themselves answer. 
+            </p>
+            <p>   
+               The sad part is that every community agrees on the commandment, a talmetoyre should exist. But they do not want to see the commandment carried out. After renting a school and hiring a teacher they do not bother furthermore. It 
+               is not checked if the teacher really learns with the children, if the children go there on a regular basis. If the head of the family sends his children to school, he checks from time to time, goes to school to see if the 
+               children go there regularly. But nobody cares for the talmetoyre children. 
+            </p>
+            <p>
+               And it would be so easy to help. In every community with a talmetoyre a committee which should pledge to visit the talmetoyre every once in a while, control whether the teacher teaches as it should be, check if the children 
+               are learning something useful. With that the talmetoyre school would be put in order and the teacher would fulfill his duty better. The talmetoyre would become something turned into something needed: an institution constituting 
+               a fear of God in our children. 
+            </p>
+            <p style="text-align:right">
+               One of the Haredim              
+            </p>
+         </div>
+         <div type="footer" style="one columns" n="1">
+            <p>
+               <foreign xml:lang="de">
+                  <lb/>Herausgeber und verantwortlicher Redact. <rs type="person">OSIAS H. WILF</rs>
+                  recte Weinstock <lb/>Druck von <rs type="person">E. Salat</rs> Witwe des <rs
+                     type="person">U.W. Salat</rs>, <rs type="place"><ref source="place002"
+                        >Lemberg</ref></rs>
+                  <rs type="place">Kasimirgasse 35</rs>
+               </foreign>
+            </p>
+            <p style="text-align:center" rend="bold">[4]</p>
+         </div>
+      </body>
+   </text>
+</TEI>

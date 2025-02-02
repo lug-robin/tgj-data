@@ -47,6 +47,7 @@
                             <tbody>
                                 <xsl:for-each
                                     select="collection('../data/editions?select=*.xml')//tei:TEI">
+                                    <xsl:sort select="tei:title"/>
                                     <xsl:variable name="full_path">
                                         <xsl:value-of select="document-uri(/)"/>
                                     </xsl:variable>
@@ -54,11 +55,6 @@
                                     <tr onclick="window.location.href='{replace(tokenize($full_path, '/')[last()], '.xml', '.html')};'">
                                             <td>
                                             <a href="{replace(tokenize($full_path, '/')[last()], '.xml', '.html')}">
-                                                <!--xsl:attribute name="href">
-                                                  <xsl:value-of
-                                                  select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"
-                                                  />
-                                                </xsl:attribute-->
                                                 <i class="bi bi-link-45deg"/>
                                             </a>
                                         </td>
@@ -66,10 +62,6 @@
                                             <a href="{replace(tokenize($full_path, '/')[last()],'.xml','.html')}"> 
                                                 <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/></a>                                                                          
                                         </td>
-                                        <!--td>
-                                            <xsl:value-of select="tokenize($full_path, '/')[last()]"
-                                            />
-                                        </td-->
                                     </tr>
                                 </xsl:for-each>
                             </tbody>
