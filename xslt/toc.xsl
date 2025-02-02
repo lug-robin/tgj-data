@@ -47,7 +47,7 @@
                             <tbody>
                                 <xsl:for-each
                                     select="collection('../data/editions?select=*.xml')//tei:TEI">
-                                    <xsl:sort select="tei:title"/>
+                                    <xsl:sort select=".//tei:titleStmt/tei:title[1]/text()"/>
                                     <xsl:variable name="full_path">
                                         <xsl:value-of select="document-uri(/)"/>
                                     </xsl:variable>
