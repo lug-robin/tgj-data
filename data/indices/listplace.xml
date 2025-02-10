@@ -220,28 +220,38 @@
                         <note>Capital of Moldova, part of the Russian kingdom from 1812 to 1917.</note>
                     </place>
                     <place xml:id="place016">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Homyel</placeName>
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Gomel</placeName>
                         <location type="coords">
                             <geo>52.4238936 31.0131698</geo>
                         </location>
                         <location type="located_in_olace">
                             <placeName key="place020">Belarus</placeName>
                         </location>
-                        <note>Also called Gomel</note>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/627907/homyel.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q2678</idno>
+                        <note>Another name for Gomel is Homyel.</note>
                     </place>
-                    
                     <place xml:id="place017">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Bessabaria</placeName>
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Bessarabia</placeName>
                         <location type="coords">
                             <geo>47 29</geo>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place004">Moldova</placeName>
+                        </location>
+                        <location type="located_in_place">
                             <placeName key="place061">Ukraine</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/618569/bessarabia.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q174994</idno>
                         <note>Historical Region, today located in Moldova and Ukraine.</note>
                     </place>
-                    
                     <place xml:id="place018">
                         <placeName type="person_namensvariante_nachname-komma-vorname">St Petersburg</placeName>
                         <location type="coords">
@@ -250,22 +260,36 @@
                         <location type="located_in_place">
                             <placeName key="place014">Russia</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/498817/saint-petersburg.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q656</idno>
                     </place>
-                    
                     <place xml:id="place019">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Japan</placeName>
                         <location type="coords">
                             <geo>36.5748441 139.2394179</geo>
                         </location>
                         <location type="located_in_place">
+                            <placeName key="place136">South-East Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
                             <placeName key="place024">Asia</placeName>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/1861060/japan.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q17</idno>
                     </place>     
                     <place xml:id="place020">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Belarus</placeName>
                         <location type="coords">
                             <geo>53 27</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/630336/republic-of-belarus.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q184</idno>
                         <note></note>
                     </place>            
                     <place xml:id="place021">
@@ -274,8 +298,13 @@
                             <geo>35.000074 104.999927</geo>
                         </location>
                         <location type="located_in_place">
+                            <placeName key="place136">South-East Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
                             <placeName key="place024">Asia</placeName>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/1814991/people-s-republic-of-china.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q29520</idno>
                     </place>
                     <place xml:id="place022">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Korea</placeName>
@@ -283,14 +312,21 @@
                             <geo>36.638392 127.6961188</geo>
                         </location>
                         <location type="located_in_place">
+                            <placeName key="place136">South-East Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
                             <placeName key="place024">Asia</placeName>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/11494804/korean-peninsula.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q483134</idno>
                     </place>
                     <place xml:id="place023">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Pacific Ocean</placeName>
                         <location type="coords">
                             <geo>-0.703107 -120.9375</geo>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/2363254/pacific-ocean.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q98</idno>
                         <note>Called Silent Ocean in the Source.</note>
                     </place>
                     <place xml:id="place024">
@@ -298,12 +334,22 @@
                         <location type="coords">
                             <geo>51.2086975 89.2343748</geo>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/6255147/asia.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q48</idno>
                     </place>
                     <place xml:id="place025">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Austria</placeName>
                         <location type="coords">
                             <geo>47.59397 14.12456</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location> 
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2782113/republic-of-austria.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q40</idno>
                     </place>
                     <place xml:id="place026">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Bohemia</placeName>
@@ -311,18 +357,33 @@
                             <geo>51.128251 10.6363712</geo>
                         </location>
                         <location type="located_in_place">
-                            <placeName key="place001">Austria-Hungary</placeName>
+                            <placeName key="place124">Czech Republic</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location> 
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3078198/cechy.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q39193</idno>
                     </place>
-                    
                     <place xml:id="place027">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Moravia</placeName>
                         <location type="coords">
                             <geo>50.5250765 7.9219061</geo>
                         </location>
                         <location type="located_in_place">
-                            <placeName key="place001">Austria-Hungary</placeName>
+                            <placeName key="place124">Czech Republic</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location> 
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3070359/moravia.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q43266</idno>
                     </place>
                     <place xml:id="place028">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Manchuria</placeName>
@@ -331,8 +392,11 @@
                         </location>
                         <location type="located_in_place">
                             <placeName key="place021">China</placeName></location>
-                            <location type="located_in_place"><placeName key="place024">Asia</placeName>
+                            <location type="located_in_place">
+                                <placeName key="place024">Asia</placeName>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/2035836/manzhouli.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q81126</idno>
                     </place>
                     <place xml:id="place029">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Rzeszów</placeName>
@@ -342,6 +406,14 @@
                         <location type="located_in_place">
                             <placeName key="place067">Poland</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location> 
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/759734/rzeszow.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q598</idno>
                     </place>
                     <place xml:id="place030">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Budapest</placeName>
@@ -353,7 +425,12 @@
                         </location>
                         <location type="located_in_place">
                             <placeName key="place009">Hungary</placeName>
+                        </location> 
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/3054643/budapest.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1781</idno>
                     </place>
                     <place xml:id="place031">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Berlin</placeName>
@@ -363,6 +440,11 @@
                         <location type="located_in_place">
                             <placeName key="place010">Germany</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2950159/berlin.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q64</idno>
                     </place>
                     <place xml:id="place032">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Karlsruhe</placeName>
@@ -372,6 +454,11 @@
                         <location type="located_in_place">
                             <placeName key="place010">Germany</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2892794/karlsruhe.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1040</idno>
                     </place>
                     <place xml:id="place033">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Warsaw</placeName>
@@ -381,12 +468,22 @@
                         <location type="located_in_place">
                             <placeName key="place067">Poland</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/756135/warsaw.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q270</idno>
                     </place>
                     <place xml:id="place034">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Israel</placeName>
                         <location type="coords">
                             <geo>30.8124247 34.8594762</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/294640/state-of-israel.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q801</idno>
                     </place>
                     <place xml:id="place035">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Bucharest</placeName>
@@ -396,6 +493,11 @@
                         <location type="located_in_place">
                             <placeName key="place068">Romania</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/683506/bucharest.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q19660</idno>
                     </place>
                     <place xml:id="place036">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Dowlish Wake</placeName>
@@ -405,6 +507,11 @@
                         <location type="located_in_place">
                             <placeName key="place011">England</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/6693168/dowlish-wake.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q2616263</idno>
                     </place>
                     <place xml:id="place037">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Ålesund</placeName>
@@ -413,6 +520,9 @@
                         </location>
                         <location type="located_in_place">
                             <placeName key="place069">Norway</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
                         </location>
                     </place>
                     <place xml:id="place038">
@@ -423,6 +533,9 @@
                         <location type="located_in_place">
                             <placeName key="place068">Romania</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
                     </place>
                     <place xml:id="place039">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Turin</placeName>
@@ -432,11 +545,17 @@
                         <location type="located_in_place">
                             <placeName key="place040">Italy</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
                     </place>
                     <place xml:id="place040">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Italy</placeName>
                         <location type="coords">
                             <geo>42.6384261 12.674297</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
                         </location>
                     </place>
                     <place xml:id="place041">
@@ -447,11 +566,17 @@
                         <location type="located_in_place">
                             <placeName key="place043">Spain</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
                     </place>
                     <place xml:id="place042">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Belgium</placeName>
                         <location type="coords">
                             <geo>50.6402809 4.6667145</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
                         </location>
                     </place>
                     <place xml:id="place043">
@@ -459,11 +584,17 @@
                         <location type="coords">
                             <geo>48.2971626 4.0746257</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
                     </place>
                     <place xml:id="place045">
                         <placeName type="person_namensvariante_nachname-komma-vorname">France</placeName>
                         <location type="coords">
                             <geo>46.603354 1.8883335</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
                         </location>
                     </place>
                     <place xml:id="place046">
@@ -474,6 +605,9 @@
                         <location type="located_in_place">
                             <placeName key="place010">Germany</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
                     </place>
                     <place xml:id="place047">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Worms</placeName>
@@ -483,6 +617,9 @@
                         <location type="located_in_place">
                             <placeName key="place010">Germany</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
                     </place>
                     <place xml:id="place048">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Speyer</placeName>
@@ -491,6 +628,9 @@
                         </location>
                         <location type="located_in_place">
                             <placeName key="place010">Germany</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
                         </location>
                     </place>
                     <place xml:id="place050">
@@ -562,8 +702,18 @@
                         <location type="coords">
                             <geo>45.3530556 14.442777777777778</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place110">Croatia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
                         <note>Was an exclave of Hungary. Now in Croatia, called Rijeka.</note>
                     </place>
+                    
                     <place xml:id="place060">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Przeworsk</placeName>
                         <desc type="entity_type">City</desc>
@@ -728,7 +878,13 @@
                             <geo>38.802 121.266</geo>
                         </location>
                         <location type="located_in_place">
+                            <placeName key="place028">Manchuria</placeName>
+                        </location>
+                        <location type="located_in_place">
                             <placeName key="place021">China</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place136">South-East Asia</placeName>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place024">Asia</placeName>
@@ -763,6 +919,14 @@
                         <location type="located_in_place">
                             <placeName key="place019">Japan</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place136">South-East Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/1850147/tokyo.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1490</idno>
                     </place>
                     <place xml:id="place087">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Osaka</placeName>
@@ -771,6 +935,12 @@
                         </location>
                         <location type="located_in_place">
                             <placeName key="place019">Japan</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place136">South-East Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
                         </location>
                     </place>
                     <place xml:id="place088">
@@ -781,6 +951,12 @@
                         <location type="located_in_place">
                             <placeName key="place019">Japan</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place136">South-East Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
                     </place>
                     <place xml:id="place089">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Nagoyá</placeName>
@@ -790,15 +966,19 @@
                         <location type="located_in_place">
                             <placeName key="place019">Japan</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place136">South-East Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
                     </place>
                     <place xml:id="place090">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Taiwan</placeName>
                         <location type="coords">
                             <geo>23.9739374 120.9820179</geo>
                         </location>
-                        <location type="located_in_place">
-                            <placeName key="place019">Japan</placeName>
-                        </location>
+                        
                     </place>
                     <place xml:id="place091">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Kōbe</placeName>
@@ -808,6 +988,12 @@
                         <location type="located_in_place">
                             <placeName key="place019">Japan</placeName>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place136">South-East Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
                     </place>
                     <place xml:id="place092">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Yokohoma</placeName>
@@ -816,6 +1002,12 @@
                         </location>
                         <location type="located_in_place">
                             <placeName key="place019">Japan</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place136">South-East Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
                         </location>
                     </place>
                     <place xml:id="place093">
@@ -1089,7 +1281,7 @@
                         </location>
                     </place>
                     <place xml:id="place124">
-                        <placeName type="person_namesvariente_nachname-komma-vorname">Czechia</placeName>
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Czech Republic</placeName>
                         <location type="coords">
                             <geo>49.7439047 15.3381061</geo>
                         </location>
@@ -1215,13 +1407,15 @@
                         </location>
                     </place>
                     <place xml:id="place136">
-                        <placeName type="person_namesvariente_nachname-komma-vorname">East Asia</placeName>
+                        <placeName type="person_namesvariente_nachname-komma-vorname">South-East Asia</placeName>
                         <location type="coords">
-                            <geo></geo>
+                            <geo>12 105.1</geo>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place026">Asia</placeName>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/7729896/south-eastern-asia.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q11708</idno>
                     </place>
                     <place xml:id="place137">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Africa</placeName>
@@ -2029,6 +2223,138 @@
                             <placeName key="place100">Europe</placeName>
                         </location>
                         <note>Was called Sykstuska from 1871 till 1938.</note>
+                    </place>
+                    <place xml:id="place187">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Kyiv</placeName>
+                        <location type="coords">
+                            <geo>50.45466 30.5238</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/703448/kyiv.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1899</idno>
+                    </place>
+                    <place xml:id="place188">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Łódź</placeName>
+                        <location type="coords">
+                            <geo>51.77058 19.47395</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place067">Poland</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3093133/lodz.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q580</idno>
+                    </place>
+                    <place xml:id="place189">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Kiev St</placeName>
+                        <location type="coords">
+                            <geo>47.041565812463006 28.86033882435911</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place015">Chișinău</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place004">Moldova</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3093133/lodz.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q580</idno>
+                    </place>
+                    <place xml:id="place190">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Taedong River</placeName>
+                        <location type="coords">
+                            <geo>38.72042 125.46583</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place022">Korea</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place136">South-East Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/1868814/taedong-gang.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q330618</idno>
+                    </place>
+                    <place xml:id="place191">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Chile</placeName>
+                        <location type="coords">
+                            <geo>-30 -71</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place192">South America</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/1868814/taedong-gang.html</idno>
+                        <idno type="Wikidata">https://www.geonames.org/3895114/republic-of-chile.html</idno>
+                    </place>
+                    <place xml:id="place192">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">South America</placeName>
+                        <location type="coords">
+                            <geo>-14.60485 -57.65625</geo>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/6255150/south-america.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q18</idno>
+                    </place>
+                    <place xml:id="place193">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Beijing</placeName>
+                        <location type="coords">
+                            <geo>39.9075 116.39723</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place021">China</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place136">South-East Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/1816670/beijing.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q956</idno>
+                    </place>
+                    <place xml:id="place194">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Pomoryany</placeName>
+                        <location type="coords">
+                            <geo>49.6427 24.9346</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/696582/pomoriany.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q4371769</idno>
+                    </place>
+                    <place xml:id="place195">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Dunowo</placeName>
+                        <location type="coords">
+                            <geo>54.10988 16.10997</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place067">Poland</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3100002/dunowo.htmll</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q2236258</idno>
                     </place>
                 </listPlace>
             </div>

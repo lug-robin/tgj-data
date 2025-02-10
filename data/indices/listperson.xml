@@ -454,7 +454,7 @@
                 <birth><date when-iso="1868-05-06">1868-05-06</date></birth>
                 <death><date when-iso="1918-07-17">1918-07-17</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q40787</idno>
-                <occupation>Emperor of Russia, 1894 - 1917.</occupation>
+                <occupation>Tsar/Emperor of Russia, 1894 - 1917.</occupation>
               </person>
               <person xml:id="person051">
                 <persName>
@@ -628,7 +628,56 @@
                 <idno type="URL" subtype="Wikidata">https://www.geni.com/people/Rabbi-Aryeh-Leibish-Horowitz-Rabbi-of-Stryj-Author-of-Horei-Besomim/6000000002765083489</idno>
                 <occupation>Rabbi in Stanislau, 1904-1909.</occupation>
               </person>
-              
+              <person xml:id="person070">
+                <persName> 
+                  <forename>Jan Gotlib</forename>
+                  <surname>Bloch</surname>
+                </persName>
+                <birth><date when-iso="1836-06-14">1836-06-14</date></birth>
+                <death><date when-iso="1902-01-07">1902-01-07</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q367248</idno>
+                <occupation>Polish banker and finance counsellor.</occupation>
+              </person>
+              <person xml:id="person071">
+                <persName> 
+                  <forename>Vladimir</forename>
+                  <surname>Lamsdorf</surname>
+                </persName>
+                <birth><date when-iso="1845-01-06">1845-01-06</date></birth>
+                <death><date when-iso="1907-03-19">1907-03-19</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q142580</idno>
+                <occupation>Russian politian. Minister of foreign affairs, 1900-1906.</occupation>
+              </person>
+              <person xml:id="person072">
+                <persName> 
+                  <forename>Alexander</forename>
+                  <surname>Izvolsky</surname>
+                </persName>
+                <birth><date when-iso="1856-03-18">1856-03-18</date></birth>
+                <death><date when-iso="1919-08-16">1919-08-16</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q463739</idno>
+                <occupation>Russian ambassador to France, Denmark, and Japan. Minister of foreign affairs, 1906-1910.</occupation>
+              </person>
+              <person xml:id="person073">
+                <persName> 
+                  <forename>Vladimir</forename>
+                  <surname>Kokovtsov</surname>
+                </persName>
+                <birth><date when-iso="1856-03-18">1853-04-18</date></birth>
+                <death><date when-iso="1919-08-16">1943-01-29</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q438448</idno>
+                <occupation>Finance Minister of Russia, 1904-1905 and 1906-1914. 4th Russian prime minister, 1911-1916.</occupation>
+              </person>
+              <person xml:id="person074">
+                <persName> 
+                  <forename>Pyotr</forename>
+                  <surname>Vannovskiy</surname>
+                </persName>
+                <birth><date when-iso="1822-12-06">1822-12-06</date></birth>
+                <death><date when-iso="1904-03-01">1904-03-01</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1329535</idno>
+                <occupation>Russian minister of war, 1881-1898. Minister of National education, 1901-1902.</occupation>
+              </person>
             </listPerson>
           </div>
         </body>
