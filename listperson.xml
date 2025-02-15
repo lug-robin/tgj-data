@@ -389,7 +389,7 @@
               <person xml:id="person044">
                 <persName>
                   <forename>Eberhard I</forename>
-                  <surname>of Wittenberg</surname>
+                  <surname>of Württemberg</surname>
                 </persName>
                 <birth><date when-iso="1265-03-13">1265-03-13</date></birth>
                 <death><date when-iso="1325-06-05">1325-06-05</date></death>
@@ -677,6 +677,76 @@
                 <death><date when-iso="1904-03-01">1904-03-01</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1329535</idno>
                 <occupation>Russian minister of war, 1881-1898. Minister of National education, 1901-1902.</occupation>
+              </person>
+              <person xml:id="person075">
+                <persName> 
+                  <forename>Fyodor</forename>
+                  <surname>Trepov</surname>
+                </persName>
+                <birth><date when-iso="1845-05-13">1845-05-13</date></birth>
+                <death><date when-iso="1938-03-27">1938-03-27</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q3920484</idno>
+                <occupation>General Govenor of Kyiv, Southwestern Krai, and Galicia.</occupation>
+              </person>
+              <person xml:id="person076">
+                <persName> 
+                  <forename>Albrecht II</forename>
+                  <surname>of Hohenberg-Rothenburg</surname>
+                </persName>
+                <birth><date when-iso="1235">1235</date></birth>
+                <death><date when-iso="1298-04-17">1298-04-17</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2639833</idno>
+                <occupation>Count of Hohenberg, 13th century.</occupation>
+              </person>
+              <person xml:id="person077">
+                <persName> 
+                  <forename>Pyotr</forename>
+                  <surname>Romanov</surname>
+                </persName>
+                <birth><date when-iso="1672-06-09">1672-06-09</date></birth>
+                <death><date when-iso="1725-02-08">1725-02-08</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q8479</idno>
+                <occupation>Tsar/Emperor of Russia, 1682-1725.</occupation>
+              </person>
+              <person xml:id="person078">
+                <persName> 
+                  <forename>Karl XII</forename>
+                  <surname>of Sweden</surname>
+                </persName>
+                <birth><date when-iso="1682-06-27">1682-06-27</date></birth>
+                <death><date when-iso="1718-12-11">1718-12-11</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q52934</idno>
+                <occupation>Emperor of Sweden, 1697-1718.</occupation>
+              </person>
+              <person xml:id="person079">
+                <persName> 
+                  <forename>August II</forename>
+                  <surname>the Strong</surname>
+                </persName>
+                <birth><date when-iso="1670-05-12">1670-05-12</date></birth>
+                <death><date when-iso="1733-02-01">1733-02-01</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q53437</idno>
+                <occupation>Emperor of Poland, 1697-1706.</occupation>
+              </person>
+              <person xml:id="person080">
+                <persName> 
+                  <forename>Voltaire / François-Marie</forename>
+                  <surname>Arouet</surname>
+                </persName>
+                <birth><date when-iso="1694-11-21">1694-11-21</date></birth>
+                <death><date when-iso="1778-05-30">1778-05-30</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q53437</idno>
+                <occupation>French writer, historian, and philosopher.</occupation>
+              </person>
+              <person xml:id="person081">
+                <persName> 
+                  <forename>Erik</forename>
+                  <surname>Dahlberg</surname>
+                </persName>
+                <birth><date when-iso="1625-10-10">1625-10-10</date></birth>
+                <death><date when-iso="1703-01-16">1703-01-16</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q434533</idno>
+                <occupation>Swedish count and military engineer.</occupation>
               </person>
             </listPerson>
           </div>

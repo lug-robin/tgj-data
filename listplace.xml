@@ -737,15 +737,26 @@
                         </location>
                     </place>
                     <place xml:id="place065">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Kasimirgasse 35</placeName>
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Hrodototska St 35</placeName>
                         <location type="coords">
                             <geo>49.842922 24.0209546</geo>
                         </location>
                         <location type="located_in_place">
-                            <placeName key="place002">Lviv</placeName></location>
-                           <location type="located_in_place"> 
-                               <placeName key="place067">Poland</placeName></location>   
-                        <note>Hrodototska St 35</note>
+                            <placeName key="place002">Lviv</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <note>Named Kasimirgasse 35 in 1904.</note>
                     </place>
                     <place xml:id="place064">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Triest</placeName>
@@ -2131,6 +2142,9 @@
                             <geo>59.32938 18.06871</geo>
                         </location>
                         <location type="located_in_place">
+                            <placeName key="place197">Sweden</placeName>
+                        </location>
+                        <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
                         </location>
                         <idno type="Geonames">https://www.geonames.org/2673730/stockholm.html</idno>
@@ -2355,6 +2369,160 @@
                         </location>
                         <idno type="Geonames">https://www.geonames.org/3100002/dunowo.htmll</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q2236258</idno>
+                    </place>
+                    <place xml:id="place196">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Kherson</placeName>
+                        <location type="coords"><geo>46.63695 32.61458</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/706448/kherson.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q156732</idno>
+                    </place> 
+                    <place xml:id="place197">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Sweden</placeName>
+                        <location type="coords"><geo>62 15</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2661886/kingdom-of-sweden.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q34</idno>
+                    </place>
+                    <place xml:id="place198">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Baltic Sea</placeName>
+                        <location type="coords"><geo>56 80</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2633321/baltic-sea.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q545</idno>
+                    </place>
+                    <place xml:id="place199">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Ingria</placeName>
+                        <location type="coords"><geo>59.633333 29.3</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place197">Sweden</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place014">Russia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/maps/google_59.6333_29.3.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q14688</idno>
+                        <note>Historical region. Was part of Sweden, later Russia.</note>
+                    </place>
+                    <place xml:id="place200">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Copenhagen</placeName>
+                        <location type="coords"><geo>55.67594 12.56553</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place201">Denmark</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2618425/copenhagen.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1748</idno>
+                    </place>
+                    <place xml:id="place201">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Denmark</placeName>
+                        <location type="coords"><geo>56 10</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2623032/kingdom-of-denmark.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q35</idno>
+                    </place>
+                    <place xml:id="place202">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Riga</placeName>
+                        <location type="coords"><geo>56.946 24.10589</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place203">Latvia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place204">Livonia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place014">Russia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/456172/riga.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1773</idno>
+                        <note>Part of Russia until 1917.</note>
+                    </place>
+                    <place xml:id="place203">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Latvia</placeName>
+                        <location type="coords"><geo>57 25</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/458258/republic-of-latvia.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q211</idno>
+                    </place>
+                    <place xml:id="place204">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Livonia</placeName>
+                        <location type="coords"><geo>58 26</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place203">Latvia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place206">Estonia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/457850/livonija.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q183464</idno>
+                        <note>Historical region in today's Latvia and Estonia.</note>
+                    </place>
+                    <place xml:id="place205">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Narva</placeName>
+                        <location type="coords"><geo>58 26</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place206">Estonia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/590031/narva.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q102158</idno>
+                    </place>
+                    <place xml:id="place206">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Estonia</placeName>
+                        <location type="coords"><geo>59 26</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/453733/republic-of-estonia.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q191</idno>
+                    </place>
+                    <place xml:id="place207">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Narva</placeName>
+                        <location type="coords"><geo>59.46069 28.07487</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place206">Estonia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place014">Russia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/453744/narva.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q209031</idno>
+                        <note>River between Russia and Estonia.</note>
                     </place>
                 </listPlace>
             </div>
