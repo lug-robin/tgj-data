@@ -212,6 +212,9 @@
     <xsl:template match="tei:p[@style='text-align:center']">
         <p align="center"><xsl:apply-templates/></p>
     </xsl:template>
+    <xsl:template match="tei:p[@style='text-align:right']">
+        <p align="right"><xsl:apply-templates/></p>
+    </xsl:template>
     <xsl:template match="tei:head[@style='text-align:center']">
         <head align="center"><xsl:apply-templates/></head>
     </xsl:template>

@@ -85,9 +85,9 @@
    </facsimile>
   <text>
       <body>
-         <div type="heading" n="1" style="one column">
+         <div type="heading" n="1" style="one column;text-align:center">
             
-            <p><foreign xml:lang="de">1.Jahrgang 	Nr. 2 </foreign>	1st year</p>
+            <p><foreign xml:lang="de">1.Jahrgang - Nr. 2</foreign> - 1st year</p>
          </div>
          <div type="title" n="1">
             <head style="h1">
@@ -138,7 +138,7 @@
             </p>
             <p>All of those responses are correct. We have religious educators in every school - but nobody asks what kind of educators they are? We have representatives in the local education authorities, but nobody asks 
                how concerned they are with our religious inquiries? - The Jewish communities pay the teacher, but nobody asks how they care about the religious education? - The religious education is a significant subject 
-               for every Jewish pupil, but nobody asks if it really happened that a Jewish student <pb/>failed an exam because he didn’t know anything about religion?
+               for every Jewish pupil, but nobody asks if it really happened that a Jewish student <cb/>failed an exam because he didn’t know anything about religion?
             </p>
             <p>
                The answer is: religious education in schools is a serious subject, but is not taught seriously. We don’t want to use a harsher expression, otherwise we would have to say: it is treated like a joke.
@@ -153,7 +153,9 @@
             </p>
             <p>
                But if a teacher who wants to take a stance against that and wants to convince the children that the religion he teaches is the true Jewry - then a fight against him rises. He gets reported to the Local 
-               Education Administration, an investigation against him gets instigated and he is </p><p style="text-align:center" rend="bold">[1]</p><p><pb/> being assaulted until he shuts up and is quiet.                
+               Education Administration, an investigation against him gets instigated and he is</p>
+            <p style="text-align:center" rend="bold">[1]</p><pb/>
+            <p>being assaulted until he shuts up and is quiet.                
             </p>
             <p>
                However, a Jewish representative sits in the Local Education Administration, who should take on the teacher, because doesn’t he sit there for exactly that reason? You will of course ask, but that is indeed a bad 
@@ -179,46 +181,48 @@
             <p>
                <cb/>However, we can say that the education in school according to the required methods, doesn’t get to the children. They stay unfamiliar with religion, its people and their faith.
             </p>
-            <p>
+            <p style="text-align:center">
                (The End)
-               <lb/>The Truth
+            </p>
+            <p style="text-align:right">
+               The Truth
             </p>
          </div>
          <lb/>
          <div type="article" style="two columns" n="2">
-            <head><hi rend="bold">Letter from <rs type="place">Hungary</rs></hi></head>
+            <head><hi rend="bold">Letter from <rs type="place"><ref source="place009">Hungary</ref></rs></hi></head>
             <p>
                The Hungarian Jews, their lives, their political and economical situation, are not really known to our Jewish readers. The Hungarian Jew is a different “type”, he differs from the Polish and the German ones. 
                They live miles apart and don’t come in contact with each other. I’m not looking to describe Hungarian Jewish people in detail, their situation, their conditions and their states. I will do that in another 
                letter. I just want to share important information which will interest every Jew.
             </p>
             <p>
-               In <rs type="place">Hungary</rs> live - beside <ref source="https://www.wikidata.org/wiki/Q133032">Magyars</ref> - several other tribes, like Germans, Romanians, Slowakians, Croatians, Ruthenians and others.
-               Together they would be the majority in the whole populace and the Magyars do know that if all those tribes get together, <rs type="place">Hungary</rs> would not be a Magyarianian state, nor a Slavish one. 
+               In <rs type="place"><ref source="place009">Hungary</ref></rs> live - beside <ref source="https://www.wikidata.org/wiki/Q133032">Magyars</ref> - several other tribes, like Germans, Romanians, Slowakians, Croatians, Ruthenians and others.
+               Together they would be the majority in the whole populace and the Magyars do know that if all those tribes get together, <rs type="place"><ref source="place009">Hungary</ref></rs> would not be a Magyarianian state, nor a Slavish one. 
                Therefore they strive to strengthen the Magyarian populace, suppress the other nationalities, refuse them their national pride and don’t let them develop their national interests. The Jewish people in 
-               <rs type="place">Hungary</rs> are always loyal to the government, supporting it in every situation and above all, the government has always got massive support during elections in the cities, where many Jewish 
+               <rs type="place"><ref source="place009">Hungary</ref></rs> are always loyal to the government, supporting it in every situation and above all, the government has always got massive support during elections in the cities, where many Jewish 
                people live among Romanians and Slavic people. Without Jewish people, Slavic people would have been elected into the government. Where few Hungarians live, Jewish people help Hungarians to a successful election.
             </p>
             <p>
-               Furthermore, the Jewish people in <rs type="place">Hungary</rs> can influence the government in certain ways and if they want something, they have the power to do so. Still, there have been some cases where the 
+               Furthermore, the Jewish people in <rs type="place"><ref source="place009">Hungary</ref></rs> can influence the government in certain ways and if they want something, they have the power to do so. Still, there have been some cases where the 
                government issued laws, which harmed Jewish people there. The last minister president <rs type="person"><ref  source="person034">Kálmán Széll</ref></rs> allowed Christians to open shops and banks in frontier districts where a lot of Jewish 
                people live among Ruthenians and Slavs in order to support the populace there. That harmed the Jewish people there. As soon as they opposed it, the government had to stop. Jewish people seem to have a bit more 
-               influence in <rs type="place">Hungary</rs> compared to other countries.
+               influence in <rs type="place"><ref source="place009">Hungary</ref></rs> compared to other countries.
             </p>
             <p>
-               This influence also proved useful in the case of the Sunday rest. Many pious Jewish people, especially in <rs type="place">Galicia</rs>, suffer under the law of Sunday Rest. They close their shop on Sabbath 
+               This influence also proved useful in the case of the Sunday rest. Many pious Jewish people, especially in <rs type="place"><ref source="place006">Galicia</ref></rs>, suffer under the law of Sunday Rest. They close their shop on Sabbath 
                and also have to do so on Sunday. Closing their stores two days a week is difficult, especially for the little merchant. The Hungarian Jewish people managed to achieve some relief.
             </p>
-            <p style="text-align:center" rend="bold">[2]</p>
+            <p style="text-align:center" rend="bold">[2]</p><pb/>
             <p>
-               <pb/>A few months ago, the government issued a decree for every tobacco shop to be open for business on Sabbath. The licence is to be revoked of those who keep it closed on Sabbath. This decree has been a 
+               A few months ago, the government issued a decree for every tobacco shop to be open for business on Sabbath. The licence is to be revoked of those who keep it closed on Sabbath. This decree has been a 
                serious “punishment”. Several tobacconists, who didn’t want their licence to be revoked, and have therefore violated Sabbath. However, many pious Jewish people insisted and have not lost their livelihood over 
-               this. The Jewish people have raised tumult: they have handed over petitions to the finance minister. Last week he gave confirmation to the chancellery of Orthodox Jews in Budapest that he meets half of their 
+               this. The Jewish people have raised tumult: they have handed over petitions to the finance minister. Last week he gave confirmation to the chancellery of Orthodox Jews in <rs type="place"><ref source="place030">Budapest</ref></rs> that he meets half of their 
                demands. That means: he issued another decree that those who ran their shops before the previous decree may close their shops on Sabbath. And those who have had their licences revoked, will get it back. Still, 
                tobacconists who get their licence now have to vow to keep their shop open on Sabbath. In other words, pious Jewish people cannot open tobacco shops anymore…
             </p>
             <p>
-               The minister has already written to the chancellery that he cannot back down anymore and they cannot ask for more. However, the pious Jewish people of Hungary must not remain silent and have to use all means
+               The minister has already written to the chancellery that he cannot back down anymore and they cannot ask for more. However, the pious Jewish people of <rs type="place"><ref source="place009">Hungary</ref></rs> must not remain silent and have to use all means
                at their disposal to abolish the rest of this punishment. If the government doesn’t want to give in, they have to turn to the parliament. And if that doesn’t help as well they have to submit to our Lord, 
                King … and they will hopefully achieve everything. 
             </p>
@@ -232,21 +236,21 @@
          <lb/>
          <div type="article" style="two columns" n="3">
             <head><hi rend="bold">The War
-</hi>            <lb/>Between <rs type="place">Japan</rs> and <rs type="place">Russia</rs></head>
+</hi>            <lb/>Between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs></head>
             <p>
-               After lengthy negotiation going back and forth, the war between <rs type="place">Japan</rs> and <rs type="place">Russia</rs> has ultimately broken out. Both have hesitated a long time, waiting for the other 
-               one to start the one so as to not bear the responsibility of inaugurating it. <cb/> Finally, Japan lost its patience and called back their ambassador from Petersburg immediately leading to war. The first few 
-               days, news from Japanese victories at sea have been received. If Japan beats Russia at sea, the war will continue on the mainland. It is not clear yet how exactly both armies will crash against each other. 
+               After lengthy negotiation going back and forth, the war between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place">Russia</rs> has ultimately broken out. Both have hesitated a long time, waiting for the other 
+               one to start the one so as to not bear the responsibility of inaugurating it. <cb/> Finally, <rs type="place"><ref source="place019">Japan</ref></rs> lost its patience and called back their ambassador from Petersburg immediately leading to war. The first few 
+               days, news from Japanese victories at sea have been received. If <rs type="place"><ref source="place019">Japan</ref></rs> beats Russia at sea, the war will continue on the mainland. It is not clear yet how exactly both armies will crash against each other. 
                First of all, no one knows how fast both want to reach the capital of <rs type="place">Korea</rs>, <rs type="place">Seoul</rs>. It’s therefore possible that the first war on land will be happening in 
-               <rs type="place">Korea</rs>. If Japan gets to occupy <rs type="place">Korea</rs> before the Russian military manages to get there, both enemies will already meet at the border of <rs type="place">Manchuria</rs>. 
-               The Japanese military plans to invade <rs type="place">Manchuria</rs> in order to split the Russian military into two parts and weaken their forces. Japan moves particularly cautiously to invade <rs type="place">Manchuria</rs> 
+               <rs type="place">Korea</rs>. If <rs type="place"><ref source="place019">Japan</ref></rs> gets to occupy <rs type="place">Korea</rs> before the Russian military manages to get there, both enemies will already meet at the border of <rs type="place">Manchuria</rs>. 
+               The Japanese military plans to invade <rs type="place">Manchuria</rs> in order to split the Russian military into two parts and weaken their forces. <rs type="place"><ref source="place019">Japan</ref></rs> moves particularly cautiously to invade <rs type="place">Manchuria</rs> 
                in secret. They want to destroy Russian connections to their country, to demolish their railroads and cut their supply stream of food and war materials in order to facilitate the Japanese victory in the end. 
             </p>
             <p>
-               News of the first Japanese victories impressed the whole world, therefore leading to hope it would be easier for Japan to make peace. Japan will be content with their first victories and would be inclined 
+               News of the first Japanese victories impressed the whole world, therefore leading to hope it would be easier for <rs type="place"><ref source="place019">Japan</ref></rs> to make peace. <rs type="place"><ref source="place019">Japan</ref></rs> will be content with their first victories and would be inclined 
                to make peace sooner. Russia was also scared of the war before it broke out and will certainly give in. Different sources talk about peace enforcement. Some say the <rs type="person"><ref source="person035">Pope [Pious X]</ref></rs> 
                will be the “mediator”, others talk about our <rs type="person"><ref source="person003">Emperor Franz Josef</ref></rs> being an arbitrator, but for now nothing of that is true. No one so far has come forward to mediate and nobody wants to. 
-               - Every government declared themselves as “neutral”, meaning they are not supporting any party and just want to watch. Except for England, they support Japan in secret. There is a rumour that England won’t 
+               - Every government declared themselves as “neutral”, meaning they are not supporting any party and just want to watch. Except for England, they support <rs type="place"><ref source="place019">Japan</ref></rs> in secret. There is a rumour that England won’t 
                let Russian ships pass through the <rs type="place">Mediterranean Sea</rs> to <rs type="place">East Asia</rs>, through the <rs type="place">Dardanellen</rs> or through the <rs type="place">Suez-Canal</rs>. 
             </p>
             <p>
@@ -259,12 +263,12 @@
             </p>
             <lb/>
             <p>
-               The whole world is now curious how this war will end - if Russia or Japan will emerge as victor. Never before has everyone been so invested in a war, which is happening in a faraway country. Neither the war between 
-               China and Japan ten years ago nor the war between Spain and America five years ago was in everyone’s mind like that because the end result was not important for the whole world. However, now, it is of great importance. 
+               The whole world is now curious how this war will end - if Russia or <rs type="place"><ref source="place019">Japan</ref></rs> will emerge as victor. Never before has everyone been so invested in a war, which is happening in a faraway country. Neither the war between 
+               China and <rs type="place"><ref source="place019">Japan</ref></rs> ten years ago nor the war between Spain and America five years ago was in everyone’s mind like that because the end result was not important for the whole world. However, now, it is of great importance. 
                If Russia loses, its power will be forever broken, the dissatisfaction inside the country will grow. Either Russia has to issue a constitution and stop the tyrannical reign or revolutions will reign through the whole 
-               country and bring it to ruins. If Japan loses, the chances to advance into a <hi rend="italic">Worldwar</hi> in all of <rs type="place">Europe</rs> and <rs type="place">Asia</rs> is tremendous. Nobody will support 
-               Russia as every country is in conflict with them. Even their ally, France, is not happy with Russia’s occupation of <rs type="place">Manchuria</rs>. Japan has England and America on their side, as Japan is waging 
-               war for them as well. They want the same thing Japan does: for Russia to leave <rs type="place">Manchuria</rs>. But if England and America support Japan, France will certainly not watch from afar. Then, Germany and 
+               country and bring it to ruins. If <rs type="place"><ref source="place019">Japan</ref></rs> loses, the chances to advance into a <hi rend="italic">Worldwar</hi> in all of <rs type="place">Europe</rs> and <rs type="place">Asia</rs> is tremendous. Nobody will support 
+               Russia as every country is in conflict with them. Even their ally, France, is not happy with Russia’s occupation of <rs type="place">Manchuria</rs>. <rs type="place"><ref source="place019">Japan</ref></rs> has England and America on their side, as <rs type="place"><ref source="place019">Japan</ref></rs> is waging 
+               war for them as well. They want the same thing <rs type="place"><ref source="place019">Japan</ref></rs> does: for Russia to leave <rs type="place">Manchuria</rs>. But if England and America support <rs type="place"><ref source="place019">Japan</ref></rs>, France will certainly not watch from afar. Then, Germany and 
                Italy also need to intervene, therefore developing the war into a world war, for which no one can know how that will end. 
             </p>
             <p>
@@ -285,7 +289,7 @@
             <p>
                Until now, every <rs type="place">Balkan</rs> country was afraid to declare war on Turkey, because Austria-Hungary and Russia warned them not to start as they don’t want the situation in Turkey to change. But now, as Russia 
                is occupied in <rs type="place">Asia</rs>, the question is whether the <rs type="place">Balkan</rs> countries prepare for war. News came via telegram that Austria-Hungary needs to convene their reservists and prepare in case a 
-               war breaks out in <rs type="place">Turkey</rs>. - The Russian-Japanese war can therefore have set off another war which is of great interest to Austria-Hungary as well as the whole world. - Besides, the whole world is greatly 
+               war breaks out in <rs type="place">Turkey</rs>. - The Russo-Japanese war can therefore have set off another war which is of great interest to Austria-Hungary as well as the whole world. - Besides, the whole world is greatly 
                interested in the war in Russia and expect daily news from the warside.
             </p>
          </div>
@@ -295,21 +299,21 @@
             <head><hi rend="bold">The first Russian defeat.</hi></head>
             <p>
                <rs type="org">Russia</rs> has already been harshly defeated in three battles on the ocean in the first few days of war. The first losses have shown that the Russian marines are not able to oppose the Japanese one on the water making one think the 
-               war is as good as won to the benefit of Japan. Over half of the Russian ships which are in <rs type="place">East Asia</rs> have already been destroyed or at least have been incapacitated. Part of the other half are in the port 
+               war is as good as won to the benefit of <rs type="place"><ref source="place019">Japan</ref></rs>. Over half of the Russian ships which are in <rs type="place">East Asia</rs> have already been destroyed or at least have been incapacitated. Part of the other half are in the port 
                of <rs type="place"><hi rend="italic">Vladivostok</hi></rs> which is frozen over leading to the ships being stuck in there. The other part is stationed in <rs type="place">Port Arthur</rs>, this part alone is not strong enough 
-               to combat Japan. Therefore, those ships will have to stay in the port and wait until Japan arrives to destroy the battle ships left. 
+               to combat <rs type="place"><ref source="place019">Japan</ref></rs>. Therefore, those ships will have to stay in the port and wait until <rs type="place"><ref source="place019">Japan</ref></rs> arrives to destroy the battle ships left. 
             </p>
             <p>
                The Japanese military showed their understanding of warfare, they proved courage and initiative. As eyewitnesses report, Japanese bullets and cannons always fired their shot and landed it as well, while the Russian projectiles 
-               didn’t even hit their target once. - The start of the Russian-Japanese war seems similar to the start of the <ref source="https://www.wikidata.org/wiki/Q12583">Spanish-American war</ref> some time ago. 
+               didn’t even hit their target once. - The start of the Russo-Japanese war seems similar to the start of the <ref source="https://www.wikidata.org/wiki/Q12583">Spanish-American war</ref> some time ago. 
                Back then, the first battle also happened on the ocean, the American admiral <rs type="person"><ref source="person036"><hi rend="italic">Dewey</hi> [George]</ref></rs> destroyed the entire Spanish marine in front of the <rs type="place">Philippines</rs> 
-               in one night and steered the war into the direction of the American victory. The Japanese-Russian war seems to go along these lines as well. Because of these first victories Japan managed to prevent the Russian marines from 
+               in one night and steered the war into the direction of the American victory. The Russo-Japanese war seems to go along these lines as well. Because of these first victories <rs type="place"><ref source="place019">Japan</ref></rs> managed to prevent the Russian marines from 
                reaching Korea and marching into <rs type="place">Manchuria</rs> from there. The first battles on land will probably occur in <rs type="place">Korea</rs> or at the border to <rs type="place">Manchuria</rs> and as it seems, 
-               Japan will win. They are better prepared and show more courage. The Russians on the other hand have lost some of their courage after the first <pb/>losses and lost courage don’t fare well on the battlefield. When the troops fall, 
+               <rs type="place"><ref source="place019">Japan</ref></rs> will win. They are better prepared and show more courage. The Russians on the other hand have lost some of their courage after the first <pb/>losses and lost courage don’t fare well on the battlefield. When the troops fall, 
                they will fall.
             </p>
             <p>
-               The whole world looks at the first victories of Japan with awe. It is known that the Japanese military training is highly advanced and they have proven great strength. However, rumour has it that there are <hi rend="italic">English officers</hi>
+               The whole world looks at the first victories of <rs type="place"><ref source="place019">Japan</ref></rs> with awe. It is known that the Japanese military training is highly advanced and they have proven great strength. However, rumour has it that there are <hi rend="italic">English officers</hi>
                on the ships who are dressed like the Japanese as to not be recognised and they are commanding the Japanese ships. If this is true, the admiration of the Japanese might is unwarranted as the English marine is the best in the world.
             </p>
             <p>
@@ -337,8 +341,8 @@
                This is how the governor delivered the news, and everyone can therefore be certain that the Russian loss has been much worse. Again, four battleships were damaged, the fortress suffered. The second defeat was even worse than the first one.
             </p>
             <p>
-               The third Japanese victory is also being reported on. At sea, next to the bay of <rs type="place">Chemulp'o</rs>, Russian and Japanese battleships went into battle. Japan demolished the battleships, “Korietz” and “Varyag”. Most of the crew 
-               were able to save themselves, but in turn they were captured by Japan. The Japanese battleships have only been slightly damaged. According to the latest news, Japan managed to stop the Manchurian train and destroy it. This is another big 
+               The third Japanese victory is also being reported on. At sea, next to the bay of <rs type="place">Chemulp'o</rs>, Russian and Japanese battleships went into battle. <rs type="place"><ref source="place019">Japan</ref></rs> demolished the battleships, “Korietz” and “Varyag”. Most of the crew 
+               were able to save themselves, but in turn they were captured by <rs type="place"><ref source="place019">Japan</ref></rs>. The Japanese battleships have only been slightly damaged. According to the latest news, <rs type="place"><ref source="place019">Japan</ref></rs> managed to stop the Manchurian train and destroy it. This is another big 
                win as the Russian military deliveries are interrupted.
             </p> 
             <p>
@@ -349,40 +353,40 @@
          <div style="two columns" type="article" n="5">
             <head><hi rend="bold">The causes of the war.</hi></head>
             <p>
-               The war between Russia and Japan broke out mainly because of <rs type="place">Korea</rs> and <rs type="place">Manchuria</rs>. Meaning, Russia and Japan are not at war because of their own countries, but because of foreign ones. <rs type="place">Korea</rs> is a 
+               The war between Russia and <rs type="place"><ref source="place019">Japan</ref></rs> broke out mainly because of <rs type="place">Korea</rs> and <rs type="place">Manchuria</rs>. Meaning, Russia and <rs type="place"><ref source="place019">Japan</ref></rs> are not at war because of their own countries, but because of foreign ones. <rs type="place">Korea</rs> is a 
                small country, amassing 218,650 square kilometres with 10 million inhabitants. Those inhabitants are great fanatics, lazy, half-asleep and live like their ancestors a hundred years ago. The ruler of the country calls himself an “emperor”, but is in reality a 
                man without courage or power; foreign ambassadors do whatever they want. He is controlled by the Russian ambassador as well as the Japanese, the English and the American one, and even by women. A Russian cook and an English governess influence him greatly. 
-               He just lets it all happen. Up until 10 years ago, China had the biggest authority in Korea, formally it belonged to <rs type="place">China</rs>. Because of Korea, the last Chinese-Japanese war, where Japan emerged as victor, broke out as well. Back then, 
-               Japan wanted to take all of Korea, but the allied powers of Germany, Russia, and France interfered and forced Japan to acknowledge <rs type="place">Korea</rs> as an independent state - not part of <rs type="place">China</rs>, not part of <rs type="place">Japan</rs>. 
-               However, Japan needs Korea because of trade, it needs to settle their merchants there. After the war, Russia started to invade Korea and to cause problems for Japan causing the Russian-Japanese relationship to be strained and irritated. 
+               He just lets it all happen. Up until 10 years ago, China had the biggest authority in Korea, formally it belonged to <rs type="place">China</rs>. Because of Korea, the last Chinese-Japanese war, where <rs type="place"><ref source="place019">Japan</ref></rs> emerged as victor, broke out as well. Back then, 
+               <rs type="place"><ref source="place019">Japan</ref></rs> wanted to take all of Korea, but the allied powers of Germany, Russia, and France interfered and forced <rs type="place"><ref source="place019">Japan</ref></rs> to acknowledge <rs type="place">Korea</rs> as an independent state - not part of <rs type="place">China</rs>, not part of <rs type="place"><ref source="place019">Japan</ref></rs>. 
+               However, <rs type="place"><ref source="place019">Japan</ref></rs> needs Korea because of trade, it needs to settle their merchants there. After the war, Russia started to invade Korea and to cause problems for <rs type="place"><ref source="place019">Japan</ref></rs> causing the Russian-Japanese relationship to be strained and irritated. 
             </p>
             <p>
                After the last uprising in <rs type="place">China</rs>, the <ref source="https://www.wikidata.org/wiki/Q150229">Boxer Rebellion</ref>, where the “Boxers” rose up against foreigners, every country sent their military there to suppress the rebellion. 
                After the situation calmed down, everyone’s military retreated, except for Russia, which stayed in the Chinese province of <rs type="place">Manchuria</rs>. Russia occupied this region during the rebellion and refused to retreat. At first, it was looking 
                for different excused, but the other </p><p style="text-align:center" rend="bold">[6]</p><p><pb/> governments demanded Russia to vacate the area - after that Russia forced China to enter in an agreement after which Russia is allowed to keep occupying the province <rs type="place">Manchuaria</rs> as long as it wants to. 
-               <rs type="place">Manchuria</rs> should continue to be a Chinese province only by name. Because of the occupation of <rs type="place">Manchuria</rs>, Russia became a closer neighbour to Korea, which bothered Japan quite a lot. But also other governments are not 
+               <rs type="place">Manchuria</rs> should continue to be a Chinese province only by name. Because of the occupation of <rs type="place">Manchuria</rs>, Russia became a closer neighbour to Korea, which bothered <rs type="place"><ref source="place019">Japan</ref></rs> quite a lot. But also other governments are not 
                satisfied with this situation, mainly England and America, which are interested in <rs type="place">Manchuria</rs> because of trade. Therefore, they put stones in Russia’s path and disrupted their trading. They wanted to close every Manchurian harbours for 
-               foreign trade. Still, China went into agreement with several other governments allowing them to trade however much they want. England and America therefore drove Japan continuously to not let Russia fob them off. And Japan, who could be sure that it had two 
+                  foreign trade. Still, China went into agreement with several other governments allowing them to trade however much they want. England and America therefore drove <rs type="place"><ref source="place019">Japan</ref></rs> continuously to not let Russia fob them off. And <rs type="place"><ref source="place019">Japan</ref></rs>, who could be sure that it had two 
                big powers backing them up, demanded of Russia to relinquish any Korean influence and vacate <rs type="place">Manchuria</rs>. The negotiations dragged on for months. Russia agreed to give up influence on Korea, but not to leave <rs type="place">Manchuria</rs> - 
-               but Japan demanded both. 
+               but <rs type="place"><ref source="place019">Japan</ref></rs> demanded both. 
             </p>
             <p>
-               Lately, Russia started to prepare for war in <rs type="place">Asia</rs>. Japan on the other side, also braced themselves for war. After a while, Japan realised that Russia took ages to answer Japan’s demand and hesitated for weeks on end, therefore only playing 
-               for time in order to finish preparing for war. Hence, Japan called back their ambassador from <rs type="place">Petersburg</rs>, meaning Japan is not ready anymore to negotiate with Russia, meaning Japan will protect their rights with a blade. On Sunday then, 
+               Lately, Russia started to prepare for war in <rs type="place">Asia</rs>. <rs type="place"><ref source="place019">Japan</ref></rs> on the other side, also braced themselves for war. After a while, <rs type="place"><ref source="place019">Japan</ref></rs> realised that Russia took ages to answer <rs type="place"><ref source="place019">Japan</ref></rs>’s demand and hesitated for weeks on end, therefore only playing 
+               for time in order to finish preparing for war. Hence, <rs type="place"><ref source="place019">Japan</ref></rs> called back their ambassador from <rs type="place">Petersburg</rs>, meaning <rs type="place"><ref source="place019">Japan</ref></rs> is not ready anymore to negotiate with Russia, meaning <rs type="place"><ref source="place019">Japan</ref></rs> will protect their rights with a blade. On Sunday then, 
                the <hi rend="italic">war</hi> began. 
             </p>
          </div>
          <lb/>
          <div type="article" style="two columns" n="6">
-            <head><rs type="place"><hi rend="bold">Japan</hi></rs>.</head>
+            <head><rs type="place"><hi rend="bold"><ref source="place019">Japan</ref></hi></rs>.</head>
             <head>b.</head>
             <p>
-               <rs type="place">Japan</rs> mostly consists of mountains. There are several high mountains and even volcanoes, which means the mountain erupts fire. The climate there is healthy: in the summer there is a warm and moist south wind, in the winter it is cold, 
-               harsh north wind. The population grows continuously. Each year it grows by 1/9. Every year, there are 350,000 marriages and 100,000 divorces. Each year over one million children are being born while 800,000 people die. Japan has a lot of big cities, for example 
+               <rs type="place"><ref source="place019">Japan</ref></rs> mostly consists of mountains. There are several high mountains and even volcanoes, which means the mountain erupts fire. The climate there is healthy: in the summer there is a warm and moist south wind, in the winter it is cold, 
+               harsh north wind. The population grows continuously. Each year it grows by 1/9. Every year, there are 350,000 marriages and 100,000 divorces. Each year over one million children are being born while 800,000 people die. <rs type="place"><ref source="place019">Japan</ref></rs> has a lot of big cities, for example 
                the capital, <rs type="place"><hi rend="italic">Tokyo</hi></rs> with 1,350,000 inhabitants, Osaka - 500,000, <rs type="place">Kyoto</rs> - 340,000, <rs type="place">Nogoya</rs> - 250,000, <rs type="place">Taiwan</rs> - 240,000, <rs type="place">Kōbe</rs> - 200,000, 
                <rs type="place">Yokohama</rs> - 200,000 and others. - The bigger part of the Japanese is a united people. They speak the same language, wear the same clothes, practise the same customs and religion. Concerning their looks, they are similar to Mongols. The men’s 
                average height is 158 cm and women’s 145 cm, their skin tone is of a light yellow, their hair is black as well as thick and strong, but their facial hair thin and weak. Some time ago they used to wear plaits like the Chinese, but since they got more civilised 
-               they cut them off. The Japanese are known <cb/> are known for their cleanliness, they are kind, decent, and polite. Their children respect and honour their parents. There are several schools and a university in <rs type="place">Japan</rs>, where Hebrew is taught 
+               they cut them off. The Japanese are known <cb/> are known for their cleanliness, they are kind, decent, and polite. Their children respect and honour their parents. There are several schools and a university in <rs type="place"><ref source="place019">Japan</ref></rs>, where Hebrew is taught 
                as well. Over 800 newspapers and bulletins are published there. The press law is very strict. The Japanese people lead a moderate lifestyle, they mostly eat rice, millet, fish and similar, but not a lot of meat. Their clothes are made of linen, their houses are 
                lowly built and made out of wood, and the roofs are made out of shingles or covered with straw - very rarely bricks are used. As the houses are built very closely next to each other, fires can spread quickly. - Most Japanese live off of farming, livestock breeding, 
                and mining. As of recently, factories were being built which export their merchandise abroad. The arts are rather developed, Japanese paper, porcelain, and paintings are known all over the globe. 
