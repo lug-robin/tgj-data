@@ -114,6 +114,13 @@
        <p><xsl:apply-templates/></p>
     </xsl:template>
     
+    <xsl:template match="tei:table[@style='text-align:center']">
+        <table align="center"><xsl:apply-templates/></table>
+    </xsl:template>
+    <xsl:template match="tei:table[@style='width:50%']">
+        <table width="50%"><xsl:apply-templates/></table>
+    </xsl:template>
+    
     <xsl:template match="tei:table">
         <xsl:element name="table">
             <xsl:attribute name="class">
