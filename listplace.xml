@@ -1685,7 +1685,6 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1246</idno>
                     </place>
                     <place xml:id="place156">
-                        <placeName type="person_namesvariente_nachname-komma-vorname">London</placeName>
                         <location type="coords">
                             <geo>51.50853 -0.12574</geo>
                         </location>
@@ -2523,6 +2522,49 @@
                         <idno type="Geonames">https://www.geonames.org/453744/narva.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q209031</idno>
                         <note>River between Russia and Estonia.</note>
+                    </place>
+                    <place xml:id="place208">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Devil's Island</placeName>
+                        <location type="coords"><geo>5.2932 -52.58317</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place045">France</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place192">South America</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place023">Pacific Ocean</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3381836/devils-island.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q220385</idno>
+                        <note>Penal colony in the Pacific Ocean. Located in the French colonies.</note>
+                    </place>
+                    <place xml:id="place209">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Sadhora</placeName>
+                        <location type="coords"><geo>48.35197 25.96272</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place128">Bukovina</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/694979/sadhora.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q2005381</idno>
+                    </place>
+                    <place xml:id="place210">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">South Africa</placeName>
+                        <location type="coords"><geo>-29, 24</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place137">Africa</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/953987/south-africa.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q258</idno>
                     </place>
                 </listPlace>
             </div>

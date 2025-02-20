@@ -748,6 +748,136 @@
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q434533</idno>
                 <occupation>Swedish count and military engineer.</occupation>
               </person>
+              <person xml:id="person082">
+                <persName> 
+                  <forename>Alfred</forename>
+                  <surname>Dreyfus</surname>
+                </persName>
+                <birth><date when-iso="1859-10-09">1859-10-09</date></birth>
+                <death><date when-iso="1935-07-12">1935-07-12</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q171826</idno>
+                <occupation>French artillery officer. Victim of the Dreyfus affair.</occupation>
+              </person>
+              <person xml:id="person083">
+                <persName> 
+                  <forename>Émile Édouard Charles Antoine</forename>
+                  <surname>Zola</surname>
+                </persName>
+                <birth><date when-iso="1840-04-02">1840-04-02</date></birth>
+                <death><date when-iso="1902-09-29">1902-09-29</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q504</idno>
+                <occupation>French novelist, journalist, and playwright.</occupation>
+              </person>
+              <person xml:id="person084">
+                <persName> 
+                  <forename>Joseph</forename>
+                  <surname>Reinach</surname>
+                </persName>
+                <birth><date when-iso="1856-09-30">1856-09-30</date></birth>
+                <death><date when-iso="1921-04-18">1921-04-18</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q172161</idno>
+                <occupation>French author and politician.</occupation>
+              </person>
+              <person xml:id="person085">
+                <persName> 
+                  <forename></forename>
+                  <surname>Lazare</surname>
+                </persName>
+                <birth><date when-iso="1865-06-14">1865-06-14</date></birth>
+                <death><date when-iso="1903-09-01">1903-09-01</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q822562</idno>
+                <occupation>French literary critic, political journalist, polemicist, and anarchist. Known as the first Dreyfusard.</occupation>
+              </person>
+              <person xml:id="person086">
+                <persName> 
+                  <forename>Auguste</forename>
+                  <surname>Scheurer-Kestner</surname>
+                </persName>
+                <birth><date when-iso="1833-02-11">1833-02-11</date></birth>
+                <death><date when-iso="1899-09-19">1899-09-19</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q166297</idno>
+                <occupation>French politician and industrialist.</occupation>
+              </person>
+              <person xml:id="person087">
+                <persName> 
+                  <forename>Fernand-Gustave-Gaston</forename>
+                  <surname>Labori</surname>
+                </persName>
+                <birth><date when-iso="1860-04-18">1860-04-18</date></birth>
+                <death><date when-iso="1935-07-12">1917-03-14</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q922807</idno>
+                <occupation>French attorney.</occupation>
+              </person>
+              <person xml:id="person088">
+                <persName> 
+                  <forename></forename>
+                  <surname>Picquart</surname>
+                </persName>
+                <birth><date when-iso="1859-10-09">1854-09-06</date></birth>
+                <death><date when-iso="1935-07-12">1914-01-19</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q717539</idno>
+                <occupation>French Minister of War.</occupation>
+              </person>
+              <person xml:id="person089">
+                <persName> 
+                  <forename>Émile</forename>
+                  <surname>Loubet</surname>
+                </persName>
+                <birth><date when-iso="1838-12-30">1838-12-30</date></birth>
+                <death><date when-iso="1929-12-20">1929-12-20</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q169502</idno>
+                <occupation>8th French president, 1899-1906.</occupation>
+              </person>
+              <person xml:id="person090">
+                <persName> 
+                  <forename>Charles Armand Auguste Ferdinand Mercier</forename>
+                  <surname>du Paty de Clam</surname>
+                </persName>
+                <birth><date when-iso="1853-02-21">1853-02-21</date></birth>
+                <death><date when-iso="1916-09-03">1916-09-03</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q532404</idno>
+                <occupation>Army officer and a key figure in the Dreyfus affair.</occupation>
+              </person>
+              <person xml:id="person091">
+                <persName> 
+                  <forename>Károly</forename>
+                  <surname>Khuen-Héderváry de Hédervár</surname>
+                </persName>
+                <birth><date when-iso="1849-05-23">1849-05-23</date></birth>
+                <death><date when-iso="1918-02-16">1918-02-16</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q561716</idno>
+                <occupation>Prime minister of Hungary, 1903.</occupation>
+              </person>
+              <person xml:id="person092">
+                <persName> 
+                  <forename>Károly</forename>
+                  <surname>Khuen-Héderváry de Hédervár</surname>
+                </persName>
+                <birth><date when-iso="1830-12-16">1830-12-16</date></birth>
+                <death><date when-iso="1902-03-23">1902-03-23</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q254737</idno>
+                <occupation>Prime minister of Hungary, 1875-1890.</occupation>
+              </person>
+              <person xml:id="person093">
+                <persName> 
+                  <forename>Arthur Basil</forename>
+                  <surname>Markham</surname>
+                </persName>
+                <birth><date when-iso="1866-08-25">1866-08-25</date></birth>
+                <death><date when-iso="1916-08-25">1916-08-25</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q9385017</idno>
+                <occupation>British politician. Member of Parliament of Mansfield.</occupation>
+              </person>
+              <person xml:id="person094">
+                <persName> 
+                  <forename>Aretas</forename>
+                  <surname>Akers-Douglas</surname>
+                </persName>
+                <birth><date when-iso="1851-10-21">1851-10-21</date></birth>
+                <death><date when-iso="1926-01-25">1926-01-25</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q13426124</idno>
+                <occupation>British home secretary, 1902-1905.</occupation>
+              </person>
             </listPerson>
           </div>
         </body>
