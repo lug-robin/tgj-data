@@ -524,6 +524,8 @@
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/6693168/3163392/alesund.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q42900680</idno>
                     </place>
                     <place xml:id="place038">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Arad</placeName>
@@ -534,8 +536,13 @@
                             <placeName key="place068">Romania</placeName>
                         </location>
                         <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/6693168/686254/arad.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q173591</idno>
                     </place>
                     <place xml:id="place039">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Turin</placeName>
@@ -548,6 +555,8 @@
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/6693168/3165524/turin.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q495</idno>
                     </place>
                     <place xml:id="place040">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Italy</placeName>
@@ -557,6 +566,8 @@
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/3175395/italian-republic.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q38</idno>
                     </place>
                     <place xml:id="place041">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Madrid</placeName>
@@ -569,6 +580,8 @@
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/3117735/madrid.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q2807</idno>
                     </place>
                     <place xml:id="place042">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Belgium</placeName>
@@ -578,24 +591,30 @@
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/2802361/kingdom-of-belgium.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q31</idno>
                     </place>
                     <place xml:id="place043">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Spain</placeName>
                         <location type="coords">
-                            <geo>48.2971626 4.0746257</geo>
+                            <geo>40 -4</geo>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/2510769/kingdom-of-spain.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q29</idno>
                     </place>
                     <place xml:id="place045">
                         <placeName type="person_namensvariante_nachname-komma-vorname">France</placeName>
                         <location type="coords">
-                            <geo>46.603354 1.8883335</geo>
+                            <geo>46 2</geo>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/3017382/republic-of-france.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q142</idno>
                     </place>
                     <place xml:id="place046">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Mainz</placeName>
@@ -603,11 +622,16 @@
                             <geo>50.0012314 8.2762513</geo>
                         </location>
                         <location type="located_in_place">
+                            <placeName key="place139">Rhineland-Palatinate</placeName>
+                        </location>
+                        <location type="located_in_place">
                             <placeName key="place010">Germany</placeName>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/2874225/mainz.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1720</idno>
                     </place>
                     <place xml:id="place047">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Worms</placeName>
@@ -615,11 +639,16 @@
                             <geo>49.6302618 8.3620898</geo>
                         </location>
                         <location type="located_in_place">
+                            <placeName key="place139">Rhineland-Palatinate</placeName>
+                        </location>
+                        <location type="located_in_place">
                             <placeName key="place010">Germany</placeName>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/6693168/2806142/worms.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q3852</idno>
                     </place>
                     <place xml:id="place048">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Speyer</placeName>
@@ -627,17 +656,30 @@
                             <geo>49.3165553 8.433615</geo>
                         </location>
                         <location type="located_in_place">
+                            <placeName key="place139">Rhineland-Palatinate</placeName>
+                        </location>
+                        <location type="located_in_place">
                             <placeName key="place010">Germany</placeName>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/2830582/speyer.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q6829</idno>
                     </place>
                     <place xml:id="place050">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Jerusalem</placeName>
                         <location type="coords">
                             <geo>31.7788242 35.2257626</geo>
                         </location>
+                        <location type="located_in_place">
+                            <placeName key="place034">Israel</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/281184/jerusalem.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1218</idno>
                     </place>
                     <place xml:id="place051">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Australia</placeName>
