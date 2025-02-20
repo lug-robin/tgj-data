@@ -118,7 +118,7 @@
         <table align="center"><xsl:apply-templates/></table>
     </xsl:template>
     <xsl:template match="tei:table[@style='width:50%']">
-        <table width="50%"><xsl:apply-templates/></table>
+        <table><xsl:apply-templates/></table>
     </xsl:template>
     
     <xsl:template match="tei:table">
@@ -643,6 +643,20 @@
                 </div>
             </div>
         </div> 
+    </xsl:template>
+    <xsl:template match="tei:head[@style='text-align:center']">
+        <head align="center"><xsl:apply-templates/></head>
+    </xsl:template>
+    <xsl:template match="tei:table[@style='text-align:center']">
+        <table align="center"><xsl:apply-templates/></table>
+    </xsl:template>
+    <xsl:template match="tei:table[@style='width:50%']">
+        <table width="50%"><xsl:apply-templates/></table>
+    </xsl:template>
+    <xsl:template match="tei:table[@style='width']">
+        <table><xsl:apply-templates/></table>
+    </xsl:template><xsl:template match="tei:div[@style='text-align:center']">
+        <div><xsl:apply-templates/></div>
     </xsl:template>
 
     <!-- <xsl:template match="tei:rs[@ref or @key]">

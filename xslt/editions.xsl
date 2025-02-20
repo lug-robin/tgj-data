@@ -223,6 +223,8 @@
     </xsl:template>
     <xsl:template match="tei:table[@style='width']">
         <table><xsl:apply-templates/></table>
+    </xsl:template><xsl:template match="tei:div[@style='width']">
+        <div><xsl:apply-templates/></div>
     </xsl:template>
     
             
