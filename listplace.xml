@@ -1727,6 +1727,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1246</idno>
                     </place>
                     <place xml:id="place156">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">London</placeName>
                         <location type="coords">
                             <geo>51.50853 -0.12574</geo>
                         </location>
@@ -2607,6 +2608,15 @@
                         </location>
                         <idno type="Geonames">https://www.geonames.org/953987/south-africa.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q258</idno>
+                    </place>
+                    <place xml:id="place211">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Ireland</placeName>
+                        <location type="coords"><geo>53 -8</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2963597/ireland.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q22890</idno>
                     </place>
                 </listPlace>
             </div>
