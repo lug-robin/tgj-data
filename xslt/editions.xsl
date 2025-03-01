@@ -201,9 +201,7 @@
     <xsl:template match="tei:hi[@rend='bold']">
         <strong><xsl:apply-templates /></strong>
     </xsl:template>
-    <xsl:template match="tei:hi[@style='text-align:center']">
-        <hi align="center"><xsl:apply-templates /></hi>
-    </xsl:template>   
+  
     <xsl:template match="tei:p[@rend='bold']">
         <strong><xsl:apply-templates /></strong>
     </xsl:template>

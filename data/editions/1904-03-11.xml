@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-01.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">The Genuine Jew - 1904-03-04</title>
+            <title level="a">1904-03-04</title>
+            <author>Multiple Authors</author>
+            <editor>
+               <name>Luger, Robin</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>TGJ</edition>
+            <respStmt>
+               <resp>Translation</resp>
+               <name>Luger, Robin</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Luger, Robin</name>
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2025">2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
+                  <p>You are free to: Share — copy and redistribute the material in any medium or
+                     format; adapt — remix, transform, and build upon the material for any purpose,
+                     even commercially.</p>
+                  <p>The licensor cannot revoke these freedoms as long as you follow the license
+                     terms. Under the following terms:</p>
+                  <p>Attribution — You must give appropriate credit, provide a link to the license,
+                     and indicate if changes were made. You may do so in any reasonable manner, but
+                     not in any way that suggests the licensor endorses you or your use. No
+                     additional restrictions — You may not apply legal terms or technological
+                     measures that legally restrict others from doing anything the license
+                     permits.</p>
+                  <p>Notices:</p>
+                  <p>You do not have to comply with the license for elements of the material in the
+                     public domain or where your use is permitted by an applicable exception or
+                     limitation. No warranties are given. The license may not give you all of the
+                     permissions necessary for your intended use. For example, other rights such as
+                     publicity, privacy, or moral rights may limit how you use the material.</p>
+               </licence>
+               <p>Copyright 2021 Österreichische Nationalbibliothek</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>A</country>
+                  <settlement>Vienna</settlement>
+                  <repository>Austrian National Library</repository>
+                  <collection/>
+               </msIdentifier>
+               <history>
+                  <origin>
+                     <origDate when-iso="1904-03-11">1904-03-11</origDate>
+                     <origPlace>Sonngasse 27, Lemberg</origPlace>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040301">
+      <surface ulx="0" uly="0" lrx="4245" lry="6128" n="1">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040304|1|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="2">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040304|2|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4245" lry="6128" n="3">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040304|3|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="4">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040304|4|100.0|0"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="heading" n="1" style="one column">
+
+            <p><foreign xml:lang="de">1.Jahrgang Nr. 8 </foreign> 1st year</p>
+         </div>
+         <div type="title" n="1">
+            <head>
+               <hi rend="bold">The Geniune Jew</hi>
+            </head>
+            <p>Organ for Yiddish matters</p>
+            <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
+            <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+         </div>
+         <div type="editorial" n="1" style="two columns">
+            <cb n="1"/>
+            <table rows="4" cols="2">
+               <head>The Geniune Jew costs</head>
+               <row role="data">
+                  <cell role="data">In <rs type="place"><ref source="place001">Austria-Hungary</ref></rs></cell>
+                  <cell role="data">Abroad</cell>
+               </row>
+               <row role="data">
+                  <cell role="data">For a whole year - 12 Kronen</cell>
+                  <cell role="data">For a whole year - 20 Francs</cell>
+               </row>
+               <row role="data">
+                  <cell role="data">For a half year - 6 "</cell>
+                  <cell role="data">For a half year - 10 "</cell>
+               </row>
+               <row role="data">
+                  <cell role="data">For a quarter year - 3.50 "</cell>
+                  <cell role="data">For a quarter year - 5.50 "</cell>
+               </row>
+            </table>
+            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-03-11"> March 11th 1904</date></p>
+            <cb n="2"/>
+            <p>
+               <lb/>Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign
+                  xml:lang="de">Redaction "Der wahre Jude",<rs type="place"><ref source="place002">Lviv</ref></rs>, <rs
+                     type="place">Sonnengasse 27</rs></foreign>
+               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign
+                  xml:lang="de"><rs type="place">Lemberg</rs>, <date when-iso="1904-03-11">den 11.März 1904</date></foreign>.</p>
+         </div>
+         <lb/>
+         <div n="1">
+            <p>
+               We ask our subscribers who paid for the “Genuine Jew” when it was published only once a week, to please send money to add to their subscription according to the current price of the newspaper. For those who do not 
+               remargin, we will deduct the difference from their current subscription. This means those who subscribed for half a year will receive the paper for only four months. The same applies to yearly and quarterly subscribers. 
+            </p>
+            <p style="text-align:right">- The editorial office.</p>
+         </div>
+         <div n="2">
+            <head>The tsar weeps.</head>
+            <p style="text-align:right">The Holy One, Blessed is He, does not exact retribution from a nation until its time is up. (<ref source="https://www.wikidata.org/wiki/Q927314">Tractate Sotah</ref>, Chapter 9)</p>
+            <p>
+               And the tsar weeps! He is experiencing the <ref source="https://www.wikidata.org/wiki/Q1093647">Fast of Esther</ref> and the emperor of <rs type="place"><ref source="place019">Japan</ref></rs> is experiencing Purim.
+            </p>
+            <p> 
+               The ruler of over 130 million people in <rs type="place"><ref source="place100">Europe</ref></rs> and <rs type="place"><ref source="place024">Asia</ref></rs> is weeping in his winter palace, as telegrams report from 
+               every corner, because he is helpless, like a child. He is sitting, wringing his hands and sobs bitter tears like the Jewish widows and orphans of the <ref source="https://www.wikidata.org/wiki/Q1814439">Kishinev pogroms</ref>.
+            </p>
+            <p> 
+               Yes, the tsar is weeping.
+            </p><cb/>
+            <p>
+               It has not been a year yet, since the tragedy on the eighth day of Passover. There are still five weeks to go until the first anniversary. But the tsar has soon shed as many tears because of his first defeat in battle like 
+               the Jews did for those corpses, how could he not cry? His best ships lay shattered by Japanese cannons and Russian gunpowder, Russian soldiers are being taken prisoners by <rs type="place"><ref source="place019">Japan</ref></rs> 
+               while travelling, and hundreds of soldiers die of starvation or freeze to death in the frozen wasteland of <rs type="place"><ref source="place178">Siberia</ref></rs>. The Russian battleships are more sealed off for Jews than 
+               <rs type="place"><ref source="place151">Moscow</ref></rs> even. And the Russian soldiers cannot comfort themselves as between the corpses on the battleships are no sacrifices made by Jews. The tsar is weeping remembering that 
+               the hundreds of dead and wounded on his ships are all Russian. He also knows that on those ships that have been shattered by Russian bombs along with 300 people is the number of corpses five times more Russians than Jews in the 
+               <rs type="place"><ref source="place015">Kishinev</ref></rs> pogroms and <rs type="place"><ref source="place016">Gomel</ref></rs> altogether! How can he not weep?
+            </p>
+            <p>
+               And the tsar is weeping. He cries because of his country’s disgrace. He cries because of his crown’s failure. He cries because of his enemies’ vengeance all around the world, he cries because of his horrible mistakes. He is now 
+               learning something the scientific world has known for at least 20 years: Nowadays, not the strongest nation wins the war, but the most progressive one. The brain is worth more on the battlefield than the fist. The truth is
+            </p>
+         </div>
+         <div type="information" style="one column">
+            <p>We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the
+               voice of the upholders of religion) to send every letter and money to this
+               address:</p>
+            <p>OSIAS H. WILF, <rs type="place"><ref source="place002">LEMBERG</ref></rs>
+               <ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.</p>
+            <p style="text-align:center">[1]</p>
+         </div>
+         <pb/>
+         <div n="2">
+            <p>
+               that <rs type="place"><ref source="place014">Russia</ref></rs> has more soldiers, but <rs type="place"><ref source="place019">Japan</ref></rs> has better brains and skillful fingers. A good general today does not look for hundreds 
+               of thousands of men with broad shoulders and iron limbs. He needs carefully assembled thousand intelligent men. It is very easy, because the man who stands behind the cannon on a ship or holding a weapon in his hand - this shooter 
+               should not be a strong man. He should only have a sharp eye to aim, stable hands to shoot, and a swift motion to dodge the enemy’s fire. Didn’t <rs type="place"><ref source="place019">Japan</ref></rs> prove that a small torpedo boat, 
+               a little bigger than a <ref source="https://www.wikidata.org/wiki/Q611564">skiff</ref>, but assembled with wisdom, is able to sink a battleship? Didn’t the Russians themselves prove how one wrong manoeuvre can cause the best ships to 
+               commit suicide by their own bombs.
+            </p>
+            <p>
+               And the tsar weeps living with his mistakes with the war he wages. He thinks that it is still working like it did earlier as the sword, the bayonet, and the fist met in war. Nowadays, these old ways of battling are only seen in theatre, 
+               but not on the battlefield where a weak soldier with rheumatism in his feet can carry a small package in his coat pocket which can destroy a whole regiment.
+            </p>
+            <p>
+               But more than anything, the tsar weeps because he now witnesses God’s finger and he knows that <rs type="place"><ref source="place019">Japan</ref></rs> is nothing more than a rod (scepter) to punish the land for the pogroms. 
+            </p>
+            <p>
+               The Talmud scholars say: "The Holy One, Blessed is He, does not take revenge from the nation until its measure is full (<ref source="https://www.wikidata.org/wiki/Q927314">Tractate</ref> Sotah, chapter 9)." That means: The Lord punishes the 
+               nation as soon as the barrel of bad news is overflowing”. That is the historical truth for every tyrannical government through the times. The true angel of death of the Russian throne is not <rs type="place"><ref source="place019">Japan</ref></rs>, 
+               but the destruction of <ref source="https://www.wikidata.org/wiki/Q165420">Pleven</ref> which filled up the barrel of Russia’s rage caused by the pogroms, which upset the whole world and cost <rs type="place"><ref source="place014">Russia</ref></rs> 
+               the last bit of sympathy. 
+            </p>
+            <p>
+               The tsar weeps and the Russian government asks for donations for a new fleet like the Jews asked for donation. But we fared better as the whole world cried with us while the tsar’s tears found no echo. The world smiles, the world enjoys itself 
+               as <rs type="place"><ref source="place014">Russia</ref></rs> receives its punishment. 
+            </p>
+            <p>
+               <rs type="person">S. Selikowitz</rs>
+            </p>
+         </div>
+         <div type="article" n="3">
+            <p>
+               A Jewish newspaper which is published in America prints an interesting picture: the destroyed school in <rs type="place"><ref source="place015">Chișinău</ref></rs>, pictured from one side, the beadle of <rs type="person">Rabbi Moshe</rs> lays in 
+               blood and holds a torn Torah scroll. On the other side is the harbour of <rs type="place"><ref source="place083">Port Arthur</ref></rs> with destroyed battleships, the strongholds shot into pieces, cannons, and dead soldiers. The picture is called 
+               “An eye for an eye” and below the following poem is written: 
+            </p><cb/>
+            <p>
+               There in the school of <rs type="place"><ref source="place015">Kishinev</ref></rs>, everything is broken,
+               <lb/>There lies the beadle of <rs type="person">Rabbi Moshe</rs>, violence and fear!
+               <lb/>He lies in a pool of blood, beaten to death,
+               <lb/>Beside the school, next to a torn up Torah scroll!
+               <lb/>There in <rs type="place"><ref source="place083">Port Arthur</ref></rs>, a harbour in the depth,
+               <lb/>The Jewish God performed a pogrom;
+               <lb/><rs type="person"><ref source="person042">Nikolas</ref></rs>’ heroes and greatest ships,
+               <lb/>Lay there on the threshold of the abyss!
+            </p>
+         </div>
+         <div n="4">
+            <head style="text-align:center"><hi rend="bold">The luxury.<lb/>(Second article)</hi></head>
+            <p>
+               In my first article about luxury in “The Genuine Jew” I described briefly in which ways luxury is a blight of Galician Jewry. Whether the article has already changed something, if it opened someone’s eyes is to be debated. The public is entrenched in bitter 
+               and heavy suffering that it does not know where it is hurting. And as there are several who feel and know how harmful it is, they need to shut up. They are afraid to say something, they know that they want to scratch their eyes out when seeing the femininity 
+               of the Jewish daughters. What are they supposed to do? They watch everything in chopped motions and stay silent.
+            </p>
+            <p>
+               To remedy this, they have to look for a way to enlighten those who are addicted to fashion how bad it is for them. Only saying or writing it once will not convince them. One has to say it a lot, to scream a lot and scream loudly until they understand it. Then 
+               it will be achieved to enlighten the populace. Perhaps God will have mercy!
+            </p>
+            <p>
+               Lately we are being suppressed from every side, meeting our needs has become difficult or it is completely taken away even. The neighbours are looking for ways to take away the Jewish livelihoods with “village collections”, with “cooperative societies”, 
+               and so on. The number of antisemites grow continuously to every side, their wants do as well. They do not want to lose against others. Furthermore, we Jews are searching for new taxes to pay as well. Under no circumstances can we let it happen that a 
+               government wants a tax of several guilds from every Jewish wedding. With what force will this be implemented? It will be recorded, protested, called upon. Every Jewish as well as Jewish-adjacent newspaper will write lengthy articles. Unbelievable! Has 
+               this not been heard before! We are also taxing ourselves high. Every smaller wedding receives 20 - 30 telegrams, the opulent weddings receive 100 - 200 and more. They make a whole fuss out of it, but what for? Does it make any sense? It is very costly. Jews 
+               do not know where to put their money!
+            </p>
+            <p>
+               The high valued virtue of “hospitality” has also disappeared from a lot of Jewish houses because of luxury. In earlier times as Jews had enough riches with 2 - 3 rooms, the furniture was simple, no rugs on the floor. A person entered the house, greeted the 
+               guest warmly; he did not ruin the furniture, did not soil the rugs. On Sabbath people fought over having a poor person over for Sabbath, everyone wanted to provide their <ref source="https://www.wikidata.org/wiki/Q211361">matzah</ref> and hospitality. These 
+               days, our Jews became very<pb/> 
+            </p>
+            <p style="text-align:center" rend="bold">[3]</p>
+            <p>
+               different and with it the good Jewish customs. Nowadays after a wedding, they truly have many rags with thousand coins dowry. First, they rent a lovely apartment, 2 - 3 rooms with nice furniture, carpets and rugs as well as several other things. At that point 
+               they have already spent a huge part of the dowry and have already stepped towards poverty. As soon as someone enters the door, he will be looked upon as a detrimental thing, he could ruin the chairs, soil the carpets. Later, when a daughter has grown up, raised 
+               by today’s Zeitgeist, she will not like her own home. She would like to store everything anywhere. How can a Jew let someone in their home and who invites a poor person still?
+            </p>
+            <p>
+               In previous times, when one met a poor man, one befriended him. He would have been treated friendly and brotherly, he was given the best meals. The poor man was satisfied and could forget his poverty a bit. He started to like the rich men, the landlords that 
+               once he got him he told how the rich man treated him, how good these people are. This made a good impression on his children and they have become more humane as they realised that there are good people left in the world. These days, the poor man comes home and 
+               recounts how badly he has been treated. He is planting misanthropy, spite, and despair in the young hearts of his children. Because of this the children will later in life, when they are older, be driven into useless and harmful tendencies which will neither 
+               provide help or honour to them or their brothers.
+            </p>
+            <p>
+               <rs type="person">Shekel Hatismanichi</rs>
+            </p>
+         </div>
+         <div>
+            <head style="text-align:center">Letters from <rs type="place"><ref source="place156">London</ref></rs>.</head>
+            <p>
+               It happened as we have predicted before: We turn up and right to listen to the speech of the throne for the parliament’s inauguration. The main venture of the government for this season is to put through a bill which should forbid workers to enter and unless the 
+               government breaks up in the middle, this law is virtually certain. 
+            </p>
+            <p>
+               In the meantime, the law’s details are not public yet. However, the newspapers which are close to the government and constantly know what they are talking about published the character of these new laws. It turns out that the government wants to make them very 
+               strict. As the papers claim, that before immigrants are allowed to enter <rs type="place"><ref source="place011">England</ref></rs> they will have to provide: 
+            </p>
+            <list rend="numbered"> 
+               <item>A valid passport issued by the countries they resided in before.</item> 
+               <item>He must know how to read and write in the language of origin.</item>
+               <item>He must have a certain amount of money and will have to explain how he plans on earning money.</item>
+               <item>The immigrant has to be completely healthy.</item>
+            </list> 
+            <p>
+               If the immigrant cannot satisfy the inspectors in these four points he will be sent back.
+            </p>
+            <p>
+               But it does not end here. If the immigrant is lucky enough to be admitted into the country, they<cb/> are allowed to stay 3 - 5 days under police surveillance. If it turns out that an immigrant lives on welfare - except in times of sickness - or breaks a law, he 
+               will immediately be sent back to the country of origin. 
+            </p>
+            <p>
+               Those areas suffering or had suffered from an abundance of foreigners, is allowed to be classified as a forbidden areas, where foreign Jews are not allowed to live. 
+            </p>
+            <p>
+               In order to protect it all, foreigners living in <rs type="place"><ref source="place011">England</ref></rs> have to report themselves to the police. No foreigner is allowed to move places without telling the police in order for the latter to know whether the 
+               foreigner lives legally or illegally. 
+            </p>
+            <p>
+               This is supposed to be the government’s plan; a “Jewish quarter” should be erected like the ones in <rs type="place"><ref source="place015">Russia</ref></rs>, but a little bit worse. First this should prevent new migrants from moving there and meeting the ones 
+               already residing there. The new Jew should not be able to have job prospects and should not be able to find other Jews. And when they find stone instead of bread how would they be able to find work or an occupation in good Jewish neighbourhoods since the assaults 
+               on Jews everywhere in the world and in <rs type="place"><ref source="place211">Ireland</ref></rs> in the last few weeks. 
+            </p>
+            <p>
+               The rich Jews understand that the new legislation only targets Jews. They know it’s the result of a weak government which bends to the wishes of the British brothers to gain votes for the upcoming election. The Jews in high ranks do everything possible to prevent 
+               the law from becoming so strict. If the law has to be passed it should at least be as mild as possible. One can only hope that until the law is passed, it will be altered a lot. In any case, it will be much stricter than the American immigration laws. The laws in 
+               <rs type="place"><ref source="place094">America</ref></rs> want to target only truly bad immigrants although good ones are also often affected. Nobody wants to exclude good workers. It is still mainly affecting the good ones to prevent fierce competition against 
+               the domestic workers. 
+            </p>
+            <p>
+               English citizens in some areas of <rs type="place"><ref source="place156">London</ref></rs> took the minister’s advice to defend themselves from foreigners with their fists. In a particular London area, a gang has been formed to beat up every Jew they meet on the 
+               street; Jewish workers have been pelted with stones on the way from and to work. Police are constantly not present to arrive at the scene once it is too late and the gang has dispersed already. 
+            </p>
+            <p>
+               <rs type="person">Moishe Ben-Zvi</rs>
+            </p>
+         </div>
+         <div>
+            <head style="text-align:center">The Austrian Imperial Assembly.</head>            
+            <p>The Austrian parliament opened its doors again on Tuesday. Minister president <rs type="person"><ref source="person004">Dr. Koerber</ref></rs> held a great political speech in the first meeting. He reported about the war between <rs type="place"><ref source="place014">Russia</ref></rs> 
+               and <rs type="place"><ref source="place019">Japan</ref></rs> and noted that <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> commiserates the war and will remain</p>
+            <p style="text-align:center" rend="bold">[4]</p>
+           
+            <p style="text-align:center" rend="bold">[5]</p>
+            
+            <p style="text-align:center" rend="bold">[6]</p>
+           
+            <p style="text-align:center" rend="bold">[7]</p>
+           
+         </div><cb/>
+         <div>
+            <head>The editor does not take responsibility for the advertisements in this paper.</head>
+            <div>
+               <head>The proof of the pudding</head>
+               <p>
+                  <lb/>Is in the eating.
+                  <lb/>If you want a natural, working remedy for coughing, sore throats, congestion, against  digestive problems, lack of appetite or similar problems, you should try the remedy from the first 
+                  Austrian malt extract brewery of the brothers Bittman in <rs type="place"><ref source="place133">Razová</ref></rs> in <rs type="place"><ref source="place134">Silesia</ref></rs>:
+                  <lb/>Healthy Malt-Extract
+                  <lb/>Which healing-powers have been proven and recommended by numerous thank yous and appreciation letters. Just one teaspoon concentrated malt-extract dissolved in a cup of hot milk sweetened 
+                  with some pieces of malt or sugar is not only an exquisite expectorant remedy for a cold or the flu, but also works as a 
+                  <lb/>powerful malt breakfast
+                  <lb/>for children, the preferred nutrition for bone formation and hematosis compared to the other malt coffee variety of today. - 
+                  <lb/>Price per jar 80 guilders. Malt pieces per package 20 guilders.
+                  <lb/>Half a box: 6 jars 92-94 crowns. A whole box: 12 jars 70-78 crowns. Payment on delivery.
+               </p>               
+            </div>
+            <div>
+               <head>
+                  <lb/><hi rend="bold">Coffee!</hi>
+                  <lb/><hi rend="italic>">All natural!</hi>
+               </head>
+               <p>
+                  Also less than 5 kg, payment on delivery, prepaid, postage.
+               </p>
+               <table rows="7" cols="2">
+                  <row role="data">
+                     <cell role="data"><rs type="place"><ref source="place054">Santos</ref></rs> Coffee á 1.15 guilder / kg</cell>
+                     <cell role="data">Passover Coffee</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data"><rs type="palce"><ref source="place062">Salvador</ref></rs> 1.30 " "</cell>
+                     <cell role="data">Lightly roasted  1.45 guilder, medium</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data"><rs type="place"><ref source="place055">Puerto Rico</ref></rs>1.55 " "</cell>
+                     <cell role="data">roast  1.65 guilder, dark roast 1.55</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data"><rs type="place"><ref source="place056">Cuba</ref></rs> 1.60 " "</cell>
+                     <cell role="data">guilder. Price per kg. Price list for free.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data">Gold <rs type="place"><ref source="place058">Java</ref></rs> 1.60 " "</cell>
+                     <cell role="data">If more than 30 kg are bought, a</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data"><rs type="place"><ref source="place054">Santos</ref></rs> 1.40 " "</cell>
+                     <cell role="data">discount of 20 heller is applied.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data"><rs type="place"><ref source="place055">Puerto Rico</ref></rs> 1.60 " "</cell>
+                     <cell role="data"></cell>
+                  </row>
+               </table>
+               <p>
+                  <rs type="person">Berger Ernö</rs>, <rs type="place"><ref source="place058">Fuime</ref></rs>.
+               </p>
+            </div>
+            <div style="text-align:center">
+               <p>Bank and exchange business
+                  <lb/>ROHAYTN &amp; ULAM
+                  <lb/><foreign xml:lang="de"><rs type="place"><ref source="place002">Lemberg</ref></rs>, <rs type="place"><ref source="place186">Syxtuskagasse</ref></rs> 8.</foreign>
+                  <lb/>Buying and selling all kinds of
+                  <lb/>Effects, lotteries, and coins.
+                  <lb/>Lottery available in cheap installments.
+                  <lb/>At request, a lottery calendar for 1904
+                  <lb/>can be given for free.
+                  <lb/>Easy, low-interest loans available.</p>
+            </div>
+         </div>
+         <div type="footer" style="one columns" n="1">
+            <p>
+               <foreign xml:lang="de">
+                  <lb/>Herausgeber und verantwortlicher Redact. <rs type="person">OSIAS H. WILF</rs>
+                  recte Weinstock <lb/>Druck von <rs type="person">E. Salat</rs> Witwe des <rs
+                     type="person">U.W. Salat</rs>, <rs type="place"><ref source="place002"
+                        >Lemberg</ref></rs>
+                  <rs type="place"><ref source="place065">Kasimirgasse 35</ref></rs>
+               </foreign>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
