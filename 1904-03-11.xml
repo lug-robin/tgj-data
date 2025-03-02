@@ -2,12 +2,12 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-01.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-11.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="s">The Genuine Jew - 1904-03-04</title>
-            <title level="a">1904-03-04</title>
+            <title level="s">The Genuine Jew - 1904-03-11</title>
+            <title level="a">1904-03-11</title>
             <author>Multiple Authors</author>
             <editor>
                <name>Luger, Robin</name>
@@ -67,18 +67,30 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040301">
-      <surface ulx="0" uly="0" lrx="4245" lry="6128" n="1">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040304|1|100.0|0"/>
+   <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040311">
+      <surface ulx="0" uly="0" lrx="4257" lry="6222" n="1">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040311|1|100.0|0"/>
       </surface>
       <surface ulx="0" uly="0" lrx="4305" lry="6222" n="2">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040304|2|100.0|0"/>
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040311|2|100.0|0"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4245" lry="6128" n="3">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040304|3|100.0|0"/>
+      <surface ulx="0" uly="0" lrx="4257" lry="6222" n="3">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040311|3|100.0|0"/>
       </surface>
       <surface ulx="0" uly="0" lrx="4305" lry="6222" n="4">
-         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040304|4|100.0|0"/>
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040311|4|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4257" lry="6222" n="1">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040311|5|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="2">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040311|6|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4257" lry="6222" n="3">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040311|7|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="4">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040311|8|100.0|0"/>
       </surface>
    </facsimile>
    <text>
