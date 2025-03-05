@@ -878,6 +878,96 @@
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q13426124</idno>
                 <occupation>British home secretary, 1902-1905.</occupation>
               </person>
+              <person xml:id="person095">
+                <persName> 
+                  <forename>Ivan</forename>
+                  <surname>Gonta</surname>
+                </persName>
+                <birth><date when-iso="1705">1705</date></birth>
+                <death><date when-iso="1768">1768</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2369644</idno>
+                <occupation>Ukrainian Cossack rebel, part of the Haidamaka, and one of the leaders of the <ref source="https://www.wikidata.org/wiki/Q1659789">Koliivshchyna</ref>.</occupation>
+              </person>
+              <person xml:id="person096">
+                <persName> 
+                  <forename>Bohdan Zinoviy</forename>
+                  <surname>Khmelnytsky</surname>
+                </persName>
+                <birth><date when-iso="1595">1595</date></birth>
+                <death><date when-iso="1657-07-27">1657-07-27</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q203808</idno>
+                <occupation>Hetman of the <ref source="https://www.wikidata.org/wiki/Q1076173">Zaporizhzhya</ref> Army, head of Ukraine during the <ref source="https://www.wikidata.org/wiki/Q16157109">Hetmanship</ref>, 1648–1657.</occupation>
+              </person>
+              <person xml:id="person097">
+                <persName> 
+                  <forename>Maksym</forename>
+                  <surname>Zalizniak</surname>
+                </persName>
+                <birth><date when-iso="1740">1740</date></birth>
+                <death><date when-iso="1768">1768</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1958210</idno>
+                <occupation><ref source="https://www.wikidata.org/wiki/Q1076173">Zaporizhian</ref> Cossack and one of the leaders of the <ref source="https://www.wikidata.org/wiki/Q1659789">Koliivshchyna</ref> rebellion.</occupation>
+              </person>
+              <person xml:id="person098">
+                <persName> 
+                  <forename>Hoshea</forename>
+                  <surname>King of Isreal</surname>
+                </persName>
+                <birth><date when-iso="-0759">759 BC</date></birth>
+                <death><date when-iso="-0723">723 BC</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q319038</idno>
+                <occupation>19th king of Northern Isreal, 732 - 722 BC.</occupation>
+              </person>
+              <person xml:id="person099">
+                <persName> 
+                  <forename>Jimnu</forename>
+                  <surname>Tennō</surname>
+                </persName>
+                <birth><date when-iso="-0711-02-13">711-02-13 BC</date></birth>
+                <death><date when-iso="-0585">585 BC</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q200188</idno>
+                <occupation>First emperor of Japan, 660 - 585 BC.</occupation>
+              </person>
+              <person xml:id="person100">
+                <persName> 
+                  <forename>Sargon II</forename>
+                  <surname>King</surname>
+                </persName>
+                <birth><date when-iso="-0765">765 BC</date></birth>
+                <death><date when-iso="-0705">705 BC</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q208336</idno>
+                <occupation>King of Assyria, 722 - 705 BC.</occupation>
+              </person>
+              <person xml:id="person101">
+                <persName> 
+                  <forename>Ivan Ilyich</forename>
+                  <surname>Sergiyev</surname>
+                </persName>
+                <birth><date when-iso="1829-10-19">1829-10-19</date></birth>
+                <death><date when-iso="1908-12-20">1908-12-20</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q561659</idno>
+                <occupation>Russian Saint.</occupation>
+              </person>
+              <person xml:id="person102">
+                <persName> 
+                  <forename>Christian Albert Theodor</forename>
+                  <surname>Billroth</surname>
+                </persName>
+                <birth><date when-iso="1829-04-26">1829-04-26</date></birth>
+                <death><date when-iso="1894-02-06">1894-02-06</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q77242</idno>
+                <occupation>German surgeon, performed the first successful gastrectomy for gastric cancer.</occupation>
+              </person>
+              <person xml:id="person103">
+                <persName> 
+                  <forename>Ernst Viktor</forename>
+                  <surname>von Leyden</surname>
+                </persName>
+                <birth><date when-iso="1832-04-20">1832-04-20</date></birth>
+                <death><date when-iso="1910-10-05">1910-10-05</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q74655</idno>
+                <occupation>German internist, founded the first international association for cancer research.</occupation>
+              </person>
             </listPerson>
           </div>
         </body>
