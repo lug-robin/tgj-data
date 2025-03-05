@@ -2618,6 +2618,139 @@
                         <idno type="Geonames">https://www.geonames.org/2963597/ireland.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q22890</idno>
                     </place>
+                    <place xml:id="place212">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Rovereto</placeName>
+                        <location type="coords"><geo>45.8904 11.04053</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place025">Austria</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place040">Italy</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3168854/rovereto.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q279373</idno>
+                    </place>
+                    <place xml:id="place213">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Dołgie</placeName>
+                        <location type="coords">
+                            <geo>53.60212 15.89858</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place067">Poland</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3100255/dolgie.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q5303900</idno>
+                    </place>
+                    <place xml:id="place214">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Uman</placeName>
+                        <location type="coords">
+                            <geo>48.7501 30.21944</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place014">Russia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/690688/uman.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q208499</idno>
+                    </place>
+                    <place xml:id="place215">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Kaunas</placeName>
+                        <location type="coords">
+                            <geo>54.90272 23.90961</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place014">Russia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place140">Lithuania</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/598316/kaunas.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q4115712</idno>
+                    </place>
+                    <place xml:id="place216">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Assyria</placeName>
+                        <location type="coords">
+                            <geo>36.19099 44.0093</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place137">Africa</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/8378483/assyria.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q41137</idno>
+                    </place>
+                    <place xml:id="place217">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Samaria</placeName>
+                        <location type="coords">
+                            <geo>32.25, 35.16667</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place034">Israel</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/284584/samaria.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1294629</idno>
+                    </place>
+                    <place xml:id="place218">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Sakhalin</placeName>
+                        <location type="coords">
+                            <geo>51 143</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place014">Russia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2121530/sakhalin.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q7792</idno>
+                    </place>
+                    <place xml:id="place219">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Wiesbaden</placeName>
+                        <location type="coords">
+                            <geo>50.08258 8.24932</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2809346/wiesbaden.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1721</idno>
+                    </place>
+                    <place xml:id="place220">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Netherlands</placeName>
+                        <location type="coords">
+                            <geo>52.25 5.75</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2750405/kingdom-of-the-netherlands.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q55</idno>
+                    </place>
                 </listPlace>
             </div>
         </body>
