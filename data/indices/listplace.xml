@@ -1357,7 +1357,7 @@
                             <placeName key="place076">Congress Poland</placeName>
                         </location>
                         <location type="located_in_place">
-                            <placeName key="place076">Poland</placeName>
+                            <placeName key="place067">Poland</placeName>
                         </location>
                     </place>
                     <place xml:id="place127">
@@ -1491,7 +1491,7 @@
                             <placeName key="place140">Lithuania</placeName>
                         </location>
                         <location type="located_in_place">
-                            <placeName key="place076">Poland</placeName>
+                            <placeName key="place067">Poland</placeName>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place014">Russia</placeName>
@@ -1820,7 +1820,7 @@
                             <placeName key="place001">Austria-Hungary</placeName>
                         </location>
                         <location type="located_in_place">
-                            <placeName key="place062">Poland</placeName>
+                            <placeName key="place067">Poland</placeName>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
@@ -2750,6 +2750,56 @@
                         </location>
                         <idno type="Geonames">https://www.geonames.org/2750405/kingdom-of-the-netherlands.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q55</idno>
+                    </place>
+                    <place xml:id="place221">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Pyongyang</placeName>
+                        <location type="coords">
+                            <geo>39.03385 125.75432</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place022">Korea</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/1871859/pyongyang.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q18808</idno>
+                    </place>
+                    <place xml:id="place222">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Schulerstraße</placeName>
+                        <location type="coords">
+                            <geo>48.20835 16.375</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place007">Vienna</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place025">Austria</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location> 
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q105232936</idno>
+                    </place>
+                    <place xml:id="place223">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Podgórze</placeName>
+                        <location type="coords">
+                            <geo>52.43861 19.51858</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place149">Kraków</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place067">Poland</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3088689/podgorze.html</idno> 
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q2553877</idno>
                     </place>
                 </listPlace>
             </div>
