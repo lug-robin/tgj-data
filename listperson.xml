@@ -968,6 +968,33 @@
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q74655</idno>
                 <occupation>German internist, founded the first international association for cancer research.</occupation>
               </person>
+              <person xml:id="person104">
+                <persName> 
+                  <forename>Alexander Konstantinovich</forename>
+                  <surname>Benckendorff</surname>
+                </persName>
+                <birth><date when-iso="1849-07-20">1849-07-20</date></birth>
+                <death><date when-iso="1916-12-29">1916-12-29</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q38354</idno>
+                <occupation>Russian diplomat, ambassador to Denmark, 1897-1903 and England, 1903-1917.</occupation>
+              </person>
+              <person xml:id="person105">
+                <persName> 
+                  <forename>Edward VII</forename>
+                  <surname>King</surname>
+                </persName>
+                <birth><date when-iso="1841-11-09">1841-11-09</date></birth>
+                <death><date when-iso="1910-05-06">1910-05-06</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q20875</idno>
+                <occupation>´King of England, 1901-1910.</occupation>
+              </person>
+              <person xml:id="person106">
+                <persName> 
+                  <forename>Nathan</forename>
+                  <surname>Sprecher</surname>
+                </persName>
+                <occupation>´King of England, 1901-1910.</occupation>
+              </person>
             </listPerson>
           </div>
         </body>
