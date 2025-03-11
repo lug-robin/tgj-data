@@ -986,14 +986,54 @@
                 <birth><date when-iso="1841-11-09">1841-11-09</date></birth>
                 <death><date when-iso="1910-05-06">1910-05-06</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q20875</idno>
-                <occupation>´King of England, 1901-1910.</occupation>
+                <occupation>King of England, 1901-1910.</occupation>
               </person>
               <person xml:id="person106">
                 <persName> 
                   <forename>Nathan</forename>
                   <surname>Sprecher</surname>
                 </persName>
-                <occupation>´King of England, 1901-1910.</occupation>
+                <occupation>Advertiser.</occupation>
+              </person>
+              <person xml:id="person107">
+                <persName> 
+                  <forename>Franz</forename>
+                  <surname>Steiner</surname>
+                </persName>
+                <birth><date when-iso="1869-06-01">1869-06-01</date></birth>
+                <death><date when-iso="1943-07-17">1943-07-17</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q15640245</idno>
+                <occupation>Austrian and Czech journalist, politician, activist, a member of the Reichsrat, 1901-1907. </occupation>
+              </person>
+              <person xml:id="person108">
+                <persName> 
+                  <forename>Josef</forename>
+                  <surname>Herzog</surname>
+                </persName>
+                <birth><date when-iso="1864-06-05">1864-06-05</date></birth>
+                <death><date when-iso="1911-08-26">1911-08-26</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q17335159</idno>
+                <occupation>Austrian and Czech journalist, a member of the Reichsrat, 1901-1907.</occupation>
+              </person>
+              <person xml:id="person109">
+                <persName> 
+                  <forename>Adolf</forename>
+                  <surname>Rapoport</surname>
+                </persName>
+                <birth><date when-iso="1840-07-15">1840-07-15</date></birth>
+                <death><date when-iso="1907-02-14">1907-02-14</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q9160181</idno>
+                <occupation>Polish politician, a member of the Reichsrat, 1879-1907.</occupation>
+              </person>
+              <person xml:id="person110">
+                <persName> 
+                  <forename>Teofil</forename>
+                  <surname>Merunowicz</surname>
+                </persName>
+                <birth><date when-iso="1846">1846</date></birth>
+                <death><date when-iso="1919-12-11">1919-12-11</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q9356939</idno>
+                <occupation>Polish politician, a member of the Reichsrat, 1879-1907.</occupation>
               </person>
             </listPerson>
           </div>
