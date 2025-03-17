@@ -38,7 +38,20 @@
          <div class="container">
             <h1>Artic Ocean</h1>
             <table class="table entity-table">
-               <tbody></tbody>
+               <tbody>
+                  <tr>
+                     <th>
+                        Geonames
+                        </th>
+                     <td><a href="https://www.geonames.org/2960860/arctic-ocean.html" target="_blank">2960860</a></td>
+                  </tr>
+                  <tr>
+                     <th>
+                        Wikidata ID
+                        </th>
+                     <td><a href="https://www.wikidata.org/wiki/Q788" target="_blank">Q788</a></td>
+                  </tr>
+               </tbody>
             </table>
             <div id="map_detail"></div>
          </div>
@@ -51,8 +64,8 @@
             }
             window.addEventListener('load', addDarkmodeWidget);
         </script><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" /><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script><script>
-                                var lat = 83;
-                                var long = -170;
+                                var lat = 85;
+                                var long = 0;
                                 $("#map_detail").css("height", "500px");
                                 var map = L.map('map_detail').setView([Number(lat), Number(long)], 13);
                                 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {

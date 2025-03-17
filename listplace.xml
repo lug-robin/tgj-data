@@ -684,20 +684,26 @@
                     <place xml:id="place051">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Australia</placeName>
                         <location type="coords">
-                            <geo>-24.7761086 134.755</geo>
+                            <geo>-25 135</geo>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/2077456/commonwealth-of-australia.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q408</idno>
                     </place>
                     <place xml:id="place052">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Indian Ocean</placeName>
                         <location type="coords">
-                            <geo>-9.9999999 69.9999999</geo>
+                            <geo>-10 70</geo>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/1545739/indian-ocean.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1239</idno>
                     </place>
                     <place xml:id="place053">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Artic Ocean</placeName>
                         <location type="coords">
-                            <geo>83 -170</geo>
+                            <geo>85 0</geo>
                         </location>
+                        <idno type="Geonames">https://www.geonames.org/2960860/arctic-ocean.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q788</idno>
                     </place>
                     <place xml:id="place054">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Santos</placeName>
@@ -876,6 +882,12 @@
                         <placeName type="person_namesvariente_nachname-komma-vorname">Turkey</placeName>
                         <location type="coords">
                             <geo>38.9573415 35.240741</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
                         </location>
                     </place>
                     <place xml:id="place076">
@@ -2800,6 +2812,121 @@
                         </location>
                         <idno type="Geonames">https://www.geonames.org/3088689/podgorze.html</idno> 
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q2553877</idno>
+                    </place>
+                    <place xml:id="place224">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Valladolid</placeName>
+                        <location type="coords">
+                            <geo>41.65518 -4.72372</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place043">Spain</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3106672/valladolid.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q8356</idno>
+                    </place>
+                    <place xml:id="place225">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Málaga</placeName>
+                        <location type="coords">
+                            <geo>36.72016 -4.42034</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place043">Spain</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2514256/malaga.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q8851</idno>
+                    </place>
+                    <place xml:id="place226">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Seville</placeName>
+                        <location type="coords">
+                            <geo>37.38283 -5.97317</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place043">Spain</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2510911/sevilla.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q8717</idno>
+                    </place>
+                    <place xml:id="place227">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Bilbao</placeName>
+                        <location type="coords">
+                            <geo>43.26271 -2.92528</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place043">Spain</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3128026/bilbao.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q8692</idno>
+                    </place>
+                    <place xml:id="place228">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Gijón</placeName>
+                        <location type="coords">
+                            <geo>43.53573 -5.66152</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place043">Spain</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3121424/gijon.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q12273</idno>
+                    </place>
+                    <place xml:id="place229">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Potsdam</placeName>
+                        <location type="coords">
+                            <geo>52.39886 13.06566</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2852458/potsdam.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1711</idno>
+                    </place>
+                    <place xml:id="place230">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Varna</placeName>
+                        <location type="coords">
+                            <geo>43.21667 27.91667</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place112">Bulgaria</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/726050/varna.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q6506</idno>
+                    </place>
+                    <place xml:id="place231">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Odessa</placeName>
+                        <location type="coords">
+                            <geo>46.48572 30.74383</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place112">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place014">Russia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/698740/odesa.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1874</idno>
                     </place>
                 </listPlace>
             </div>
