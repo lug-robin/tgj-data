@@ -1033,7 +1033,93 @@
                 <birth><date when-iso="1846">1846</date></birth>
                 <death><date when-iso="1919-12-11">1919-12-11</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q9356939</idno>
-                <occupation>Polish politician, a member of the Reichsrat, 1879-1907.</occupation>
+                <occupation>Polish politician, a member of the Reichsrat, 1897-1907.</occupation>
+              </person>
+              <person xml:id="person111">
+                <persName> 
+                  <forename>Włodzimierz</forename>
+                  <surname>Gniewosz</surname>
+                </persName>
+                <birth><date when-iso="1841-08-17">1841-08-17</date></birth>
+                <death><date when-iso="1909-02-17">1909-02-17</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q9382631</idno>
+                <occupation>Polish politician, a member of the Reichsrat, 1891-1907.</occupation>
+              </person>
+              <person xml:id="person112">
+                <persName> 
+                  <forename>John III</forename>
+                  <surname>Sobieski</surname>
+                </persName>
+                <birth><date when-iso="1629-08-17">1629-08-17</date></birth>
+                <death><date when-iso="1696-06-17">1696-06-17</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q53454</idno>
+                <occupation>King of Poland and Grand Duke of Lithuania, 1674-1696.</occupation>
+              </person>
+              <person xml:id="person113">
+                <persName> 
+                  <forename>Abdülmecid I</forename>
+                  <surname>Sultan</surname>
+                </persName>
+                <birth><date when-iso="1823-04-25">1823-04-25</date></birth>
+                <death><date when-iso="1861-06-25">1861-06-25</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q174772</idno>
+                <occupation>Sultan of the Ottoman Empire, 1839-1861.</occupation>
+              </person>
+              <person xml:id="person114">
+                <persName>
+                  <forename>Nikolay I</forename>
+                  <surname>Romanov</surname>
+                </persName>
+                <birth><date when-iso="1796-07-06">1796-07-06</date></birth>
+                <death><date when-iso="1855-03-02">1855-03-02</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q130734</idno>
+                <occupation>Emperor of Russia, 1825-1855</occupation>
+              </person>
+              <person xml:id="person115">
+                <persName>
+                  <forename>Georgios</forename>
+                  <surname>Prince</surname>
+                </persName>
+                <birth><date when-iso="1869-06-24">1869-06-24</date></birth>
+                <death><date when-iso="1957-11-25">1957-11-25</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q170396</idno>
+                <occupation>High Commissioner of Cretan State, 1898-1906.</occupation>
+              </person>
+              <person xml:id="person116">
+                <persName>
+                  <forename>Hüseyin</forename>
+                  <surname>Hilmi Pasha</surname>
+                </persName>
+                <birth><date when-iso="1855">1855</date></birth>
+                <death><date when-iso="1922">1922</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q660970</idno>
+                <occupation>Inspectorate-General of Macedonia, 1902-1908.</occupation>
+              </person>
+              <person xml:id="person117">
+                <persName>
+                  <forename>Nikolay</forename>
+                  <surname>Charykov</surname>
+                </persName>
+                <birth><date when-iso="1855-01-08">1855-01-08</date></birth>
+                <death><date when-iso="1930-09-12">1930-09-12</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q4507519</idno>
+                <occupation>Russian diplomat; extraordinary Envoy and Minister of Plenipotentiary in Serbia, 1900-1904.</occupation>
+              </person>
+              <person xml:id="person118">
+                <persName>
+                  <forename>Georgiy Yury</forename>
+                  <surname>Bakhmeteff</surname>
+                </persName>
+                <birth><date when-iso="1855">1847</date></birth>
+                <death><date when-iso="1928-08-29">1928-08-29</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q660970</idno>
+                <occupation>Russian diplomat; ambassador to Bulgaria, 1897-1905.</occupation>
+              </person>
+              <person xml:id="person119">
+                <persName>
+                  <forename>Luis</forename>
+                  <surname>Gonz</surname>
+                </persName>
               </person>
             </listPerson>
           </div>
