@@ -414,7 +414,7 @@
                 <birth><date when-iso="1215">1215</date></birth>
                 <death><date when-iso="1293-04-27">1293-04-27</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q72163</idno>
-                <occupation>Called Rabbi Meir of Rothenburg. <lb/>Known by the Hebrew language acronym Maharam of Rothenburg<lb/>German rabbi and poet.</occupation>
+                <occupation>Called Rabbi Meir of Rothenburg. Known by the Hebrew language acronym Maharam of Rothenburg. German rabbi and poet.</occupation>
               </person>
               <person xml:id="person047">
                 <persName>
@@ -1121,6 +1121,175 @@
                   <surname>Gonz</surname>
                 </persName>
               </person>
+              <person xml:id="person120">
+                <persName>
+                  <forename>Théodore</forename>
+                  <surname>Kohn</surname>
+                </persName>
+                <birth><date when-iso="1845-03-22">1845-03-22</date></birth>
+                <death><date when-iso="1915-09-03">1915-09-03</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q87049</idno>
+                <occupation>Archbishop of Olomouc, 1893-1904.</occupation>
+              </person>
+              <person xml:id="person121">
+                <persName>
+                  <forename>Nicholas I</forename>
+                  <surname>of Montenegro</surname>
+                </persName>
+                <birth><date when-iso="1841-10-07">1841-10-07</date></birth>
+                <death><date when-iso="1921-03-01">1921-03-01</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q283255</idno>
+                <occupation>Last monarch of Montenegro. Prince (1860-1910) and king (1910-1918).</occupation>
+              </person>
+              <person xml:id="person122">
+                <persName>
+                  <forename>Eugène Daniel</forename>
+                  <surname>von Rothschild</surname>
+                </persName>
+                <birth><date when-iso="1884-03-06">1884-03-06</date></birth>
+                <death><date when-iso="1976-04-25">1976-04-25</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q23900899</idno>
+                <occupation>Banker and art collector. Member of the Rothschild family, Austrian branch.</occupation>
+              </person>
+              <person xml:id="person123">
+                <persName>
+                  <forename>Albert Salomon Anselm</forename>
+                  <surname>von Rothschild</surname>
+                </persName>
+                <birth><date when-iso="1844-08-29">1844-08-29</date></birth>
+                <death><date when-iso="1911-02-11">1911-02-11</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2638701</idno>
+                <occupation>Banker and art collector. Member of the Rothschild family, Austrian branch.</occupation>
+              </person>
+              <person xml:id="person124">
+                <persName>
+                  <forename>Ernst</forename>
+                  <surname>Vergani</surname>
+                </persName>
+                <birth><date when-iso="1844-08-29">1848-03-15</date></birth>
+                <death><date when-iso="1911-02-11">1915-02-19</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1360419</idno>
+                <occupation>Austrian politician and founder of the antisemitic "Deutsches Volksblatt".</occupation>
+              </person>
+              <person xml:id="person125">
+                <persName>
+                  <forename>Stephan István</forename>
+                  <surname>Burián von Rajecz</surname>
+                </persName>
+                <birth><date when-iso="1844-08-29">1848-03-15</date></birth>
+                <death><date when-iso="1911-02-11">1915-02-19</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q522120</idno>
+                <occupation>Austrian politician; finance minister of Austria-Hungary, 1903-1912.</occupation>
+              </person>
+              <person xml:id="person126">
+                <persName>
+                  <forename>John Davison</forename>
+                  <surname>Rockefeller</surname>
+                </persName>
+                <birth><date when-iso="1839-07-08">1839-07-08</date></birth>
+                <death><date when-iso="1937-05-23">1937-05-23</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q522120</idno>
+                <occupation>U.S.-American business magnate; one of the wealthiest people in modern history.</occupation>
+              </person>
+              <person xml:id="person127">
+                <persName>
+                  <forename>John Pierpont</forename>
+                  <surname>Morgan</surname>
+                </persName>
+                <birth><date when-iso="2">1837-04-17</date></birth>
+                <death><date when-iso="19">1913-03-31</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q54168</idno>
+                <occupation>U.S.-American financier and investment banker.</occupation>
+              </person>
+              <person xml:id="person128">
+                <persName>
+                  <forename>Mikhail Dmitriyevich</forename>
+                  <surname>Skobelev</surname>
+                </persName>
+                <birth><date when-iso="1843-09-29">1843-09-29</date></birth>
+                <death><date when-iso="1882-07-07">1882-07-07</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q57173</idno>
+                <occupation>Russian general in the Russo-Turkish war.</occupation>
+              </person>
+              <person xml:id="person129">
+                <persName>
+                  <forename> Friedrich Wilhelm Nikolaus Karl</forename>
+                  <surname>von Preußen</surname>
+                </persName>
+                <birth><date when-iso="1831-10-18">1831-10-18</date></birth>
+                <death><date when-iso="1888-06-15">1888-06-15</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q58600</idno>
+                <occupation>German Emperor and King of Prussia, March to June 1888</occupation>
+              </person>
+              <person xml:id="person130">
+                <persName>
+                  <forename>Shmuel</forename>
+                  <surname>Hertz</surname>
+                </persName>
+              </person>
+              <person xml:id="person131">
+                <persName>
+                  <forename>Carl Julius</forename>
+                  <surname>Späth</surname>
+                </persName>
+                <birth><date when-iso="1838-04-12">1838-04-12</date></birth>
+                <death><date when-iso="1919-04-02">1919-04-02</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1731850</idno>
+                <occupation>German watchmaker, built astronomical clock.</occupation>
+              </person>
+              <person xml:id="person132">
+                <persName>
+                  <forename>Hiero II</forename>
+                  <surname>of Syracuse</surname>
+                </persName>
+                <birth><date when-iso="-0308">308 BCE</date></birth>
+                <death><date when-iso="-0215">215 BCE</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q313675</idno>
+                <occupation>Ruler of Syracuse, Greek Sicily, 275-215 BCE.</occupation>
+              </person>
+              <person xml:id="person133">
+                <persName>
+                  <forename>Ptolemy II</forename>
+                  <surname>Philadelphus</surname>
+                </persName>
+                <birth><date when-iso="-0308">308 BCE</date></birth>
+                <death><date when-iso="-0246-01-28">246-01-28 BCE</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q39576</idno>
+                <occupation>Pharaoh of Ptolemaic Egypt, 284-246 BCE.</occupation>
+              </person>
+              <person xml:id="person134">
+                <persName>
+                  <forename>Sarah</forename>
+                  <surname>von Rotenberg</surname>
+                </persName>
+                <birth><date when-iso="1275">1275</date></birth>
+                <occupation>Daughter of Baruch Ben Meir, Rabbi Meir of Rothenburg.</occupation>
+              </person>
+              <person xml:id="person135">
+                <persName>
+                  <forename>Rachel</forename>
+                  <surname>von Rotenberg</surname>
+                </persName>
+                <birth><date when-iso="1245">1245</date></birth>
+                <occupation>Wife of Baruch Ben Meir, Rabbi Meir of Rothenburg.</occupation>
+              </person>
+              <person xml:id="person136">
+                <persName>
+                  <forename>Hannah</forename>
+                  <surname>/</surname>
+                </persName>
+                <occupation>Sister or sister-in-law of Baruch Ben Meir, Rabbi Meir of Rothenburg.</occupation>
+              </person>
+              <!--person xml:id="person">
+                <persName>
+                  <forename></forename>
+                  <surname></surname>
+                </persName>
+                <birth><date when-iso="2"></date></birth>
+                <death><date when-iso="19"></date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q522120</idno>
+                <occupation></occupation>
+              </person-->
             </listPerson>
           </div>
         </body>

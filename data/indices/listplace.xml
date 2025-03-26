@@ -807,7 +807,7 @@
                         <note>Named Kasimirgasse 35 in 1904.</note>
                     </place>
                     <place xml:id="place064">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Triest</placeName>
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Trieste</placeName>
                         <location type="coords">
                             <geo>13.6989939 -89.1914249</geo>
                         </location>
@@ -1097,6 +1097,9 @@
                         </location>
                         <location type="located_in_place">
                             <placeName key="place045">France</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
                         </location>
                     </place>
                     <place xml:id="place096">
@@ -2634,6 +2637,9 @@
                         <placeName type="person_namensvariante_nachname-komma-vorname">Rovereto</placeName>
                         <location type="coords"><geo>45.8904 11.04053</geo></location>
                         <location type="located_in_place">
+                            <placeName key="place235">Tyrol</placeName>
+                        </location>
+                        <location type="located_in_place">
                             <placeName key="place025">Austria</placeName>
                         </location>
                         <location type="located_in_place">
@@ -2927,6 +2933,318 @@
                         </location>
                         <idno type="Geonames">https://www.geonames.org/698740/odesa.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1874</idno>
+                    </place>
+                    <place xml:id="place232">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Athens</placeName>
+                        <location type="coords">
+                            <geo>37.98376 23.72784</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place078">Greece</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/264371/athens.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1524</idno>
+                    </place>
+                    <place xml:id="place233">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Athens</placeName>
+                        <location type="coords">
+                            <geo>37.03913 22.11265</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place078">Greece</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/261604/kalamata.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q167895</idno>
+                    </place>
+                    <place xml:id="place234">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Brno</placeName>
+                        <location type="coords">
+                            <geo>49.19522 16.60796</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place027">Moravia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place124">Czech Republic</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location> 
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3078610/brno.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q14960</idno>
+                    </place>
+                    <place xml:id="place235">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Tyrol</placeName>
+                        <location type="coords"><geo>47 11.5</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place025">Austria</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place040">Italy</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2763587/tyrol.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q42880</idno>
+                    </place>
+                    <place xml:id="place236">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Olomouc</placeName>
+                        <location type="coords">
+                            <geo>49.59552 17.25175</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place027">Moravia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place124">Czech Republic</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location> 
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3069011/olomouc.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q81137</idno>
+                    </place>
+                    <place xml:id="place237">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">German East Africa</placeName>
+                        <location type="coords">
+                            <geo>-2.413056 30.543611</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place137">Africa</placeName>
+                        </location>
+                        <note>
+                            Former German colony, included present-day Burundi, Rwanda, the Tanzania mainland, and the Kionga Triangle.
+                        </note>
+                        <idno type="Geonames">https://www.geonames.org/maps/google_-2.413056_30.543611.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q153963</idno>
+                    </place>
+                    <place xml:id="place238">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Baku</placeName>
+                        <location type="coords">
+                            <geo>40.37767 49.89201</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place239">Azerbaijan</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place014">Russia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/587084/baku.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q9248</idno>
+                    </place>
+                    <place xml:id="place239">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Azerbaijan</placeName>
+                        <location type="coords">
+                            <geo>40.5 47.5</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place014">Russia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/587116/republic-of-azerbaijan.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q227</idno>
+                    </place>
+                    <place xml:id="place240">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Brussels</placeName>
+                        <location type="coords">
+                            <geo>50.85045 4.34878</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place042">Belgium</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2800866/brussels.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q239</idno>
+                    </place>
+                    <place xml:id="place241">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Kronstadt</placeName>
+                        <location type="coords">
+                            <geo>59.992 29.77616</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place018">St Petersburg</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place014">Russia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/540771/kronstadt.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q239</idno>
+                    </place>
+                    <place xml:id="place242">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Bolzano</placeName>
+                        <location type="coords">
+                            <geo>46.49067 11.33982</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place108">South Tyrol</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place235">Tyrol</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place025">Austria</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place040">Italy</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3181913/bolzano.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q6526</idno>
+                    </place>
+                    <place xml:id="place243">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Tangier</placeName>
+                        <location type="coords">
+                            <geo>35.76727 -5.79975</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place129">Morroco</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place137">Africa</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2530335/tangier.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q126148</idno>
+                    </place>
+                    <place xml:id="place244">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Mogador Island</placeName>
+                        <location type="coords">
+                            <geo>31.49556 -9.78639</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place129">Morroco</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place137">Africa</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2549260/mogador-island.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q960083</idno>
+                    </place>
+                    <place xml:id="place245">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Wrocław</placeName>
+                        <location type="coords">
+                            <geo>51.1 17.03333</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place108">Silesia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place067">Poland</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3081368/wroclaw.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q155863</idno>
+                    </place>
+                    <place xml:id="place246">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Kaifeng</placeName>
+                        <location type="coords">
+                            <geo>34.7986 114.30742</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place021">China</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place136">South-East Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/1804879/kaifeng.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q208471</idno>
+                    </place>
+                    <place xml:id="place247">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Herculaneum</placeName>
+                        <location type="coords">
+                            <geo>40.80569 14.34799</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place040">Italy</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3177364/herculaneum.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q178813</idno>
+                    </place>
+                    <place xml:id="place248">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Nile</placeName>
+                        <location type="coords">
+                            <geo>30.16196 31.14946</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place013">Egypt</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place137">Africa</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/351036/nile-river.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q3392</idno>
+                    </place>
+                    <place xml:id="place249">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Sicily</placeName>
+                        <location type="coords">
+                            <geo>37.62304 13.93457</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place040">Italy</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2523118/sicily.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q4951156</idno>
+                    </place>
+                    <place xml:id="place250">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Siracusa</placeName>
+                        <location type="coords">
+                            <geo>37.07542 15.28664</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place249">Sicily</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place040">Italy</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2523083/siracusa.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q13670</idno>
                     </place>
                 </listPlace>
             </div>
