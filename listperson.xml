@@ -469,7 +469,7 @@
               <person xml:id="person052">
                 <persName>
                   <forename>Meiji</forename>
-                  <surname></surname>
+                  <surname>/</surname>
                 </persName>
                 <birth><date when-iso="1852-11-03">1852-11-03</date></birth>
                 <death><date when-iso="1912-07-30">1912-07-30</date></death>
@@ -581,7 +581,7 @@
               <person xml:id="person065">
                 <persName>
                   <forename>Moshe</forename>
-                  <surname></surname>
+                  <surname>/</surname>
                 </persName>
                 <birth><date>Between 1689 BCE and 1391 BCE</date></birth>
                 <death><date>Between 1473 BCE and 1271 BCE</date></death>
@@ -600,13 +600,13 @@
               </person>
               <person xml:id="person067">
                 <persName> 
-                  <forename>Yevgeni Ivanovich</forename>
-                  <surname>Alekseyev</surname>
+                  <forename>Yitzhak Leib</forename>
+                  <surname>Shmelkes</surname>
                 </persName>
-                <birth><date when-iso="1843-05-13">1843-05-13</date></birth>
-                <death><date when-iso="1917-05-27">1917-05-27</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q701150</idno>
-                <occupation>Imperial Russian Navy admiral (1843-1917)</occupation>
+                <birth><date when-iso="1827">1827</date></birth>
+                <death><date when-iso="1905">1905</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q12408256</idno>
+                <occupation>Lviv rabbi.</occupation>
               </person>
               <person xml:id="person068">
                 <persName> 
@@ -1213,7 +1213,7 @@
               </person>
               <person xml:id="person129">
                 <persName>
-                  <forename> Friedrich Wilhelm Nikolaus Karl</forename>
+                  <forename>Friedrich Wilhelm Nikolaus Karl</forename>
                   <surname>von Preußen</surname>
                 </persName>
                 <birth><date when-iso="1831-10-18">1831-10-18</date></birth>
@@ -1279,6 +1279,603 @@
                   <surname>/</surname>
                 </persName>
                 <occupation>Sister or sister-in-law of Baruch Ben Meir, Rabbi Meir of Rothenburg.</occupation>
+              </person>
+              <person xml:id="person137">
+                <persName>
+                  <forename>Leopold</forename>
+                  <surname>Hilsner</surname>
+                </persName>
+                <birth><date when-iso="1876-07-10">1876-07-10</date></birth>
+                <death><date when-iso="1928-01-09">1928-01-09</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q12032979</idno>
+                <occupation>Bohemian cobbler. Victim of an antisemitic miscarrige of justice, falsely accused of killing a Christian girl as a blood libel.</occupation>
+              </person>
+              <person xml:id="person138">
+                <persName>
+                  <forename>M.</forename>
+                  <surname>Labiner</surname>
+                </persName>
+              </person>
+              <person xml:id="person139">
+                <persName>
+                  <forename>S.</forename>
+                  <surname>Weinstock</surname>
+                </persName>
+              </person>
+              <person xml:id="person140">
+                <persName>
+                  <forename>Hirsch</forename>
+                  <surname>Gutwirth</surname>
+                </persName>
+              </person>
+              <person xml:id="person141">
+                <persName>
+                  <forename>A.</forename>
+                  <surname>Stropp</surname>
+                </persName>
+              </person>
+              <person xml:id="person142">
+                <persName>
+                  <forename>Theodor</forename>
+                  <surname>von Taussig</surname>
+                </persName>
+                <birth><date when-iso="1849-07-22">1849-07-22</date></birth>
+                <death><date when-iso="1909-11-24">1909-11-24</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2418568</idno>
+                <occupation>Austrian entrepreneur.</occupation>
+              </person>
+              <person xml:id="person143">
+                <persName>
+                  <forename>Simha</forename>
+                  <surname>Hershkovitz</surname>
+                </persName>
+              </person>
+              <person xml:id="person144">
+                <persName>
+                  <forename>Yisrael</forename>
+                  <surname>Minevitch</surname>
+                </persName>
+              </person>
+              <person xml:id="person145">
+                <persName>
+                  <forename>Stepan Osipovich</forename>
+                  <surname>Makarov</surname>
+                </persName>
+                <birth><date when-iso="1849-01-08">1849-01-08</date></birth>
+                <death><date when-iso="1904-04-13">1904-04-13</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q315847</idno>
+                <occupation>Russian admiral. Fought in Russo-Turkish (1877-1878) war as captain and in the Russo-Japanese war (1904-1905) as vice-admiral.</occupation>
+              </person>
+              <person xml:id="person146">
+                <persName>
+                  <forename>Abraham</forename>
+                  <surname>/</surname>
+                </persName>
+                <birth><date notBefore="-2167" notAfter="-1792">Between 2167 BCE and 1792 BCE</date></birth>
+                <death><date notBefore="-2050" notAfter="-1638">Between 2050 BCE and 1638 BCE</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q9181</idno>
+                <occupation>Hebrew patriarch. Founding Father of the relationship between God and Jews.</occupation>
+              </person>
+              <person xml:id="person147">
+                <persName>
+                  <forename>Isaac</forename>
+                  <surname>/</surname>
+                </persName>
+                <birth><date when-iso="-1851">1851 BCE</date></birth>
+                <death><date when-iso="-1851">1671 BCE</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q522120</idno>
+                <occupation>One of the three patriarchs of Israelites. Son of Abraham, father of Jacob and Esau.</occupation>
+              </person>
+              <person xml:id="person148">
+                <persName>
+                  <forename>Jacob</forename>
+                  <surname>/</surname>
+                </persName>
+                <birth><date when-iso="-1791">1791 BCE</date></birth>
+                <death><date when-iso="-1644">1644 BCE</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q289957</idno>
+                <occupation>Forefather of Israelites. Son of Isaac, grandson of Abraham.</occupation>
+              </person>
+              <person xml:id="person149">
+                <persName>
+                  <forename>Moses</forename>
+                  <surname>/</surname>
+                </persName>
+                <birth><date notBefore="-1689" notAfter="-1391">Between 1689 BCE and 1391 BCE.</date></birth>
+                <death><date notBefore="-1473" notAfter="-1271">Between 1473 BCE and 1271 BCE.</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q9077</idno>
+                <occupation>Abrahamic prophet said to have led the Israelites out of Egypt.</occupation>
+              </person>
+              <person xml:id="person150">
+                <persName>
+                  <forename>Eliyahu</forename>
+                  <surname>Feinstein</surname>
+                </persName>
+                <birth><date when-iso="1843">1843</date></birth>
+                <death><date when-iso="1929">1929</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q5362059</idno>
+                <occupation>Rabbi. Leading rabbinic authoritiy of Litvak.</occupation>
+              </person>
+              <person xml:id="person151">
+                <persName>
+                  <forename>Eliyahu</forename>
+                  <surname>Gardán</surname>
+                </persName>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person152">
+                <persName>
+                  <forename>Eliyahu David</forename>
+                  <surname>Rabinowitz-Teomim</surname>
+                </persName>
+                <birth><date when-iso="1842">1842</date></birth>
+                <death><date when-iso="1905-02-08">1905-02-08</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q5362056</idno>
+                <occupation>Lithuanian Rabbi.</occupation>
+              </person>
+              <person xml:id="person153">
+                <persName>
+                  <forename>Efraim Shlomo</forename>
+                  <surname>Zalman Weingort</surname>
+                </persName>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person154">
+                <persName>
+                  <forename>Bentzion</forename>
+                  <surname>Sternfeld</surname>
+                </persName>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person155">
+                <persName>
+                  <forename>Solomon</forename>
+                  <surname>Shapira</surname>
+                </persName>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person156">
+                <persName>
+                  <forename>Abraham</forename>
+                  <surname>Gelbord</surname>
+                </persName>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person157">
+                <persName>
+                  <forename>Moshe</forename>
+                  <surname>/</surname>
+                </persName>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person158">
+                <persName>
+                  <forename>Gavriel</forename>
+                  <surname>Zev Margolis</surname>
+                </persName>
+                <birth><date when-iso="1847-11-06">1847-11-06</date></birth>
+                <death><date when-iso="1935-09-09">1935-09-09</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q5528373</idno>
+                <occupation>American Rabbi.</occupation>
+              </person>
+              <person xml:id="person159">
+                <persName>
+                  <forename>Zerah</forename>
+                  <surname>/</surname>
+                </persName>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person160">
+                <persName>
+                  <forename>Morenu</forename>
+                  <surname>Binyamin</surname>
+                </persName>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person161">
+                <persName>
+                  <forename>Chaim</forename>
+                  <surname>Berlin</surname>
+                </persName>
+                <birth><date when-iso="1832-01-07">1832-01-07</date></birth>
+                <death><date when-iso="1912-09-24">1912-09-24</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2898049</idno>
+                <occupation>Rabbi of Valozhyn, Moscow, and Jerusalem.</occupation>
+              </person>
+              <person xml:id="person162">
+                <persName>
+                  <forename>Chaim Meir Noach</forename>
+                  <surname>Levin</surname>
+                </persName>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person163">
+                <persName>
+                  <forename>Yechiel Michel</forename>
+                  <surname>Epstein</surname>
+                </persName>
+                <birth><date when-iso="1829-01-24">1829-01-24</date></birth>
+                <death><date when-iso="1908-02-24">1908-02-24</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1686102</idno>
+                <occupation>Lithuanian rabbi.</occupation>
+              </person>
+              <person xml:id="person164">
+                <persName>
+                  <forename>Yitzhak</forename>
+                  <surname>Blazer</surname>
+                </persName>
+                <birth><date when-iso="1837">1837</date></birth>
+                <death><date when-iso="1907">1907</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q8053892</idno>
+                <occupation>Russian rabbi.</occupation>
+              </person>
+              <person xml:id="person165">
+                <persName>
+                  <forename>Yehoshua</forename>
+                  <surname>/</surname>
+                </persName>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person166">
+                <persName>
+                  <forename>Yitzhaki</forename>
+                  <surname>Yaakov</surname>
+                </persName>
+                <birth><date when-iso="1846-09-01">1846-09-01</date></birth>
+                <death><date when-iso="1917-06-11">1917-06-11</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q7023320</idno>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person167">
+                <persName>
+                  <forename>Shmuel Levi</forename>
+                  <surname>Rabinowitz</surname>
+                </persName>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person168">
+                <persName>
+                  <forename>Yehudah Aryeh Leib</forename>
+                  <surname>Alter</surname>
+                </persName>
+                <birth><date when-iso="1847-04-16">1847-04-16</date></birth>
+                <death><date when-iso="1905-01-11">1905-01-11</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2891454</idno>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person169">
+                <persName>
+                  <forename>Moshe</forename>
+                  <surname>Danishevsky</surname>
+                </persName>
+                <birth><date when-iso="1830">1830</date></birth>
+                <death><date when-iso="1910">1910</date></death>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person170">
+                <persName>
+                  <forename>Moshe Mordechai</forename>
+                  <surname>Epstein</surname>
+                </persName>
+                <birth><date when-iso="1866-03-07">1866-03-07</date></birth>
+                <death><date when-iso="1933-11-28">1933-11-28</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q6916131</idno>
+                <occupation>Lithuanian-Palestinia rabbi.</occupation>
+              </person>
+              <person xml:id="person171">
+                <persName>
+                  <forename>Yehoshua</forename>
+                  <surname>Eizik</surname>
+                </persName>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person172">
+                <persName>
+                  <forename>Meir</forename>
+                  <surname>Amlers</surname>
+                </persName>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person173">
+                <persName>
+                  <forename>Meshach</forename>
+                  <surname>Shmuel</surname>
+                </persName>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person174">
+                <persName>
+                  <forename>Zvi Hirsch</forename>
+                  <surname>Broyda</surname>
+                </persName>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q128259029</idno>
+                <occupation>Lithuanian rabbi.</occupation>
+              </person>
+              <person xml:id="person175">
+                <persName>
+                  <forename>Refael</forename>
+                  <surname>Shapiro</surname>
+                </persName>
+                <birth><date when-iso="1837">1837</date></birth>
+                <death><date when-iso="1921">1921</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2899417</idno>
+                <occupation>Belarusian rabbi.</occupation>
+              </person>
+              <person xml:id="person176">
+                <persName>
+                  <forename>Shimon Dov</forename>
+                  <surname>Analik</surname>
+                </persName>
+                <birth><date when-iso="1848">1848</date></birth>
+                <death><date when-iso="1906">1906</date></death>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person177">
+                <persName>
+                  <forename>Eliyahu Chaim</forename>
+                  <surname>Meisel</surname>
+                </persName>
+                <birth><date when-iso="1821">1821</date></birth>
+                <death><date when-iso="1912">1912</date></death>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person178">
+                <persName>
+                  <forename>David</forename>
+                  <surname>Friedman</surname>
+                </persName>
+                <birth><date when-iso="1828">1828</date></birth>
+                <death><date when-iso="1917">1917</date></death>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person179">
+                <persName>
+                  <forename>Tzvi Hirsh</forename>
+                  <surname>Rabinovitch</surname>
+                </persName>
+                <birth><date when-iso="1848">1848</date></birth>
+                <death><date when-iso="1910">1910</date></death>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person180">
+                <persName>
+                  <forename>Hillel Aryey</forename>
+                  <surname>Libshitz</surname>
+                </persName>
+                <birth><date when-iso="1844">1844</date></birth>
+                <death><date when-iso="1907">1907</date></death>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person181">
+                <persName>
+                  <forename>Chaim</forename>
+                  <surname>Soloveitchik</surname>
+                </persName>
+                <birth><date when-iso="1853-03-25">1853-03-25</date></birth>
+                <death><date when-iso="1918-07-03">1918-07-30</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2637350</idno>
+                <occupation>Belarusian rabbi.</occupation>
+              </person>
+              <person xml:id="person182">
+                <persName>
+                  <forename>Chaim Ozer</forename>
+                  <surname>Grodzinski</surname>
+                </persName>
+                <birth><date when-iso="1863-08-24">1863-08-24</date></birth>
+                <death><date when-iso="1940-08-09">1940-08-09</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q543723</idno>
+                <occupation>Lithuanian rabbi.</occupation>
+              </person>
+              <person xml:id="person183">
+                <persName>
+                  <forename>Yosef</forename>
+                  <surname>Shlopfer</surname>
+                </persName>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person184">
+                <persName>
+                  <forename>Yosef</forename>
+                  <surname>Razin</surname>
+                </persName>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person185">
+                <persName>
+                  <forename>Eliyahu Leib</forename>
+                  <surname>Shapira</surname>
+                </persName>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person186">
+                <persName>
+                  <forename>H. Sholem</forename>
+                  <surname>Grosskopf</surname>
+                </persName>
+                <occupation></occupation>
+              </person>
+              <person xml:id="person187">
+                <persName>
+                  <forename>Charles-Arthur</forename>
+                  <surname>Gonse</surname>
+                </persName>
+                <birth><date when-iso="1838-09-19">1838-09-19</date></birth>
+                <death><date when-iso="1917-12-18">1917-12-18</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1063595</idno>
+                <occupation>French military officer, deputy chief of staff during the trials against Dreyfus.</occupation>
+              </person>
+              <person xml:id="person188">
+                <persName>
+                  <forename></forename>
+                  <surname>Ivkov</surname>
+                </persName>
+                <occupation>Japanese spy in the Russo-Japanese war.</occupation>
+              </person>
+              <person xml:id="person189">
+                <persName>
+                  <forename></forename>
+                  <surname>Hippe</surname>
+                </persName>
+              </person>
+              <person xml:id="person190">
+                <persName>
+                  <forename>Gustav</forename>
+                  <surname>Kohn</surname>
+                </persName>
+                <birth><date when-iso="1840-12-12">1840-12-12</date></birth>
+                <death><date when-iso="1919-09-17">1919-09-17</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q71853</idno>
+                <occupation>German economist, known for his contribution to transportation.</occupation>
+              </person>
+              <person xml:id="person191">
+                <persName>
+                  <forename>Hugo</forename>
+                  <surname>Lindemann</surname>
+                </persName>
+                <birth><date when-iso="1867-08-09">1867-08-09</date></birth>
+                <death><date when-iso="1949-02-19">1949-02-19</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1635398</idno>
+                <occupation>German social democratic politician.</occupation>
+              </person>
+              <person xml:id="person192">
+                <persName>
+                  <forename>Rudolph</forename>
+                  <surname>Krause</surname>
+                </persName>
+                <birth><date when-iso="1834-09-30">1834-09-30</date></birth>
+                <death><date when-iso="1895-07-24">1895-07-24</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q89596093</idno>
+                <occupation>German anthropologist and doctor, researching craniometry.</occupation>
+              </person>
+              <person xml:id="person193">
+                <persName>
+                  <forename>Franz Theodor</forename>
+                  <surname>Waitz</surname>
+                </persName>
+                <birth><date when-iso="1821-03-17"></date></birth>
+                <death><date when-iso="1864-05-21"></date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q7781630</idno>
+                <occupation>German psychologist and anthropologist.</occupation>
+              </person>
+              <person xml:id="person194">
+                <persName>
+                  <forename>Ludwig Joseph "Lujo"</forename>
+                  <surname>Bretano</surname>
+                </persName>
+                <birth><date when-iso="1844-12-18">1844-12-18</date></birth>
+                <death><date when-iso="1931-09-09">1931-09-09</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q62830</idno>
+                <occupation>German national economist and social reformer.</occupation>
+              </person>
+              <person xml:id="person195">
+                <persName>
+                  <forename>Eugen</forename>
+                  <surname>Bindewald</surname>
+                </persName>
+                <birth><date when-iso="1846">1846</date></birth>
+                <death><date when-iso="1922">1922</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q94917980</idno>
+                <occupation>German city planner.</occupation>
+              </person>
+              <person xml:id="person196">
+                <persName>
+                  <forename>Johann Georg Max Hans</forename>
+                  <surname>Blum</surname>
+                </persName>
+                <birth><date when-iso="1841-06-08">1841-06-08</date></birth>
+                <death><date when-iso="1910-02-01">1910-02-01</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q73975</idno>
+                <occupation>German author, neo-liberal politician.</occupation>
+              </person>
+              <person xml:id="person197">
+                <persName>
+                  <forename>Otto</forename>
+                  <surname>Bollinger</surname>
+                </persName>
+                <birth><date when-iso="1843-04-02">1843-04-02</date></birth>
+                <death><date when-iso="1909-08-13">1909-08-13</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q322021</idno>
+                <occupation>German pathologist.</occupation>
+              </person>
+              <person xml:id="person198">
+                <persName>
+                  <forename>Edward</forename>
+                  <surname>Ballard</surname>
+                </persName>
+                <birth><date when-iso="1820">1820</date></birth>
+                <death><date when-iso="1897">1897</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q5341737</idno>
+                <occupation>British doctor.</occupation>
+              </person>
+              <person xml:id="person199">
+                <persName>
+                  <forename>Carl</forename>
+                  <surname>Mayrhofer</surname>
+                </persName>
+                <birth><date when-iso="1837-06-02">1837-06-02</date></birth>
+                <death><date when-iso="1882-06-03">1882-06-03</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q5040532</idno>
+                <occupation>German gynaecology, medical researcher.</occupation>
+              </person>
+              <person xml:id="person200">
+                <persName>
+                  <forename>Publius Vergilius "Virgil"</forename>
+                  <surname>Maro</surname>
+                </persName>
+                <birth><date when-iso="-70-10-15">70-10-15 BCE</date></birth>
+                <death><date when-iso="-19-09-21">19-09-21 BCE</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1398</idno>
+                <occupation>Roman poet.</occupation>
+              </person>
+              <person xml:id="person201">
+                <persName>
+                  <forename>Max Joseph</forename>
+                  <surname>von Pettenkofer</surname>
+                </persName>
+                <birth><date when-iso="1818-12-03">1818-12-03</date></birth>
+                <death><date when-iso="1901-02-10">1901-02-10</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q44993</idno>
+                <occupation>German chemist and hygienist.</occupation>
+              </person>
+              <person xml:id="person202">
+                <persName>
+                  <forename>Paul</forename>
+                  <surname>Topinard</surname>
+                </persName>
+                <birth><date when-iso="1830-11-04">1830-11-04</date></birth>
+                <death><date when-iso="1911-12-20">1911-12-20</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1894102</idno>
+                <occupation>French anthropologist.</occupation>
+              </person>
+              <person xml:id="person203">
+                <persName>
+                  <forename></forename>
+                  <surname></surname>
+                </persName>
+                <birth><date when-iso="2"></date></birth>
+                <death><date when-iso="19"></date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q9439</idno>
+                <occupation></occupation>
+              </person>
+              <person xml:id="person204">
+                <persName>
+                  <forename>Alexandrina Victoria</forename>
+                  <surname>Queen</surname>
+                </persName>
+                <birth><date when-iso="1819-05-24">1819-05-24</date></birth>
+                <death><date when-iso="1901-01-22">1901-01-22</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q522120</idno>
+                <occupation>Queen Victoria of England, 1837-1901</occupation>
+              </person>
+              <person xml:id="person">
+                <persName>
+                  <forename></forename>
+                  <surname></surname>
+                </persName>
+                <birth><date when-iso="2"></date></birth>
+                <death><date when-iso="19"></date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q9439</idno>
+                <occupation></occupation>
               </person>
               <!--person xml:id="person">
                 <persName>

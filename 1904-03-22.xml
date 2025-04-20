@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-15.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">The Genuine Jew - 1904-03-15</title>
+            <title level="a">1904-03-15</title>
+            <author>Multiple Authors</author>
+            <editor>
+               <name>Luger, Robin</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>TGJ</edition>
+            <respStmt>
+               <resp>Translation</resp>
+               <name>Luger, Robin</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name>Luger, Robin</name>
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2025">2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
+                  <p>You are free to: Share — copy and redistribute the material in any medium or
+                     format; adapt — remix, transform, and build upon the material for any purpose,
+                     even commercially.</p>
+                  <p>The licensor cannot revoke these freedoms as long as you follow the license
+                     terms. Under the following terms:</p>
+                  <p>Attribution — You must give appropriate credit, provide a link to the license,
+                     and indicate if changes were made. You may do so in any reasonable manner, but
+                     not in any way that suggests the licensor endorses you or your use. No
+                     additional restrictions — You may not apply legal terms or technological
+                     measures that legally restrict others from doing anything the license
+                     permits.</p>
+                  <p>Notices:</p>
+                  <p>You do not have to comply with the license for elements of the material in the
+                     public domain or where your use is permitted by an applicable exception or
+                     limitation. No warranties are given. The license may not give you all of the
+                     permissions necessary for your intended use. For example, other rights such as
+                     publicity, privacy, or moral rights may limit how you use the material.</p>
+               </licence>
+               <p>Copyright 2021 Österreichische Nationalbibliothek</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>A</country>
+                  <settlement>Vienna</settlement>
+                  <repository>Austrian National Library</repository>
+                  <collection/>
+               </msIdentifier>
+               <history>
+                  <origin>
+                     <origDate when-iso="1904-03-22">1904-03-22</origDate>
+                     <origPlace>Sonngasse 27, Lemberg</origPlace>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040315">
+      <surface ulx="0" uly="0" lrx="4257" lry="6222" n="1">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040322|1|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="2">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040322|2|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4257" lry="6222" n="3">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040322|3|100.0|0"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="4">
+         <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040322|4|100.0|0"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="heading" n="1" style="one column">
+
+            <p><foreign xml:lang="de">1.Jahrgang Nr. 10</foreign> 1st year</p>
+         </div>
+         <div type="title" n="1">
+            <head>
+               <hi rend="bold">The Geniune Jew</hi>
+            </head>
+            <p>Organ for Yiddish matters</p>
+            <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
+            <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+         </div>
+         <div type="editorial" n="1" style="two columns">
+            <cb n="1"/>
+            <table rows="4" cols="2">
+               <head>The Geniune Jew costs</head>
+               <row role="data">
+                  <cell role="data">In <rs type="place"><ref source="place001">Austria-Hungary</ref></rs></cell>
+                  <cell role="data">Abroad</cell>
+               </row>
+               <row role="data">
+                  <cell role="data">For a whole year - 12 Kronen</cell>
+                  <cell role="data">For a whole year - 20 Francs</cell>
+               </row>
+               <row role="data">
+                  <cell role="data">For a half year - 6 "</cell>
+                  <cell role="data">For a half year - 10 "</cell>
+               </row>
+               <row role="data">
+                  <cell role="data">For a quarter year - 3.50 "</cell>
+                  <cell role="data">For a quarter year - 5.50 "</cell>
+               </row>
+            </table>
+            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-03-22"> March 22nd 1904</date></p>
+            <cb n="2"/>
+            <p>
+               <lb/>Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign
+                  xml:lang="de">Redaction "Der wahre Jude",<rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place"><ref source="place003">Sonnengasse</ref> 27</rs></foreign>
+               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign
+                  xml:lang="de"><rs type="place"><ref source="place002">Lemberg</ref></rs>, <date when-iso="1904-03-15">den 22.März 1904</date></foreign>.</p>
+         </div>
+         <lb/>
+         <div n="1">
+            <head style="text-align:center"><hi rend="bold"><ref source="https://www.wikidata.org/wiki/Q1061047">Blood libel</ref></hi></head>
+            <p>
+               Every year for Passover, antisemitic voices start to get louder again. They are pulling stories out of their noses about murders and blaming the Jews. Soon those stories will be told in <rs type="place"><rs type="place026">Bohemia</rs></rs>, in 
+               <rs type="place"><ref source="place027">Moravia</ref></rs>, in <rs type="place"><ref source="place009">Hungary</ref></rs>, in <rs type="place"><ref source="place078">Greece</ref></rs> and even civilised countries like <rs type="place"><ref source="place010">Germany</ref></rs> 
+               aren’t excluded from that. The trial concerning the <ref source="https://www.wikidata.org/wiki/Q1684220">Xanten ritual murders</ref> took place in <rs type="place"><ref source="place010">Germany</ref></rs> only a few years ago. A blood libel in 
+               <rs type="place"><ref source="place017">Bessarabia</ref></rs> was the reason for the persecutions in <rs type="place"><ref source="place015">Chișinău</ref></rs>. 
+            </p>
+            <p>
+               The blood libel, the blood accusations, vary. Sometimes a Christian child has actually been murdered somewhere in a city which Jews are blamed for; sometimes the whole story is just a lie. No murder has taken place, a child disappeared or was held 
+               deliberately and without a second to waste, the antisemites scream: The Jews killed a Christian. The following or third day, it turns out that it was all a lie - and the antisemites grow longer noses because of the shame. Between the blood libels, 
+               in the case that someone was actually murdered are some that are solved, meaning the truth is found out and the actual murderer is discovered. Then the whole is convinced that the Jewish people were suspected in vain. But there are also cases where 
+               the truth doesn’t get revealed and the true murderer is not found. The antisemites then claim that<cb/> the Jews are responsible for the murder. Sometimes a Jew is blamed for the murder and not even during trial his innocence can be proven, like in 
+               the  <rs type="person"><ref source="person137">Hilsner</ref></rs> <ref source="https://www.wikidata.org/wiki/Q691887">affair</ref>. This is a juicy morsel for the antisemites. They already yell: Victory! (We have won!) They find opportunities to 
+               shoot their poisonous arrows against the Jewish people. And these cases are the most unfortunate ones. Admittedly, the civilised world does not believe these blood libels, but the common people do believe what is being told and it plants a deep 
+               hatred for Jews into their hearts which shows itself at the earliest opportunity. 
+            </p>
+         </div>
+         <div type="information" style="one column">
+            <p>We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the
+               voice of the upholders of religion) to send every letter and money to this
+               address:</p>
+            <p><rs type="person"><ref source="person031">OSIAS H. WILF</ref></rs>, <rs type="place"><ref source="place002">LEMBERG</ref></rs>
+               <ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.</p>
+            <p style="text-align:center">[1]</p>
+         </div>
+         <pb/>
+         <div n="1">
+            <p>
+               "In every generation, they rise against us to destroy us, but the Holy One, blessed be He, saves us from their hand."
+            </p>
+         </div>
+         <div n="2">
+            <head style="text-align:center"><hi rend="bold"><rs type="place"><ref source="place001">Austria-Hungary</ref></rs> in the last 20 years.</hi></head>
+            <p>
+               In an English article, written by  <rs type="person"><ref source="person142">Theodor von Taussig</ref></rs>, we can take away the following interesting facts: in 1880, 22,144,244 people lived in <rs type="place"><ref source="place025">Austria</ref></rs>. In 1900, 
+               there lived 26,150,708 people. The population of <rs type="place"><ref source="place009">Hungary</ref></rs> amounted to 13,749,603 in 1880 and 16,721,574 souls in 1900. The Austrian population increased by 21 %, the Hungarian by 21 %. While earlier, most were 
+               employed in agriculture, the majority of the population turned to trade and factory work in this timespan.
+            </p>
+            <p>
+               The development of factory work can best be shown that in 1882 more raw materials were exported than imported. In 1902 on the other hand, a lot less raw materials were exported than imported. However, the export of manufacturing increased. This means that raw materials 
+               were processed and exported. Wheat, wood, and other agricultural products are being exported less than 20 years ago because it is needed domestically. 
+            </p>
+            <p>
+               Mining and smelting increased. Mining was worth 85 million crowns in 1880 and 285 million crowns in 1901. The total worth of the Austrian smelting production (iron and steel production) was worth 46 million crowns in 1880 and 96 million crowns in 1901. 
+            </p>
+            <p>
+               The growth of the mining and smelting production is mainly thanks to coal and earth wax as well as iron production. <rs type="place"><ref source="place009">Hungary</ref></rs>’s iron production grew from 1,5 million kilograms in 1880 to over 400 million kilograms in 
+               1902. Coal production grew from 2,100 million kilograms in 1882 to 6,400 million kilograms in 1902.
+            </p>
+            <p>
+               The industrial stock corporations had capital shares of 730 million crowns and excess points of 99 million crowns in 1880. In 1901 this rose to 1,300 million crowns in capital shares and 133 million crowns in excess points in 1901. 
+            </p>
+            <p>
+               <rs type="place"><ref source="place009">Hungary</ref></rs> had 132 industrial stock corporations and in 1901 340 industrial stock corporations with 481 million crowns in capital shares. 
+            </p>
+            <p>
+               Petroleum production amounted to 1,500 million kilograms in <rs type="place"><ref source="place025">Austria</ref></rs> and 740 million kilograms in <rs type="place"><ref source="place009">Hungary</ref></rs> in 1902. 
+            </p>
+            <p>
+               The <hi rend="italic">Hungarian</hi> sugar production process 1,961,995,000 kilograms sugar beets in 1881 and 1901 over 19,000 million kilograms. Hungarian mills increased their flour production from 3,672,600,000 kilograms wheat in 1880 by 2,798,600,000 kilograms<cb/> more wheat. In 1900, 
+               5,770,000,000 kilograms of flour were produced from 7,472,000,000 kilograms of wheat. 
+            </p>
+            <p>
+               The number of spindles in the Austrian wool manufactures grew from 100,000 to 350,000 in the last 20 years. Silk production almost doubled in the same timespan and is worth around 100 million crowns nowadays. Paper production grew from 800 million kg to 3,500 million kg.
+            </p>
+            <p>
+               In 1881, Austrian bank houses possessed over 620 million crowns in deposited capital shares and 322,236,000 crowns in reserve funds. In 1901, the capital shares amounted to 820,445,000 crowns, 820,601,000 crowns in cash checks, deposited money, and documentary credit and 941,164,00 crowns in reserve funds. 
+            </p>
+            <p>
+               In 1882, there were 335 penny banks with 587,619,000 crowns deposits in <rs type="place"><ref source="place009">Hungary</ref></rs>. In 1902: 676 penny banks with deposits amounting to 1,414,865,006 crowns.
+            </p>
+            <p>
+               In 1880, the savings club had 342,124 members, in 1900: 1,324,531 members. The raw material associations and producer cooperatives counted 3,933 members in 1880, in 1900: 107,807 members with over 32 million crowns in shares.
+            </p>
+            <p>
+               The annual income of the whole population amounted to (according to the calculation of personal income tax) 3,225 million crowns in 1902. 256,644,576 crowns in estate, 322,654,938 crowns in buildings, 907,987,788 crowns in independent enterprises, 1,192,280,036 
+               crowns in emoluments, 488,815,731 crowns in capital assets, and 47,118,126 crowns from other sources. 
+            </p>
+            <p>
+               Here it is important to mention that those who earn less than 1,200 crowns don’t pay income tax. Income of the poorer classes are therefore not included in this calculation. 
+            </p>
+            <p>
+               The Austrian budget in 1882 amounted to: 972,156,728 crowns in revenue, 1,014 million in spendings. In 1901: 1,686,984,503 crowns in revenue, 1,666,810,473 crowns in spendings, a surplus of 19,973,530 crowns.
+            </p>
+            <p>
+               The Hungarian budget in 1881 amounted to: 977,176,000 crowns in revenue, 978,044,000 crowns in spending, a deficit of 868,000 crowns. In 1901 the budget amounted to 1,051,460,000 crowns in revenue, 1,031,134,000 crowns in spendings, a surplus of 26,326,000 crowns. 
+            </p>
+            <p>
+               The public credit was improved because of the rise in income. The government was therefore able to introduce the <hi rend="italic">gold standard</hi>.
+            </p>
+            <p>
+               The switch to the gold standard completely succeeded. Both governments (<rs type="place"><ref source="place025">Austria</ref></rs> and <rs type="place"><ref source="place009">Hungary</ref></rs>) have not only delivered the necessary funds to the treasury,
+            </p>
+            <p style="text-align:center" rend="bold">[2]</p><pb/>
+            <p>
+               but also added further 400 million crowns in gold. Therefore, the monarchy could increase their total gold possessions by 1,150 million crowns. 
+            </p>
+         </div>
+         <div n="3">
+            <head>News.<lb/>
+               Jewish News.</head>
+            <p>
+               (<rs type="place"><ref source="place002">Lviv</ref></rs>). In the town  <rs type="place"><ref source="place256">Melnytsia-Podilska</ref></rs>, not far from <rs type="place"><ref source="place257">Borshchiv</ref></rs>, the toll house leaseholder 
+               <rs type="person"><ref source="person143">Simha Hershkovitz</ref></rs> and his wife were attacked by two masked robbers at night. The robbers murdered the woman with an axe and severely hurt the man. Hence, the robbers could steal 40 guilds and flee. 
+               The robbers were looked for but no trace of them could be found. Only a few days later, two farmers were fighting in a tavern and one yelled at the other: “Do you want to kill me, like you killed the Jew from the tolls?” The police were immediately 
+               notified which arrested both. They both confessed and will soon stand trial.
+            </p>
+            <p>
+               (<rs type="place"><ref source="place182">Chicago</ref></rs>). A Catholic monastery burnt down. The antisemites immediately started to blame the Jews for starting the flame. The monastery is a German one and an antisemitic newspaper claims that Jews from 
+               <rs type="place"><ref source="place015">Chișinău</ref></rs> did it to take revenge on the German emperor because he is allied with <rs type="place"><ref source="place014">Russia</ref></rs> in the war against <rs type="place"><ref source="place019">Japan</ref></rs>. 
+               Jews from <rs type="place"><ref source="place182">Chicago</ref></rs> protest heavily against the apparent antisemitism in <rs type="place"><ref source="place094">America</ref></rs>. 
+            </p>
+            <p>
+               (<rs type="place"><ref source="place018">St Petersburg</ref></rs>). <rs type="person"><ref source="person144">Yisrael Minevitch</ref></rs>, a Jewish landlord, who owns a house and a shop in the city <rs type="place"><ref source="place258">Kalinkavichy</ref></rs>, 
+               <rs type="place"><ref source="place259">Minsk district</ref></rs>, drove to <rs type="place"><ref source="place187">Kyiv</ref></rs> at the end of last December to shop for merchandise. He did not have time to drive back the same day and stayed overnight in an inn. 
+               At 4 in the morning, the police came and arrested him as well as five other Jews. Every arrested person owns a passport, none had expired, but that didn’t help in any case. The Jews were put in jail overnight in the <rs type="place"><ref source="place187">Kyiv</ref></rs> 
+               prison. Luckily, a train with prisoners left <rs type="place"><ref source="place187">Kyiv</ref></rs> the same day and Minevitch was expelled from <rs type="place"><ref source="place187">Kyiv</ref></rs> with these prisoners in chains. On the <date when="1903-12-21">21st</date> day at 3 AM, 
+               <rs type="person"><ref source="person144">Minevitch</ref></rs> arrived in <rs type="place"><ref source="place260">Konotop</ref></rs> and spent ten whole days in detention. On the <date when="1903-12-31">31st</date> day, he was luckily sent to <rs type="place"><ref source="place016">Gomel</ref></rs> 
+               with the same train where he again was arrested. After six days, he was sent further on to <rs type="place"><ref source="place261">Rozhyshche</ref></rs>. There he was allowed to send home a telegram and he got confirmation from the local police that he was not a thief. 
+               He owns his own house and does not pose a threat to the government. Only then he was released from prison and he returned back home safe and sound. Back home to his desperate family, broken, exhausted, with a bitter heart,... Minevitch soon sued the 
+               <rs type="place"><ref source="place187">Kyiv</ref></rs> police. What the result of this charge will be - no one knows. The governor will certainly not step down because of the Jew…
+            </p>
+         </div><cb/>
+         <div n="4">
+            <head><hi>Elephants as workers.</hi></head>
+            <p>
+               Elephants are being exploited by humans in <rs type="place"><ref source="place120">British India</ref></rs> for thousands of hours of work, but the smartest and most hardworking of these animals are seen on construction sites in the province 
+               <rs type="place"><ref source="place262">Barnāla</ref></rs>. There are elephants who are working to unload timber. They prove to be very skillful, which is on the same level of longstanding practised human workers.
+            </p>
+            <p>
+               There isn’t really a more interesting or entertaining thing than watching these elephants work. Under the guidance of the <ref source="https://www.wikidata.org/wiki/Q589897">mahout</ref> who sit on the large backs, all the tasks are carried 
+               out with a peculiar dexterity and swiftness and those animals never shy away from the work.
+            </p>
+            <p>
+               The most important construction, the one in <hi rend="italic"><rs type="place"><ref source="place263">Yangon</ref></rs></hi> which contains most of the lumber, obtains the wood from the forest stretching itself at the left and right border of the 
+               <rs type="place"><ref source="place265">Irrawaddy River</ref></rs>. This body of water forms the channel where those giant beams of wood are sent on their long journeys. The tremendous trees are thrown into  the water in the mountain areas and 
+               form long rows to follow the channel slowly but safely to where they are needed. At the source in <rs type="place"><ref source="place263">Yangon</ref></rs>, there is a low place where the timber gets stuck, half immersed in the mud. 
+            </p>
+            <p>
+               Here the elephants’ work begins. Not thinking about it a lot, the elephants throw themselves in the muddy water of the <rs type="place"><ref source="place265">Irrawaddy</ref></rs> and enthusiastically attend to the trunks. Every elephant grabs a 
+               hold of the part of the woods which is sticking out of the water with the end of their trunk. It grabs it with massive force and drags it to the border until it is completely on dry land. The elephant works smart and thinks it through. His handler, 
+               the mahout, is only responsible to guide with words and movements which cargo to drag out on land. The elephant understands everything on its own and works steadfast.
+            </p>
+            <p>
+               There are twelve elephants working consistently in the woods of <rs type="place"><ref source="place263">Yangon</ref></rs>, eleven male and one female. The female one is the smartest and most intelligent one and that is why she always gets the 
+               hardest and most responsible tasks. For example, one of the tasks is to put the lumber under the saw. For this, she uses her trunk like a hand. She then takes the planks from the machine and spreads them out in order so they might dry well. 
+               If sawdust gets stuck en masse and hinders the machine’s work, the smart smart elephant blows on it with her big trunk and therefore prevents all inconvenience that might have happened. 
+            </p>
+            <p>
+               But as soon as the bell rings, announcing the workers’ break, nothing can keep this female elephant at the site on which she has tediously worked before. No threats and no flattery helps. She is well aware 
+            </p>
+            <p style="text-align:center" rend="bold">[3]</p><pb/>
+            <p>
+               that it’s break time and that she can enjoy some hours of rest. 
+            </p>
+            <p>
+               Additionally, she is also a good motivator. If her friends don’t want to leave the stable to start working, she makes a particular sound which signals that it is time to return to work and will not stop until everyone leaves with her. 
+            </p>
+            <p>
+               As soon as the sound signalling the commence of work, every elephant returns to its work. One seizes a massive trunk with its trunk to drag it to the shore. With a surprising act of agility, it manages to hold it exactly in the middle balancing it to 
+               comfortably bring the freight to its right place. Often an elephant is not strong enough to carry a heavy beam by itself. If another elephant notices that, it immediately rushes to help. Both then combine their strength, grab the beam at both ends with 
+               their trunks and drag it back to the shore easily. Not only do they bring the beam back to shore, but they also place it neatly instead of tossing it around so they can be located.
+            </p>
+            <p>
+               One can only be astounded with the wit and consideration these elephants perform the tasks given to them while they receive new tasks almost daily. Whatever work they get, as long as it doesn’t exert their strength, they fulfill accurately and eagerly. 
+               Observing them working, it is evident that they are only missing the language to express the thoughts these creatures undoubtedly have. Their handlers, humans who know them very well, assure that they understand the elephants as well as the elephants 
+               understand them. They also don’t doubt that these animals can communicate with each other very well.
+            </p>
+            <p>
+               As a matter of fact, the elephants call each other for help with certain sounds they are  making. If one of them is in a tight spot, it emits a certain sound and immediately another one of its companions reacts to its cry for help. This not only happens on 
+               the massive lumber yard in <rs type="place"><ref source="place263">Yangon</ref></rs>, but also on smaller ones along the <rs type="place"><ref source="place265">Irrawaddy</ref></rs>, whether there are more or less elephants. But they never fail to help their 
+               friends with an eagerness seldom seen between human workers. 
+            </p>
+            <p>
+               Newly appointed elephants realise in only a few weeks what they are demanded to do and do so with the same amount of dexterity as the older elephant-workers. Of course, their handlers take good care of their elephants. Such a worker is like capital and they 
+               would never let harm come to their capital. Every day, the elephants are granted breaks and during the hot summer times, their heads are covered with light hats to protect them from the deadly sun rays. The handlers do<cb/> everything they can to protect the 
+               lives of their elephant workers because a loss cannot easily be replaced like the loss of human workers…
+            </p>
+         </div>
+         <div n="5">
+            <head><hi rend="bold">Telegrams.<lb/>The war<lb/>Between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs>.</hi></head>
+            <p>
+               <rs type="place"><ref source="place156">London</ref></rs>. The first battle on land between the Russian and Japanese military has now happened at the river <rs type="place"><ref source="place266">Yalu</ref></rs>. It is not known yet how this battle will end. 
+               The Russians claim to have taken 1,800 Japanese hostages while the Japanese claim to have won this battle. The truth is unclear.
+            </p>
+            <p>
+               <rs type="place"><ref source="place083">Port Arthur</ref></rs>. The Russian admiral <hi rend="italic"><rs type="person"><ref source="person145">Makarov</ref></rs></hi> tried to drive his battleship out of the harbour to join the fleet from <rs type="place"><ref source="place082">Vladivostok</ref></rs>. 
+               The ships from <rs type="place"><ref source="place082">Vladivostok</ref></rs> also steered out of the harbour to meet the ships from <rs type="place"><ref source="place083">Port Arthur</ref></rs>. Both fleets wanted to form a bigger fleet which would then be stronger than the Japanese 
+               one. But they did not manage to do it. They barely made it out of the harbour before Japanese ships forced them back into the harbours. They were afraid to go into battle against the Japanese (great heroes!)
+            </p>
+            <p>
+               <rs type="place"><ref source="place018">St Petersburg</ref></rs>. The Russians arm <rs type="place"><ref source="place083">Port Arthur</ref></rs> strongly and prepare to defend the city against Japanese attacks until the very end.
+            </p>
+            <p>
+               <rs type="place193">Beijing</rs>. <rs type="place"><ref source="place021">China</ref></rs> already amassed over 80,000 heavily armed soldiers at the Manchurian border which are being trained and led by the Japanese. <rs type="place"><ref source="place014">Russia</ref></rs> protested against that and demanded 
+               <rs type="place"><ref source="place021">China</ref></rs> to send its military back, but <rs type="place"><ref source="place021">China</ref></rs> will not follow the Russian bidding because it needs the military to defend its own borders. 
+            </p>
+            <p>
+               <rs type="place"><ref source="place018">St Petersburg</ref></rs>. Rumor has it that <rs type="place"><ref source="place021">China</ref></rs> and <rs type="place"><ref source="place019">Japan</ref></rs> have a secret arrangement according to which <rs type="place"><ref source="place021">China</ref></rs> 
+               will come to <rs type="place"><ref source="place019">Japan</ref></rs>’s help as soon as land battles have commenced. The Russians are inconvenienced by that. Admittedly, the Chinese military is not well trained, but it will hinder Russia from sending all its military against <rs type="place"><ref source="place019">Japan</ref></rs> 
+               to keep a part of it at the Chinese border.
+            </p>
+            <p>
+               <rs type="place"><ref source="place156">London</ref></rs>. News from <rs type="place"><ref source="place022">Korea</ref></rs> reports that the Japanese have already stationed a great army there distributed across several harbour cities which nobody knows. The army is travelling to <rs type="place"><ref source="place028">Manchuria</ref></rs> 
+               from different places and will attack <rs type="place"><ref source="place014">Russia</ref></rs> there in a flash.
+            </p>
+            <p>
+               <rs type="place"><ref source="place095">Paris</ref></rs>. As the papers report, the contract between <rs type="place"><ref source="place011">England</ref></rs> and <rs type="place"><ref source="place045">France</ref></rs> has already been signed. According to which both bind themselves to not intervene in the Russo-Japanese war.
+            </p>
+         </div>
+         <div type="footer" style="one columns" n="1">
+            <p>
+               <foreign xml:lang="de">
+                  <lb/>Herausgeber und verantwortlicher Redact. <rs type="person"><ref source="person031">OSIAS H. WILF</ref></rs>
+                  recte Weinstock <lb/>Druck von <rs type="person"><ref source="person032">E. Salat</ref></rs> Witwe des <rs
+                     type="person"><ref source="person033">U.W. Salat</ref></rs>, <rs type="place"><ref source="place002"
+                        >Lemberg</ref></rs>
+                  <rs type="place"><ref source="place065">Kasimirgasse 35</ref></rs>
+               </foreign>
+            </p>
+            <p style="text-align:center">[4]</p>
+         </div>
+      </body>
+   </text>
+</TEI>
