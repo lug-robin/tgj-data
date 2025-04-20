@@ -785,7 +785,7 @@
                         </location>
                     </place>
                     <place xml:id="place065">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Hrodototska St 35</placeName>
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Hrodototska St</placeName>
                         <location type="coords">
                             <geo>49.842922 24.0209546</geo>
                         </location>
@@ -804,7 +804,7 @@
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
                         </location>
-                        <note>Named Kasimirgasse 35 in 1904.</note>
+                        <note>Named Kasimirgasse in 1904.</note>
                     </place>
                     <place xml:id="place064">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Trieste</placeName>
@@ -1775,7 +1775,7 @@
                             <geo>28.53914 33.97496</geo>
                         </location>
                         <location type="located_in_place">
-                            <placeName key="place010">Egypt</placeName>
+                            <placeName key="place013">Egypt</placeName>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place024">Asia</placeName>
@@ -3245,6 +3245,673 @@
                         </location>
                         <idno type="Geonames">https://www.geonames.org/2523083/siracusa.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q13670</idno>
+                    </place>
+                    <place xml:id="place251">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Deliatyn</placeName>
+                        <location type="coords">
+                            <geo>48.5248 24.62566</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place009">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/710202/deliatyn.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1184359</idno>
+                    </place>
+                    <place xml:id="place252">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Ternopil</placeName>
+                        <location type="coords">
+                            <geo>49.55404 25.59067</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place160">Podolia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place009">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/691650/ternopil.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q156743</idno>
+                    </place>
+                    <place xml:id="place253">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Wiedenbrück District</placeName>
+                        <location type="coords">
+                            <geo>51.8333 8.30528</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place255">North Rhine-Westphalia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2847690/rheda-wiedenbrueck.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q180248</idno>
+                    </place>
+                    <place xml:id="place254">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Neunkirchen</placeName>
+                        <location type="coords">
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place255">North Rhine-Westphalia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place253">Wiedenbrück District</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2864425/neunkirchen.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q10958</idno>
+                    </place>
+                    <place xml:id="place255">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">North Rhine-Westphalia</placeName>
+                        <location type="coords">
+                            <geo>51.21895 6.76339</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2861876/nordrhein-westfalen.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1198</idno>
+                    </place>
+                    <place xml:id="place256">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Melnyzja-Podilska</placeName>
+                        <location type="coords"><geo>48.60816 26.16657</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/701383/melnytsya-podilska.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1026915</idno>
+                    </place>
+                    <place xml:id="place257">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Borshchiv</placeName>
+                        <location type="coords"><geo>50.51472 29.10871</geo></location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/711586/borshchiv.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q148923</idno>
+                    </place>
+                    <place xml:id="place258">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Kalinkavichy</placeName>
+                        <location type="coords">
+                            <geo>52.1323 29.3257</geo>
+                        </location>
+                        <location type="located_in_olace">
+                            <placeName key="place020">Belarus</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/627751/kalinkovichi.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q937344</idno>
+                    </place>
+                    <place xml:id="place259">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Minsk district</placeName>
+                        <location type="coords">
+                            <geo>53.93301 27.51189</geo>
+                        </location>
+                        <location type="located_in_olace">
+                            <placeName key="place020">Belarus</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/625140/minskiy-rayon.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1636191</idno>
+                    </place>
+                    <place xml:id="place260">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Konotop</placeName>
+                        <location type="coords">
+                            <geo>51.24032 33.20263</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place009">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/705135/konotop.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q162083</idno>
+                    </place>
+                    <place xml:id="place261">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Rozhyshche</placeName>
+                        <location type="coords">
+                            <geo>50.91542 25.26906</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place009">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/695326/rozhyshche.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q148896</idno>
+                    </place>
+                    <place xml:id="place262">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Barnāla</placeName>
+                        <location type="coords">
+                            <geo>30.37451 75.5487</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place119">India</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place120">British India</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/1276895/barnala.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q711996</idno>
+                    </place>
+                    <place xml:id="place263">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Yangon</placeName>
+                        <location type="coords">
+                            <geo>16.80528 96.15611</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place264">Myanmar</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place009">South-East Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place120">British India</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/1298824/yangon.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q37995</idno>
+                    </place>
+                    <place xml:id="place264">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Myanmar</placeName>
+                        <location type="coords">
+                            <geo>21 96</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place009">South-East Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place120">British India</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/1327865/union-of-burma.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q836</idno>
+                    </place>
+                    <place xml:id="place265">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Irrawaddy River</placeName>
+                        <location type="coords">
+                            <geo>15.83333 95.1</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place264">Myanmar</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place009">South-East Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place120">British India</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/1321849/irrawaddy-river.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q26076</idno>
+                    </place>
+                    <place xml:id="place266">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Yalu River</placeName>
+                        <location type="coords">
+                            <geo>39.93222 124.32111</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place022">Korea</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place021">China</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place009">South-East Asia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Asia</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/1866815/yalu-river.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q55498</idno>
+                    </place>
+                    <place xml:id="place267">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Pruzhany</placeName>
+                        <location type="coords">
+                            <geo>52.55464 24.45483</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place020">Belarus</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames"></idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1885543</idno>
+                    </place>
+                    <place xml:id="place268">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Teli</placeName>
+                        <location type="coords">
+                            <geo></geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place009">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames"></idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/</idno>
+                    </place>
+                    <place xml:id="place269">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Minsk</placeName>
+                        <location type="coords">
+                            <geo>53.9 27.56667</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place259">Minsk district</placeName>
+                        </location>
+                        <location type="located_in_olace">
+                            <placeName key="place020">Belarus</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/625144/minsk.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q2280</idno>
+                    </place>
+                    <place xml:id="place270">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Lipno</placeName>
+                        <location type="coords">
+                            <geo>52.8425 19.17533</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place067">Poland</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/7531361/lipno.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q324922</idno>
+                    </place>
+                    <place xml:id="place271">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Bilsk</placeName>
+                        <location type="coords">
+                            <geo>50.0938 34.63502</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place009">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/712498/bilsk.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q248095</idno>
+                    </place>
+                    <place xml:id="place272">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Hrodna</placeName>
+                        <location type="coords">
+                            <geo>53.6884 23.8258</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place020">Belarus</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/627904/hrodna.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q181376</idno>
+                    </place>
+                    <place xml:id="place273">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Vilnius</placeName>
+                        <location type="coords">
+                            <geo></geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place140">Lithuania</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/593116/vilnius.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q216</idno>
+                    </place>
+                    <place xml:id="place274">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Kropyvnytskyi</placeName>
+                        <location type="coords">
+                            <geo>48.50834 32.26618</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place009">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/705812/kropyvnytskyy.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q158292</idno>
+                    </place>
+                    <place xml:id="place275">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Novogrudok</placeName>
+                        <location type="coords">
+                            <geo>53.5942 25.8191</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place020">Belarus</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/624785/novogrudok.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q278743</idno>
+                    </place>
+                    <place xml:id="place276">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Zaritsk</placeName>
+                        <location type="coords">
+                            <geo>50.60941 25.92004</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place009">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/8437965/zaritsk.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q4187180</idno>
+                    </place>
+                    <place xml:id="place277">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Panevėžys</placeName>
+                        <location type="coords">
+                            <geo>55.73186 24.35983</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place140">Lithuania</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/596128/panevezys.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1719466</idno>
+                    </place>
+                    <place xml:id="place278">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Žagarė</placeName>
+                        <location type="coords">
+                            <geo>56.36149 23.25094</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place140">Lithuania</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/592942/zagare.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/</idno>
+                    </place>
+                    <place xml:id="place279">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Slabodka</placeName>
+                        <location type="coords">
+                            <geo>53.1162 29.1136</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place020">Belarus</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/621779/slabodka.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q13659940</idno>
+                    </place>
+                    <place xml:id="place280">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Kobryn</placeName>
+                        <location type="coords">
+                            <geo>52.21173 24.3563</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place020">Belarus</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/627145/kobryn.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q955992</idno>
+                    </place>
+                    <place xml:id="place281">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Babruysk</placeName>
+                        <location type="coords">
+                            <geo>53.14636 29.20552</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place020">Belarus</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/630468/bobruysk.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q207294</idno>
+                    </place>
+                    <place xml:id="place282">
+                        <placeName type="person_namesvariente_nachname-komma-vorname"></placeName>
+                        <location type="coords">
+                            <geo></geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place009">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames"></idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/</idno>
+                    </place>
+                    <place xml:id="place283">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Valožyn</placeName>
+                        <location type="coords">
+                            <geo>54.08911 26.52731</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place020">Belarus</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/620445/volozhin.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q200876</idno>
+                    </place>
+                    <place xml:id="place284">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Siedlce</placeName>
+                        <location type="coords">
+                            <geo>52.16772 22.29006</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place067">Poland</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/759412/siedlce.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q319813</idno>
+                    </place>
+                    <place xml:id="place285">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Karlín</placeName>
+                        <location type="coords">
+                            <geo>50.09272 14.44711</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place135">Prague</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place026">Bohemia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place124">Czech Republic</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3073838/karlin.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1734030</idno>
+                    </place>
+                    <place xml:id="place286">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Lublin</placeName>
+                        <location type="coords">
+                            <geo>51.25 22.56667</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place067">Poland</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/765876/lublin.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q37333</idno>
+                    </place>
+                    <place xml:id="place287">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Brest-Litovsk</placeName>
+                        <location type="coords">
+                            <geo>52.09755 23.68775</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place020">Belarus</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/629634/brest.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q140147</idno>
+                    </place>
+                    <place xml:id="place288">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Slonim</placeName>
+                        <location type="coords">
+                            <geo>53.08751 25.31707</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place020">Belarus</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/621754/slonim.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q863576</idno>
+                    </place>
+                    <place xml:id="place289">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Daugavpils</placeName>
+                        <location type="coords">
+                            <geo>55.88333 26.53333</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place203">Latvia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/460413/daugavpils.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q80021</idno>
+                    </place>
+                    <place xml:id="place290">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Rava-Ruska</placeName>
+                        <location type="coords">
+                            <geo>50.23079 23.62825</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place009">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/695781/rava-ruska.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q997343</idno>
+                    </place>
+                    <place xml:id="place291">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Sasiv</placeName>
+                        <location type="coords">
+                            <geo>49.8736 24.94696</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place009">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/694778/sasiv.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q4408930</idno>
+                    </place>
+                    <place xml:id="place292">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Barcelona</placeName>
+                        <location type="coords">
+                            <geo>41.38879 2.15899</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place043">Spain</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3128760/barcelona.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1492</idno>
                     </place>
                 </listPlace>
             </div>
