@@ -1867,15 +1867,150 @@
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q522120</idno>
                 <occupation>Queen Victoria of England, 1837-1901</occupation>
               </person>
-              <person xml:id="person">
+              <person xml:id="person205">
                 <persName>
-                  <forename></forename>
-                  <surname></surname>
+                  <forename>H.</forename>
+                  <surname>Rubenstein</surname>
                 </persName>
-                <birth><date when-iso="2"></date></birth>
-                <death><date when-iso="19"></date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q9439</idno>
-                <occupation></occupation>
+                <occupation>Jewish doctor.</occupation>
+              </person>
+              <person xml:id="person206">
+                <persName>
+                  <forename>Dr</forename>
+                  <surname>Garfunkel</surname>
+                </persName>
+                <occupation>Jewish doctor.</occupation>
+              </person>
+              <person xml:id="person207">
+                <persName>
+                  <forename>Yom-Tov</forename>
+                  <surname>Lipmann-Heller</surname>
+                </persName>
+                <birth><date when-iso="1579">1579</date></birth>
+                <death><date when-iso="1654-09-07">1654-09-07</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q66439</idno>
+                <occupation>Czech rabbi.</occupation>
+              </person>
+              <person xml:id="person208">
+                <persName>
+                  <forename>Moses Ha-Levi</forename>
+                  <surname>Heller</surname>
+                </persName>
+                <occupation>Father of Yom-Tov Lipmann-Heller.</occupation>
+              </person>
+              <person xml:id="person209">
+                <persName>
+                  <forename>Ferdinand II</forename>
+                  <surname>Holy Roman Emperor</surname>
+                </persName>
+                <birth><date when-iso="1578-07-09">1578-07-09</date></birth>
+                <death><date when-iso="1637-02-15">1637-02-15</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q150599</idno>
+                <occupation>Holy Roman Emperor, 1619 - 1637</occupation>
+              </person>
+              <person xml:id="person210">
+                <persName>
+                  <forename>Ferdinand II</forename>
+                  <surname>of Aragon</surname>
+                </persName>
+                <birth><date when-iso="1452-03-10">1452-03-10</date></birth>
+                <death><date when-iso="15-01-23">1516-01-15</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q12860</idno>
+                <occupation>King of Aragon, Sicily, Naples, and Valencia</occupation>
+              </person>
+              <person xml:id="person211">
+                <persName>
+                  <forename>Isabella I</forename>
+                  <surname>of Castile</surname>
+                </persName>
+                <birth><date when-iso="1451-04-22">1451-04-22</date></birth>
+                <death><date when-iso="1504-11-26">1504-11-26</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q45859</idno>
+                <occupation>First queen of a dynastically-united Spain, 1479-1504.</occupation>
+              </person>
+              <person xml:id="person212">
+                <persName>
+                  <forename>Tomás</forename>
+                  <surname>de Torquemada</surname>
+                </persName>
+                <birth><date when-iso="1420-10-14">1420-10-14</date></birth>
+                <death><date when-iso="1498-09-16">1498-09-16</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q210735</idno>
+                <occupation>Grand Inquisitor of Spain.</occupation>
+              </person>
+              <person xml:id="person213">
+                <persName>
+                  <forename>Isaac</forename>
+                  <surname>Abrabanel</surname>
+                </persName>
+                <birth><date when-iso="1437">1437</date></birth>
+                <death><date when-iso="1508-09-23">1508-09-23</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q319902</idno>
+                <occupation>Portuguese-Spanish Jewish businessman, exegete and philosopher.</occupation>
+              </person>
+              <person xml:id="person214">
+                <persName>
+                  <forename>Abraham</forename>
+                  <surname>Senior</surname>
+                </persName>
+                <birth><date when-iso="1412">1412</date></birth>
+                <death><date when-iso="1496">1496</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q330594</idno>
+                <occupation>Sephardi court rabbi of Castile, royal tax-farmer-in-chief, and politician.</occupation>
+              </person>
+              <person xml:id="person215">
+                <persName>
+                  <forename>Judah Leon</forename>
+                  <surname>Abravanel</surname>
+                </persName>
+                <birth><date when-iso="1460">1460</date></birth>
+                <death><date when-iso="1535">1535</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q467062</idno>
+                <occupation>Portuguese Jewish philosopher, physician and poet.</occupation>
+              </person>
+              <person xml:id="person216">
+                <persName>
+                  <forename>Joseph</forename>
+                  <surname>Abravanel</surname>
+                </persName>
+                <birth><date when-iso="1471">1471</date></birth>
+                <death><date when-iso="1552">1552</date></death>
+                <occupation>Jewish physician and scholar.</occupation>
+              </person>
+              <person xml:id="person217">
+                <persName>
+                  <forename>Solomon</forename>
+                  <surname>ibn Verga</surname>
+                </persName>
+                <birth><date when-iso="1460">1460</date></birth>
+                <death><date when-iso="1554">1554</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1290831</idno>
+                <occupation>Spanish Jewish historian and writer.</occupation>
+              </person>
+              <person xml:id="person218">
+                <persName>
+                  <forename>David</forename>
+                  <surname>Senior</surname>
+                </persName>
+                <occupation>Son of Abraham Senior.</occupation>
+              </person>
+              <person xml:id="person219">
+                <persName>
+                  <forename>Joseph</forename>
+                  <surname>the dreamer</surname>
+                </persName>
+                <birth><date when-iso="-1562">1562 BCE</date></birth>
+                <death><date when-iso="-1452">1452 BCE</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q522120</idno>
+                <occupation>Biblical figure in Genesis.</occupation>
+              </person>
+              <person xml:id="person220">
+                <persName>
+                  <forename>Potipherah</forename>
+                  <surname>Priest</surname>
+                </persName>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q7234956</idno>
+                <occupation>Priest of ancient Egypt in Genesis.</occupation>
               </person>
               <!--person xml:id="person">
                 <persName>
