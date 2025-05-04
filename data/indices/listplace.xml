@@ -17,7 +17,7 @@
             <div>
                 <listPlace>     
                     <place xml:id="place001">
-                        <placeName>Austria-Hungary</placeName>
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Austria-Hungary</placeName>
                         <location type="coords">
                             <geo>48.2 16.35</geo>
                         </location>
@@ -25,9 +25,7 @@
                             <placeName key="place100">Europe</placeName>
                         </location>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q28513</idno>
-                        <note>
-                            Empire in Central Europe, 1867–1918.
-                        </note>
+                        <note>Empire in Central Europe, 1867–1918.</note>
                     </place>
                     <place xml:id="place002">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Lviv</placeName>
@@ -761,7 +759,6 @@
                         </location>
                         <note>Was an exclave of Hungary. Now in Croatia, called Rijeka.</note>
                     </place>
-                    
                     <place xml:id="place060">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Przeworsk</placeName>
                         <desc type="entity_type">City</desc>
@@ -770,6 +767,9 @@
                         </location>
                         <location type="located_in_place">
                             <placeName key="place067">Poland</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
                         </location>
                     </place>
                     <place xml:id="place061">
@@ -3912,6 +3912,227 @@
                         </location>
                         <idno type="Geonames">https://www.geonames.org/3128760/barcelona.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1492</idno>
+                    </place>
+                    <place xml:id="place293">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Naples</placeName>
+                        <location type="coords">
+                            <geo>40.85216 14.26811</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place040">Italy</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3172394/naples.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q2634</idno>
+                    </place>
+                    <place xml:id="place294">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Crimea</placeName>
+                        <location type="coords">
+                            <geo>45 34</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/703883/autonomous-republic-of-crimea.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q7835</idno>
+                    </place>
+                    <place xml:id="place295">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Gdańsk</placeName>
+                        <location type="coords">
+                            <geo>54.35227 18.64912</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place067">Poland</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3099434/gdansk.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q1792</idno>
+                    </place>
+                    <place xml:id="place296">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Würzburg</placeName>
+                        <location type="coords">
+                            <geo>49.79391 9.95121</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place0102">Bavaria</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2805615/wuerzburg.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q2999</idno>
+                    </place>
+                    <place xml:id="place297">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Kostrzyn nad Odrą</placeName>
+                        <location type="coords">
+                            <geo>52.58713 14.64953</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place067">Poland</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3095057/kostrzyn-nad-odra.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q156837</idno>
+                    </place>
+                    <place xml:id="place298">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Wallerstein</placeName>
+                        <location type="coords">
+                            <geo>48.88741 10.47591</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place0102">Bavaria</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2814592/wallerstein.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q503441</idno>
+                    </place>
+                    <place xml:id="place299">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Würzburg</placeName>
+                        <location type="coords">
+                            <geo>49.79391 9.95121</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place0102">Bavaria</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place010">Germany</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2805615/wuerzburg.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q2999</idno>
+                    </place>
+                    <place xml:id="place300">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Mikulov</placeName>
+                        <location type="coords">
+                            <geo>48.80556 16.6378</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place027">Moravia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place124">Czech Republic</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location> 
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3070720/mikulov.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q682544</idno>
+                    </place>
+                    <place xml:id="place301">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Leopoldstadt</placeName>
+                        <location type="coords">
+                            <geo>48.21667 16.4</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place007">Vienna</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place025">Austria</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location> 
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2772614/gemeindebezirk-leopoldstadt.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q259120</idno>
+                    </place>
+                    <place xml:id="place302">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Leopoldstadt</placeName>
+                        <location type="coords">
+                            <geo>48.97002 28.83781</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location> 
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/700322/nemyriv.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q997335</idno>
+                    </place>
+                    <place xml:id="place303">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Volodymyr</placeName>
+                        <location type="coords">
+                            <geo> 50.85253 24.32364 </geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>  
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/689378/volodymyr-volynskyi.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q33544</idno>
+                    </place>
+                    <place xml:id="place304">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Toledo</placeName>
+                        <location type="coords">
+                            <geo>39.8581 -4.02263</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place043">Spain</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2510409/toledo.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q5836</idno>
+                    </place>
+                    <place xml:id="place305">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Navarre</placeName>
+                        <location type="coords">
+                            <geo>42.75 -1.66667</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place043">Spain</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3115609/navarra.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q4018</idno>
+                    </place>
+                    <place xml:id="place306">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Portugal</placeName>
+                        <location type="coords">
+                            <geo>39.6945 -8.13057</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/2264397/portuguese-republic.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q45</idno>
+                    </place>
+                    <place xml:id="place307">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Canaan</placeName>
+                        <location type="coords">
+                            <geo>32.766667 35.333333</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place024">Asia</placeName>
+                        </location>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q163329</idno>
                     </place>
                 </listPlace>
             </div>
