@@ -252,38 +252,38 @@
                 <occupation>Rabbi. Known as Tam. Rashi&apos;s grandson.</occupation>
               </person>
               <person xml:id="person029">
-                <persName><forename>Ernö</forename>
-                  <surname>Berger</surname></persName>
-                <birth><date>Not Known</date></birth>
-                <death><date>Not Known</date></death>
+                <persName>
+                  <forename>Ernö</forename>
+                  <surname>Berger</surname>
+                </persName>
                 <occupation>Coffee trader. Advertising in The Geniune Jew.</occupation>
               </person>
               <person xml:id="person030">
-                <persName><forename>Ignatz</forename>
-                  <surname>Rath</surname></persName>
-                <birth><date>Not Known</date></birth>
-                <death><date>Not Known</date></death>
+                <persName>
+                  <forename>Ignatz</forename>
+                  <surname>Rath</surname>
+                </persName>
                 <occupation>Coffee trader. Advertising in The Geniune Jew.</occupation>
               </person>
               <person xml:id="person031">
-                <persName><forename>Osias H.</forename>
-                  <surname>Wilf</surname></persName>
-                <birth><date>Not Known</date></birth>
-                <death><date>Not Known</date></death>
+                <persName>
+                  <forename>Osias H.</forename>
+                  <surname>Wilf</surname>
+                </persName>
                 <occupation>Editor of The Geniune Jew.</occupation>
               </person>
-              <person xml:id="person032"> <persName><forename>E.</forename>
-                <surname>Salat</surname></persName>
-                <birth><date>Not Known</date></birth>
-                <death><date>Not Known</date></death>
+              <person xml:id="person032"> 
+                <persName>
+                  <forename>E.</forename>
+                <surname>Salat</surname>
+                </persName>
                 <occupation>Printer of The Geniune Jew.</occupation>
               </person>           
               <person xml:id="person033">
-                <persName><forename>U.W.</forename>
-                  <surname>Salat</surname></persName>
-                <birth><date>Not Known</date></birth>
-                <death><date>Not Known</date></death>
-                <idno></idno>
+                <persName>
+                  <forename>U.W.</forename>
+                  <surname>Salat</surname>
+                </persName>
                 <occupation>Dead Husband of E. Salat. Printer.</occupation>
               </person>
               <person xml:id="person034">
@@ -299,7 +299,7 @@
               <person xml:id="person035">
                 <persName>
                   <forename>Pius X</forename>
-                  <surname></surname>
+                  <surname>Pope</surname>
                 </persName>
                 <birth><date when-iso="1835-06-02">1835-06-02</date></birth>
                 <death><date when-iso="1094-08-20">1904-08-20</date></death>
@@ -523,8 +523,8 @@
               </person>
               <person xml:id="person059">
                 <persName>
-                  <forename></forename>
-                  <surname>Asher</surname>
+                  <forename>Asher</forename>
+                  <surname>/</surname>
                 </persName>
                 <occupation>Student of Rabbi Meir of Rothenburg</occupation>
               </person>
@@ -2012,16 +2012,59 @@
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q7234956</idno>
                 <occupation>Priest of ancient Egypt in Genesis.</occupation>
               </person>
-              <!--person xml:id="person">
+              <person xml:id="person221">
                 <persName>
-                  <forename></forename>
-                  <surname></surname>
+                  <forename>Ben</forename>
+                  <surname>Solomon</surname>
                 </persName>
-                <birth><date when-iso="2"></date></birth>
-                <death><date when-iso="19"></date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q522120</idno>
-                <occupation></occupation>
-              </person-->
+                <occupation>Writer in The Geniune Jew</occupation>
+              </person>
+              <person xml:id="person222">
+                <persName>
+                  <forename>Ben</forename>
+                  <surname>Zvi</surname>
+                </persName>
+                <occupation>Writer in The Geniune Jew</occupation>
+              </person>
+              <person xml:id="person223">
+                <persName>
+                  <forename>Dr</forename>
+                  <surname>Summer</surname>
+                </persName>
+                <occupation>Local judge in Frankfurt in 1904.</occupation>
+              </person>
+              <person xml:id="person224">
+                <persName>
+                  <forename>Friedrich Wilhelm Karl Georg Ernst Adolf Gustav</forename>
+                  <surname>of Mecklenburg</surname>
+                </persName>
+                <birth><date when-iso="1819-10-17">1819-10-17</date></birth>
+                <death><date when-iso="1904-05-30">1904-05-30</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q61444</idno>
+                <occupation>Grand Duke of Mecklenburg-Strelitz.</occupation>
+              </person>
+              <person xml:id="person225">
+                <persName>
+                  <forename>Habibullah</forename>
+                  <surname>Khan</surname>
+                </persName>
+                <birth><date when-iso="1872-06-03">1872-06-03</date></birth>
+                <death><date when-iso="1919-02-20">1919-02-20</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q334869</idno>
+                <occupation>Emir of Afghanistan, 1901-1919.</occupation>
+              </person>
+              <person xml:id="person226">
+                <persName>
+                  <forename>Elijah</forename>
+                  <surname>Hift</surname>
+                </persName>
+              </person>
+              <person xml:id="person227">
+                <persName>
+                  <forename>Zweibel</forename>
+                  <surname>Leydesdorf</surname>
+                </persName>
+              </person>
             </listPerson>
           </div>
         </body>
