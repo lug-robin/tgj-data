@@ -36,6 +36,9 @@
     <xsl:template match="tei:lb">
         <br/>
     </xsl:template>
+    <xsl:template match="tei:div">
+        <div style="margin-top: 20px;"><xsl:apply-templates/></div>
+    </xsl:template>
 
     <xsl:template match="tei:note">
         <xsl:element name="a">
@@ -655,7 +658,8 @@
     </xsl:template>
     <xsl:template match="tei:table[@style='width']">
         <table><xsl:apply-templates/></table>
-    </xsl:template><xsl:template match="tei:div[@style='text-align:center']">
+    </xsl:template>
+    <xsl:template match="tei:div[@style='text-align:center']">
         <div align="center"><xsl:apply-templates/></div>
     </xsl:template>
     <xsl:template match="tei:fw[@style='text-align:center']">
