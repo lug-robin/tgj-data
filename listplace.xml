@@ -1906,7 +1906,7 @@
                     <place xml:id="place137">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Africa</placeName>
                         <location type="coords">
-                            <geo></geo>
+                            <geo>7.1881 21.09375</geo>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
@@ -1917,7 +1917,7 @@
                     <place xml:id="place138">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Troyes</placeName>
                         <location type="coords">
-                            <geo></geo>
+                            <geo>48.30073 4.08524</geo>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
@@ -3737,6 +3737,7 @@
                     <place xml:id="place254">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Neunkirchen</placeName>
                         <location type="coords">
+                            <geo>50.8 8</geo>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place255">North Rhine-Westphalia</placeName>
@@ -3968,18 +3969,18 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1885543</idno>
                     </place>
                     <place xml:id="place268">
-                        <placeName type="person_namesvariente_nachname-komma-vorname">Teli</placeName>
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Telšiai</placeName>
                         <location type="coords">
-                            <geo></geo>
+                            <geo>55.98139 22.24722</geo>
                         </location>
                         <location type="located_in_place">
-                            <placeName key="place009">Ukraine</placeName>
+                            <placeName key="place140">Lithuania</placeName>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
                         </location>
-                        <idno type="Geonames"></idno>
-                        <idno type="Wikidata">https://www.wikidata.org/wiki/</idno>
+                        <idno type="Geonames">https://www.geonames.org/593926/telsiai.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q2222616</idno>
                     </place>
                     <place xml:id="place269">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Minsk</placeName>
@@ -4043,7 +4044,7 @@
                     <place xml:id="place273">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Vilnius</placeName>
                         <location type="coords">
-                            <geo></geo>
+                            <geo>54.68916 25.2798</geo>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place140">Lithuania</placeName>
@@ -4165,20 +4166,6 @@
                         </location>
                         <idno type="Geonames">https://www.geonames.org/630468/bobruysk.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q207294</idno>
-                    </place>
-                    <place xml:id="place282">
-                        <placeName type="person_namesvariente_nachname-komma-vorname"></placeName>
-                        <location type="coords">
-                            <geo></geo>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place009">Ukraine</placeName>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place100">Europe</placeName>
-                        </location>
-                        <idno type="Geonames"></idno>
-                        <idno type="Wikidata">https://www.wikidata.org/wiki/</idno>
                     </place>
                     <place xml:id="place283">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Valožyn</placeName>
@@ -4486,7 +4473,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q259120</idno>
                     </place>
                     <place xml:id="place302">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Leopoldstadt</placeName>
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Nemyriw</placeName>
                         <location type="coords">
                             <geo>48.97002 28.83781</geo>
                         </location>
@@ -4502,7 +4489,7 @@
                     <place xml:id="place303">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Volodymyr</placeName>
                         <location type="coords">
-                            <geo> 50.85253 24.32364 </geo>
+                            <geo>50.85253 24.32364 </geo>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place061">Ukraine</placeName>
@@ -4625,7 +4612,7 @@
                     <place xml:id="place311">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Stanisławów</placeName>
                         <location type="coords">
-                            <geo> 48.92312 24.71248 </geo>
+                            <geo>48.92312 24.71248</geo>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place006">Galicia</placeName>

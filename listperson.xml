@@ -1398,9 +1398,12 @@
               </person>
               <person xml:id="person151">
                 <persName>
-                  <forename>Eliyahu</forename>
-                  <surname>Gardán</surname>
+                  <forename>Eliezer</forename>
+                  <surname>Gordon</surname>
                 </persName>
+                <birth><date when-iso="1841">1841</date></birth>
+                <death><date when-iso="1910">1910</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q5362056</idno>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person152">
