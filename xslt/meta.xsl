@@ -46,7 +46,7 @@
         <p id="{generate-id()}"><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:div">
-        <div id="{generate-id()}"><xsl:apply-templates/></div>
+        <div id="{generate-id()}" style="margin-top: 20px;"><xsl:apply-templates/></div>
     </xsl:template>
     <xsl:template match="tei:lb">
         <br/>

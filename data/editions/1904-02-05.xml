@@ -609,7 +609,6 @@
                6 million and 268,000 people. - The <rs type="place"><ref source="place023">Big Ocean</ref></rs> (<rs type="place"><ref source="place023">Pacific</ref></rs>) covers 175 million square kilometres and measures 9430 metres in depth. The <rs type="plcae">Atlantic Ocean</rs> covers 
                89 million square kilometres and measures 8340 metres in depth, and the <rs type="place"><ref source="place052">Indian Ocean</ref></rs> covers 74 million square kilometres and measures 6300 metres in depth, the <rs type="place"><ref source="place053">Arctic Ocean</ref></rs> 
                covers 33 million square kilometres and measures 4840 metres in depth. 
-               <lb/>
             </p>
          </div>
          <div type="advertisements" style="two columns" n="1">
@@ -633,7 +632,6 @@
                   <cell role="data">Gold <rs type="place"><ref source="place058">Java</ref></rs>   "   "   1,45 "</cell>
                </row>
             </table>
-               
             <p>
                Free samle and payment on delivery
             <lb/>
@@ -643,7 +641,7 @@
             <lb/>
             <div n="2">
                <head>
-                  The sugar refinery of <rs type="place"><ref source="place060">Przeworsk</ref></rs>
+                  <hi rend="bold">The sugar refinery of <rs type="place"><ref source="place060">Przeworsk</ref></rs></hi>
                </head>
                <p>
                   Has immensely scaled up its sugar production for 1904 and recommends every variety to extremely low prices.
@@ -667,7 +665,7 @@
                </p>
                <p>
                   <foreign xml:lang="de">
-                     <lb/><rs type="person">IGNATZ RATH</rs>, <rs type="place"><ref source="place064">TRIEST</ref></rs> <rs type="place"><ref source="place040">I</ref></rs>.
+                     <rs type="person">IGNATZ RATH</rs>, <rs type="place"><ref source="place064">TRIEST</ref></rs> <rs type="place"><ref source="place040">I</ref></rs>.
                      <lb/>Südfrüchten Versandt en gros &amp; en detail
                   </foreign>
                </p>
