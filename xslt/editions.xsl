@@ -235,7 +235,7 @@
     <xsl:template match="tei:div[@style='text-align:center']">
         <div align="justify"><xsl:apply-templates/></div>
     </xsl:template>
-    <xsl:template match="tei:fw[@style='text-align:center']">
+    <xsl:template match="tei:fw[@style='text-align:justify']">
         <fw align="justify"><xsl:apply-templates/></fw>
     </xsl:template>
     
