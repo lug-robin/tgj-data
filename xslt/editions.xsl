@@ -215,7 +215,7 @@
         <div style="margin-top: 20px;"><xsl:apply-templates/></div>
     </xsl:template>
     <xsl:template match="tei:p[@style='text-align:center']">
-        <p align="justify"><xsl:apply-templates/></p>
+        <p align="center"><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:p[@style='text-align:right']">
         <p align="right"><xsl:apply-templates/></p>
