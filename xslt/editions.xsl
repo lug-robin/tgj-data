@@ -193,7 +193,11 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>  
-    
+    <xsl:template match="tei:fw">
+        <fw id="{local:makeId(.)}">
+            <xsl:apply-templates/>
+        </fw>
+    </xsl:template>  
     <xsl:template match="tei:hi[@rend='italic']">
         <em><xsl:apply-templates /></em>
     </xsl:template>

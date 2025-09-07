@@ -94,8 +94,8 @@
                     </xsl:attribute>
                 </xsl:when>
                 <xsl:when test="@style = '#text-align:center'">
-                    <xsl:attribute name="class">
-                        <xsl:text>text-align:center</xsl:text>
+                    <xsl:attribute name="text-align">
+                        <xsl:text>left</xsl:text>
                     </xsl:attribute>
                 </xsl:when>
             </xsl:choose>
