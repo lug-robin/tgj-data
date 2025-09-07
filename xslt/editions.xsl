@@ -202,7 +202,7 @@
         <strong><xsl:apply-templates /></strong>
     </xsl:template>
     <xsl:template match="tei:hi[@style='text-align:center']">
-        <hi text-algin="justify"><xsl:apply-templates/></hi>
+        <hi text-algin="center"><xsl:apply-templates/></hi>
     </xsl:template>
   
     <xsl:template match="tei:p[@rend='bold']">
@@ -221,10 +221,10 @@
         <p align="right"><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:head[@style='text-align:center']">
-        <head align="justify"><xsl:apply-templates/></head>
+        <head align="center"><xsl:apply-templates/></head>
     </xsl:template>
     <xsl:template match="tei:table[@style='text-align:center']">
-        <table align="justify"><xsl:apply-templates/></table>
+        <table align="center"><xsl:apply-templates/></table>
     </xsl:template>
     <xsl:template match="tei:table[@style='width:50%']">
         <table width="50%"><xsl:apply-templates/></table>
@@ -233,10 +233,10 @@
         <table><xsl:apply-templates/></table>
     </xsl:template>
     <xsl:template match="tei:div[@style='text-align:center']">
-        <div align="justify"><xsl:apply-templates/></div>
+        <div align="center"><xsl:apply-templates/></div>
     </xsl:template>
-    <xsl:template match="tei:fw[@style='text-align:justify']">
-        <fw align="justify"><xsl:apply-templates/></fw>
+    <xsl:template match="tei:fw[@style='text-align:center']">
+        <fw align="center"><xsl:apply-templates/></fw>
     </xsl:template>
     
             

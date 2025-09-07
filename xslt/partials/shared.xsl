@@ -95,7 +95,7 @@
                 </xsl:when>
                 <xsl:when test="@style = '#text-align:center'">
                     <xsl:attribute name="class">
-                        <xsl:text>text-align:justify</xsl:text>
+                        <xsl:text>text-align:center</xsl:text>
                     </xsl:attribute>
                 </xsl:when>
             </xsl:choose>
