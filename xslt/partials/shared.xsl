@@ -93,6 +93,11 @@
                         <xsl:text>bold</xsl:text>
                     </xsl:attribute>
                 </xsl:when>
+                <xsl:when test="@style = '#text-align:center'">
+                    <xsl:attribute name="class">
+                        <xsl:text>text-align:justify</xsl:text>
+                    </xsl:attribute>
+                </xsl:when>
             </xsl:choose>
             <xsl:apply-templates/>
         </span>
