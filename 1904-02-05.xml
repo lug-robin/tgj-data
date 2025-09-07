@@ -141,13 +141,13 @@
             <p style="text-align:center">"The Geniune Jew".</p>
             <fw type="pageNum"><hi style="text-align:center" rend="bold">[1]</hi></fw><pb/> 
                <p>Every edition of our newspaper contains</p>
-               <list>
-                  <item n="1">a) editorial, an article about all matters, which are relevant to the Jewish people.</item>
-                  <item n="2">b) letters and reports about the different cities and countries about the situations of our borthers and everything concerning them.</item>
-                  <item n="3">c) Political News, short, but precise information about all political events in the whole world</item>
-                  <item n="4">d) World news</item><cb/>
-                  <item n="5">e) Feuilleton. interesting stories from Jewish life. Also, important chapters of our Yiddish history and biographies of rabbi. Gaon and other big Jewish men which have advocated for on behalf of the community.</item>
-                  <item>f) Miscellaneous. Important information about new inventions,  medical articles, statistical news and similar whatever interests people.</item>
+               <list rend="inline">
+                  <item n="a">editorial, an article about all matters, which are relevant to the Jewish people.</item>
+                  <item n="b">letters and reports about the different cities and countries about the situations of our borthers and everything concerning them.</item>
+                  <item n="c">Political News, short, but precise information about all political events in the whole world</item>
+                  <item n="d">World news</item><cb/>
+                  <item n="e">Feuilleton. interesting stories from Jewish life. Also, important chapters of our Yiddish history and biographies of rabbi. Gaon and other big Jewish men which have advocated for on behalf of the community.</item>
+                  <item n="f">Miscellaneous. Important information about new inventions,  medical articles, statistical news and similar whatever interests people.</item>
                </list>
          </div>
          <div n="3">
