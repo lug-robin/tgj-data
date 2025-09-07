@@ -209,7 +209,7 @@
     <xsl:template match="tei:pb">
     </xsl:template>
     <xsl:template match="tei:div">
-        <div style="margin-top: 20px;"><xsl:apply-templates/></div>
+        <div style="margin-top: 30px;"><xsl:apply-templates/></div>
     </xsl:template>
     <xsl:template match="tei:p[@style='text-align:center']">
         <p align="center"><xsl:apply-templates/></p>
@@ -235,6 +235,8 @@
     <xsl:template match="tei:fw[@style='text-align:center']">
         <fw align="center"><xsl:apply-templates/></fw>
     </xsl:template>
-    
+    <xsl:template match="tei:fw">
+        <xsl:apply-templates/>
+    </xsl:template>
             
 </xsl:stylesheet>
