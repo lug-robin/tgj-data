@@ -28,7 +28,7 @@
         <span class="date"><xsl:apply-templates/></span>
     </xsl:template>
     <xsl:template match="tei:lb">
-        <br style="margin-top: 10px;"><xsl:apply-templates/></br>
+        <a style="margin-top: 10px;"><xsl:apply-templates/></a>
     </xsl:template>
     <xsl:template match="tei:div">
         <div style="margin-top: 20px;"><xsl:apply-templates/></div>
