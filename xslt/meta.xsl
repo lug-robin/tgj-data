@@ -66,4 +66,7 @@
             <xsl:apply-templates/>
         </a>
     </xsl:template>
+    <xsl:template match="tei:*[@style='text-align:center']">
+        <tei align="center"><xsl:apply-templates/></tei>
+    </xsl:template>
 </xsl:stylesheet>

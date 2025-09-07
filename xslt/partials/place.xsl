@@ -48,27 +48,6 @@
                         </td>
                     </tr>  
                 </xsl:if>
-
-                <!--a><xsl:if test=".//tei:location">
-                <tr>
-                    <th>
-                        Latitude
-                    </th>
-                    <td>
-                        <xsl:value-of select="tokenize(./tei:location[1]/tei:geo[1], '\s')[1]"/>
-                    </td>
-                </tr>
-                </xsl:if>
-                <xsl:if test=".//tei:location">
-                <tr>
-                    <th>
-                        Longitude
-                    </th>
-                    <td>
-                        <xsl:value-of select="tokenize(./tei:location[1]/tei:geo[1], '\s')[2]"/>
-                    </td>
-                </tr>
-                </xsl:if></a-->
                 <xsl:if test="./tei:note"> 
                 </xsl:if>
                 <xsl:if test="./tei:idno[@type='Geonames']/text()">

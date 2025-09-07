@@ -3,6 +3,7 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="#all" version="2.0">
+    <xsl:import href="params.xsl"/>
     <xsl:template match="/" name="nav_bar">
         <header>
             <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -30,25 +31,14 @@
                                     <li>
                                         <a class="dropdown-item" href="listplace.html">Places</a>
                                     </li>
-                                    <!--li>
-                                        <a class="dropdown-item" href="listgpe.html">Geopolitical Entities</a>
-                                    </li-->
                                 </ul>
                             </li>
-
                             <li class="nav-item">
                                 <a title="Suche" class="nav-link" href="search.html">Search</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="ressources.html">Further Resources</a>
                             </li>
-                                <!--a><a class="nav-item" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Further Ressources</a>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <a class="dropdown-item" href="about.html">About the Project</a>
-                                    </li>   
-                               </ul>
-                            </li><a-->
                         </ul>
                     </div>
                 </div>
