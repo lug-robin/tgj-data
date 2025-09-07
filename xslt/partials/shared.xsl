@@ -665,6 +665,9 @@
     <xsl:template match="tei:*[@style='text-align:center']">
         <tei align="center"><xsl:apply-templates/></tei>
     </xsl:template>
+    <xsl:template match="tei:fw">
+        <xsl:apply-templates/>
+    </xsl:template>
     
     <!-- <xsl:template match="tei:rs[@ref or @key]">
         <strong>
