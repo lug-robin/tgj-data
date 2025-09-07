@@ -24,12 +24,6 @@
     <xsl:template match="tei:del">
         <del><xsl:apply-templates/></del>
     </xsl:template>
-    <!--xsl:template match="tei:cit">
-        <cite><xsl:apply-templates/></cite>
-    </xsl:template>
-    <xsl:template match="tei:quote">
-        <xsl:apply-templates/>
-    </xsl:template-->
     <xsl:template match="tei:date">
         <span class="date"><xsl:apply-templates/></span>
     </xsl:template>
