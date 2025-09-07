@@ -660,12 +660,12 @@
         <div align="center"><xsl:apply-templates/></div>
     </xsl:template>
     <xsl:template match="tei:fw[@style='text-align:center']">
-        <fw text-align="center"><xsl:apply-templates/></fw>
+        <fw text-align="center"><xsl:attribute name="text-align">left</xsl:attribute></fw>
     </xsl:template>
     <xsl:template match="tei:*[@style='text-align:center']">
         <tei align="center"><xsl:apply-templates/></tei>
     </xsl:template>
-
+    
     <!-- <xsl:template match="tei:rs[@ref or @key]">
         <strong>
             <xsl:element name="a">
