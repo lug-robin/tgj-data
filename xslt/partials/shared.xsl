@@ -651,9 +651,6 @@
     <xsl:template match="tei:table[@style='width:50%']">
         <table width="50%"><xsl:apply-templates/></table>
     </xsl:template>
-    <xsl:template match="tei:table[@style='width']">
-        <table><xsl:apply-templates/></table>
-    </xsl:template>
     <xsl:template match="tei:div[@style='text-align:center']">
         <div align="center"><xsl:apply-templates/></div>
     </xsl:template>
