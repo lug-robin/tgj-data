@@ -268,7 +268,7 @@
         <xsl:apply-templates/>
     </xsl:template>
     <xsl:template match="tei:p">
-        <xsl:apply-templates/>
+        <p><xsl:apply-templates/></p>
     </xsl:template>
             
 </xsl:stylesheet>
