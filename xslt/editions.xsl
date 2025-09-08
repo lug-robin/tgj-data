@@ -267,5 +267,8 @@
     <xsl:template match="tei:fw">
         <xsl:apply-templates/>
     </xsl:template>
+    <xsl:template match="tei:p">
+        <xsl:apply-templates/>
+    </xsl:template>
             
 </xsl:stylesheet>
