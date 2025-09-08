@@ -112,9 +112,9 @@
     <xsl:template match="tei:l">
         <xsl:apply-templates/><br/>
     </xsl:template>
-    <!--xsl:template match="tei:p">
+    <xsl:template match="tei:p">
        <p><xsl:apply-templates/></p>
-    </xsl:template-->
+    </xsl:template>
     
     <xsl:template match="tei:table[@style='text-align:center']">
         <table align="center"><xsl:apply-templates/></table>
