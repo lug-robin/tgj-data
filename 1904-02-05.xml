@@ -531,9 +531,8 @@
            </p>
          </div>
          <div n="13">
-            <head>
-               <hi rend="bold">Feuilleton.<lb/>Rabbi <ref source="person015"><rs type="person">Shlomo Yitzchaki</rs> (<rs type="person"><ref source="person015">Rashi</ref>)</rs></ref><lb/>(A memoir).</hi>
-            </head>
+            <head>Feuilleton.</head>
+            <head type="h2">Rabbi <ref source="person015"><rs type="person">Shlomo Yitzchaki</rs> (<rs type="person"><ref source="person015">Rashi)</ref></rs></ref><lb/>(A memoir).</head>
             <p>
                Shortly, it has been 800 years since the celebrated Talmud scholar <hi rend="italic">Rabbi<rs type="person">Shlomo Yitzchaki</rs></hi>, known as <rs type="person"><hi rend="italic"><ref source="person015">Rashi</ref></hi></rs> who has enlightened all 
                of the Jewry with his famous commentary on the Torah and the Talmud, has died. The name <rs type="person"><ref source="person015">Rashi</ref></rs> has been well known to every Jew, every schoolboy knows him and also</p>
