@@ -212,27 +212,16 @@
         <div style="margin-top: 30px;"><xsl:apply-templates/></div>
     </xsl:template>
     
-    <!--xsl:template match="tei:p">
-        <p>
-            <xsl:choose>
-                <xsl:when test="@style='text-align:center'">
-                    <xsl:attribute name="align">center</xsl:attribute>
-                </xsl:when>
-                <xsl:when test="@style='text-align:right'">
-                    <xsl:attribute name="align">right</xsl:attribute>
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:attribute name="align">left</xsl:attribute>
-                </xsl:otherwise>
-            </xsl:choose>
-        </p>
-    </xsl:template-->
     
     <xsl:template match="tei:p[@style='text-align:center']">
         <p align="center"><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:p[@style='text-align:right']">
         <p align="right"><xsl:apply-templates/></p>
+    </xsl:template>
+    
+    <xsl:template match="tei:fw[@style='text-align:right']">
+        <fw align="right"><xsl:apply-templates/></fw>
     </xsl:template>
     
     <xsl:template match="tei:head[@style='text-align:center']">
@@ -246,15 +235,6 @@
                 </xsl:when>
             </xsl:choose>
         </head>
-    </xsl:template>
-    <xsl:template match="tei:fw">
-        <fw>
-            <xsl:choose>
-                <xsl:when test="@style='text-align:center'">
-                    <xsl:attribute name="align">center</xsl:attribute>
-                </xsl:when>
-            </xsl:choose>
-        </fw>
     </xsl:template>
     <xsl:template match="tei:table[@style='width:50%']">
         <table width="50%"><xsl:apply-templates/></table>

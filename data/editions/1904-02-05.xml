@@ -85,9 +85,7 @@
   </facsimile>
   <text>
       <body xml:lang="en">
-         <fw type="head" n="1">
-            <foreign xml:lang="de">1.Jahrgang Nr. 1 </foreign>1st year
-         </fw>
+         <fw type="head" n="1"><foreign xml:lang="de">1.Jahrgang Nr. 1 </foreign>1st year</fw>
          <div n="1">
             <head>The Geniune Jew</head>
             <p>Organ for yiddish matters</p>
