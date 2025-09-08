@@ -83,11 +83,8 @@
    </facsimile>
    <text>
       <body>
-         <div type="heading" n="1" style="one column">
-
-            <p><foreign xml:lang="de">1.Jahrgang Nr. 5 </foreign> 1st year</p>
-         </div>
-         <div type="title" n="1">
+         <fw><foreign xml:lang="de">1.Jahrgang Nr. 5 </foreign> 1st year</fw>
+         <div n="1">
             <head>
                <hi rend="bold">The Geniune jew</hi>
             </head>
@@ -95,8 +92,7 @@
             <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
             <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
-         <div type="editorial" n="1" style="two columns">
-            <cb n="1"/>
+         <div n="2">
             <table rows="4" cols="2">
                <head>The Geniune Jew costs</head>
                <row role="data">
@@ -117,495 +113,258 @@
                </row>
             </table>
             <p><rs type="place">Lviv</rs>,<date when-iso="1904-03-01"> March 1st 1904</date></p>
-            <cb n="2"/>
+            <cb/>
             <p>
-               <lb/>Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign
-                  xml:lang="de">Redaction "Der wahre Jude",<rs type="place">Lviv</rs>, <rs
-                     type="place">Sonnengasse 27</rs></foreign>
-               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign
-                  xml:lang="de"><rs type="place">Lemberg</rs>, <date when-iso="1904-03-01">den 01.
-                     März 1904</date></foreign>.</p>
-         </div>
-         <lb/>
-         <div type="article" style="two columns" n="1">
-            <head><hi rend="bold">Purim</hi></head>
-            <p> Out of all Jewish holidays, <ref type="information"
-                  source="https://www.wikidata.org/wiki/Q180115">Purim</ref> is the only one where
-               Jews celebrate in remembrance of taking revenge on their enemies. The idea of
-               vengeance is admittedly foreign to the Jewish people, as it is explicitly in the holy
-               Thora: “You shall not take revenge and you shall not bear a grudge!” But against <ref
-                  source="https://www.wikidata.org/wiki/Q372091">Amalek</ref> and his children, who
-               want to destroy the Jewish people, against enemies like that is the thought of
-               vengeance, of revenge permitted. The positive commandment: “Remember what Amalek did
-               to you.” delays “You shall not take revenge and you shall not bear a grudge!” for
-               now. </p>
-            <p> The children of Amalek are still alive to this day. “In every generation, they rise
-               up against us to destroy us ( בכל דור ודור קמים עלינו לכלותינו" (Bechol Dor V'Dor
-               Kamim Aleinu L'cholotenu))”, in every generation they rise up against us in order to
-               destroy us, but “והקב״ה מצילנו מידם" (V'ha'Kadosh Baruch Hu Motzi'lenu Meyadem), God
-               saves us from their hands. In His great revenge, we are not responsible, but they are
-               avenged upon by another hand in the end. </p>
-            <p>Lately, <rs type="place"><ref source="place014">Russia</ref></rs> plays the role of Amalek. In 
-               <rs type="place"><ref source="place014">Russia</ref></rs>, Jewish people are pursued the most, they are prosecuted
-               most, they are tormented. The whole world was shocked by the horrible acts of
-               violence against Jews in <rs type="place"><ref source="place015">Chișinău</ref></rs>.
-               Brutality on this level has not happened for hundreds of years, but God, blessed be
-               He: “Pull long and pay little”. As a proverb describes: Because <rs type="place"><ref source="place014"
-                  >Russia</ref></rs> thinks it can
-               do whatever it wants without agitating anything, the same <rs type="place"><ref source="place014"
-                  >Russia</ref></rs> will see its end
-               because of <rs type="place"><ref source="place019">Japan</ref></rs>. Every day, new messages arrive of the Russian defeat and the
-               Japanese victories, it is truly the downfall of <ref source="https://www.wikidata.org/wiki/Q650680">Haman</ref>. For <rs type="place"><ref source="place014"
-                  >Russia</ref></rs>, also this quote will come true: “תּפּול" (K'asher ha'halot l'napol ken nafol tifol) - As you begin to fall,
-               so <cb/>you shall fall! <rs type="place"><ref source="place014"
-                  >Russia</ref></rs> is being deserted from all sides, all its Asian
-               neighbours, which used to ally with <rs type="place"><ref source="place014"
-                  >Russia</ref></rs> - <rs type="place"><ref source="place022">Korea</ref></rs>, <rs type="place"><ref source="place021">China</ref></rs>, <rs type="place"><ref source="place122">Tibet</ref></rs>, and others - turned
-               away. They are also looking forward to <rs type="place"><ref source="place014"
-                  >Russia</ref></rs>’s losses and allied with <rs type="place"><ref source="place019">Japan</ref></rs>. The
-               public opinion is also against <rs type="place"><ref source="place014"
-                  >Russia</ref></rs>, looking forward to its defeat. </p>
-            <p>Especially Jews in the whole world rejoice. News in <rs type="place"><ref
-                     source="place008">America</ref></rs> reports that the local Jews want to buy a
-               battleship with all supplies needed, cannons, gunpowder, and so on. They want to name
-               it “Chișinău” and gift it to <rs type="place"><ref source="place019">Japan</ref></rs>. We do not know if this news is true, but it might
-               as well be. “זכור את אשר עשה לך עמלק” (Remember what Amalek did to you) - we always
-               have to remember this verse, we cannot forget the persecutions of <rs type="place"
-                  ><ref source="place015">Chișinău</ref></rs>, not until <rs type="place"><ref source="place014"
-                     >Russia</ref></rs> meets its end.
-               Just like <rs type="place"><ref source="place043">Spain</ref></rs>, which once was the biggest empire and these days it pummeled and
-               lost its standing. Our friendship with <rs type="place"><ref source="place019">Japan</ref></rs> is not מאהבת מרדכי (A friendship to
-               <ref source="https://www.wikidata.org/wiki/Q1136380">Mordecai</ref>), because we do not converse with <rs type="place"><ref source="place019">Japan</ref></rs> at all. The Japanese are completely
-               foreign to us and we have never been in contact with each other, except the same
-               hatred of Haman. Our resentment against <rs type="place"><ref source="place014"
-                  >Russia</ref></rs> makes <rs
-                     type="place"><ref source="place019">Japan</ref></rs> and us friends. We want
-               <rs type="place"><ref source="place019">Japan</ref></rs> to triumph and therefore <rs type="place"><ref source="place014"
-                  >Russia</ref></rs> should fall. The whole world will be convinced
-               that there is a God who cares about the persecuted and punishes the persecutor. Then
-               when <rs type="place"><ref source="place014"
-                  >Russia</ref></rs> is like Haman, sad and cowering, then there will be light, and gladness,
-               and joy, and honor for the Jews.</p>
-         </div>
-         <div type="information" style="one column">
-            <p>We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the
-               voice of the upholders of religion) to send every letter and money to this
-               address:</p>
-            <p>OSIAS H. WILF, <rs type="place"><ref source="place002">LEMBERG</ref></rs>
-               <ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.</p>
-            <p style="text-align:center" rend="bold">[1]</p>
-         </div>
-         <pb/>
-         <div type="article" style="two columns" n="2">
-            <head><hi rend="bold"> The Austrian <rs type="place"><ref source="place077"
-                     >Balkan</ref></rs> Politics</hi></head>
-            <p>Austrian’s <rs type="place"><ref source="place077">Balkan</ref></rs> Politics have
-               been talked about a lot again lately; about which side <rs type="place"><ref
-                     source="place001">Austria-Hungary</ref></rs> will take in case a war between
-                  <rs type="place"><ref source="075">Turkey</ref></rs> and <rs type="place"><ref
-                     source="place112">Bulgaria</ref></rs> breaks out. That question is not new.
-               This question has been talked and written about for hundreds of years. Earlier,
-               before <rs type="place"><ref source="place010">Germany</ref></rs> and <rs
-                  type="place"><ref source="place040">Italy</ref></rs> had been one great empire,
-               but several small countries and kingdoms which did not live in peace, the Austrian
-               agenda was mainly about intervening in their affairs and increasing the Austrian’s
-               influence. From 1866 onwards, after the war between <rs type="place"><ref
-                     source="place025">Austria</ref></rs> and <rs type="place"><ref
-                     source="place139">Prussia</ref></rs> with <rs type="place"><ref
-                     source="place040">Italy</ref></rs>, <rs type="place"><ref source="place025"
-                     >Austria</ref></rs> had to renounce any influence it could have had in the
-               united <rs type="place"><ref source="place010">Germany</ref></rs> and <rs
-                  type="place"><ref source="place040">Italy</ref></rs>. From then on, <rs
-                  type="place"><ref source="place025">Austria</ref></rs> had two great, strong
-               neighbours and has to be satisfied with being able to do what it can do alone. But
-               now, <rs type="place"><ref source="place025">Austria</ref></rs>’s foreign politics
-               can concentrate on <rs type="place"><ref source="place077">Balkan</ref></rs> politics
-               again like it did in earlier centuries with its empire and <rs type="place"><ref
-                     source="place075">Turkey</ref></rs>. It is in the nature of every great empire
-               to desire to increase their influence and greaten its borders. The grand global
-               powers like <rs type="place"><ref source="place011">England</ref></rs>, <rs
-                  type="place"><ref source="place045">France</ref></rs>, <rs type="place"><ref
-                     source="place010">Germany</ref></rs>, and <rs type="place"><ref
-                     source="place008">America</ref></rs> strive towards conquering new countries in
-               other parts of the world like <rs type="place"><ref source="place024">Asia</ref></rs>
-               and <rs type="place"><ref source="place137">Africa</ref></rs>. Small <rs type="place"
-                     ><ref source="place040">Italy</ref></rs> has won several oversea territories in
-                  <rs type="place"><ref source="place137">Africa</ref></rs>, even though it was done
-               under great strain and with hardly any benefits. <rs type="place"><ref
-                     source="place014">Russia</ref></rs> is broadening their borders into Asia and
-               if <rs type="place"><ref source="place014">Russia</ref></rs> is not hindered by <rs
-                  type="place"><ref source="place019">Japan</ref></rs>
-               in the current war, <rs type="place"><ref source="place014">Russia</ref></rs> wants
-               to become the main power of <rs type="place"><ref source="place024"
-               >Asia</ref></rs>.</p>
-            <p>However, <rs type="place"><ref source="place025">Austria</ref></rs>, because of their
-               geographical position, is not able to conquer other parts of the world. There are no
-               pathways with the oceans and prepared to even do so. <rs type="place"><ref
-                     source="place025">Austria</ref></rs> can also not take anything from its
-               neighbours, the great powers of <rs type="place"><ref source="place014"
-                  >Russia</ref></rs>, <rs type="place"><ref source="place010">Germany</ref></rs>,
-               and <rs type="place"><ref source="place040">Italy</ref></rs>. What remains is that
-               part of the world: the small <rs type="place"><ref source="place077"
-                  >Balkan</ref></rs> countries: <rs type="place"><ref source="place066"
-                     >Romania</ref></rs>, <rs type="place"><ref source="place112"
-                  >Bulgaria</ref></rs>, <rs type="place"><ref source="place111">Serbia</ref></rs>,
-               and <rs type="place"><ref source="place080">Montenegro</ref></rs> as well as old,
-               weak <rs type="place"><ref source="place075">Turkey</ref></rs>. <rs type="place"><ref
-                     source="place025">Austria</ref></rs> wanted to take some of <rs type="place"
-                     ><ref source="place075">Turkey</ref></rs> for itself wasn’t it for the other
-               great powers standing in the way.</p>
-            <p>Now, Austrian politics addresses the <rs type="place"><ref source="place077"
-                     >Balkan</ref></rs> in depth once again. But not only the other powers stand in
-               its way, also some of its own people are against it. The Germans do not want <rs
-                  type="place"><ref source="place025">Austria</ref></rs> to have any more slaves
-               (Peoples on the <rs type="place"><ref source="place077">Balkan</ref></rs> are mostly
-               slaves), as <rs type="place"><ref source="place025">Austria</ref></rs> would become a
-               Slavic state causing the German influence to weaken. Hungarians are against it for
-               the same reason, because they are scared of the slaves. Hungarians would prefer <rs
-                  type="place"><ref source="place025">Austria</ref></rs> to take <rs type="place"
-                     ><ref source="place076">Poland</ref></rs> away from <rs type="place"><ref
-                     source="place014">Russia</ref></rs>. First, they could take revenge on <rs
-                  type="place"><ref source="place014">Russia</ref></rs> which helped suppress them
-               in 1848. Second, the new Slavs <rs type="place"><ref source="place025"
-                  >Austria</ref></rs> would gain come from the Austrian side, not the Hungarian one,
-               like the <rs type="place"><ref source="place077">Balkan</ref></rs> countries.</p>
-            <p>Having said the truth, Austrian politics might want to desire more of <rs
-                  type="place"><ref source="place076">Poland</ref></rs> - however, <rs type="place"
-                     ><ref source="place014">Russia</ref></rs> is big and strong and is not to be
-               messed with and <cb/>what remains is the <rs type="place"><ref source="place077"
-                     >Balkan</ref></rs>. And now, <rs type="place"><ref source="place025"
-                     >Austria</ref></rs> almost managed to win some land there. After the <ref
-                  source="https://www.wikidata.org/wiki/Q174205">Russo-Turkish war of 1877</ref>,
-                  <rs type="place"><ref source="place025">Austria</ref></rs> got the approval of the
-                  <ref source="https://www.wikidata.org/wiki/Q151423">Berlin Congress</ref> to
-               occupy two Turkish lands with its military for an undisclosed amount of time: <rs
-                  type="place"><ref source="place142">Bosnia</ref></rs> and <rs type="plcae"><ref
-                     source="place143">Herzegovina</ref></rs>. Ostensibly, both countries remain
-               Turkish, but <rs type="place"><ref source="place025">Austria</ref></rs> is occupying
-               both to establish order there. <rs type="place"><ref source="place014"
-                  >Russia</ref></rs>, always the holder of the Slavic peoples, agreed to this,
-               because <rs type="place"><ref source="place014">Russia</ref></rs> already agreed to
-                  <rs type="place"><ref source="place025">Austria</ref></rs> gaining <rs
-                  type="place"><ref source="place142">Bosnia</ref></rs>-<rs type="place"><ref
-                     source="place143">Herzegovina</ref></rs> before the war so <rs type="place"
-                     ><ref source="place025">Austria</ref></rs> would not interfere in the war.</p>
-            <p>However later on, <rs type="place"><ref source="place014">Russia</ref></rs> regretted
-               this whole thing: It realised that <rs type="place"><ref source="place014"
-                     >Russia</ref></rs> had gained nothing in the war while investing huge amounts
-               of money into people. Meanwhile, <rs type="place"><ref source="place025"
-                     >Austria</ref></rs>, which did nothing at all, gained two countries. <rs
-                  type="place"><ref source="place014">Russia</ref></rs> started to hold resentment
-               against <rs type="place"><ref source="place025">Austria</ref></rs> and watched <rs
-                  type="place"><ref source="place025">Austria</ref></rs> as well as paid close
-               attention to the countries on the <rs type="place"><ref source="place077"
-                     >Balkan</ref></rs>. <rs type="place"><ref source="place025">Austria</ref></rs>
-               should not be able to gain any more land. </p>
-            <p>To be clear, <rs type="place"><ref source="place142">Bosnia</ref></rs> and <rs
-                  type="place"><ref source="place143">Herzegovina</ref></rs> is not enough for <rs
-                  type="place"><ref source="place025">Austria</ref></rs>. These are two poor
-               countries which only need to receive money. <rs type="place"><ref source="place025"
-                     >Austria</ref></rs> also desires <rs type="place"><ref source="place081"
-                     >Macedonia</ref></rs> with the port city <rs type="place"><ref
-                     source="place144">Thessaloniki</ref></rs>. If <rs type="place"><ref
-                     source="place025">Austria</ref></rs> took <rs type="place"><ref
-                     source="place144">Thessaloniki</ref></rs> in possession, it would gain access
-               to the <rs type="place"><ref source="place141">Black Sea</ref></rs>, expand its trade
-               and increase influence. But <rs type="place"><ref source="place014">Russia</ref></rs>
-               stood in its path. Besides, Austrian politics sufficed to pay attention to the
-               condition in the <rs type="place"><ref source="place077">Balkan</ref></rs> countries
-               to stay as they are. That means, several small, but weak countries as to harm <rs
-                  type="place"><ref source="place025">Austria</ref></rs> should remain like this for
-               a for years. Both <rs type="place"><ref source="place014">Russia</ref></rs> and <rs
-                  type="place"><ref source="place025">Austria</ref></rs> strive to gain influence
-               there. <rs type="place"><ref source="place025">Austria</ref></rs> has the biggest
-               authority in <rs type="place"><ref source="place145">Armenia</ref></rs>, <rs
-                  type="place"><ref source="place014">Russia</ref></rs> in <rs type="place"><ref
-                     source="place080">Montenegro</ref></rs>; the tables have turned in <rs
-                  type="place"><ref source="place112">Bulgaria</ref></rs> and <rs type="place"><ref
-                     source="place111">Serbia</ref></rs>. Some time <rs type="place"><ref
-                     source="place025">Austria</ref></rs> had more to say, some time <rs
-                  type="place"><ref source="place014">Russia</ref></rs> had more to say. Lately,
-               both realised the great disorder prevailing in the <rs type="place"><ref
-                     source="place077">Balkan</ref></rs> countries. Every country does whatever they
-               want as they are either reliant on <rs type="place"><ref source="place025"
-                     >Austria</ref></rs> or <rs type="place"><ref source="place014"
-                  >Russia</ref></rs>. Furthermore, both countries agreed to keep order and kept the
-                  <rs type="place"><ref source="place077">Balkan</ref></rs> countries to wage war
-               with <rs type="place"><ref source="place075">Turkey</ref></rs> because of <rs
-                  type="place"><ref source="place081">Macedonia</ref></rs>. However, <rs
-                  type="place"><ref source="place075">Turkey</ref></rs> demanded to introduce
-               reforms in Macedonia to reassure the Macedonians.</p>
-            <p>The Turkish, the <rs type="place"><ref source="place077">Balkan</ref></rs> countries,
-               the Macedonians - until now they all had to stay quiet. But now, as <rs type="place"
-                     ><ref source="place014">Russia</ref></rs>’s hands are tied in <rs type="place"
-                     ><ref source="place024">Asia</ref></rs> because of the war with <rs
-                  type="place"><ref source="place019">Japan</ref></rs>, they are starting to bestir
-               again. <rs type="place"><ref source="place075">Turkey</ref></rs> gathered a lot of
-               military, <rs type="place"><ref source="place112">Bulgaria</ref></rs> is getting
-               ready for war, and the Macedonians are restarting their revolution again. </p>
-            <p>And now the question remains: What will <rs type="place"><ref source="place025"
-                     >Austria</ref></rs> do? - Voices multilaterally claim that <rs type="place"
-                     ><ref source="place025">Austria</ref></rs>, which was not even afraid of <rs
-                  type="place"><ref source="place014">Russia</ref></rs>, will take the chance to
-               occupy <rs type="place"><ref source="place081">Macedonia</ref></rs> and <rs
-                  type="place"><ref source="place144">Thessaloniki</ref></rs>. The Austrian
-               government denies these allegations, mostly because it does not want to start off
-               badly with <rs type="place"><ref source="place040">Italy</ref></rs>. Namely because
-                  <rs type="place"><ref source="place040">Italy</ref></rs> has also started to
-               mingle in the <rs type="place"><ref source="place077">Balkan</ref></rs> affairs. It
-               desires <rs type="place"><ref source="place146">Albania</ref></rs>. <rs type="place"
-                     ><ref source="place025">Austria</ref></rs> on the other hand dislikes these
-               schemes, because it does not want <rs type="place"><ref source="place040"
-                  >Italy</ref></rs> to be its neighbour on all sides. But the<pb/></p>
-            <p style="text-align:center" rend="bold">[2]</p>
-            <p><rs type="person"><ref source="person047">king</ref> of <rs type="place"><ref
-                        source="place040">Italy</ref></rs></rs> is the son-in-law of a Montenegrin
-               prince and sees itself as a big part of the families of the <rs type="place"><ref
-                     source="place077">Balkan</ref></rs>.</p>
-            <p>In the end, it comes down to this: if a war breaks out on the <rs type="place"><ref
-                     source="place077">Balkan</ref></rs>, then <rs type="place"><ref
-                     source="place025">Austria</ref></rs> is going to use that opportunity to march
-               into <rs type="place"><ref source="place081">Macedonia</ref></rs> with its military.
-               It is going to occupy <rs type="place"><ref source="place111">Serbia</ref></rs> as
-               well and <rs type="person"><ref source="person036">King Peter</ref></rs> will sit
-               weak and alone on his throne, not being able to do anything. <rs type="place"><ref
-                     source="place014">Russia</ref></rs> will be indignant, but will also have to
-               keep quiet temporarily. Only <rs type="place"><ref source="place075"
-                  >Turkey</ref></rs>’s and <rs type="place"><ref source="place040"
-               >Italy</ref></rs>’s reactions are still unclear: Whether they are going to war with
-                  <rs type="place"><ref source="place025">Austria</ref></rs> or they want to
-               reconcile with each other in peace. In any case, one thing is for sure: If war breaks
-               out on the <rs type="place"><ref source="place077">Balkan</ref></rs>, <rs
-                  type="place"><ref source="place025">Austria</ref></rs> will have to intervene.</p>
-         </div>
-         <div type="article" style="two columns" n="3">
-            <head><hi rend="bold">The <rs type="place"><ref source="place147">Zabolotiv</ref></rs>
-                  processual</hi></head>
-            <p>Presently, a processual against the antisemite excess taking place in <rs
-                  type="place"><ref source="place148">Kolomyia</ref></rs>. The riot took place on
-               September 11th of the previous year during the local fair in Zabolotiv. The
-               accusatorial report reads as follows: On September 11th during the fair antisemitic
-               riots started to rise. Several thousand farmers of the area gathered around and
-               suddenly a rumour formed that Jews have murdered a farm woman and robbed 300 guilds.
-               First the farmers gathered around the house of <rs type="person">Salomon
-               Dulberg</rs>, who had been threatened by a farmer before. Therefore, it is clear that
-               the rumour has been spread on purpose to persecute Jews. The congregated farmers
-               started to ransack the Jewish homes. But nobody had hurt anyone before, did not kill
-               or rob a woman. The farmers searched the houses of <rs type="person">Dulberg</rs>,
-                  <rs type="person">Chaim Loker</rs>, <rs type="person">Dud Jupiter</rs>, <rs
-                  type="person">Layzer Burg</rs>, and <rs type="person">Feivel Enker</rs>. As
-               nothing of interest could be found, the mob started to become impatient and started
-               to batter the Jewish people there who started to point at God. As the Jewish people
-               had started to run away, the farmers threw stones at them, with frightening results.
-               If individual Jews stayed in their houses, the mob attacked the houses, threw stones
-               at them, and threatened to completely destroy them. At the shoemaker <rs
-                  type="person">Layzer Burg</rs>’s place, the journeyman <rs type="person"
-                  >Yirachmiel Gier</rs> was found and beaten. Afterwards the farmers gathered in
-               front of the house and started yelling, accusing the people inside as murderers. They
-               smashed every window and did a lot of damage. They did the same thing to other houses
-               in the same alley and other alleys as well. This excess during which a number of Jews
-               were beaten, lasted for several hours until the police arrived and expelled the
-               crowd.</p>
-            <p>As the charge claims, the excesses were neither planned nor bursted out of nowhere.
-               The Jewish people hid in basements and attics. Furthermore, it was not possible to
-               find all the farmers who participated in the riot. 31 accused farmers are standing on
-               the dock. The trials will last over eight days. Over 110 witnesses have been summoned
-               to court. The head of the jury court is regional court judge <rs type="person"
-                  >Koronitzky</rs>, the accessors are: the council members <rs type="person"
-                  >Bilewicz</rs>, <rs type="person">Vyshinksy</rs>, <rs type="person"
-               >Dashevsky</rs>, and <rs type="person">Feral</rs>. Prosecutor <rs type="person"
-                  >Drohobytskyi</rs> represents the prosecution. The Jewish representative<cb/> is
-                  <rs type="person">Dr Zipser</rs>. The judicial agents: <rs type="person"
-                  >Hashevsky</rs>, <rs type="person">Mislavski</rs>, and <rs type="person"
-                  >Yurtschenko</rs>. The first day of the hearings resulted in nothing important.
-               Some defendants and witnesses have been interrogated. The defendants deny
-               everything.</p>
-            <p>The only interesting statement came from police chief <rs type="person">Jan <hi
-                     rend="italic">Orzech</hi></rs>, who explained that there had been talks about
-               antisemitic riots a few weeks prior. The farmers stated that 6,000 Cossacks would
-               come and murder Jewish and Polish people. The witness informed the head of the
-               provincial government about this, who in turn banned assemblies of the Ruthenian
-               people.</p>
-         </div>
-         <div type="article" style="two columns" n="4">
-            <head><hi rend="bold">Political news.</hi></head>
-            <p><hi rend="bold"><rs type="place"><ref source="place001"
-                  >Austria-Hungary</ref></rs>.</hi> The delegation finished their consultations and
-               agreed on an imperial decree. The emperor thanked the delegation through the minister
-               count <rs type="person"><ref source="person060">Goluchowski</ref></rs> for their
-               zealous work and approving everything the government demanded for the military: New
-               cannons, new battleships and an augmentation of the military navy. - Rumour has it
-               that the government will convoke the delegation again this year, namely in May. They
-               should also handle the budget (regulation of revenues and expenses) for 1905. The
-               government wants everything to be finished in case it is necessary to dissolve the
-               Hungarian Reichstag in case no delegation can be elected.</p>
-            <p>The Austrian imperial assembly will convene on March 8th to consulate about the <hi
-                  rend="italic">recruit act</hi>, which is about how many soldiers should be drafted
-               this year. The Czechs will obstruct the recruit act again until they sign the law as
-               always. If the government did not implement the law in parliament it has to revert to
-               § . Still, the imperial assembly will be adjourned.</p>
-            <p>It is not certain yet what the end of the obstruction will be in <rs type="place"
-                     ><ref source="place009">Hungary</ref></rs>. It seems that the obstruction will
-               grow stronger because the opposition is not satisfied with the <rs type="person"><ref
-                     source="person061">minister of war</ref></rs>’s explanation about the
-               concession of the Hungarian military. It seems as if the government needs to dissolve
-               the Reichstag and call for re-elections.</p>
-            <p><hi rend="bold"><rs type="place"><ref source="place075">Turkey</ref></rs>.</hi> The
-               Turkish government shows once again that it does not intend to follow through with
-               the reforms that <rs type="place"><ref source="place001">Austria-Hungary</ref></rs>
-               and <rs type="place"><ref source="place014">Russia</ref></rs> are trying to implement
-               in <rs type="place"><ref source="place081">Macedonia</ref></rs>. One point of the
-                  <ref source="https://www.wikidata.org/wiki/Q3406988">reformation</ref> intends to
-               establish a police force in <rs type="place"><ref source="place081"
-                  >Macedonia</ref></rs> under orders of foreign officers. At first, <rs type="place"
-                     ><ref source="place075">Turkey</ref></rs> agreed which led to all powers to
-               send high officers there for this reason. An Italian general has now been appointed
-               to high command of the police. Suddenly, <rs type="place"><ref source="place075"
-                     >Turkey</ref></rs> had the belief that according to Turkish religion a
-               Christian is not allowed to command over Turks. Therefore, foreign officers can only
-               be counselors to a Turkish commander. The other powers agreed because they did not
-               want to bother with <rs type="place"><ref source="place075">Turkey</ref></rs>. Now,
-                  <rs type="place"><ref source="place075">Turkey</ref></rs> has introduced a
-               new<cb/>request that the foreign officers should wear Turkish uniforms. <rs
-                  type="place"><ref source="place075">Turkey</ref></rs> claims that it is in
-               everyone’s best interest because if the officers would wear foreign uniforms the
-               Turkish people would recognise and persecute them. The powers do not want to agree on
-               this term and it is uncertain who will execute it.</p>
-            <p>Generally, <rs type="place"><ref source="place075">Turkey</ref></rs> lifted its head
-               a bit since the Russo-Japanese war. It is strongly trying to control the <rs
-                  type="place"><ref source="place077">Balkan</ref></rs> countries. <rs type="place"
-                     ><ref source="place075">Turkey</ref></rs> is probably striving for war to take
-               revenge. </p>
-         </div>
-         <pb/>
-         <div type="news" style="two columns" n="1">
-            <head><hi rend="bold"> News. <lb/>Jewish news.</hi></head>
-            <p>(<rs type="place"><ref source="place149">Krakow</ref></rs>). Not long ago, a fifteen
-               year old, Jewish girl - <rs type="person">Gitel Epstein</rs> - went missing from a
-               village. Now she has been found in a monastery in <rs type="place"><ref
-                     source="place149">Krakow</ref></rs>, where she had been baptised. The parents
-               asked the court that the child be brought back to them. But because the parents were
-               not married legally, the court refused their plea. They had lawfully wedded and their
-               attorney demanded now to return their child to them. Until now, the court has not yet
-               responded to the appeal.</p>
-            <p>(<rs type="place"><ref source="place150">Husiatyn</ref></rs>). A Jewish girl from <rs
-                  type="place"><ref source="place014">Russia</ref></rs> who wanted to go to their
-               parents in <rs type="place"><ref source="place008">America</ref></rs> has been
-               brought across the border by smugglers by night. Halfway there, they had been robbed
-               and shot by Cosaks.</p>
-            <p>(<rs type="place"><ref source="place033">Warsaw</ref></rs>). Some Jewish soldiers
-               have been hanged in the citadel because they wanted to desert the army.</p>
-            <p>(<rs type="place"><ref source="place151">Moscow</ref></rs>). Multiple Jewish
-               merchants and artisans, whose parents had lived in <rs type="place"><ref
-                     source="place151">Moscow</ref></rs> for fifty years, have suddenly been
-               banished from the city. The misery is great.</p>
-            <p>(<rs type="place"><ref source="place016">Homyel</ref></rs>). The Jewish emigration
-               from our city is getting severe, in one day 300 Jewish families have left the city -
-               From <rs type="place"><ref source="place152">Mohyliv-Podilskyi</ref></rs> and other
-               provinces as well are Jews emigrating. In a short period of time over 1,200 Jews have
-               emigrated from the province <rs type="place"><ref source="place153"
-               >Kovel</ref></rs>.</p>
-            <p>(<rs type="place"><ref source="place035">Buchrest</ref></rs>). The government passed
-               a new law against Jews. According to this law, Jews are only allowed to settle in a
-               village only if the community agrees upon this and if they can provide proof of their
-               morality from the village they have previously lived in. </p>
-         </div>
-         <div type="article" style="two columns" n="5">
-            <head> Telegraphs. <lb/><rs type="place"><ref source="place025">Austria</ref></rs> and
-                  <rs type="place"><ref source="place075">Turkey</ref></rs>.</head>
-            <p><rs type="place"><ref source="place007">Vienna</ref></rs>. There are claims being
-               said with certainty that the Austrian military will move into <cb/><rs type="place"
-                     ><ref source="place081">Macedonia</ref></rs> next month. <rs type="place"><ref
-                     source="place025">Austria</ref></rs> asserts that according to article 25 of
-               the <ref source="https://www.wikidata.org/wiki/Q1048169">Treaty of <rs type="place"
-                        ><ref source="place031">Berlin</ref></rs></ref> that aside from <rs
-                  type="place"><ref source="place142">Bosnia</ref></rs> and <rs type="plcae"><ref
-                     source="place143">Herzegovina</ref></rs>, also a part of <rs type="place"><ref
-                     source="place081">Macedonia</ref></rs> up to the city of <rs type="place"><ref
-                     source="place154">Mitrovica</ref></rs> should be occupied. However, <rs
-                  type="place"><ref source="place075">Turkey</ref></rs> has to be informed
-               beforehand. </p>
-         </div>
-         <div n="6" style="two columns">
-            <head><hi rend="bold">The Russo-Japanese war.</hi></head>
-            <p><rs type="place"><ref source="place018">St Petersburg</ref></rs>. As is being
-               reported, a lot of Japanese military personnel had arrived in <rs type="place"><ref
-                     source="place028">Manchuria</ref></rs>. <rs type="place"><ref source="place083"
-                     >Port Arthur</ref></rs> is occupied. The Chinese ally with <rs type="place"
-                     ><ref source="place019">Japan</ref></rs>. The Russian civilians are living in
-               fear. Up until now, over 50,000 Japanese men have been dropped in <rs type="place"><ref source="place022">Korea</ref></rs>.</p>
-            <p><rs type="place"><ref source="place083">Port Arthur</ref></rs>. The Japanese shelled
-                  <rs type="place"><ref source="place083">Port Arthur</ref></rs> during the night of
-               February 25th and did damage. However, they have not managed to block the harbour or
-               damage a battleship.</p>
-            <p><rs type="place"><ref source="place018">St Petersburg</ref></rs>. <rs type="place"
-                     ><ref source="place014">Russia</ref></rs> is very mad at <rs type="place"><ref
-                     source="place022">Korea</ref></rs> which went into an alliance with <rs
-                  type="place"><ref source="place019">Japan</ref></rs>, according to which <rs
-                  type="place"><ref source="place019">Japan</ref></rs> can do whatever it wants in
-                  <rs type="place"><ref source="place022">Korea</ref></rs>. <rs type="place"><ref
-                     source="place014">Russia</ref></rs> explains that the Korean emperor has been
-               forced to enter into the contract. The contract is therefore devoid of any value.</p>
-            <p><rs type="place"><ref source="place031">Berlin</ref></rs>. Local newspapers report
-               that the outposts of the Japanese and Russian military encountered each other in <rs
-                  type="place"><ref source="place022">Korea</ref></rs> and shot at each other. The
-               Japanese deny this. It is unknown who is telling the truth.</p>
-            <p><rs type="place"><ref source="place007">Vienna</ref></rs>. Socialist students
-               gathered in front of the Russian consulate and yelled: Down with <rs type="place"
-                     ><ref source="place014">Russia</ref></rs>! - There are also reports about
-               demonstrations against <rs type="place"><ref source="place014">Russia</ref></rs> in
-                  <rs type="place"><ref source="place149">Krakow</ref></rs>.</p>
-            <p><rs type="place"><ref source="place156">London</ref></rs>. The <rs type="person"><ref
-                     source="person062">minister president</ref></rs> explained in parliament that
-                  <rs type="place"><ref source="place011">England</ref></rs> will fight tooth and
-               nail against <rs type="place"><ref source="place014">Russia</ref></rs>, if they
-               mingle on the issue of <rs type="place"><ref source="place122">Tibet</ref></rs>; <rs
-                  type="place"><ref source="place011">England</ref></rs> has the biggest right of
-               influencing <rs type="place"><ref source="place122">Tibet</ref></rs>.</p>
-            <p><rs type="place"><ref source="place095">Paris</ref></rs>. The minister of foreign
-               affairs <rs type="person"><ref source="person063">Delcassé</ref></rs> apparently
-               wants to terminate the <ref source="https://www.wikidata.org/wiki/Q243799"
-                  >Franco-Russian Alliance</ref> because it is evident that <rs type="place"><ref
-                     source="place014">Russia</ref></rs> is weak.</p>
-            <p><rs type="place"><ref source="place082">Vladivostok</ref></rs>. <rs type="place"><ref
-                     source="place019">Japan</ref></rs> is bombing the city.</p>
-            <p><rs type="place"><ref source="place157">Cologne</ref></rs>. The “Kleine Zeitung”
-               reports that people in <rs type="place"><ref source="place018">St
-                  Petersburg</ref></rs> are convinced that a war between <rs type="place"><ref
-                     source="place014">Russia</ref></rs> and <rs type="place"><ref source="place011"
-                     >England</ref></rs> with <rs type="place"><ref source="place008"
-                  >America</ref></rs> will break out soon. In this case, <rs type="place"><ref
-                     source="place010">Germany</ref></rs> and <rs type="place"><ref
-                     source="place045">France</ref></rs> would ally with <rs type="place"><ref
-                     source="place014">Russia</ref></rs>. Therefore, <hi rend="italic">World
-                  War</hi> will break out.</p>
-            <p><rs type="place"><ref source="place018">St Petersburg</ref></rs>. News from <rs
-                  type="place"><ref source="place083">Port Arthur</ref></rs> reports that the
-               Japanese will receive a command to charge <rs type="place"><ref source="place083"
-                     >Port Arthur</ref></rs> on March 1st.</p>
-            <p><rs type="place"><ref source="place018">St Petersburg</ref></rs>. The tsar decided
-               that he will only make his way to the battlefield if his health allows it as is being
-               rumoured in court circles.</p>
-            <p><rs type="place"><ref source="place083">Port Arthur</ref></rs>. The Russian admiral
-                  <rs type="person"><ref source="person064">Stessel</ref></rs> commanded an order of
-               the day, because the Japanese strive to conquer <rs type="place"><ref
-                     source="place083">Port Arthur</ref></rs> with all their might. Furthermore, it
-               is the duty of all Russians to defend the city. We have to fight until we win or
-               fall.</p>
-
-         </div>
-         <div type="footer" style="one columns" n="1">
-            <p>
-               <foreign xml:lang="de">
-                  <lb/>Herausgeber und verantwortlicher Redact. <rs type="person">OSIAS H. WILF</rs>
-                  recte Weinstock <lb/>Druck von <rs type="person">E. Salat</rs> Witwe des <rs
-                     type="person">U.W. Salat</rs>, <rs type="place"><ref source="place002"
-                        >Lemberg</ref></rs>
-                  <rs type="place">Kasimirgasse 35</rs>
-               </foreign>
+               Adverts are cheaply calculated <lb/>All letters and money send to: 
+               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place">Lviv</rs>, <rs type="place">Sonnengasse 27</rs></foreign>
+               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign xml:lang="de"><rs type="place">Lemberg</rs>, <date when-iso="1904-03-01">den 01.März 1904</date></foreign>.
             </p>
-            <p style="text-align:center" rend="bold">[4]</p>
          </div>
+         <div n="3">
+            <head><hi rend="bold">Purim</hi></head>
+            <p> Out of all Jewish holidays, <ref source="https://www.wikidata.org/wiki/Q180115">Purim</ref> is the only one where Jews celebrate in remembrance of taking revenge on their enemies. The idea of vengeance is admittedly 
+               foreign to the Jewish people, as it is explicitly in the Holy Thora: “You shall not take revenge and you shall not bear a grudge!” But against <ref source="https://www.wikidata.org/wiki/Q372091">Amalek</ref> and his 
+               children, who want to destroy the Jewish people, against enemies like that is the thought of vengeance, of revenge permitted. The positive commandment: “Remember what Amalek did to you.” delays “You shall not take revenge 
+               and you shall not bear a grudge!” for now.
+            </p>
+            <p>The children of Amalek are still alive to this day. “In every generation, they rise up against us to destroy us, in every generation they rise up against us in order to destroy us, but, "God saves us from their hands". 
+               In His great revenge, we are not responsible, but they are avenged upon by another hand in the end. 
+            </p>
+            <p>
+               Lately, <rs type="place"><ref source="place014">Russia</ref></rs> plays the role of Amalek. In <rs type="place"><ref source="place014">Russia</ref></rs>, Jewish people are pursued the most, they are prosecuted most, they 
+               are tormented. The whole world was shocked by the horrible acts of violence against Jews in <rs type="place"><ref source="place015">Chișinău</ref></rs>. Brutality on this level has not happened for hundreds of years, but 
+               God, blessed be He: “Pull long and pay little”. As a proverb describes: Because <rs type="place"><ref source="place014">Russia</ref></rs> thinks it can do whatever it wants without agitating anything, the same 
+               <rs type="place"><ref source="place014">Russia</ref></rs> will see its end because of <rs type="place"><ref source="place019">Japan</ref></rs>. Every day, new messages arrive of the Russian defeat and the Japanese victories, 
+               it is truly the downfall of <ref source="https://www.wikidata.org/wiki/Q650680">Haman</ref>. For <rs type="place"><ref source="place014">Russia</ref></rs>, also this quote will come true:"As you begin to fall, so <cb/>you shall fall! 
+               <rs type="place"><ref source="place014" >Russia</ref></rs> is being deserted from all sides, all its Asian neighbours, which used to ally with <rs type="place"><ref source="place014" >Russia</ref></rs> - 
+               <rs type="place"><ref source="place022">Korea</ref></rs>, <rs type="place"><ref source="place021">China</ref></rs>, <rs type="place"><ref source="place122">Tibet</ref></rs>, and others - turned away. They are also looking forward to 
+               <rs type="place"><ref source="place014" >Russia</ref></rs>’s losses and allied with <rs type="place"><ref source="place019">Japan</ref></rs>. The public opinion is also against <rs type="place"><ref source="place014">Russia</ref></rs>, 
+               looking forward to its defeat.
+            </p>
+            <p>
+               Especially Jews in the whole world rejoice. News in <rs type="place"><ref source="place008">America</ref></rs> reports that the local Jews want to buy a battleship with all supplies needed, cannons, gunpowder, and so on. They want to name
+               it “Chișinău” and gift it to <rs type="place"><ref source="place019">Japan</ref></rs>. We do not know if this news is true, but it might as well be. "Remember what Amalek did to you" - we always have to remember this verse, we cannot 
+               forget the persecutions of <rs type="place"><ref source="place015">Chișinău</ref></rs>, not until <rs type="place"><ref source="place014" >Russia</ref></rs> meets its end. Just like <rs type="place"><ref source="place043">Spain</ref></rs>, 
+               which once was the biggest empire and these days it pummeled and lost its standing. Our friendship with <rs type="place"><ref source="place019">Japan</ref></rs> is not a friendship to <ref source="https://www.wikidata.org/wiki/Q1136380">Mordecai</ref>), 
+               because we do not converse with <rs type="place"><ref source="place019">Japan</ref></rs> at all. The Japanese are completely foreign to us and we have never been in contact with each other, except the same hatred of Haman. Our resentment 
+               against <rs type="place"><ref source="place014" >Russia</ref></rs> makes <rs type="place"><ref source="place019">Japan</ref></rs> and us friends. We want <rs type="place"><ref source="place019">Japan</ref></rs> to triumph and therefore 
+               <rs type="place"><ref source="place014" >Russia</ref></rs> should fall. The whole world will be convinced that there is a God who cares about the persecuted and punishes the persecutor. Then when <rs type="place"><ref source="place014" >Russia</ref></rs> 
+               is like Haman, sad and cowering, then there will be light, and gladness, and joy, and honor for the Jews.
+            </p>
+         </div>
+         <fw type="footnote">
+            We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the voice of the upholders of religion) to send every letter and money to this address:
+            <lb/>OSIAS H. WILF, <rs type="place"><ref source="place002">LEMBERG</ref></rs><ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.</fw><pb/>
+            <fw type="pageNum" style="text-align:center">- 2 -</fw>
+         <div n="4">
+            <head><hi rend="bold"> The Austrian <rs type="place"><ref source="place077">Balkan</ref></rs> Politics</hi></head>
+            <p>
+               Austrian’s <rs type="place"><ref source="place077">Balkan</ref></rs> Politics have been talked about a lot again lately; about which side <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> will take in case a war between 
+               <rs type="place"><ref source="075">Turkey</ref></rs> and <rs type="place"><ref source="place112">Bulgaria</ref></rs> breaks out. That question is not new. This question has been talked and written about for hundreds of years. Earlier, before 
+               <rs type="place"><ref source="place010">Germany</ref></rs> and <rs type="place"><ref source="place040">Italy</ref></rs> had been one great empire, but several small countries and kingdoms which did not live in peace, the Austrian agenda was 
+               mainly about intervening in their affairs and increasing the Austrian’s influence. From <date when="1866">1866</date> onwards, after the war between <rs type="place"><ref source="place025">Austria</ref></rs> and <rs type="place"><ref source="place139">Prussia</ref></rs> 
+               with <rs type="place"><ref source="place040">Italy</ref></rs>, <rs type="place"><ref source="place025">Austria</ref></rs> had to renounce any influence it could have had in the united <rs type="place"><ref source="place010">Germany</ref></rs> and 
+               <rs type="place"><ref source="place040">Italy</ref></rs>. From then on, <rs type="place"><ref source="place025">Austria</ref></rs> had two great, strong neighbours and has to be satisfied with being able to do what it can do alone. But now, 
+               <rs type="place"><ref source="place025">Austria</ref></rs>’s foreign politics can concentrate on <rs type="place"><ref source="place077">Balkan</ref></rs> politics again like it did in earlier centuries with its empire and <rs type="place"><ref source="place075">Turkey</ref></rs>. 
+               It is in the nature of every great empire to desire to increase their influence and greaten its borders. The grand global powers like <rs type="place"><ref source="place011">England</ref></rs>, <rs type="place"><ref source="place045">France</ref></rs>, 
+               <rs type="place"><ref source="place010">Germany</ref></rs>, and <rs type="place"><ref source="place008">America</ref></rs> strive towards conquering new countries in other parts of the world like <rs type="place"><ref source="place024">Asia</ref></rs> 
+               and <rs type="place"><ref source="place137">Africa</ref></rs>. Small <rs type="place" ><ref source="place040">Italy</ref></rs> has won several oversea territories in <rs type="place"><ref source="place137">Africa</ref></rs>, even though it was done
+               under great strain and with hardly any benefits. <rs type="place"><ref source="place014">Russia</ref></rs> is broadening their borders into Asia and if <rs type="place"><ref source="place014">Russia</ref></rs> is not hindered by 
+               <rs type="place"><ref source="place019">Japan</ref></rs> in the current war, <rs type="place"><ref source="place014">Russia</ref></rs> wants to become the main power of <rs type="place"><ref source="place024">Asia</ref></rs>.
+            </p>
+            <p>
+               However, <rs type="place"><ref source="place025">Austria</ref></rs>, because of their geographical position, is not able to conquer other parts of the world. There are no pathways with the oceans and prepared to even do so. 
+               <rs type="place"><ref source="place025">Austria</ref></rs> can also not take anything from its neighbours, the great powers of <rs type="place"><ref source="place014">Russia</ref></rs>, <rs type="place"><ref source="place010">Germany</ref></rs>, and 
+               <rs type="place"><ref source="place040">Italy</ref></rs>. What remains is that part of the world: the small <rs type="place"><ref source="place077">Balkan</ref></rs> countries: <rs type="place"><ref source="place066">Romania</ref></rs>, 
+               <rs type="place"><ref source="place112">Bulgaria</ref></rs>, <rs type="place"><ref source="place111">Serbia</ref></rs>, and <rs type="place"><ref source="place080">Montenegro</ref></rs> as well as old, weak <rs type="place"><ref source="place075">Turkey</ref></rs>. 
+               <rs type="place"><ref source="place025">Austria</ref></rs> wanted to take some of <rs type="place"><ref source="place075">Turkey</ref></rs> for itself wasn’t it for the other great powers standing in the way.
+            </p>
+            <p>
+               Now, Austrian politics addresses the <rs type="place"><ref source="place077">Balkan</ref></rs> in depth once again. But not only the other powers stand in its way, also some of its own people are against it. The Germans do not want 
+               <rs type="place"><ref source="place025">Austria</ref></rs> to have any more Slavics (Peoples on the <rs type="place"><ref source="place077">Balkan</ref></rs> are mostly Slavics), as <rs type="place"><ref source="place025">Austria</ref></rs> would become a
+               Slavic state causing the German influence to weaken. Hungarians are against it for the same reason, because they are scared of the slaves. Hungarians would prefer <rs type="place"><ref source="place025">Austria</ref></rs> to take 
+               <rs type="place" ><ref source="place076">Poland</ref></rs> away from <rs type="place"><ref source="place014">Russia</ref></rs>. First, they could take revenge on <rs type="place"><ref source="place014">Russia</ref></rs> which helped suppress them
+               in <date when="1848">1848</date>. Second, the new Slavs <rs type="place"><ref source="place025">Austria</ref></rs> would gain come from the Austrian side, not the Hungarian one, like the <rs type="place"><ref source="place077">Balkan</ref></rs> countries.
+            </p>
+            <p>
+               Having said the truth, Austrian politics might want to desire more of <rs type="place"><ref source="place076">Poland</ref></rs> - however, <rs type="place"><ref source="place014">Russia</ref></rs> is big and strong and is not to be messed with and 
+               <cb/>what remains is the <rs type="place"><ref source="place077">Balkan</ref></rs>. And now, <rs type="place"><ref source="place025">Austria</ref></rs> almost managed to win some land there. After the 
+               <ref source="https://www.wikidata.org/wiki/Q174205">Russo-Turkish war of <date when ="1877">1877</date></ref>, <rs type="place"><ref source="place025">Austria</ref></rs> got the approval of the <ref source="https://www.wikidata.org/wiki/Q151423">Berlin Congress</ref> 
+               to occupy two Turkish lands with its military for an undisclosed amount of time: <rs type="place"><ref source="place142">Bosnia</ref></rs> and <rs type="plcae"><ref source="place143">Herzegovina</ref></rs>. Ostensibly, both countries remain Turkish, but 
+               <rs type="place"><ref source="place025">Austria</ref></rs> is occupying both to establish order there. <rs type="place"><ref source="place014">Russia</ref></rs>, always the holder of the Slavic peoples, agreed to this, because <rs type="place"><ref source="place014">Russia</ref></rs> 
+               already agreed to <rs type="place"><ref source="place025">Austria</ref></rs> gaining <rs type="place"><ref source="place142">Bosnia</ref></rs>-<rs type="place"><ref source="place143">Herzegovina</ref></rs> before the war so <rs type="place" ><ref source="place025">Austria</ref></rs> 
+               would not interfere in the war.
+            </p>
+            <p>
+               However later on, <rs type="place"><ref source="place014">Russia</ref></rs> regretted this whole thing: It realised that <rs type="place"><ref source="place014">Russia</ref></rs> had gained nothing in the war while investing huge amounts of money into people. Meanwhile, 
+               <rs type="place"><ref source="place025">Austria</ref></rs>, which did nothing at all, gained two countries. <rs type="place"><ref source="place014">Russia</ref></rs> started to hold resentment against <rs type="place"><ref source="place025">Austria</ref></rs> and watched 
+               <rs type="place"><ref source="place025">Austria</ref></rs> as well as paid close attention to the countries on the <rs type="place"><ref source="place077">Balkan</ref></rs>. <rs type="place"><ref source="place025">Austria</ref></rs> should not be able to gain any more land.
+            </p>
+            <p>
+               To be clear, <rs type="place"><ref source="place142">Bosnia</ref></rs> and <rs type="place"><ref source="place143">Herzegovina</ref></rs> is not enough for <rs type="place"><ref source="place025">Austria</ref></rs>. These are two poor countries which only need to receive money. 
+               <rs type="place"><ref source="place025">Austria</ref></rs> also desires <rs type="place"><ref source="place081">Macedonia</ref></rs> with the port city <rs type="place"><ref source="place144">Thessaloniki</ref></rs>. If <rs type="place"><ref source="place025">Austria</ref></rs> took 
+               <rs type="place"><ref source="place144">Thessaloniki</ref></rs> in possession, it would gain access to the <rs type="place"><ref source="place141">Black Sea</ref></rs>, expand its trade and increase influence. But <rs type="place"><ref source="place014">Russia</ref></rs> stood in its 
+               path. Besides, Austrian politics sufficed to pay attention to the condition in the <rs type="place"><ref source="place077">Balkan</ref></rs> countries to stay as they are. That means, several small, but weak countries as to harm <rs type="place"><ref source="place025">Austria</ref></rs> 
+               should remain like this for a for years. Both <rs type="place"><ref source="place014">Russia</ref></rs> and <rs type="place"><ref source="place025">Austria</ref></rs> strive to gain influence there. <rs type="place"><ref source="place025">Austria</ref></rs> has the biggest authority in 
+               <rs type="place"><ref source="place145">Armenia</ref></rs>, <rs type="place"><ref source="place014">Russia</ref></rs> in <rs type="place"><ref source="place080">Montenegro</ref></rs>; the tables have turned in <rs type="place"><ref source="place112">Bulgaria</ref></rs> and 
+               <rs type="place"><ref source="place111">Serbia</ref></rs>. Some time <rs type="place"><ref source="place025">Austria</ref></rs> had more to say, some time <rs type="place"><ref source="place014">Russia</ref></rs> had more to say. Lately, both realised the great disorder prevailing 
+               in the <rs type="place"><ref source="place077">Balkan</ref></rs> countries. Every country does whatever they want as they are either reliant on <rs type="place"><ref source="place025">Austria</ref></rs> or <rs type="place"><ref source="place014">Russia</ref></rs>. Furthermore, 
+               both countries agreed to keep order and kept the <rs type="place"><ref source="place077">Balkan</ref></rs> countries to wage war with <rs type="place"><ref source="place075">Turkey</ref></rs> because of <rs type="place"><ref source="place081">Macedonia</ref></rs>. However, 
+               <rs type="place"><ref source="place075">Turkey</ref></rs> demanded to introduce reforms in Macedonia to reassure the Macedonians.
+            </p>
+            <p>
+               The Turkish, the <rs type="place"><ref source="place077">Balkan</ref></rs> countries, the Macedonians - until now they all had to stay quiet. But now, as <rs type="place"><ref source="place014">Russia</ref></rs>’s hands are tied in <rs type="place"><ref source="place024">Asia</ref></rs> 
+               because of the war with <rs type="place"><ref source="place019">Japan</ref></rs>, they are starting to bestir again. <rs type="place"><ref source="place075">Turkey</ref></rs> gathered a lot of military, <rs type="place"><ref source="place112">Bulgaria</ref></rs> is getting ready for war, 
+               and the Macedonians are restarting their revolution again.
+            </p>
+            <p>
+               And now the question remains: What will <rs type="place"><ref source="place025">Austria</ref></rs> do? - Voices multilaterally claim that <rs type="place"><ref source="place025">Austria</ref></rs>, which was not even afraid of <rs type="place"><ref source="place014">Russia</ref></rs>, 
+               will take the chance to occupy <rs type="place"><ref source="place081">Macedonia</ref></rs> and <rs type="place"><ref source="place144">Thessaloniki</ref></rs>. The Austrian government denies these allegations, mostly because it does not want to start off badly with 
+               <rs type="place"><ref source="place040">Italy</ref></rs>. Namely because <rs type="place"><ref source="place040">Italy</ref></rs> has also started to mingle in the <rs type="place"><ref source="place077">Balkan</ref></rs> affairs. It desires <rs type="place"><ref source="place146">Albania</ref></rs>. 
+               <rs type="place"><ref source="place025">Austria</ref></rs> on the other hand dislikes these schemes, because it does not want <rs type="place"><ref source="place040">Italy</ref></rs> to be its neighbour on all sides. But the
+            </p><pb/>
+            <fw style="text-align:center" rend="bold">- 3 -</fw>
+            <p>
+               <rs type="person"><ref source="person047">king</ref> of <rs type="place"><ref source="place040">Italy</ref></rs></rs> is the son-in-law of a Montenegrin prince and sees itself as a big part of the families of the <rs type="place"><ref source="place077">Balkan</ref></rs>.
+            </p>
+            <p>
+               In the end, it comes down to this: if a war breaks out on the <rs type="place"><ref source="place077">Balkan</ref></rs>, then <rs type="place"><ref source="place025">Austria</ref></rs> is going to use that opportunity to march into <rs type="place"><ref source="place081">Macedonia</ref></rs> 
+               with its military. It is going to occupy <rs type="place"><ref source="place111">Serbia</ref></rs> as well and <rs type="person"><ref source="person036">King Peter</ref></rs> will sit weak and alone on his throne, not being able to do anything. <rs type="place"><ref source="place014">Russia</ref></rs> 
+               will be indignant, but will also have to keep quiet temporarily. Only <rs type="place"><ref source="place075">Turkey</ref></rs>’s and <rs type="place"><ref source="place040">Italy</ref></rs>’s reactions are still unclear: Whether they are going to war with <rs type="place"><ref source="place025">Austria</ref></rs> 
+               or they want to reconcile with each other in peace. In any case, one thing is for sure: If war breaks out on the <rs type="place"><ref source="place077">Balkan</ref></rs>, <rs type="place"><ref source="place025">Austria</ref></rs> will have to intervene.
+            </p>
+         </div>
+         <div n="5">
+            <head><hi rend="bold">The <rs type="place"><ref source="place147">Zabolotiv</ref></rs> trials</hi></head>
+            <p>
+               Presently, a trial against the antisemite excess taking place in <rs type="place"><ref source="place148">Kolomyia</ref></rs>. The riot took place on <date when="1903-09-11">September 11th</date> of the previous year during the local fair in <rs type="place"><ref source="place147">Zabolotiv</ref></rs>. 
+               The accusatorial report reads as follows: On <date when="1903-09-11">September 11th</date> during the fair antisemitic riots started to rise. Several thousand farmers of the area gathered around and suddenly a rumour formed that Jews have murdered a farm woman and robbed 300 guilds. First the farmers 
+               gathered around the house of <rs type="person"><ref source="person203">Salomon Dulberg</ref></rs>, who had been threatened by a farmer before. Therefore, it is clear that the rumour has been spread on purpose to persecute Jews. The congregated farmers started to ransack the Jewish homes. But nobody had 
+               hurt anyone before, did not kill or rob a woman. The farmers searched the houses of <rs type="person"><ref source="person203">Dulberg</ref></rs>, <rs type="person"><ref source="person228">Chaim Loker</ref></rs>, <rs type="person"><ref source="person229">Dud Jupiter</ref></rs>, 
+               <rs type="person"><ref source="person230">Layzer Burg</ref></rs>, and <rs type="person"><ref source="person231">Feivel Enker</ref></rs>. As nothing of interest could be found, the mob started to become impatient and started to batter the Jewish people there who started to point at God. As the Jewish people 
+               had started to run away, the farmers threw stones at them, with frightening results. If individual Jews stayed in their houses, the mob attacked the houses, threw stones at them, and threatened to completely destroy them. At the shoemaker <rs type="person"><ref source="person230">Layzer Burg</ref></rs>’s 
+               place, the journeyman <rs type="person"><ref source="person232">Yirachmiel Gier</ref></rs> was found and beaten. Afterwards the farmers gathered in front of the house and started yelling, accusing the people inside as murderers. They smashed every window and did a lot of damage. They did the same thing 
+               to other houses in the same alley and other alleys as well. This excess during which a number of Jews were beaten, lasted for several hours until the police arrived and expelled the crowd.
+            </p>
+            <p>
+               As the charge claims, the excesses were neither planned nor bursted out of nowhere. The Jewish people hid in basements and attics. Furthermore, it was not possible to find all the farmers who participated in the riot. 31 accused farmers are standing on the dock. The trials will last over eight days. 
+               Over 110 witnesses have been summoned to court. The head of the jury court is regional court judge <rs type="person"><ref source="person233">Koronitzky</ref></rs>, the accessors are: the council members <rs type="person"><ref source="person234">Bilewicz</ref></rs>, <rs type="person"><ref source="person235">Vyshinksy</ref></rs>, 
+               <rs type="person"><ref source="person236">Dashevsky</ref></rs>, and <rs type="person"><ref source="person237">Feral</ref></rs>. Prosecutor <rs type="person"><ref source="person238">Drohobytskyi</ref></rs> represents the prosecution. The Jewish representative<cb/> is <rs type="person"><ref source="person239">Dr Zipser</ref></rs>. 
+               The judicial agents: <rs type="person"><ref source="person240">Hashevsky</ref></rs>, <rs type="person"><ref source="person241">Mislavski</ref></rs>, and <rs type="person"><ref source="person242">Yurtschenko</ref></rs>. The first day of the hearings resulted in nothing important. Some defendants and 
+               witnesses have been interrogated. The defendants deny everything.
+            </p>
+            <p>
+               The only interesting statement came from police chief <rs type="person"><ref source="person243">Jan <hi rend="italic">Orzech</hi></ref></rs>, who explained that there had been talks about antisemitic riots a few weeks prior. The farmers stated that 6,000 Cossacks would come and murder Jewish and Polish people. 
+               The witness informed the head of the provincial government about this, who in turn banned assemblies of the Ruthenian people.
+            </p>
+         </div>
+         <div n="6">
+            <head><hi rend="bold">Political news.</hi></head>
+            <p>
+               <hi rend="bold"><rs type="place"><ref source="place001">Austria-Hungary</ref></rs>.</hi> The delegation finished their consultations and agreed on an imperial decree. The emperor thanked the delegation through the minister count <rs type="person"><ref source="person060">Goluchowski</ref></rs> for their zealous 
+               work and approving everything the government demanded for the military: New cannons, new battleships and an augmentation of the military navy. - Rumour has it that the government will convoke the delegation again this year, namely in <date when="1904-05">May</date>. They should also handle the budget 
+               (regulation of revenues and expenses) for <date when="1905">1905</date>. The government wants everything to be finished in case it is necessary to dissolve the Hungarian Reichstag in case no delegation can be elected.
+            </p>
+            <p>The Austrian imperial assembly will convene on <date when="1904-03-08">March 8th</date> to consulate about the <hi rend="italic">recruit act</hi>, which is about how many soldiers should be drafted this year. The Czechs will obstruct the recruit act again until they sign the law as
+               always. If the government did not implement the law in parliament it has to revert to §14 . Still, the imperial assembly will be adjourned.
+            </p>
+            <p>
+               It is not certain yet what the end of the obstruction will be in <rs type="place"><ref source="place009">Hungary</ref></rs>. It seems that the obstruction will grow stronger because the opposition is not satisfied with the <rs type="person"><ref source="person061">minister of war</ref></rs>’s explanation 
+               about the concession of the Hungarian military. It seems as if the government needs to dissolve the Reichstag and call for re-elections.
+            </p>
+            <p>
+               <hi rend="bold"><rs type="place"><ref source="place075">Turkey</ref></rs>.</hi> The Turkish government shows once again that it does not intend to follow through with the reforms that <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs> 
+               are trying to implement in <rs type="place"><ref source="place081">Macedonia</ref></rs>. One point of the <ref source="https://www.wikidata.org/wiki/Q3406988">reformation</ref> intends to establish a police force in <rs type="place"><ref source="place081">Macedonia</ref></rs> under orders of foreign officers. At 
+               first, <rs type="place"><ref source="place075">Turkey</ref></rs> agreed which led to all powers to send high officers there for this reason. An Italian general has now been appointed to high command of the police. Suddenly, <rs type="place"><ref source="place075">Turkey</ref></rs> had the belief that according to 
+               Turkish religion a Christian is not allowed to command over Turks. Therefore, foreign officers can only be counselors to a Turkish commander. The other powers agreed because they did not want to bother with <rs type="place"><ref source="place075">Turkey</ref></rs>. Now, <rs type="place"><ref source="place075">Turkey</ref></rs> 
+               has introduced a new<cb/>request that the foreign officers should wear Turkish uniforms. <rs type="place"><ref source="place075">Turkey</ref></rs> claims that it is in everyone’s best interest because if the officers would wear foreign uniforms the Turkish people would recognise and persecute them. The powers do 
+               not want to agree on this term and it is uncertain who will execute it.
+            </p>
+            <p>
+               Generally, <rs type="place"><ref source="place075">Turkey</ref></rs> lifted its head a bit since the Russo-Japanese war. It is strongly trying to control the <rs type="place"><ref source="place077">Balkan</ref></rs> countries. <rs type="place"><ref source="place075">Turkey</ref></rs> is probably striving for war to take revenge.
+            </p>
+         </div>
+         <pb/>
+         <fw type="pageNum" style="text-align:center">- 3 -</fw>
+         <div n="7">
+            <head><hi rend="bold"> News.<lb/>Jewish news.</hi></head>
+            <p>
+               (<rs type="place"><ref source="place149">Krakow</ref></rs>). Not long ago, a fifteen year old, Jewish girl - <rs type="person">Gitel Epstein</rs> - went missing from a village. Now she has been found in a monastery in <rs type="place"><ref source="place149">Krakow</ref></rs>, where she had been baptised. The parents 
+               asked the court that the child be brought back to them. But because the parents were not married legally, the court refused their plea. They had lawfully wedded and their attorney demanded now to return their child to them. Until now, the court has not yet responded to the appeal.
+            </p>
+            <p>
+               (<rs type="place"><ref source="place150">Husiatyn</ref></rs>). A Jewish girl from <rs type="place"><ref source="place014">Russia</ref></rs> who wanted to go to their parents in <rs type="place"><ref source="place008">America</ref></rs> has been brought across the border by smugglers by night. Halfway there, they had been robbed and shot by Cosaks.
+            </p>
+            <p>
+               (<rs type="place"><ref source="place033">Warsaw</ref></rs>). Some Jewish soldiers have been hanged in the citadel because they wanted to desert the army.
+            </p>
+            <p>
+               (<rs type="place"><ref source="place151">Moscow</ref></rs>). Multiple Jewish merchants and artisans, whose parents had lived in <rs type="place"><ref source="place151">Moscow</ref></rs> for fifty years, have suddenly been banished from the city. The misery is great.
+            </p>
+            <p>
+               (<rs type="place"><ref source="place016">Homyel</ref></rs>). The Jewish emigration from our city is getting severe, in one day 300 Jewish families have left the city - From <rs type="place"><ref source="place152">Mohyliv-Podilskyi</ref></rs> and other provinces as well are Jews emigrating. In a short period of time over 1,200 Jews have emigrated from 
+               the province <rs type="place"><ref source="place153" >Kovel</ref></rs>.
+            </p>
+            <p>
+               (<rs type="place"><ref source="place035">Buchrest</ref></rs>). The government passed a new law against Jews. According to this law, Jews are only allowed to settle in a village only if the community agrees upon this and if they can provide proof of their morality from the village they have previously lived in.
+            </p>
+         </div>
+         <div n="8">
+            <head> Telegraphs. <lb/><rs type="place"><ref source="place025">Austria</ref></rs> and <rs type="place"><ref source="place075">Turkey</ref></rs>.</head>
+            <p>
+               <rs type="place"><ref source="place007">Vienna</ref></rs>. There are claims being said with certainty that the Austrian military will move into <cb/><rs type="place"><ref source="place081">Macedonia</ref></rs> next month. <rs type="place"><ref source="place025">Austria</ref></rs> asserts that according to article 25 of the 
+               <ref source="https://www.wikidata.org/wiki/Q1048169">Treaty of <rs type="place"><ref source="place031">Berlin</ref></rs></ref> that aside from <rs type="place"><ref source="place142">Bosnia</ref></rs> and <rs type="plcae"><ref source="place143">Herzegovina</ref></rs>, also a part of <rs type="place"><ref source="place081">Macedonia</ref></rs> up to the 
+               city of <rs type="place"><ref source="place154">Mitrovica</ref></rs> should be occupied. However, <rs type="place"><ref source="place075">Turkey</ref></rs> has to be informed beforehand.
+            </p>
+         </div>
+         <div n="9">
+            <head><hi rend="bold">The Russo-Japanese war.</hi></head>
+            <p>
+               <rs type="place"><ref source="place018">St Petersburg</ref></rs>. As is being reported, a lot of Japanese military personnel had arrived in <rs type="place"><ref source="place028">Manchuria</ref></rs>. <rs type="place"><ref source="place083">Port Arthur</ref></rs> is occupied. The Chinese ally with <rs type="place"><ref source="place019">Japan</ref></rs>. 
+               The Russian civilians are living in fear. Up until now, over 50,000 Japanese men have been dropped in <rs type="place"><ref source="place022">Korea</ref></rs>.
+            </p>
+            <p>
+               <rs type="place"><ref source="place083">Port Arthur</ref></rs>. The Japanese shelled <rs type="place"><ref source="place083">Port Arthur</ref></rs> during the night of <date when="1904-02-25">February 25th</date> and did damage. However, they have not managed to block the harbour or damage a battleship.
+            </p>
+            <p>
+               <rs type="place"><ref source="place018">St Petersburg</ref></rs>. <rs type="place"><ref source="place014">Russia</ref></rs> is very mad at <rs type="place"><ref source="place022">Korea</ref></rs> which went into an alliance with <rs type="place"><ref source="place019">Japan</ref></rs>, according to which 
+               <rs type="place"><ref source="place019">Japan</ref></rs> can do whatever it wants in <rs type="place"><ref source="place022">Korea</ref></rs>. <rs type="place"><ref source="place014">Russia</ref></rs> explains that the Korean emperor has been forced to enter into the contract. The contract is therefore devoid of any value.
+            </p>
+            <p>
+               <rs type="place"><ref source="place031">Berlin</ref></rs>. Local newspapers report that the outposts of the Japanese and Russian military encountered each other in <rs type="place"><ref source="place022">Korea</ref></rs> and shot at each other. The Japanese deny this. It is unknown who is telling the truth.
+            </p>
+            <p>
+               <rs type="place"><ref source="place007">Vienna</ref></rs>. Socialist students gathered in front of the Russian consulate and yelled: Down with <rs type="place"><ref source="place014">Russia</ref></rs>! - There are also reports about demonstrations against <rs type="place"><ref source="place014">Russia</ref></rs> in <rs type="place"><ref source="place149">Krakow</ref></rs>.
+            </p>
+            <p>
+               <rs type="place"><ref source="place156">London</ref></rs>. The <rs type="person"><ref source="person062">minister president</ref></rs> explained in parliament that <rs type="place"><ref source="place011">England</ref></rs> will fight tooth and nail against <rs type="place"><ref source="place014">Russia</ref></rs>, if they 
+               mingle on the issue of <rs type="place"><ref source="place122">Tibet</ref></rs>; <rs type="place"><ref source="place011">England</ref></rs> has the biggest right of influencing <rs type="place"><ref source="place122">Tibet</ref></rs>.
+            </p>
+            <p>
+               <rs type="place"><ref source="place095">Paris</ref></rs>. The minister of foreign affairs <rs type="person"><ref source="person063">Delcassé</ref></rs> apparently wants to terminate the <ref source="https://www.wikidata.org/wiki/Q243799">Franco-Russian Alliance</ref> because it is evident that <rs type="place"><ref source="place014">Russia</ref></rs> is weak.
+            </p>
+            <p>
+               <rs type="place"><ref source="place082">Vladivostok</ref></rs>. <rs type="place"><ref source="place019">Japan</ref></rs> is bombing the city.
+            </p>
+            <p>
+               <rs type="place"><ref source="place157">Cologne</ref></rs>. The “Kleine Zeitung” reports that people in <rs type="place"><ref source="place018">St Petersburg</ref></rs> are convinced that a war between <rs type="place"><ref source="place014">Russia</ref></rs> and <rs type="place"><ref source="place011">England</ref></rs> with <rs type="place"><ref source="place008">America</ref></rs> 
+               will break out soon. In this case, <rs type="place"><ref source="place010">Germany</ref></rs> and <rs type="place"><ref source="place045">France</ref></rs> would ally with <rs type="place"><ref source="place014">Russia</ref></rs>. Therefore, <hi rend="italic">World War</hi> will break out.
+            </p>
+            <p>
+               <rs type="place"><ref source="place018">St Petersburg</ref></rs>. News from <rs type="place"><ref source="place083">Port Arthur</ref></rs> reports that the Japanese will receive a command to charge <rs type="place"><ref source="place083">Port Arthur</ref></rs> on <date when="1904-03-01">March 1st</date>.
+            </p>
+            <p>
+               <rs type="place"><ref source="place018">St Petersburg</ref></rs>. The <rs type="person"><ref source="person050">tsar</ref></rs> decided that he will only make his way to the battlefield if his health allows it as is being rumoured in court circles.
+            </p>
+            <p>
+               <rs type="place"><ref source="place083">Port Arthur</ref></rs>. The Russian admiral <rs type="person"><ref source="person064">Stessel</ref></rs> commanded an order of the day, because the Japanese strive to conquer <rs type="place"><ref source="place083">Port Arthur</ref></rs> with all their might. Furthermore, it is the duty of all Russians to defend the city. We have to fight until we win or fall.
+            </p>
+         </div>
+         <fw type="footer">
+            <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <rs type="person">OSIAS H. WILF</rs> recte Weinstock 
+                  <lb/>Druck von <rs type="person">E. Salat</rs> Witwe des <rs type="person">U.W. Salat</rs>, <rs type="place"><ref source="place002">Lemberg</ref></rs> <rs type="place">Kasimirgasse 35</rs>
+            </foreign>
+         </fw>
       </body>
    </text>
 </TEI>

@@ -85,20 +85,16 @@
    </facsimile>
   <text>
       <body>
-         <div type="heading" n="1" style="one column;text-align:center">
-            
-            <p><foreign xml:lang="de">1.Jahrgang - Nr. 2</foreign> - 1st year</p>
-         </div>
-         <div type="title" n="1">
-            <head style="h1">
+         <fw type="head"><foreign xml:lang="de">1.Jahrgang - Nr. 2</foreign> - 1st year</fw>
+         <div n="1">
+            <head>
                <hi rend="bold">The Geniune Jew</hi>
             </head>
             <p>Organ for yiddish matters</p>
             <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
             <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
-         <div type="editorial" n="1" style="two columns">
-            <cb n="1"/>
+         <div n="2">
             <table rows="4" cols="2">
                <head>The Geniune Jew costs</head>
                <row role="data">
@@ -119,17 +115,16 @@
                </row>
             </table>
             <p><rs type="place">Lviv</rs>,<date when="1904-02-12"> Friday 12th 1904</date></p>
-            <cb n="2"/>
+            <cb/>
             <p>
-               <lb/>Adverts are cheaply calculated
+               Adverts are cheaply calculated
                <lb/>All letters and money send to:
                <lb/><foreign xml:lang="de">Redaction "Der Wahre Jude",<rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place"><ref source="place003">Sonnengasse 27</ref></rs></foreign>
                <lb/>The Genuine Jew is published every Friday.
                <lb/><foreign xml:lang="de"><rs type="place"><ref source="place002">Lemberg</ref></rs>, <date when="1904-02-12">den 12. Februar 1904</date></foreign>.</p>
          </div>
-         <lb/>
-         <div n="1">
-            <head style="text-align:center;"><hi rend="bold">Our religious education</hi></head>
+         <div n="3">
+            <head style="text-align:center"><hi rend="bold">Our religious education</hi></head>
             <p>“One could almost laugh about it, if it wasn’t so sad”... We can justifiably use this general idiom in regards to the religious education at our public schools when accusing our advanced Jewish people 
                that our religious education is substantially neglected. Our children grow up without a Jewish consciousness concerning religion and faith, they do not know anything about the Jewry, about Jewish celebrations, 
                or about Jewish music. The educated Jewry then points to the religious education in the schools, that a religious educator is employed in every school who is paid by the Jewish community, that a representative 
@@ -153,8 +148,8 @@
             </p>
             <p>
                But if a teacher who wants to take a stance against that and wants to convince the children that the religion he teaches is the true Jewry - then a fight against him rises. He gets reported to the Local 
-               Education Administration, an investigation against him gets instigated and he is</p>
-            <p style="text-align:center" rend="bold">[1]</p><pb/>
+               Education Administration, an investigation against him gets instigated and he is</p><pb/>
+            <fw style="text-align:center" rend="bold">- 2 -</fw>
             <p>being assaulted until he shuts up and is quiet.                
             </p>
             <p>
@@ -188,8 +183,7 @@
                The Truth
             </p>
          </div>
-         <lb/>
-         <div type="article" style="two columns" n="2">
+         <div n="4">
             <head><hi rend="bold">Letter from <rs type="place"><ref source="place009">Hungary</ref></rs></hi></head>
             <p>
                The Hungarian Jews, their lives, their political and economical situation, are not really known to our Jewish readers. The Hungarian Jew is a different “type”, he differs from the Polish and the German ones. 
@@ -212,8 +206,8 @@
             <p>
                This influence also proved useful in the case of the Sunday rest. Many pious Jewish people, especially in <rs type="place"><ref source="place006">Galicia</ref></rs>, suffer under the law of Sunday Rest. They close their shop on Sabbath 
                and also have to do so on Sunday. Closing their stores two days a week is difficult, especially for the little merchant. The Hungarian Jewish people managed to achieve some relief.
-            </p>
-            <p style="text-align:center" rend="bold">[2]</p><pb/>
+            </p><pb/>
+            <fw style="text-align:center" rend="bold">- 3 -</fw>
             <p>
                A few months ago, the government issued a decree for every tobacco shop to be open for business on Sabbath. The licence is to be revoked of those who keep it closed on Sabbath. This decree has been a 
                serious “punishment”. Several tobacconists, who didn’t want their licence to be revoked, and have therefore violated Sabbath. However, many pious Jewish people insisted and have not lost their livelihood over 
@@ -233,7 +227,7 @@
                they support the government and should therefore not make them suffer more. However, if the government forgets their duty, the Jewish people need to remind them as long as they are listened to. 
             </p>
          </div>
-         <div n="3">
+         <div n="5">
             <head><hi rend="bold">The War</hi>            
                <lb/>Between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs></head>
             <p>
@@ -258,12 +252,11 @@
             <p>
                No one can say for sure how long the war will last, but it seems like it will end soon. A long war, which will not be cheap for <rs type="place"><ref source="place014">Russia</ref></rs>, will cause revolutions inside the country. Rumour has it there are preparations 
                for a revolution in <rs type="place">Russian Poland</rs> already. Therefore, <rs type="place"><ref source="place014">Russia</ref></rs> needs to end the war soon to keep its own country in check. The idiom: “The camel wanted horns, but cut off the ears as well” became 
-               true for Russia now. Russia wanted </p>
-            <p style="text-align:center" rend="bold">[3]</p><pb/> 
+               true for Russia now. Russia wanted </p><pb/> 
+            <fw style="text-align:center" rend="bold">- 4 -</fw>
             <p>
                to invade foreign countries, but is now busy with its own land. 
             </p>
-            <lb/>
             <p>
                The whole world is now curious how this war will end - if <rs type="place"><ref source="place014">Russia</ref></rs> or <rs type="place"><ref source="place019">Japan</ref></rs> will emerge as victor. Never before has everyone been so invested in a war, which is happening in a 
                faraway country. Neither the war between <rs type="place"><ref source="place021">China</ref></rs> and <rs type="place"><ref source="place019">Japan</ref></rs> ten years ago nor the war between <rs type="place"><ref source="place043">Spain</ref></rs> and <rs type="place"><ref source="place094">America</ref></rs> 
@@ -301,10 +294,9 @@
                The Russo-Japanese war can therefore have set off another war which is of great interest to <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> as well as the whole world. - Besides, the whole world is greatly interested in the war in 
                <rs type="place"><ref source="place014">Russia</ref></rs> and expect daily news from the warside.
             </p>
-         </div>
-         <div><p style="text-align:center" rend="bold">[4]</p></div>
-         <lb/>
-         <div style="two columns" type="article" n="4">
+         </div><pb/>
+         <fw style="text-align:center" rend="bold">- 5 -</fw>
+         <div n="6">
             <head><hi rend="bold">The first Russian defeat.</hi></head>
             <p>
                <rs type="place"><ref source="place014">Russia</ref></rs> has already been harshly defeated in three battles on the ocean in the first few days of war. The first losses have shown that the Russian marines are not able to oppose the Japanese one on the water making one think the 
@@ -349,8 +341,8 @@
             <p>
                “On Monday, the Japanese troops, consiting of 15 battle ships, started to bomb the harbour of <rs type="place"><ref source="place083">Port Arthur</ref></rs>. We shot back from the fortress. After one hour, the Japanese stopped firing arms and left the harbour. Two officers and 54 soldiers are wounded, 
                10 soldiers have been killed. The Russian battle ships “Poltava”, “Diana”, “Askold”, and “Novik” have been
-            </p>
-            <p style="text-align:center" rend="bold">[5]</p><pb/> 
+            </p><pb/>
+            <fw style="text-align:center" rend="bold">- 6 -</fw> 
             <p>
                damaged. The fortress has not been badly damaged.”
             </p>
@@ -366,8 +358,7 @@
                Generally, the Russian defeats are confirmed to be greater and showed that there is not one capable admiral on the Russian fronts. <rs type="place"><ref source="place014">Russia</ref></rs> is on the best path to be completely defeated at sea.
             </p>
          </div>
-         <lb/>
-         <div style="two columns" type="article" n="5">
+         <div n="7">
             <head><hi rend="bold">The causes of the war.</hi></head>
             <p>
                The war between <rs type="place"><ref source="place014">Russia</ref></rs> and <rs type="place"><ref source="place019">Japan</ref></rs> broke out mainly because of <rs type="place"><ref source="place022">Korea</ref></rs> and <rs type="place">Manchuria</rs>. Meaning, <rs type="place"><ref source="place014">Russia</ref></rs> 
@@ -383,8 +374,8 @@
                After the last uprising in <rs type="place"><ref source="place021">China</ref></rs>, the <ref source="https://www.wikidata.org/wiki/Q150229">Boxer Rebellion</ref>, where the “Boxers” rose up against foreigners, every country sent their military there to suppress the rebellion. After the situation calmed down, everyone’s military 
                retreated, except for <rs type="place"><ref source="place014">Russia</ref></rs>, which stayed in the Chinese province of <rs type="place"><ref source="place028">Manchuria</ref></rs>. <rs type="place"><ref source="place014">Russia</ref></rs> occupied this region during the rebellion and refused to retreat. At first, it was looking 
                for different excused, but the other
-            </p>
-            <p style="text-align:center" rend="bold">[6]</p><pb/>
+            </p><pb/>
+            <fw style="text-align:center" rend="bold">- 7 -</fw>
             <p>
                governments demanded <rs type="place"><ref source="place014">Russia</ref></rs> to vacate the area - after that <rs type="place"><ref source="place014">Russia</ref></rs> forced <rs type="place"><ref source="place021">China</ref></rs> to enter in an agreement after which <rs type="place"><ref source="place014">Russia</ref></rs> 
                is allowed to keep occupying the province <rs type="place"><ref source="place028">Manchuaria</ref></rs> as long as it wants to. <rs type="place"><ref source="place028">Manchuria</ref></rs> should continue to be a Chinese province only by name. Because of the occupation of <rs type="place"><ref source="place028">Manchuria</ref></rs>, 
@@ -402,7 +393,7 @@
                rights with a blade. On Sunday then, the <hi rend="italic">war</hi> began. 
             </p>
          </div>
-         <div n="6">
+         <div n="8">
             <head><rs type="place"><hi rend="bold"><ref source="place019">Japan</ref></hi></rs>.<lb/>b.</head>
             <p>
                <rs type="place"><ref source="place019">Japan</ref></rs> mostly consists of mountains. There are several high mountains and even volcanoes, which means the mountain erupts fire. The climate there is healthy: in the summer there is a warm and moist south wind, in the winter it is cold, harsh north wind. The population grows continuously. 
@@ -418,8 +409,7 @@
                (To be continued).
             </p>
          </div>
-         <lb/>
-         <div type="news" style="two columns" n="1">
+         <div n="9">
             <head><hi rend="bold">News.</hi><lb/>Jewish News.</head>
             <p>
                (<rs type="place"><ref source="place002">Lviv</ref></rs>). This coming Shabbat in the evening the <ref source="https://www.wikidata.org/wiki/Q833536">Chasidim synagogue</ref> will be holding the general meeting of the חלואת חן (Chesed Channah) society at 7 PM.
@@ -444,9 +434,9 @@
             <p>
                (<rs type="place"><ref source="place097">Morocco</ref></rs>). In the city of <rs type="place"><ref source="place098">Settat</ref></rs>, persecutions against Jewish people broke out. While the Jewish people were doing their evening prayer in the Synagogue, Arabs ambushed their wives and 
                children, looted their houses. After they have killed numerous Jewish people, they took their women and children as captives. Over 300 houses were destroyed. The Arabs demand a lot of money to free the captives.
-            </p>
-         <p style="text-align:center" rend="bold">[7]</p></div><pb/>
-         <div type="news" style="two columns" n="2">
+            </p></div><pb/>
+         <fw style="text-align:center" rend="bold">- 8 -</fw>
+         <div n="10">
             <head>
                <hi rend="bold">General news.</hi>
             </head>
@@ -466,7 +456,7 @@
                (<rs type="place"><ref source="place184">Baltimore</ref></rs>). In this big American city, a massive fire broke out which has lasted four days already. Half of the city is burning. The damage is estimated at over 300 million dollars.
             </p>
          </div>
-         <div n="7">
+         <div n="11">
             <head><hi rend="bold">Feuilleton.</hi><lb/><rs type="person"><ref source="person046">Rabbi Meir</ref></rs> of <rs type="place"><ref source="place099">Rothenburg</ref></rs>. May his memory be a blessing.<lb/>(A historical retelling).<lb/>I</head>
             <p>
                This story we are telling here is historically true and happened in the old city of <rs type="place"><ref source="place099">Rothenburg</ref></rs> in <rs type="place"><ref source="place010">Germany</ref></rs>. In the thirteenth century - according to the Gregorian calendar - 
@@ -542,7 +532,7 @@
             </p>
             <p>(To be continued).</p>
          </div>
-         <div n="8">
+         <div n="12">
             <head><hi rend="bold">Letterbox.</hi></head>
             <p>
                To <rs type="person">Rabbi Moore</rs>. When you have been the sole Rabbi in a small town before, the <ref source="https://www.parlament.gv.at/dokument/XXIV/ME/199/fname_197101.pdf">decree of <date when="1890-03-21">March 21st 1890</date></ref> 
@@ -552,12 +542,12 @@
                Lessees with a liquor licence of casinos or other clubs are not allowed to sell beverages to their guests.
             </p>
          </div>
-         <div n="1">
+         <div n="13">
             <head>The editor does not take responsibility for the advertisements in this paper.</head>
-            <div type="ad" n="1" style="two columns">
+            <div type="ad" n="1">
                <head><hi rend="bold">Fine tea</hi></head>
                <p>
-               <lb/>If you want to drink pure, unadulterated tea, write to the address below,
+               If you want to drink pure, unadulterated tea, write to the address below,
                <lb/>1 kg fine, pure tea only 6 crowns.
                <lb/>There is also tea costing 3 to 10 crowns per kg.
                <lb/>Sample for free and prepaid.
@@ -565,10 +555,10 @@
                <lb/>Thee &amp; Caffe Lager.
                </p>
             </div>
-            <div type="ad" n="2" style="two columns">
+            <div type="ad" n="2">
                <head><hi rend="bold">The proof of the pudding</hi></head>
                <p>
-               <lb/>Is in the eating.
+               Is in the eating.
                <lb/>If you want a natural, working remedy for coughing, sore throats, congestion, against  digestive problems, lack of appetite or similar problems, you should try the remedy from the first 
                Austrian malt extract brewery of the brothers Bittman in <rs type="place"><ref source="place133">Razová</ref></rs> in <rs type="place"><ref source="place134">Silesia</ref></rs>:
                <lb/>Healthy Malt-Extract
@@ -581,7 +571,7 @@
                </p>               
             </div>
             <cb/>
-            <div n="3">
+            <div type="ad" n="3">
                <p>
                Stable employment
                <lb/>Fixed salary and provision after a trial period for every person who dedicates themselves to an agency in the countryside. Part-time employment possible. Expertise is not needed, reliability needed.
@@ -589,9 +579,9 @@
                <lb/><rs type="person"><ref source="person055">A. Hübscher</ref></rs>, <rs type="place"><ref source="place135">Prague</ref></rs>.
             </p>
             </div>
-            <div n="4">
+            <div type="ad" n="4">
                <head>
-                  <lb/><hi rend="bold">Coffee!</hi>
+                  <hi rend="bold">Coffee!</hi>
                   <lb/><hi rend="italic>">All natural!</hi>
                </head>
                <p>
@@ -619,15 +609,12 @@
                </p>
             </div>
          </div>
-         <div type="footer" style="one columns" n="1">
-            <p>
+         <fw type="footer">
                <foreign xml:lang="de">
                   Herausgeber und verantwortlicher Redact. <rs type="person"><ref source="person031">OSIAS H. WILF</ref></rs> recte Weinstock
                   <lb/>Druck von <rs type="person"><ref source="person032">E. Salat</ref></rs> Witwe des <rs type="person"><ref source="person033">U.W. Salat</ref></rs>, <rs type="place"><ref source="place002">Lemberg</ref></rs> <rs type="place"><ref source="place065">Kasimirgasse</ref> 35</rs>
                </foreign>
-            </p>
-            <p style="text-align:center" rend="bold">[8]</p>
-         </div>
+         </fw>
          <pb/>
       </body>
   </text>

@@ -28,23 +28,13 @@
             <date when="2025">2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
-                  <p>You are free to: Share — copy and redistribute the material in any medium or
-                     format; adapt — remix, transform, and build upon the material for any purpose,
-                     even commercially.</p>
-                  <p>The licensor cannot revoke these freedoms as long as you follow the license
-                     terms. Under the following terms:</p>
-                  <p>Attribution — You must give appropriate credit, provide a link to the license,
-                     and indicate if changes were made. You may do so in any reasonable manner, but
-                     not in any way that suggests the licensor endorses you or your use. No
-                     additional restrictions — You may not apply legal terms or technological
-                     measures that legally restrict others from doing anything the license
-                     permits.</p>
+                  <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  <p>The licensor cannot revoke these freedoms as long as you follow the licenseterms. Under the following terms:</p>
+                  <p>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No
+                     additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
                   <p>Notices:</p>
-                  <p>You do not have to comply with the license for elements of the material in the
-                     public domain or where your use is permitted by an applicable exception or
-                     limitation. No warranties are given. The license may not give you all of the
-                     permissions necessary for your intended use. For example, other rights such as
-                     publicity, privacy, or moral rights may limit how you use the material.</p>
+                  <p>You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the
+                     permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</p>
                </licence>
                <p>Copyright 2021 Österreichische Nationalbibliothek</p>
             </availability>
@@ -67,7 +57,7 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040301">
+   <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040304">
       <surface ulx="0" uly="0" lrx="4245" lry="6128" n="1">
          <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040304|1|100.0|0"/>
       </surface>
@@ -83,20 +73,16 @@
    </facsimile>
    <text>
       <body>
-         <div type="heading" n="1" style="one column">
-
-            <p><foreign xml:lang="de">1.Jahrgang Nr. 6 </foreign> 1st year</p>
-         </div>
-         <div type="title" n="1">
+         <fw type="head"><foreign xml:lang="de">1.Jahrgang Nr. 6 </foreign> 1st year</fw>
+         <div n="1">
             <head>
-               <hi rend="bold">The Geniune jew</hi>
+               <hi rend="bold">The Geniune Jew</hi>
             </head>
             <p>Organ for yiddish matters</p>
             <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
             <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
-         <div type="editorial" n="1" style="two columns">
-            <cb n="1"/>
+         <div n="2">
             <table rows="4" cols="2">
                <head>The Geniune Jew costs</head>
                <row role="data">
@@ -117,24 +103,19 @@
                </row>
             </table>
             <p><rs type="place">Lviv</rs>,<date when-iso="1904-03-04"> March 4th 1904</date></p>
-            <cb n="2"/>
+            <cb/>
             <p>
-               <lb/>Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign
-                  xml:lang="de">Redaction "Der wahre Jude",<rs type="place">Lviv</rs>, <rs
-                     type="place">Sonnengasse 27</rs></foreign>
-               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign
-                  xml:lang="de"><rs type="place">Lemberg</rs>, <date when-iso="1904-03-04">den 04.
-                     März 1904</date></foreign>.</p>
+               Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place">Lviv</rs>, <rs type="place">Sonnengasse 27</rs></foreign>
+               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign xml:lang="de"><rs type="place">Lemberg</rs>, <date when-iso="1904-03-04">den 04. März 1904</date></foreign>.</p>
          </div>
-         <lb/>
-         <div n="1">
+         <div n="3">
             <p>
                We ask our subscribers who paid for the “Genuine Jew” when it was published only once a week, to please send money to add to their subscription according to the current price of the newspaper. For those who do not 
                remargin, we will deduct the difference from their current subscription. This means those who subscribed for half a year will receive the paper for only four months. The same applies to yearly and quarterly subscribers. 
             </p>
             <p style="text-align:right">- The editorial office.</p>
          </div>
-         <div>
+         <div n="4">
             <head style="text-align:center"><hi rend="bold"><ref source="https://en.wiktionary.org/wiki/%D7%AA%D6%BC%D7%9C%D7%9E%D7%95%D7%93%D6%BE%D7%AA%D6%BC%D7%95%D7%A8%D7%94">Talmetoyre</ref></hi></head>
             <p style="text-align:center">The study of Torah is equivalent to all other commandments combined.</p>
             <p>
@@ -143,7 +124,7 @@
             </p>
             <p>
                The “talmetoyre” belongs to this sad chapter of our life. Talme-Toyre is the greatest commandment for us Jews, “The study of Torah is equivalent to all other commandments combined.”<cb/> our scholars, <ref source="https://www.wikidata.org/wiki/Q2902413">may their memory be a blessing</ref>
-               Our talme-toyre are [<hi rend="italic">more than anything else, heavily neglected</hi>. The more important a commandment is, the bigger we neglect them. The bigger the benefit, the less it is badly administered.
+               Our talme-toyre are <hi rend="italic">more than anything else, heavily neglected</hi>. The more important a commandment is, the bigger we neglect them. The bigger the benefit, the less it is badly administered.
             </p>
             <p>
                We do not need to tell you how important the Talme-Toyre is, every Jew understands that on their own. We are not only referring to learning the <ref source="https://www.wikidata.org/wiki/Q930585">Gemara</ref> and <ref source="place">Pirush Hamishnayot</ref> 
@@ -155,19 +136,10 @@
                Those who visit school, do not know about the Torah at all. They are being taught religion at school, but do not ask how. However, those children who do not visit a school, do not have a great knowledge. Their parents cannot 
                afford a tutor and without money, they cannot learn a lot.
             </p>
-         </div>
-         <div type="information" style="one column">
-            <p>We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the
-               voice of the upholders of religion) to send every letter and money to this
-               address:</p>
-            <p>OSIAS H. WILF, <rs type="place"><ref source="place002">LEMBERG</ref></rs>
-               <ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.</p>
-            <p style="text-align:center" rend="bold">[1]</p>
-         </div>
-         <pb/>
-         <div n="1">
-         </div>
-         <div type="article" style="two columns" n="3">
+            <fw type="footer">We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the voice of the upholders of religion) to send every letter and money to this address: 
+               <lb/>OSIAS H. WILF, <rs type="place"><ref source="place002">LEMBERG</ref></rs> <ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.
+            </fw><pb/>
+            <fw type="pageNum" style="text-align:center">- 2 -</fw>
             <p>
                It has always been like that poor parents were not able to provide an education. That is why every community founded a talmetoyre where a teacher taught and poor children could learn for free. Nowadays there is a talmetoyre in 
                every community - but in what condition? What do children learn there? What can they do when they finish it? These questions could anyone who has experienced these conditions themselves answer. 
@@ -186,7 +158,7 @@
                One of the Haredim              
             </p>
          </div>
-         <div>
+         <div n="5">
             <head style="text-align:center"><hi rend="bold">The Russo-Japanese war and the Russian Jews</hi></head>
             <p style="text-align:right">The Lord will fight for you, and you shall hold your peace!</p>
             <p>
@@ -223,8 +195,8 @@
                The Jewish people are confronted with the question: how should we behave in case a revolution breaks out? There are a lot of hot-headed Russian Jews who cannot wait to see <rs type="place"><ref source="place014">Russia</ref></rs> 
                fall. It is very likely that they will participate in a revolutionary movement. Generally, Jews are provoked by the government. They will be forced to donate huge sums of money for the means of war. Several big Jewish 
                communities had to donate thousands of rubles. Furthermore, the Jews have not forgotten the <rs type="place"><ref source="place015">Kishinev</ref></rs> trials which is taking place 
-            </p>
-            <p style="text-align:center" rend="bold">[2]</p>
+            </p><pb/>
+            <fw type="pageNum" style="text-align:center">- 3 -</fw>
             <p>
                every day at the moment. As this leads to dereliction and them doing whatever they want, some Russian newspapers have the audacity to demand the Jews to forgive and forget everything and instead be Russian patriots who want to 
                sacrifice themselves and their wealth for the fatherland. We found a letter in the <rs type="place"><ref source="place015">Chișinău</ref></rs> paper “Otkliki” in which a “Jew” feels free to write to Russian Jews: “Our brothers, 
@@ -248,39 +220,39 @@
                will fall into other hands, the war will end it, it will fall down and down until the lowest level. God will wage war for you and you should remain silent!
             </p>
             <p>
-               <rs type="person">Ben Salomon</rs>.
+               <rs type="person"><ref source="person221">Ben Solomon</ref></rs>.
             </p>
             <cb/>
          </div>
-         <div>
+         <div n="6">
             <head style="text-align:center"><hi rend="bold">Letter from <rs type="place"><ref source="place068">Romania</ref></rs>.</hi></head>
-         <p>   
-            Apart from <rs type="place"><ref source="place014">Russia</ref></rs>, <rs type="place"><ref source="place068">Romania</ref></rs> is the only other country where Jews suffer from laws of exceptional character, which means they are not 
-            equal to any other citizen, but those laws have been issued especially for Jewish people who suffer greatly. In some cases the situation for Romanian Jews is worse than for Russian Jews. <rs type="place"><ref source="place014">Russia</ref></rs> 
-            is an illiberal ruled country, which oppresses its whole citizenship, Jew or not. The Polish, the Armenians, the Finish are being particularly persecuted. If Jewish people suffer more than everyone else, but if the government improves, 
-            the situation for Jews will as well. 
-         </p>
-         <p>
-            However, <rs type="place"><ref source="place068">Romania</ref></rs> is a free country with a constitution; the level of freedom is great, as Romanians proclaim proudly; the French of the <rs type="place"><ref source="place077">Balkan</ref></rs>. 
-            They have a parliament, free press, freedom of thought and similar laws as in every European country. However, the 350,000 Jews living there are being oppressed and persecuted. Every citizen lives freely and unrestricted, only the Jewish 
-            people live in fear and fright. Their situation is bitter and the hatred towards them great.
-         </p>
-         <p>
-            Still, one should not assume that exceptional laws exist in the free country of <rs type="place"><ref source="place068">Romania</ref></rs>. No! That does not match with a civilised land. Furthermore, the <ref source="https://www.wikidata.org/wiki/Q1048169">Berlin congress in 1848</ref> 
-            only allowed <rs type="place"><ref source="place068">Romania</ref></rs> to be an independent country if the Jewish people were given the same laws as all citizens of the country. The Romanian laws do not mention the word “Jew”. The smart 
-            Romanians speculated by putting in the word “foreign” instead of “Jew”. Every citizen in <rs type="place"><ref source="place068">Romania</ref></rs> abides by the same laws, except for “foreigners” - and “foreigners” translate to “Jews”. 
-            Although they are born in the country like their parents and grandparents, served in the military, bear the weight of the country as everyone else - but they are still “foreigners” - and “foreigners” do not have any rights in 
-            <rs type="place"><ref source="place068">Romania</ref></rs>. Foreigners are not allowed to live in villages, foreigners are not allowed to supply the government, foreigners are not allowed to be lawyers, pharmacists, or labourers 
-            because whoever owns a bigger factory has to employ primarily domestic workers and not “foreigners”. The Romanian Jews are “foreigners” in <rs type="place"><ref source="place068">Romania</ref></rs>, but they do not have another 
-            home as they are indeed Romanians. Nobody attends to them, nobody cares about them. The great powers who signed the Treaty of <rs type="place"><ref source="place031">Berlin</ref></rs> protested a few times against this poor treatment 
-            of Jews, but <rs type="place"><ref source="place068">Romania</ref></rs> ignored that and remained silent. The powers on their side do not bother intermingling with the country’s “inner” affairs because of the Jewish people - they are 
-            still only <hi rend="italic">Jews</hi> after all. 
-         </p>
-         <p>
-            The reason why Jewish people are being treated so poorly in <rs type="place"><ref source="place068">Romania</ref></rs> - a country being governed so freely and liberally - is the following: the Romanian people consist mostly of farmers 
-            and are not very intelligent. The ministers, the generals, the high officials and the deputies
-         </p>
-            <p style="text-align:center" rend="bold">[3]</p>
+            <p>   
+               Apart from <rs type="place"><ref source="place014">Russia</ref></rs>, <rs type="place"><ref source="place068">Romania</ref></rs> is the only other country where Jews suffer from laws of exceptional character, which means they are not 
+               equal to any other citizen, but those laws have been issued especially for Jewish people who suffer greatly. In some cases the situation for Romanian Jews is worse than for Russian Jews. <rs type="place"><ref source="place014">Russia</ref></rs> 
+               is an illiberal ruled country, which oppresses its whole citizenship, Jew or not. The Polish, the Armenians, the Finish are being particularly persecuted. If Jewish people suffer more than everyone else, but if the government improves, 
+               the situation for Jews will as well. 
+            </p>
+            <p>
+               However, <rs type="place"><ref source="place068">Romania</ref></rs> is a free country with a constitution; the level of freedom is great, as Romanians proclaim proudly; the French of the <rs type="place"><ref source="place077">Balkan</ref></rs>. 
+               They have a parliament, free press, freedom of thought and similar laws as in every European country. However, the 350,000 Jews living there are being oppressed and persecuted. Every citizen lives freely and unrestricted, only the Jewish 
+               people live in fear and fright. Their situation is bitter and the hatred towards them great.
+            </p>
+            <p>
+               Still, one should not assume that exceptional laws exist in the free country of <rs type="place"><ref source="place068">Romania</ref></rs>. No! That does not match with a civilised land. Furthermore, the <ref source="https://www.wikidata.org/wiki/Q1048169">Berlin congress in 1848</ref> 
+               only allowed <rs type="place"><ref source="place068">Romania</ref></rs> to be an independent country if the Jewish people were given the same laws as all citizens of the country. The Romanian laws do not mention the word “Jew”. The smart 
+               Romanians speculated by putting in the word “foreign” instead of “Jew”. Every citizen in <rs type="place"><ref source="place068">Romania</ref></rs> abides by the same laws, except for “foreigners” - and “foreigners” translate to “Jews”. 
+               Although they are born in the country like their parents and grandparents, served in the military, bear the weight of the country as everyone else - but they are still “foreigners” - and “foreigners” do not have any rights in 
+               <rs type="place"><ref source="place068">Romania</ref></rs>. Foreigners are not allowed to live in villages, foreigners are not allowed to supply the government, foreigners are not allowed to be lawyers, pharmacists, or labourers 
+               because whoever owns a bigger factory has to employ primarily domestic workers and not “foreigners”. The Romanian Jews are “foreigners” in <rs type="place"><ref source="place068">Romania</ref></rs>, but they do not have another 
+               home as they are indeed Romanians. Nobody attends to them, nobody cares about them. The great powers who signed the Treaty of <rs type="place"><ref source="place031">Berlin</ref></rs> protested a few times against this poor treatment 
+               of Jews, but <rs type="place"><ref source="place068">Romania</ref></rs> ignored that and remained silent. The powers on their side do not bother intermingling with the country’s “inner” affairs because of the Jewish people - they are 
+               still only <hi rend="italic">Jews</hi> after all. 
+            </p>
+            <p>
+               The reason why Jewish people are being treated so poorly in <rs type="place"><ref source="place068">Romania</ref></rs> - a country being governed so freely and liberally - is the following: the Romanian people consist mostly of farmers 
+               and are not very intelligent. The ministers, the generals, the high officials and the deputies
+            </p><pb/>
+            <fw type="pageNum" style="text-align:center">- 4 -</fw>
             <p>
                of parliament are mostly immigrated Greeks and Bulgarians who exploits the Romanian people and control it however they want because they are afraid that the Romanian people should not wake up and let themselves be exploited by other 
                external forces as they want to keep <rs type="place"><ref source="place068">Romania</ref></rs> in darkness and fear as it always is with the <hi rend="italic">Jews</hi>. The Jew is an exploiter, a fraud, he does not work and lives 
@@ -300,11 +272,9 @@
                as well. As the Jewish people there are viewed as “foreigners” the government does not recognise their municipalities and communities. The rabbis have no say and no influence, schools have also been closed down on multiple occasions as 
                “foreigners” are not allowed to operate schools… The government has promised several times to improve the situation and to introduce an organisation for the community - but as usual, it does not keep its word.
             </p>
-            <p style="text-align:right">   
-               Salomo Fridman
-            </p>
+            <p style="text-align:right"><ref source="person244"><rs type="person">Solomo Fridman</rs></ref></p>
          </div>
-         <div>
+         <div n="7">
             <head style="text-align:center"><hi rend="bold">The second Kishinev trials</hi></head>
             <p>
                The second trial regarding the cruel pogrom which happened last year started these days in <rs type="place"><ref source="place015">Chișinău</ref></rs>. Like last time, the process was a sheer comedy. Out of 59 defendants who have been accused of 
@@ -326,10 +296,10 @@
                On February 26th, the third trial started, dealing with 50 accused. The trial will certainly end like the trials so far.
             </p>
          </div>
-         <div>
-            <head style="text-align:center"><hi rend="bold">Telegrams.<pb/>
-               The war.<pb/>
-               Between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs>.</hi></head>
+         <div n="8">
+            <head style="text-align:center"><hi rend="bold">Telegrams.
+               <lb/>The war.
+               <lb/>Between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs>.</hi></head>
             <p>
                <rs type="place"><ref source="place156">London</ref></rs>. News from <rs type="place"><ref source="place022">Korea</ref></rs> reports that the Japanese managed to position the military close to the <rs type="place"><ref source="place190">Taedong River</ref></rs>. 
                The Japanese have already stationed a large number of infantry there which is exemplarily organised and armed. 
@@ -350,8 +320,8 @@
             </p>
             <p>
                <rs type="place"><ref source="place086">Tokyo</ref></rs>. The Japanese stormed the stronghold of <rs type="place"><ref source="place083">Port Arthur</ref></rs> again in the past few days and caused severe damage. Some Russian ships left the harbour to 
-            </p>
-            <p style="text-align:center" rend="bold">[4]</p>
+            </p><pb/>
+            <fw type="pageNum" style="text-align:center">- 5 -</fw>
             <p>
                bombard the Japanese fleet, but they needed to retreat right away. Two ships sank.
             </p>
@@ -400,8 +370,8 @@
                not happen in the near future. 
             </p>
          </div>
-         <div>
-            <head style="text-align:center"><hi rend="bold">The incidents on the Balkan.</hi></head>
+         <div n="9">
+            <head style="text-align:center"><hi rend="bold">The incidents on the <rs type="place"><ref source="place077">Balkan</ref></rs>.</hi></head>
             <p>
                <rs type="place"><ref source="place117">Constantinople</ref></rs>. <rs type="place"><ref source="place112">Bulgaria</ref></rs> and <rs type="place"><ref source="place075">Turkey</ref></rs> have finally come to an agreement. <rs type="place"><ref source="place075">Turkey</ref></rs> 
                promises to take in the Macedonian refugees again, a general amnesty (refraining from punishments), and to repeal the exception laws. <rs type="place"><ref source="place112">Bulgaria</ref></rs> in turn pledges to suppress the revolutionary movements in 
@@ -422,51 +392,46 @@
                <rs type="place"><ref source="place135">Prague</ref></rs>. Several Bohemian cities report on the preparations to mobilise (calling in the reserves and preparing the regiments for war) the military.
             </p>
          </div>
-         <div>
+         <div n="10">
             <head style="text-align:center"><hi rend="bold">The <rs type="place"><ref source="place147">Zabolotiv</ref></rs> trials</hi></head>
             <p>
                <rs type="place"><ref source="place148">Kolomyia</ref></rs>. The trials about the <rs type="place"><ref source="place147">Zabolotiv</ref></rs> pogroms have already lasted a whole week. Most witnesses confirm  the accusations. It becomes apparent that the persecutions were not systematically planned, but that the 
                people had been intensely incited by antisemites. It had been sufficient that one person started to cry against the Jews that everyone joined and believed what was said. Several more witnesses will be summoned to court and the trial will take another whole week.
             </p>
          </div>
-         <div>
+         <div n="11">
             <head style="text-align:center"><hi rend="bold">News.<pb/> Jewish news.</hi></head>
             <p>
-               
                (<rs type="place"><ref source="place194">Pomorjany</ref></rs>). A Jew from <rs type="place"><ref source="place195">Dynów</ref></rs> who has recently passed our city, has asked his waggoner something in Polish in the middle of the central plaza. A Ruthanian farmer who heard 
                this by chance attacked the Jew in outrage and yelled: “Cursed Jew! Lives on Ruthanian soil, eats Ruthanian bread, and speaks Polish!” He started to beat the Jew with a big stick, who could barely escape. - The Jews do not know what to do anymore, how they should speak; 
                everything is bad. The Polish yell at them that they are German because they speak Yiddish which is similar to German.
-            </p>
-            <p style="text-align:center" rend="bold">[5]</p>
+            </p><pb/>
+            <fw type="pageNum" style="text-align:center">- 6 -</fw>
             <p>
                If they speak Polish, the Ruthanians fall into rage. Whatever they do, nobody is pleased.
             </p>
             <p>
-               
                (<rs type="place"><ref source="place030">Budapest</ref></rs>). We found interesting information about Hungarian Jews as estate owners in a Christian book. 2,788 bigger estates (over 100 yoke) which add up to 2,619,300 yoke of fields are in possession of Jews. Minor estates, 
                which are smaller than 100 yoke and owned by Jews, sum up to 1,000,000 yoke. That is 1/12 of all of <rs type="place"><ref source="place009">Hungary</ref></rs>. Jews own 65 % of all leased estates, over 3,000,000 yoke. In total, Hungarian Jews hold around 8,000,000 yoke. That 
                is 37 % or more than 1/3 of <rs type="place"><ref source="place009">Hungary</ref></rs>. 
             </p>
             <p>
-               
                (<rs type="place"><ref source="place156">London</ref></rs>). Soon, the new law against immigration will be discussed in parliament. So far, the English Jews keep quiet about the matter as if it does not affect them at all. If the law is passed, Jewish immigration to 
                <rs type="place"><ref source="place011">England</ref></rs> will be near impossible. 
             </p>
             <p>
-               
                (<rs type="place"><ref type="place018">St Petersburg</ref></rs>). 500,186 Jewish craftsmen, coachmen, water bearers, lumberjacks, excavators and 99,000 in similar occupations live in <rs type="place"><ref source="place014">Russia</ref></rs>. 10,721 Jewish families or 68,959 
                souls work in agriculture. The number of factory workers in <rs type="place"><ref source="place014">Russia</ref></rs> (except for <rs type="place"><ref source="place076">Congress Poland</ref></rs> and the <rs type="place"><ref source="place196">Kherson</ref></rs> Governorate) 
                is 33,133. The number of <rs type="place"><ref source="place014">Russia</ref></rs> and the <rs type="place"><ref source="place196">Kherson</ref></rs> Governorate are not known. 
             </p>
             <p>
-               
                (<rs type="place"><ref source="place187">Kyiv</ref></rs>). The new general governor of <rs type="place"><ref source="place187">Kyiv</ref></rs>, General <rs type="place"><ref source="person075">Fyodor Trepov</ref></rs> who was the city chief of <rs type="place"><ref type="place018">St Petersburg</ref></rs> 
                before where he oppressed and persecuted Jews massively, has started to treat Jews rigorously here as well. He tightened the regulations concerned with the Jewish right of residence and ordered police to check if Jews who are not allowed to reside in <rs type="place"><ref source="place187">Kyiv</ref></rs>, 
                live there. - Once the first news about Russian defeats in the war with <rs type="place"><ref source="place019">Japan</ref></rs>; the general governor called for the provosts of the Jewish community and told them: “I have heard you delight in our defeats. I want to give you a warning that if you do not 
                participate in patriotism like the Russians do, you should remember what happened in <rs type="place"><ref source="place015">Kishinev</ref></rs>”! - The Jews understood what he meant and prayed for the Russians in schools and donated a huge sum for the matters of war the next day.
             </p>
          </div>
-         <div>
+         <div n="12">
             <head>Feuilleton<lb/>
                <rs type="person"><ref source="person046">Rabbi Meir</ref></rs> of <rs type="place"><ref source="place099">Rothenburg</ref></rs>.<lb/>
                (A historical retelling).<lb/>
@@ -510,8 +475,8 @@
                lost their wealth and trade, whose houses burn down with the rest of their belongings; who should be able to compensate for the losses? We Jews know exactly what our duty, our obligation to the fatherland and our emperor, 
                who protects us against raiders and greedy people, is. We will pay every tax and every compensation the government bestows on us with pleasure. Cheerfully we will gather every charitable gift from our rich brothers who are 
                able to pay for the poor ones as well. The capitalists should give money to those who are not wealthy. We will try as hard as possible. Then you will see, gracious prince, that the war taxes we may pay, is not something new that<pb/>
-            </p>
-            <p style="text-align:center" rend="bold">[6]</p>
+            </p><pb/>
+            <fw type="pageNum" style="text-align:center">- 7 -</fw>
             <p>
                we should be able to fulfill easily. It has been around ten years since we started paying war taxes patiently and have become impoverished. Nothing remained, but real property, but we do not own money or valuables anymore. 
                Still we cannot evade the government’s will completely and I strive as much as I can to call in a meeting where we can discuss how to best help the rulers. I promise in my honour that we will do whatever is possible to 
@@ -521,10 +486,9 @@
                (To be continued).
             </p>
          </div>
-         <div>
+         <div n="13">
             <head style="text-align:center"><hi rend="bold">Will <rs type="place"><ref source="place014">Russia</ref></rs> lose the war?</hi><lb/>
                (A little story of a war where <rs type="person"><ref source="person077">Peter the Great</ref></rs> has been defeated with an army of 80,000 men against a small army with a brave king.)</head>
-            
             <p>
                The main talking point these days is the conflict between <rs type="place"><ref source="place014">Russia</ref></rs> and <rs type="place"><ref source="place019">Japan</ref></rs>. Now it would be interesting to turn to a little 
                bit of history which occurred two hundred years ago. This is a story about how <rs type="person"><ref source="person078">Carl XII</ref></rs>, the young king of <rs type="place"><ref source="place197">Sweden</ref></rs> defeated 
@@ -577,8 +541,8 @@
                himself with 8,000 men (the others were farther behind) against the first partition of <rs type="person"><ref source="person077">Peter the Great</ref></rs>’s army. He soon decided to break the enemy lines although he was aware of the numbers. At that point there were 5,000 soldiers at a passage 
                between rocky mountains. There, hundred men could repulse a massive army. - The courageous attack of <rs type="person"><ref source="person078">Carl</ref></rs>’s army alarmed the Russians that they wondered about the size of <rs type="person"><ref source="person078">Carl</ref></rs>’s army and ran 
                away after the first meeting. As the 5,000 soldiers
-            </p>
-            <p style="text-align:center" rend="bold">[7]</p>
+            </p><pb/>
+            <fw type="pageNum" style="text-align:center">- 8 -</fw>
             <p>
                fled, further 20,000 were awe-struck at a point further down and this distressed a third Russian camp. That is how King <rs type="person"><ref source="person078">Carl</ref></rs> broke through the Russian camps and as he saw that as three particularly massive victories he was undeterred. 
             </p>
@@ -602,12 +566,12 @@
                He later returned the swords to the Russian officials and helped them out financially. <rs type="person"><ref source="person077">Peter</ref></rs> turned around in <rs type="place"><ref source="place151">Moscow</ref></rs> with his head down.
             </p>
          </div><cb/>
-         <div>
+         <div n="14">
             <head>The editor does not take responsibility for the advertisements in this paper.</head>
-            <div>
+            <div type="ad" n="1">
                <head>The proof of the pudding</head>
                <p>
-                  <lb/>Is in the eating.
+                  Is in the eating.
                   <lb/>If you want a natural, working remedy for coughing, sore throats, congestion, against  digestive problems, lack of appetite or similar problems, you should try the remedy from the first 
                   Austrian malt extract brewery of the brothers Bittman in <rs type="place"><ref source="place133">Razová</ref></rs> in <rs type="place"><ref source="place134">Silesia</ref></rs>:
                   <lb/>Healthy Malt-Extract
@@ -619,9 +583,9 @@
                   <lb/>Half a box: 6 jars 92-94 crowns. A whole box: 12 jars 70-78 crowns. Payment on delivery.
                </p>               
             </div>
-            <div>
+            <div type="ad" n="2">
                <head>
-                  <lb/><hi rend="bold">Coffee!</hi>
+                  <hi rend="bold">Coffee!</hi>
                   <lb/><hi rend="italic>">All natural!</hi>
                </head>
                <p>
@@ -661,7 +625,7 @@
                   <rs type="person">Berger Ernö</rs>, <rs type="place"><ref source="place058">Fuime</ref></rs>.
                </p>
             </div>
-            <div style="text-align:center">
+            <div style="text-align:center" type="ad" n="3">
                <p>Bank and exchange business
                   <lb/>ROHAYTN &amp; ULAM
                   <lb/><foreign xml:lang="de"><rs type="place"><ref source="place002">Lemberg</ref></rs>, <rs type="place"><ref source="place186">Syxtuskagasse</ref></rs> 8.</foreign>
@@ -673,17 +637,10 @@
                   <lb/>Easy, low-interest loans available.</p>
             </div>
          </div>
-         <div type="footer" style="one columns" n="1">
-            <p>
-               <foreign xml:lang="de">
-                  <lb/>Herausgeber und verantwortlicher Redact. <rs type="person">OSIAS H. WILF</rs>
-                  recte Weinstock <lb/>Druck von <rs type="person">E. Salat</rs> Witwe des <rs
-                     type="person">U.W. Salat</rs>, <rs type="place"><ref source="place002"
-                        >Lemberg</ref></rs>
-                  <rs type="place"><ref source="place065">Kasimirgasse 35</ref></rs>
-               </foreign>
-            </p>
-         </div>
+         <fw type="footer">
+               <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <rs type="person">OSIAS H. WILF</rs> recte Weinstock 
+               <lb/>Druck von <rs type="person">E. Salat</rs> Witwe des <rs type="person">U.W. Salat</rs>, <rs type="place"><ref source="place002">Lemberg</ref></rs> <rs type="place"><ref source="place065">Kasimirgasse 35</ref></rs></foreign>
+         </fw>
       </body>
    </text>
 </TEI>

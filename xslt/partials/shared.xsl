@@ -647,8 +647,14 @@
         </div> 
     </xsl:template>
     
-    <xsl:template match="tei:head[@style='text-align:center']">
-        <head align="center"><xsl:apply-templates/></head>
+    <xsl:template match="tei:head">
+        <head>
+            <xsl:choose>
+                <xsl:when test="@style='text-align:center'">
+                    <xsl:attribute name="align">center</xsl:attribute>
+                </xsl:when>
+            </xsl:choose>
+        </head>
     </xsl:template>
     <xsl:template match="tei:table[@style='text-align:center']">
         <table align="center"><xsl:apply-templates/></table>

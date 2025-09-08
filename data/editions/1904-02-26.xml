@@ -85,11 +85,8 @@
    </facsimile>
   <text>
       <body>
-         <div type="heading" n="1" style="one column">
-            
-            <p><foreign xml:lang="de">1.Jahrgang 	Nr. 4 </foreign>	1st year</p>
-         </div>
-         <div type="title" n="1">
+         <fw><foreign xml:lang="de">1.Jahrgang 	Nr. 4 </foreign>	1st year</fw>
+         <div n="1">
             <head>
                <hi rend="bold">The Geniune Jew</hi>
             </head>
@@ -97,8 +94,7 @@
             <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
             <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
-         <div type="editorial" n="1" style="two columns">
-            <cb n="1"/>
+         <div n="2">
             <table rows="4" cols="2">
                <head>The Geniune Jew costs</head>
                <row role="data">
@@ -119,16 +115,15 @@
                </row>
             </table>
             <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-02-19"> Friday 26th 1904</date></p>
-            <cb n="2"/>
+            <cb/>
             <p>
-               <lb/>Adverts are cheaply calculated
+               Adverts are cheaply calculated
                <lb/>All letters and money send to:
                <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place"><ref source="place003">Sonnengasse 27</ref></rs></foreign>
                <lb/>The Genuine Jew is published every Friday.
                <lb/><foreign xml:lang="de"><rs type="place"><ref source="place002">Lemberg</ref></rs>, <date when-iso="1904-02-26">den 26. Februar 1904</date></foreign>.</p>
          </div>
-         <lb/>
-         <div type="article" style="two columns" n="1">
+         <div n="3">
            <head><hi rend="bold">The Genuine Jew
             <lb/>Twice a week</hi></head>
             <p>We are delighted to announce to our readers and our friends that our hope with “The Genuine Jew”, to create a readership and be of use for our brothers, especially our pious brothers, was fulfilled. Already, after 
@@ -137,8 +132,8 @@
             <p>Not only the news about the war made people interested in this paper. From all over, people tell us that the audience, especially our Orthodox brothers who are the reason we established the paper, are very satisfied. 
                The articles mainly focusing on Jewish topics proved popular among the general public. For the first time, there is a Jewish newspaper in <rs type="place"><ref source="place006">Galicia</ref></rs> which every pious Jew 
                can read, including his wife and children without having to fear to stray from the path of righteousness.</p>
-            <p>The audience is content with us and we are content with the audience. This mutual satisfaction allows us to improve and prosper our paper.</p>
-            <p style="text-align:center">[1]</p>
+            <p>The audience is content with us and we are content with the audience. This mutual satisfaction allows us to improve and prosper our paper.</p><pb/>
+            <fw style="text-align:center">- 2 -</fw>
             <p>Voices from different quarters ask for the paper to be released <hi rend="italic">daily</hi>, but we want to follow what our scholars of blessed memories have said: “If you grasp too much, you will grasp nothing” 
                and not to put too much work on our backs. Therefore, we decided to first  carry out a small test, namely: from next week on </p>
             <p style="text-align:center" rend="bold">The Genuine Jew
@@ -166,7 +161,7 @@
             <p style="text-align:center">Single Issues: Friday 10 heller, Tuesday 6 heller.</p>
             <p style="text-align:right">The editorial office.</p>
          </div>
-         <div type="article" style="one column" n="2">
+         <div n="4">
             <head rend="bold" style="text-align:center">The cultus elections in <rs type="place"><ref source="place002">Lviv</ref></rs></head>
             <p>In the first articles of three issues of “The Genuine Jew” various writers rightfully pointed at several important questions regarding Jewish existence which are not handled as they should be. The writers allude 
                to our ample negligence of Jewry as in every nook we are pointing to in order to criticize. The upbringing of our children, our religious education, our rabbis; briefly speaking: at home, in school and even in the 
@@ -176,7 +171,8 @@
                they are dependent on our cultus board and therefore do not dare to open their mouth and demand for things to improve.</p>
             <p>And here we come to our main conclusion to our question: Who is at fault? Guilty is our cultus board, the leaders of our communities.  They are not taking a stance and act correctly according to their duty.</p>
             <p>The communities act as  autonomous bodies. This means they have the right to manage all affairs regarding their community on their own</p>
-            <p style="text-align:center" rend="bold">[2]</p><pb/>
+            <pb/>
+            <fw style="text-align:center" rend="bold">- 2 -</fw>            
             <p>without anyone intervening. In any other nation an autonomous entity like this would act in favour of its own people. It would use its force and influence to improve the prevailing conditions. Here however, it is 
                different. Our ministry of cultural affairs mainly consists of mere <hi rend="italic">chanceries</hi>. Books are taken care of, they stipulate how things should be running. There is an accountant, a cashier, and a 
                controller. The council gets together every once in a while to talk about current matters, a bit about politics, about the Landtag elections and things like that. But they do not talk about Jewish matters, about 
@@ -199,7 +195,7 @@
                everything will gradually improve.</p>
                <p style="text-align:right">- The observer.</p>
          </div>
-         <div type="article" style="two columns" n="3">
+         <div n="5">
             <head style="text-align:center"><hi rend="bold">Our daughter’s education.
                <lb/>II.</hi>
             </head>
@@ -216,8 +212,8 @@
                learn a bit of Jewish history, they need to know how much the Jewish people have suffered for their religion and their faith, how many martyrs have devoted themselves, were burnt and drowned for our holy religion. 
                They therefore should be planted deep in the young hearts, love, and respect for their people, their religion, to their customs, and their performances. At that time, the honest, pious Jew has not been the target 
                of mockery, at that time they were not looked at like people from past generations, at that time they felt what every pious Jew felt, back then they would know that they are
-            </p>
-            <p style="text-align:center">[3]</p><pb/>
+            </p><pb/>
+            <fw style="text-align:center">- 4 -</fw>
             <p>
                Jewish daughters, that they have Jewish duties. At that time, the old, magnificent Jewish family life could develop and it will be as it was written in the scripture: May peace dwell in your community and tranquillity 
                in your homes!
@@ -233,7 +229,7 @@
             </p>
             <p style="text-align:right">Ben Solomon.</p>
          </div>
-         <div type="article" style="two columns" n="4">
+         <div n="6">
             <head rend="bold" style="text-align:center">The luxury
                (<lb/>A letter to the editor.)
             </head>
@@ -269,14 +265,17 @@
             </p>
             <p style="text-align:right" rend="italic">Shikleh from <rs type="place"><ref source="place159">Tyszmenica</ref></rs></p>
          </div>
-         <div type="article" n="5">
+         <div n="7">
             <head style="text-align:center" rend="bold">Jewish squires and estate tenants in East <rs type="place"><ref source="place006">Galicia</ref></rs>.</head>
             <p>
                In a recently published book about the circumstances of the squires in East <rs type="place"><ref source="place006">Galicia</ref></rs> I noticed several interesting bits of information about the Jewish involvement 
                in estate ownership as owners of tenants as well as owners and tenants of brandy distilleries. 
             </p>
             <p>
-               The book’s author, a Ruthenian, mainly addresses 15 East Galician districts where mainly Ruthenians live. He proves that of the 477 farms situated in these districts, 42 % of these are owned<pb/> by tenants. This means 
+               The book’s author, a Ruthenian, mainly addresses 15 East Galician districts where mainly Ruthenians live. He proves that of the 477 farms situated in these districts, 42 % of these are owned
+               <pb/> 
+               <fw style="text-align:center">- 5 -</fw>
+               by tenants. This means 
                the owners do not maintain the farms on their own, but leased the harvest to a third person. In the districts of <rs type="place"><ref source="place160">Podolia</ref></rs>, 57 % are owned by tenants, in the 
                <rs type="place"><ref source="place161">Złotów</ref></rs> district 36 %, in the <rs type="place"><ref source="place150">Husiatyn</ref></rs> district 33 %, in the <rs type="place"><ref source="place162">Zalishchyky</ref></rs> 
                district 80 %, in <rs type="place"><ref source="place163">Kosiv</ref></rs> district 71 %, in the <rs type="place"><ref source="place164">Kamianka-Buzka</ref></rs> district 62 %, in the <rs type="place"><ref source="place165">Budaniv</ref></rs> 
@@ -345,7 +344,7 @@
                According to these statistics, one might believe that the Jews in East <rs type="place"><ref source="place006">Galicia</ref></rs> are very rich and everyone is well off. In reality, poverty is dire and only a very small part is wealthy.
             </p>
          </div>
-         <div type="article" n="6">
+         <div n="8">
             <head style="text-align:center" rend="bold">The world war.</head>
             <p>
                Lately, rarely any news of the Russo-Japanese war has been reported. As the first Japanese victories at sea have destroyed the Russian force, the Japanese now control the marines and can do whatever 
@@ -358,9 +357,9 @@
                However, the world’s interest shifts to other nooks. There might be a war breaking out between <rs type="place"><ref source="place112">Bulgaria</ref></rs> and <rs type="place"><ref source="place075">Turkey</ref></rs>, 
                in which <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> would be involved. Some even say that <rs type="place"><ref source="place025">Austria</ref></rs> has already given the order to
                mobilise the military. Officially it is still denied. But it is known that it has to be denied officially as to keep it a secret - it can still be the truth. - <rs type="place"><ref source="place014">Russia</ref></rs>
-               will certainly not be happy that <rs type="place"><ref source="place025">Austria</ref></rs> is intervening without their approval and will occupy Macedonia. It <pb/>
-            </p> 
-            <p>
+               will certainly not be happy that <rs type="place"><ref source="place025">Austria</ref></rs> is intervening without their approval and will occupy Macedonia. It 
+               <pb/>
+               <fw style="text-align:center">- 6 -</fw>
                has however drawn heavily on its ressources because of the war with <rs type="place"><ref source="place019">Japan</ref></rs> and cannot be bothered with it. But it has been said that 
                <rs type="place"><ref source="place040">Italy</ref></rs> will join forces with <rs type="place"><ref source="place014">Russia</ref></rs> in that case and go against <rs type="place"><ref source="place001">Austria-Hungary</ref></rs>. 
                In this case we would also have an <hi rend="italic">Austrian-Italian</hi> war as well. <rs type="place"><ref source="place010">Germany</ref></rs> also does not want to watch from afar but 
@@ -394,7 +393,7 @@
                What will be the end of war? - Who could possibly know that now! In any case, big things are happening. 
             </p>
          </div>
-         <div type="article" n="7">
+         <div n="9">
             <head style="text-align:center"><hi rend="bold">The war
                <lb/>between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs>.</hi>
             </head>
@@ -457,7 +456,8 @@
                The Russian battleships in <rs type="place"><ref source="place082">Vladivostok</ref></rs> still remain in the harbour and are afraid to venture out as the Japanese 
                battleships are stationed close to the harbour.
             </p>
-            <p>[6]</p>
+            <pb/>
+            <fw style="text-align:center">- 7 -</fw>
             <p>
                A prove how negligent the Russian military is might be this fact: while the Japanese battleship fired at <rs type="place"><ref source="place83">Port Arthur</ref></rs>, 
                destroying several ships, the Russian marine officers were visiting the circus and were entertained.
@@ -482,7 +482,7 @@
                Meanwhile, there are great preparations for a <hi rend="italic">revolution</hi>. The people in <rs type="place"><ref source="place018">St Petersburg</ref></rs> is particularly uneasy. 
             </p>
          </div>
-         <div>
+         <div n="10">
             <p>
                As our readers should be able to trace every detail of the war, they should also know about every region where the battles will take place. We will publish a booklet explaining 
                <rs type="place"><ref source="place019">Japan</ref></rs>, <rs type="place"><ref source="place022">Korea</ref></rs>, and Asian <rs type="place"><ref source="place014">Russia</ref></rs>; 
@@ -492,8 +492,7 @@
                The booklet will cost 10 kreutzer. One can also send stamps. Larger purchases are granted discounts.
             </p>
          </div>
-         <div n="8">
-            
+         <div n="11">
             <head style="text-align:center"><hi rend="bold">Mobilisation in <rs type="place"><ref source="place001">Austria-Hungary</ref></rs>.</hi></head>
             <p>
                Despite officially denying that <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> is mobilising its military, the mobilisation might still be happening according 
@@ -506,7 +505,7 @@
                their horses - even the sick ones who have been handed over to private persons to nurse them. Several Bohemian cities have also reported similar procedures which hints at serious matters. 
             </p>
          </div>
-         <div n="9">
+         <div n="12">
             <head style="text-align:center"><hi rend="bold">News.</hi><lb/>Jewish News.</head>
             <p>
                (<rs type="place"><ref source="place179">Stanislau</ref></rs>). <rs type="person"><ref source="person069">Rabbi Ari Leib Horowitz of Stryi</ref></rs> has unanimously been elected as the Rabbi of our community.
@@ -537,16 +536,15 @@
                in width. The Bible is illustrated with very beautiful pictures. The letters are 1 cm in height and the book cover is made out of oak wood. The entire Bible weighs 60 pounds. 
             </p>
             <p>
-               (<rs type="place"><ref source="place096">New York</ref></rs>). With the help of the Jewish yearbook, we found out the number of Jews living in <rs type="place"><ref source="place008">North America</ref></rs> in all of the <pb/> 
-            </p>
-            <p>[7]</p>
-            <p>
+               (<rs type="place"><ref source="place096">New York</ref></rs>). With the help of the Jewish yearbook, we found out the number of Jews living in <rs type="place"><ref source="place008">North America</ref></rs> in all of the
+            <pb/>
+            <fw style="text-align:center">- 8 -</fw>
                52 provinces. 1,127,268 Jews (may their number increase) live in the <rs type="place"><ref source="place094">United States of America</ref></rs>. Most of them live in <rs type="place"><ref source="place096">New York</ref></rs>, 
                more than half a million. Other big communities are located in <rs type="place"><ref source="place182">Chicago</ref></rs>, <rs type="place"><ref source="place183">Philadelphia</ref></rs>, and 
                <rs type="place"><ref source="place184">Baltimore</ref></rs>. 
             </p>
          </div>
-         <div>
+         <div n="13">
             <head style="text-align:center"><hi rend="bold">The resolutions of the Conference regarding the Jewish question in <rs type="place"><ref source="place014">Russia</ref></rs>.</hi></head>
             <p>
                As we have already reported, the Russian government convened a conference of all provinces to discuss the Jewish question in <rs type="place"><ref source="place014">Russia</ref></rs>. They discussed whether Jewish laws should 
@@ -569,7 +567,7 @@
                protest via the English government. 
             </p>
          </div>
-         <div>
+         <div n="14">
             <head style="text-align:center"><hi rend="bold">Postbox.</hi></head>
             <p>
                To <hi rend="italic"><rs type="person">Rabbi J. B. Bm.</rs></hi> The rabbi is not obliged to present the marriage documents to the register administrator. (Decree of the  K.K. prefecture).
@@ -583,21 +581,21 @@
             </p>
          </div>
          <cb/>
-         <div type="ads">
+         <div n="15">
             <p>The editor does not take responsibility for the advertisements in this paper.</p>
-            <div type="ad">
+            <div type="ad" n="1">
                <head><hi rend="bold">The sugar refinery of <rs type="place"><ref source="place060">Przeworsk</ref></rs></hi></head>
                <p>
                   Has immensely scaled up its sugar production for 1904 and recommends every variety to extremely low prices.
                </p>
             </div>
-            <div>
+            <div type="ad" n="2">
                <p>
                   You can get various useful instructions for register handlers, head of cultural affairs, private individuals, etc. at different prices.
                   <lb/><rs type="person"><ref source="person139">S. Weinstock</ref></rs>, in <rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place"><ref source="place185">Rzeznika</ref></rs> 5.
                </p>
             </div>
-            <div type="ad">
+            <div type="ad" n="3">
                <head>
                   <lb/><hi rend="bold">Coffee!</hi>
                   <lb/><hi rend="italic>">All natural!</hi>
@@ -619,7 +617,6 @@
                      <cell role="data">Gold <rs type="place"><ref source="place058">Java</ref></rs>   "   "   1,45 "</cell>
                   </row>
                </table>
-               <lb/>
                <p>
                   Free samle and payment on delivery
                </p>
@@ -627,10 +624,10 @@
                   <rs type="person">Berger Ernö</rs>, <rs type="place"><ref source="place058">Fuime</ref></rs>.
                </p>
             </div>
-            <div type="ad">
+            <div type="ad" n="4">
                <head><hi rend="bold">Fine tea</hi></head>
                <p>
-                  <lb/>If you want to drink pure, unadulterated tea, write to the address below,
+                  If you want to drink pure, unadulterated tea, write to the address below,
                   <lb/>1 kg fine, pure tea only 6 crowns.
                   <lb/>There is also tea costing 3 to 10 crowns per kg.
                   <lb/>Sample for free and prepaid.
@@ -638,7 +635,7 @@
                   <lb/>Thee &amp; Caffe Lager.
                </p>
             </div>
-            <div type="ad" style="text-align:center">
+            <div type="ad" style="text-align:center" n="5">
                <p>Bank and exchange business
                <lb/>ROHAYTN &amp; ULAM
                <lb/><foreign xml:lang="de"><rs type="place"><ref source="place002">Lemberg</ref></rs>, <rs type="place"><ref source="place186">Syxtuskagasse</ref></rs> 8.</foreign>
@@ -650,15 +647,12 @@
                <lb/>Easy, low-interest loans available.</p>
             </div>
       </div>
-      <div type="footer" style="one column" n="1">
-         <p>
+      <fw type="footer">
             <foreign xml:lang="de">
-               <lb/>Herausgeber und verantwortlicher Redact. <rs type="person">OSIAS H. WILF</rs> recte Weinstock
+               Herausgeber und verantwortlicher Redact. <rs type="person">OSIAS H. WILF</rs> recte Weinstock
                <lb/>Druck von <rs type="person">E. Salat</rs> Witwe des <rs type="person">U.W. Salat</rs>, <rs type="place"><ref source="place002">Lemberg</ref></rs> <rs type="place"><ref source="place065">Kasimirgasse 35</ref></rs>
             </foreign>
-         </p>   
-         <p style="text-align:center">[8]</p>
-        </div>
+        </fw>
       </body>
   </text>
 </TEI>
