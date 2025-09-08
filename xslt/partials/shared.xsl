@@ -115,8 +115,14 @@
     <xsl:template match="tei:p">
        <p><xsl:apply-templates/></p>
     </xsl:template>
-    <xsl:template match="tei:fw">
-        <fw><xsl:apply-templates/></fw>
+    <xsl:template match="tei:fw[@type='footer']">
+        <footer><xsl:apply-templates/></footer>
+    </xsl:template>
+    <xsl:template match="tei:fw[@type='pageNum']">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="tei:head">
+        <h1><xsl:apply-templates/></h1>
     </xsl:template>
     
     <xsl:template match="tei:table[@style='text-align:center']">
@@ -665,23 +671,5 @@
     <xsl:template match="tei:div[@style='text-align:center']">
         <div align="center"><xsl:apply-templates/></div>
     </xsl:template>
-    <!--xsl:template match="tei:fw[@style='text-align:center']">
-        <fw text-align="center"><xsl:attribute name="text-align">left</xsl:attribute></fw>
-    </xsl:template-->
-    <xsl:template match="tei:fw">
-        <xsl:apply-templates/>
-    </xsl:template>
-    
-    <!-- <xsl:template match="tei:rs[@ref or @key]">
-        <strong>
-            <xsl:element name="a">
-                <xsl:attribute name="data-toggle">modal</xsl:attribute>
-                <xsl:attribute name="data-target">
-                    <xsl:value-of select="data(@ref)"/>
-                </xsl:attribute>
-                <xsl:value-of select="."/>
-            </xsl:element>
-        </strong>
-    </xsl:template> -->
     
 </xsl:stylesheet>
