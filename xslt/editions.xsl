@@ -247,8 +247,5 @@
     <xsl:template match="tei:p">
         <p><xsl:apply-templates/></p>
     </xsl:template>
-    <xsl:template match="tei:head">
-        <h1><xsl:apply-templates/></h1>
-    </xsl:template>
             
 </xsl:stylesheet>
