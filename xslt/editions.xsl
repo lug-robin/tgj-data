@@ -220,8 +220,23 @@
     <xsl:template match="tei:head[@style='text-align:center']">
         <head align="center"><xsl:apply-templates/></head>
     </xsl:template>
-    <xsl:template match="tei:table[@style='text-align:center']">
-        <table align="center"><xsl:apply-templates/></table>
+    <xsl:template match="tei:head">
+        <head>
+            <xsl:choose>
+                <xsl:when test="@style='text-align:center'">
+                    <xsl:attribute name="align">center</xsl:attribute>
+                </xsl:when>
+            </xsl:choose>
+        </head>
+    </xsl:template>
+    <xsl:template match="tei:fw">
+        <head>
+            <xsl:choose>
+                <xsl:when test="@style='text-align:center'">
+                    <xsl:attribute name="align">center</xsl:attribute>
+                </xsl:when>
+            </xsl:choose>
+        </head>
     </xsl:template>
     <xsl:template match="tei:table[@style='width:50%']">
         <table width="50%"><xsl:apply-templates/></table>
@@ -231,9 +246,6 @@
     </xsl:template>
     <xsl:template match="tei:div[@style='text-align:center']">
         <div align="center"><xsl:apply-templates/></div>
-    </xsl:template>
-    <xsl:template match="tei:fw[@style='text-align:center']">
-        <fw align="center"><xsl:apply-templates/></fw>
     </xsl:template>
     <xsl:template match="tei:fw">
         <xsl:apply-templates/>
