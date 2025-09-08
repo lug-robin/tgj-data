@@ -93,11 +93,6 @@
                         <xsl:text>bold</xsl:text>
                     </xsl:attribute>
                 </xsl:when>
-                <xsl:when test="@style = '#text-align:center'">
-                    <xsl:attribute name="text-align">
-                        <xsl:text>left</xsl:text>
-                    </xsl:attribute>
-                </xsl:when>
             </xsl:choose>
             <xsl:apply-templates/>
         </span>
@@ -116,20 +111,23 @@
        <p><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:fw[@type='footer']">
-        <footer><xsl:apply-templates/></footer>
+        <footer align="center"><xsl:apply-templates/></footer>
     </xsl:template>
     <xsl:template match="tei:fw[@type='pageNum']">
         <p><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:head">
-        <h1><xsl:apply-templates/></h1>
+        <h1 style="font-size:18px"><xsl:apply-templates/></h1>
+    </xsl:template>
+    <xsl:template match="tei:head[@type='h2']">
+        <h2 style="font-size:16px"><xsl:apply-templates/></h2>
     </xsl:template>
     
     <xsl:template match="tei:table[@style='text-align:center']">
         <table align="center"><xsl:apply-templates/></table>
     </xsl:template>
     <xsl:template match="tei:table[@style='width:50%']">
-        <table><xsl:apply-templates/></table>
+        <table style="width:50%"><xsl:apply-templates/></table>
     </xsl:template>
     
     <xsl:template match="tei:table">
