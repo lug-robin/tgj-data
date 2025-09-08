@@ -657,13 +657,13 @@
     </xsl:template>
     
     <xsl:template match="tei:head">
-        <head>
+        <h1>
             <xsl:choose>
                 <xsl:when test="@style='text-align:center'">
                     <xsl:attribute name="align">center</xsl:attribute>
                 </xsl:when>
             </xsl:choose>
-        </head>
+        </h1>
     </xsl:template>
     <xsl:template match="tei:table[@style='width:50%']">
         <table width="50%"><xsl:apply-templates/></table>
