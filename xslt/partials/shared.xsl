@@ -665,9 +665,9 @@
     <xsl:template match="tei:div[@style='text-align:center']">
         <div align="center"><xsl:apply-templates/></div>
     </xsl:template>
-    <xsl:template match="tei:fw[@style='text-align:center']">
+    <!--xsl:template match="tei:fw[@style='text-align:center']">
         <fw text-align="center"><xsl:attribute name="text-align">left</xsl:attribute></fw>
-    </xsl:template>
+    </xsl:template-->
     <xsl:template match="tei:fw">
         <xsl:apply-templates/>
     </xsl:template>

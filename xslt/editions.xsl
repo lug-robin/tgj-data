@@ -220,6 +220,10 @@
         <p align="right"><xsl:apply-templates/></p>
     </xsl:template>
     
+    
+    <xsl:template match="tei:fw[@style='text-align:center']">
+        <fw align="center"><xsl:apply-templates/></fw>
+    </xsl:template>
     <xsl:template match="tei:fw[@style='text-align:right']">
         <fw align="right"><xsl:apply-templates/></fw>
     </xsl:template>
