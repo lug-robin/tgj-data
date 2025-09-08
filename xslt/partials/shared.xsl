@@ -117,10 +117,10 @@
         <p><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:head">
-        <h1 style="font-size:16px"><xsl:apply-templates/></h1>
+        <h1 style="font-size:20px;bold;text-align:center"><xsl:apply-templates/></h1>
     </xsl:template>
     <xsl:template match="tei:head[@type='h2']">
-        <h2 style="font-size:14px"><xsl:apply-templates/></h2>
+        <h2 style="font-size:18px;text-align:center"><xsl:apply-templates/></h2>
     </xsl:template>
     
     <xsl:template match="tei:table[@style='text-align:center']">
