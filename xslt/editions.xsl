@@ -54,7 +54,7 @@
  
                 </style>
             </head>
-            <body class="d-flex flex-column h-100">
+            <body class="d-flex flex-column h-80">
                 
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0">
@@ -233,11 +233,9 @@
     </xsl:template>
 
     <xsl:template match="tei:table[@style='width:50%']">
-        <table width="50%"><xsl:apply-templates/></table>
+        <table style="width:50%"><xsl:apply-templates/></table>
     </xsl:template>
-    <xsl:template match="tei:table[@style='width']">
-        <table><xsl:apply-templates/></table>
-    </xsl:template>
+
     <xsl:template match="tei:div[@style='text-align:center']">
         <div align="center"><xsl:apply-templates/></div>
     </xsl:template>

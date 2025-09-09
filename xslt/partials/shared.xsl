@@ -111,16 +111,19 @@
        <p><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:fw[@type='footer']">
-        <footer align="center"><xsl:apply-templates/></footer>
+        <p align="center"><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:fw[@type='pageNum']">
         <p><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:head">
-        <h1 style="font-size:20px;bold;text-align:center"><xsl:apply-templates/></h1>
+        <h1 style="font-size:20px;strong;text-align:center"><xsl:apply-templates/></h1>
     </xsl:template>
     <xsl:template match="tei:head[@type='h2']">
         <h2 style="font-size:18px;text-align:center"><xsl:apply-templates/></h2>
+    </xsl:template>
+    <xsl:template match="tei:head[@type='h3']">
+        <h3 style="font-size:16px;text-align:center"><xsl:apply-templates/></h3>
     </xsl:template>
     
     <xsl:template match="tei:table[@style='text-align:center']">
