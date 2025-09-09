@@ -60,7 +60,7 @@
                 <main class="flex-shrink-0">
                     <div class="container">
                         <div class="head">
-                            <div class="col-md-12 col-lg-12 col-sm-10">   
+                            <div class="col-md-8 col-lg-8 col-sm-12">   
                             </div>
                         </div>
 
@@ -114,7 +114,7 @@
                                     <!--div class="wrapper" style="flex-grow:1;height:auto">
                                     <xsl:apply-templates select=".//tei:facsimile"></xsl:apply-templates>
                                     </div-->
-                                    <div class="col-md-5 col-lg-5 col-md-10 text" style="flex-grow:1;text-align:left">
+                                    <div class="col-md-5 col-lg-5 col-md-10 text" style="flex-grow:1;text-align:left;max-width:80%">
                                 <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                                 </div>
                                 </div>
