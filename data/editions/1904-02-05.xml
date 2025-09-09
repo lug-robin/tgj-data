@@ -88,7 +88,7 @@
          <fw type="head" n="1"><foreign xml:lang="de">1.Jahrgang Nr. 1 </foreign>1st year</fw>
          <div n="1">
             <head>The Geniune Jew</head>
-            <p style="text-align:center">Organ for yiddish matters
+            <p style="text-align:center">Organ for Yiddish Matters
             <lb/><foreign xml:lang="de">DER WAHRE JUDE</foreign>
             <foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
@@ -112,7 +112,7 @@
                   <cell role="data">For a quarter year - 3.50 "</cell>
                </row>
             </table>
-            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-02-05"> Friday 5th 1904</date></p><cb/>
+            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-02-05">, February 5th 1904</date></p><cb/>
             <p>
                Adverts are cheaply calculated
                <lb/>All letters and money send to:
@@ -139,7 +139,7 @@
             </p>
             <p style="text-align:center">"The Genuine Jew".</p>
             <pb/> 
-            <fw>- 2 -</fw>
+            <fw type="pageNum">- 2 -</fw>
                <p>Every edition of our newspaper contains</p>
                <list rend="numbered">
                   <item n="a">editorial, an article about all matters, which are relevant to the Jewish people.</item>
@@ -200,7 +200,7 @@
             <p>
                It might also be that I alone have made a mistake, and you cannot say with certainty that your paper will not have enemies, perhaps it is wrong, there will be many good friends, who want to support 
                your work and furthermore give “gratitude”, the public will finally be convinced that this paper is the right organ that is needed in <rs type="place"><ref source="place006">Galicia</ref></rs>. - </p>
-            <fw style="text-align:center" rend="bold">- 3 -</fw>
+            <fw type="pageNum">- 3 -</fw>
                <p><pb/>either way, you have to think 
                about creating a good paper, and not about upcoming opinion of everyone, you have to turn your hope to the Jewish public, who hopefully will understand the value of the “Geniune Jew”.
             </p>
@@ -263,7 +263,7 @@
                Only for us Galician Jewish people everything is still calm and quiet, like it is not missing for us. Here, you don’t hear anything about that, nobody is thinking about new sources of income, to get our poor 
                brothers’ livelihood. While everywhere in the whole world the merchant, the industrialist, even the skilled craftsman and tradesman are respected and valued like public officials and </p>
             <pb/>
-            <fw style="text-align:center">- 4 -</fw>
+            <fw type="pageNum">- 4 -</fw>
             <p>lawyers, us 
                Galician Jewish people, who are reproached being a nation of traders, even the merchant, the entrepreneur in a small business, everyone wants to make “doctors”, “public officials” out of our children, but 
                there are already so many and nowadays it is very hard for a Jew to become a public official, even a small one with a low salary. Besides, the Jewry also suffers because of that, because a merchant 
@@ -318,7 +318,7 @@
                the water, to drive far away in the country or - what has already often hurt - to go into a monastery … until the father has to give in. But if the father stands by 
                his opinion and doesn’t want to succumb, then the domestic peace is broken, there is a grudge held between father and daughter, they live angrily and bitter. If the 
                father wins, he forces his daughter</p><pb/>
-            <fw style="text-align:center">- 5 -</fw>
+            <fw type="pageNum">- 5 -</fw>
             <p>to succumb, then she has a broken life with her husband, who she doesn’t like, if the daughter wins, forces the father to succumb, 
                then the parent’s life is embittered, they are not getting a son-in-law like they want, later they will have a grandchild, they have to be ashamed of - and the beautiful 
                Jewish family life what is praised by our enemies, gets broken…
@@ -389,7 +389,7 @@
                military counts 300,000 men, at war more than one million. The Japanese armada counts 65 battleships and cruise ships. The navy consists of 12,000 men. 
                The length of the railway system amounts to over 4,000 km, the length of the telegram lines over 14,000 km. In one year, the Japanese postal service 
                delivers almost over 500 million postal items. The Japanese merchant navy counts 880 ships</p><pb/>
-            <fw style="text-align:center" rend="bold">- 6 -</fw>
+            <fw type="pageNum">- 6 -</fw>
             <p>(including 500 steamboats), every year 7000 ships dock in the Japanese port city. - The Japanese national debt amounts to 1.500 million crowns. The annual interest and repayment for this debt cost 200 million 
                crowns. <rs type="place"><ref source="place019">Japan</ref></rs>’s annual income comes to 1000 million crowns, as well as the expenses.
             </p>
@@ -454,7 +454,7 @@
                should be free for all countries’ trade. And even if
             </p>
             <pb/>
-            <fw style="text-align:center" rend="bold">- 7 -</fw>
+            <fw type="pageNum">- 7 -</fw>
             <p>
                <rs type="place"><ref source="place019">Japan</ref></rs> would lose the war with <rs type="place"><ref source="place014">Russia</ref></rs>, <rs type="place"><ref source="place011">England</ref></rs> and <rs type="place"><ref source="place094">America</ref></rs> 
                will come to rescue. - How this will turn out in the near future, maybe even in a few days, we will know if there will be war or if peace will remain.
@@ -538,7 +538,7 @@
                Shortly, it has been 800 years since the celebrated Talmud scholar <hi rend="italic">Rabbi <rs type="person">Shlomo Yitzchaki</rs></hi>, known as <rs type="person"><hi rend="italic"><ref source="person015">Rashi</ref></hi></rs> who has enlightened all 
                of the Jewry with his famous commentary on the Torah and the Talmud, has died. The name <rs type="person"><ref source="person015">Rashi</ref></rs> has been well known to every Jew, every schoolboy knows him and also</p>
             <pb/>
-            <fw style="text-align:center" rend="bold">- 8 -</fw>
+            <fw type="pageNum">- 8 -</fw>
             <p>
                the biggest scholar, the biggest genius cannot desecrate his commentary. <rs type="person"><ref source="person015">Rashi</ref></rs>’s 800th anniversary will be celebrated everywhere. A book will be published in his honour and a foundation will be made. 
             </p>
