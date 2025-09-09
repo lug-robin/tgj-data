@@ -28,7 +28,7 @@
         <span class="date"><xsl:apply-templates/></span>
     </xsl:template>
     <xsl:template match="tei:lb">
-        <br style="margin-top:-10px;"/>
+        <br><xsl:apply-templates/></br>
     </xsl:template>
     <xsl:template match="tei:div">
         <div style="margin-top: 20px;"><xsl:apply-templates/></div>
@@ -101,12 +101,7 @@
     <xsl:template match="tei:ref">
         <a class="ref {@type}" href="{@target}"><xsl:apply-templates/></a>
     </xsl:template>
-    <xsl:template match="tei:lg">
-        <p><xsl:apply-templates/></p>
-    </xsl:template>
-    <xsl:template match="tei:l">
-        <xsl:apply-templates/><br/>
-    </xsl:template>
+
     <xsl:template match="tei:p">
        <p><xsl:apply-templates/></p>
     </xsl:template>
