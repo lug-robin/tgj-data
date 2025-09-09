@@ -28,7 +28,7 @@
         <span class="date"><xsl:apply-templates/></span>
     </xsl:template>
     <xsl:template match="tei:lb">
-        <br style="margin-top:10px;"/>
+        <br style="margin-top:-10px;"/>
     </xsl:template>
     <xsl:template match="tei:div">
         <div style="margin-top: 20px;"><xsl:apply-templates/></div>
@@ -110,12 +110,8 @@
     <xsl:template match="tei:p">
        <p><xsl:apply-templates/></p>
     </xsl:template>
-    <xsl:template match="tei:fw[@type='footer']">
-        <p align="center"><xsl:apply-templates/></p>
-    </xsl:template>
-    <xsl:template match="tei:fw[@type='pageNum']">
-        <p><xsl:apply-templates/></p>
-    </xsl:template>
+
+
     <xsl:template match="tei:head">
         <h1 style="font-size:20px;strong;text-align:center"><xsl:apply-templates/></h1>
     </xsl:template>

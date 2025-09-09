@@ -114,7 +114,7 @@
                                     <!--div class="wrapper" style="flex-grow:1;height:auto">
                                     <xsl:apply-templates select=".//tei:facsimile"></xsl:apply-templates>
                                     </div-->
-                                    <div class="col-md-5 col-lg-5 col-md-10 text" style="flex-grow:1;text-align:left;max-width:80%">
+                                    <div class="col-md-5 col-lg-5 col-md-10 text" style="flex-grow:1;text-align:center;max-width:80%">
                                 <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                                 </div>
                                 </div>
@@ -221,13 +221,10 @@
     </xsl:template>
     
     
-    <xsl:template match="tei:fw[@style='text-align:center']">
+    <xsl:template match="tei:fw">
         <p align="center"><xsl:apply-templates/></p>
     </xsl:template>
-    <xsl:template match="tei:fw[@style='text-align:right']">
-        <p align="right"><xsl:apply-templates/></p>
-    </xsl:template>
-    
+
     <xsl:template match="tei:head[@style='text-align:center']">
         <h1 align="center"><xsl:apply-templates/></h1>
     </xsl:template>
@@ -239,9 +236,7 @@
     <xsl:template match="tei:div[@style='text-align:center']">
         <div align="center"><xsl:apply-templates/></div>
     </xsl:template>
-    <xsl:template match="tei:fw">
-        <p><xsl:apply-templates/></p>
-    </xsl:template>
+
     <xsl:template match="tei:p">
         <p><xsl:apply-templates/></p>
     </xsl:template>
