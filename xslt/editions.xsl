@@ -114,7 +114,7 @@
                                     <!--div class="wrapper" style="flex-grow:1;height:auto">
                                     <xsl:apply-templates select=".//tei:facsimile"></xsl:apply-templates>
                                     </div-->
-                                    <div class="col-md-8 col-lg-8 col-md-10 text" style="flex-grow:1;text-align:left;max-width:100%">
+                                    <div class="col-md-8 col-md-8 col-md-10 text" style="flex-grow:1;text-align:left;">
                                 <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                                 </div>
                                 </div>

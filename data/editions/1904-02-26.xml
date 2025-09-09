@@ -85,17 +85,15 @@
    </facsimile>
   <text>
       <body>
-         <fw><foreign xml:lang="de">1.Jahrgang 	Nr. 4 </foreign>	1st year</fw>
+         <fw type="head" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 4 </foreign>- 1st year</fw>
          <div n="1">
-            <head>
-               <hi rend="bold">The Geniune Jew</hi>
-            </head>
-            <p>Organ for yiddish matters</p>
-            <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
-            <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+            <head>The Geniune Jew</head>
+            <p style="text-align:center">Organ for yiddish matters
+               <lb/><foreign xml:lang="de">DER WAHRE JUDE</foreign>
+               <foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
-         <div n="2">
-            <table rows="4" cols="2">
+         <div n="1">
+            <table rows="4" cols="2" style="text-align:center;width:50%">
                <head>The Geniune Jew costs</head>
                <row role="data">
                   <cell role="data">In <rs type="place"><ref source="place001">Austria-Hungary</ref></rs></cell>
@@ -114,34 +112,45 @@
                   <cell role="data">For a quarter year - 3.50 "</cell>
                </row>
             </table>
-            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-02-19"> Friday 26th 1904</date></p>
-            <cb/>
+            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-02-05"> Friday 26th 1904</date></p><cb/>
             <p>
                Adverts are cheaply calculated
                <lb/>All letters and money send to:
                <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place"><ref source="place003">Sonnengasse 27</ref></rs></foreign>
-               <lb/>The Genuine Jew is published every Friday.
-               <lb/><foreign xml:lang="de"><rs type="place"><ref source="place002">Lemberg</ref></rs>, <date when-iso="1904-02-26">den 26. Februar 1904</date></foreign>.</p>
+               <lb/>The Genuine Jew is published every Friday
+               <lb/><foreign xml:lang="de"><rs type="place"><ref source="place002">Lemberg</ref></rs>, <date when-iso="1904-02-05">den 26. Februar 1904</date></foreign>.
+            </p>
          </div>
          <div n="3">
-           <head><hi rend="bold">The Genuine Jew
-            <lb/>Twice a week</hi></head>
-            <p>We are delighted to announce to our readers and our friends that our hope with “The Genuine Jew”, to create a readership and be of use for our brothers, especially our pious brothers, was fulfilled. Already, after 
+           <head>The Genuine Jew</head>
+            <head type="h2">Twice a week</head>
+            <p>
+               We are delighted to announce to our readers and our friends that our hope with “The Genuine Jew”, to create a readership and be of use for our brothers, especially our pious brothers, was fulfilled. Already, after 
                three issues of “The Genuine Jew”, our paper has gained popularity among the people. Starting on Thursday, people start to ask every tobacconist's, every bookstore and even the editor’s office, whether the new edition 
-               has already arrived. Our readers can barely wait until the print has finished. Everything is bought, for example, we have not a single copy left of No. 3, although we printed a huge batch.</p>
-            <p>Not only the news about the war made people interested in this paper. From all over, people tell us that the audience, especially our Orthodox brothers who are the reason we established the paper, are very satisfied. 
+               has already arrived. Our readers can barely wait until the print has finished. Everything is bought, for example, we have not a single copy left of No. 3, although we printed a huge batch.
+            </p>
+            <p>
+               Not only the news about the war made people interested in this paper. From all over, people tell us that the audience, especially our Orthodox brothers who are the reason we established the paper, are very satisfied. 
                The articles mainly focusing on Jewish topics proved popular among the general public. For the first time, there is a Jewish newspaper in <rs type="place"><ref source="place006">Galicia</ref></rs> which every pious Jew 
-               can read, including his wife and children without having to fear to stray from the path of righteousness.</p>
-            <p>The audience is content with us and we are content with the audience. This mutual satisfaction allows us to improve and prosper our paper.</p><pb/>
-            <fw style="text-align:center">- 2 -</fw>
-            <p>Voices from different quarters ask for the paper to be released <hi rend="italic">daily</hi>, but we want to follow what our scholars of blessed memories have said: “If you grasp too much, you will grasp nothing” 
-               and not to put too much work on our backs. Therefore, we decided to first  carry out a small test, namely: from next week on </p>
+               can read, including his wife and children without having to fear to stray from the path of righteousness.
+            </p>
+            <p>
+               The audience is content with us and we are content with the audience. This mutual satisfaction allows us to improve and prosper our paper.
+            </p><pb/>
+            <fw>- 2 -</fw>
+            <p>
+               Voices from different quarters ask for the paper to be released <hi rend="italic">daily</hi>, but we want to follow what our scholars of blessed memories have said: “If you grasp too much, you will grasp nothing” 
+               and not to put too much work on our backs. Therefore, we decided to first  carry out a small test, namely: from next week on 
+            </p>
             <p style="text-align:center" rend="bold">The Genuine Jew
                <lb/>comes out twice a week
                <lb/>Tuesday and Friday
             </p>
-            <p>Friday will stay like it is now with the same content. On Tuesday, we will preliminarily write about news from the war front, politics and similar topics our readers care about and cannot wait for until Friday.</p>
-            <p>We live in serious times. More wars will follow the war between <rs type="place"><ref source="place014">Russia</ref></rs> and <rs type="place"><ref source="place19">Japan</ref></rs>. The whole world, generally the Jew, 
+            <p>
+               Friday will stay like it is now with the same content. On Tuesday, we will preliminarily write about news from the war front, politics and similar topics our readers care about and cannot wait for until Friday.
+            </p>
+            <p>
+               We live in serious times. More wars will follow the war between <rs type="place"><ref source="place014">Russia</ref></rs> and <rs type="place"><ref source="place19">Japan</ref></rs>. The whole world, generally the Jew, 
                is curious to know what happens around the globe. And if there is no Jewish press he has to purchase newspapers in other languages which are more expensive and he might not understand them well. 
                Therefore, if “The Genuine Jew” comes out twice a week, he will be able to  satisfy his needs concerning a <hi rend="italic">Jewish</hi> paper.</p>
             <p style="text-align:center">The price of our paper “The Genuine Jew”
@@ -162,26 +171,34 @@
             <p style="text-align:right">The editorial office.</p>
          </div>
          <div n="4">
-            <head rend="bold" style="text-align:center">The cultus elections in <rs type="place"><ref source="place002">Lviv</ref></rs></head>
-            <p>In the first articles of three issues of “The Genuine Jew” various writers rightfully pointed at several important questions regarding Jewish existence which are not handled as they should be. The writers allude 
+            <head>>The cultus elections in <rs type="place"><ref source="place002">Lviv</ref></rs></head>
+            <p>
+               In the first articles of three issues of “The Genuine Jew” various writers rightfully pointed at several important questions regarding Jewish existence which are not handled as they should be. The writers allude 
                to our ample negligence of Jewry as in every nook we are pointing to in order to criticize. The upbringing of our children, our religious education, our rabbis; briefly speaking: at home, in school and even in the 
-               rabbis’ dwellings. Everywhere is room for improvements and every writer asks: Who is at fault?</p>
-            <p>Who is at fault? Answering this question is not easy because we are all guilty: our sons and our elders, young and old, we all are guilty that <cb/>the Jewry is getting weaker and weaker. Our parents do not parent 
+               rabbis’ dwellings. Everywhere is room for improvements and every writer asks: Who is at fault?
+            </p>
+            <p>
+               Who is at fault? Answering this question is not easy because we are all guilty: our sons and our elders, young and old, we all are guilty that <cb/>the Jewry is getting weaker and weaker. Our parents do not parent 
                our children well. Our religion teachers teach badly. Even our rabbis do not have any power, any influence. It has to become better here. Because of the rabbinical question, are our rabbis without power or influence, 
-               they are dependent on our cultus board and therefore do not dare to open their mouth and demand for things to improve.</p>
-            <p>And here we come to our main conclusion to our question: Who is at fault? Guilty is our cultus board, the leaders of our communities.  They are not taking a stance and act correctly according to their duty.</p>
-            <p>The communities act as  autonomous bodies. This means they have the right to manage all affairs regarding their community on their own</p>
+               they are dependent on our cultus board and therefore do not dare to open their mouth and demand for things to improve.
+            </p>
+            <p>
+               And here we come to our main conclusion to our question: Who is at fault? Guilty is our cultus board, the leaders of our communities.  They are not taking a stance and act correctly according to their duty.</p>
+            <p>The communities act as  autonomous bodies. This means they have the right to manage all affairs regarding their community on their own
+            </p>
             <pb/>
-            <fw style="text-align:center" rend="bold">- 2 -</fw>            
-            <p>without anyone intervening. In any other nation an autonomous entity like this would act in favour of its own people. It would use its force and influence to improve the prevailing conditions. Here however, it is 
+            <fw>- 3 -</fw>            
+            <p>
+               without anyone intervening. In any other nation an autonomous entity like this would act in favour of its own people. It would use its force and influence to improve the prevailing conditions. Here however, it is 
                different. Our ministry of cultural affairs mainly consists of mere <hi rend="italic">chanceries</hi>. Books are taken care of, they stipulate how things should be running. There is an accountant, a cashier, and a 
                controller. The council gets together every once in a while to talk about current matters, a bit about politics, about the Landtag elections and things like that. But they do not talk about Jewish matters, about 
-               the significant interests of the Jewish people - those are not discussed as if the council is not responsible for them. </p>
+               the significant interests of the Jewish people - those are not discussed as if the council is not responsible for them.
+            </p>
             <p>
                The cause of this is very simple. In most Galician cities, the majority of Jews living there are pious ones. However, the electives in the ministry are mainly “progressive” lawyers who are not particularly interested 
                in Jewish matters. Whenever this council gets together in a meeting, they are clueless what to do in favour of religion and faith. First of all, they do not know a lot about it and do not know how to enact a remedy. 
                Secondly, they are more progressive and cannot act against their own opinion of Jewry. It is already sufficient if they do not do anything to harm Jewry as they are afraid of the pious populace. More than that, 
-               everything is neglected. The council does not care about the religious education, not about the rabbinical question, not about the תּלמוד־תּורה (Talmetoyre - a tuition-free elementary school maintained by the community 
+               everything is neglected. The council does not care about the religious education, not about the rabbinical question, not about the Talmetoyre (a tuition-free elementary school maintained by the community 
                for poor children), they do not care about Jewish upbringing. Therefore, everything here is foul and bad. 
             </p>
             <p>
@@ -190,14 +207,16 @@
                Moreover, elections in a big community, a community of major cultural and religious importance - like the one in <rs type="place"><ref source="place002">Lviv</ref></rs> - are significant for the whole country and 
                have a bigger impact than just locally. The outcome of the elections can influence the entire country -  for the better or for the worse. And we pious Jews need to see that it will be better.</p>
             <p>We do not want to look into the programs and moreover single individuals and parties yet. There still will be enough time for that. Today we want to concern ourselves with the question in order to remind our pious 
-               brothers of the upcoming elections which are very important for the Jewry and<pb/> to call on them to pay their overdue taxes in order to not lose their right to vote. They should make an effort to attain as many votes 
+               brothers of the upcoming elections which are very important for the Jewry and<cb/> to call on them to pay their overdue taxes in order to not lose their right to vote. They should make an effort to attain as many votes 
                as they can. For these elections, every vote has an immense value. This time they need to use their voice for the benefit of the true Jewry. If we manage to improve the situation in the ministry of culture and education, 
-               everything will gradually improve.</p>
+               everything will gradually improve.
+            </p>
                <p style="text-align:right">- The observer.</p>
          </div>
          <div n="5">
-            <head style="text-align:center"><hi rend="bold">Our daughter’s education.
-               <lb/>II.</hi>
+            <head>Our daughter’s education.</head>
+            <head type="h2">
+               II.
             </head>
             <p>
                I must admit that the impression my first article on pious family has made, was bigger than I anticipated. This shows that I portrayed the situation correctly. The critique, what I have criticised was right therefore. 
@@ -213,7 +232,7 @@
                They therefore should be planted deep in the young hearts, love, and respect for their people, their religion, to their customs, and their performances. At that time, the honest, pious Jew has not been the target 
                of mockery, at that time they were not looked at like people from past generations, at that time they felt what every pious Jew felt, back then they would know that they are
             </p><pb/>
-            <fw style="text-align:center">- 4 -</fw>
+            <fw>- 4 -</fw>
             <p>
                Jewish daughters, that they have Jewish duties. At that time, the old, magnificent Jewish family life could develop and it will be as it was written in the scripture: May peace dwell in your community and tranquillity 
                in your homes!
@@ -230,14 +249,15 @@
             <p style="text-align:right">Ben Solomon.</p>
          </div>
          <div n="6">
-            <head rend="bold" style="text-align:center">The luxury
-               (<lb/>A letter to the editor.)
+            <head>The luxury</head>
+            <head type="h2">
+               (A letter to the editor.)
             </head>
             <p>
                As I saw your new newspaper “The Genuine Jew” for the first time, I was so delighted that I felt like I had taken a holiday. It is quite something, indeed will a “genuine Jew” tell the truth. Unfortunately, these times 
                are filled with lies and the truth hides in the corner, it is afraid to show itself. Therefore, as you are not afraid to tell the truth, I will make time to talk about the passion of your newspaper. I also want to show 
                our dearest audience the truth a little bit, really show our honest Jews who are not ashamed of reading an honest and truthfully written paper and want to draw your attention to the cancer which is sucking the Jew dry. 
-               And no one wants to budge from what is causing it: the bitter word:   <hi rend="italic">the luxury</hi>. It is very easily said, one needs to shout it so loudly so that it will be heard at the end of the world 
+               And no one wants to budge from what is causing it: the bitter word: <hi rend="italic">the luxury</hi>. It is very easily said, one needs to shout it so loudly so that it will be heard at the end of the world 
                (from one corner of the world to the other), however that only makes the Jew unhappy and hated by our Christian neighbours.
             </p>
             <p>
@@ -266,7 +286,7 @@
             <p style="text-align:right" rend="italic">Shikleh from <rs type="place"><ref source="place159">Tyszmenica</ref></rs></p>
          </div>
          <div n="7">
-            <head style="text-align:center" rend="bold">Jewish squires and estate tenants in East <rs type="place"><ref source="place006">Galicia</ref></rs>.</head>
+            <head>Jewish squires and estate tenants in East <rs type="place"><ref source="place006">Galicia</ref></rs>.</head>
             <p>
                In a recently published book about the circumstances of the squires in East <rs type="place"><ref source="place006">Galicia</ref></rs> I noticed several interesting bits of information about the Jewish involvement 
                in estate ownership as owners of tenants as well as owners and tenants of brandy distilleries. 
@@ -274,7 +294,9 @@
             <p>
                The book’s author, a Ruthenian, mainly addresses 15 East Galician districts where mainly Ruthenians live. He proves that of the 477 farms situated in these districts, 42 % of these are owned
                <pb/> 
-               <fw style="text-align:center">- 5 -</fw>
+            </p>
+               <fw>- 5 -</fw>
+            <p>
                by tenants. This means 
                the owners do not maintain the farms on their own, but leased the harvest to a third person. In the districts of <rs type="place"><ref source="place160">Podolia</ref></rs>, 57 % are owned by tenants, in the 
                <rs type="place"><ref source="place161">Złotów</ref></rs> district 36 %, in the <rs type="place"><ref source="place150">Husiatyn</ref></rs> district 33 %, in the <rs type="place"><ref source="place162">Zalishchyky</ref></rs> 
@@ -345,7 +367,7 @@
             </p>
          </div>
          <div n="8">
-            <head style="text-align:center" rend="bold">The world war.</head>
+            <head>The world war.</head>
             <p>
                Lately, rarely any news of the Russo-Japanese war has been reported. As the first Japanese victories at sea have destroyed the Russian force, the Japanese now control the marines and can do whatever 
                they want there. <rs type="place"><ref source="place014">Russia</ref></rs> has almost completely withdrawn, the main military quarters in the harbour city of <rs type="place"><ref source="person083">Port Arthur</ref></rs>
@@ -394,8 +416,9 @@
             </p>
          </div>
          <div n="9">
-            <head style="text-align:center"><hi rend="bold">The war
-               <lb/>between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs>.</hi>
+            <head>The war</head>
+            <head type="h2">
+               between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs>.
             </head>
             <p>
                The latest news of the battlefield concern mostly the movements of both militaries. The Russians try with all their might to bring as much as possible of their military 
@@ -413,8 +436,7 @@
                <rs type="place"><ref source="place028">Manchuria</ref></rs>. If this goal is reached, <rs type="place"><ref source="place019">Japan</ref></rs> will settle down 
                in both countries and will not strive to chase <rs type="place"><ref source="place014">Russia</ref></rs> further. Furthermore, it is uncertain whether 
                <rs type="place"><ref source="place014">Russia</ref></rs>’s plans will succeed.
-               
-ß            </p>
+            </p>
             <p>
                The fact is that <rs type="place"><ref source="place014">Russia</ref></rs> admitting that it is not prepared for the war reveals the whole organisation 
                <rs type="place"><ref source="place014">Russia</ref></rs> functions as. For months now, the whole world has known that a war will break out - 
@@ -457,7 +479,7 @@
                battleships are stationed close to the harbour.
             </p>
             <pb/>
-            <fw style="text-align:center">- 7 -</fw>
+            <fw>- 7 -</fw>
             <p>
                A prove how negligent the Russian military is might be this fact: while the Japanese battleship fired at <rs type="place"><ref source="place83">Port Arthur</ref></rs>, 
                destroying several ships, the Russian marine officers were visiting the circus and were entertained.
@@ -493,7 +515,7 @@
             </p>
          </div>
          <div n="11">
-            <head style="text-align:center"><hi rend="bold">Mobilisation in <rs type="place"><ref source="place001">Austria-Hungary</ref></rs>.</hi></head>
+            <head>Mobilisation in <rs type="place"><ref source="place001">Austria-Hungary</ref></rs>.</head>
             <p>
                Despite officially denying that <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> is mobilising its military, the mobilisation might still be happening according 
                to different cities.
@@ -506,7 +528,7 @@
             </p>
          </div>
          <div n="12">
-            <head style="text-align:center"><hi rend="bold">News.</hi><lb/>Jewish News.</head>
+            <head>News.</head><head type="h2">Jewish News.</head>
             <p>
                (<rs type="place"><ref source="place179">Stanislau</ref></rs>). <rs type="person"><ref source="person069">Rabbi Ari Leib Horowitz of Stryi</ref></rs> has unanimously been elected as the Rabbi of our community.
             </p>
@@ -545,7 +567,7 @@
             </p>
          </div>
          <div n="13">
-            <head style="text-align:center"><hi rend="bold">The resolutions of the Conference regarding the Jewish question in <rs type="place"><ref source="place014">Russia</ref></rs>.</hi></head>
+            <head>The resolutions of the Conference regarding the Jewish question in <rs type="place"><ref source="place014">Russia</ref></rs>.</head>
             <p>
                As we have already reported, the Russian government convened a conference of all provinces to discuss the Jewish question in <rs type="place"><ref source="place014">Russia</ref></rs>. They discussed whether Jewish laws should 
                be alleviated. The conference is now over and they agreed on the following resolutions: 
@@ -568,7 +590,7 @@
             </p>
          </div>
          <div n="14">
-            <head style="text-align:center"><hi rend="bold">Postbox.</hi></head>
+            <head>Postbox.</head>
             <p>
                To <hi rend="italic"><rs type="person">Rabbi J. B. Bm.</rs></hi> The rabbi is not obliged to present the marriage documents to the register administrator. (Decree of the  K.K. prefecture).
             </p>
@@ -584,7 +606,7 @@
          <div n="15">
             <p>The editor does not take responsibility for the advertisements in this paper.</p>
             <div type="ad" n="1">
-               <head><hi rend="bold">The sugar refinery of <rs type="place"><ref source="place060">Przeworsk</ref></rs></hi></head>
+               <head>The sugar refinery of <rs type="place"><ref source="place060">Przeworsk</ref></rs></head>
                <p>
                   Has immensely scaled up its sugar production for 1904 and recommends every variety to extremely low prices.
                </p>
@@ -597,8 +619,10 @@
             </div>
             <div type="ad" n="3">
                <head>
-                  <lb/><hi rend="bold">Coffee!</hi>
-                  <lb/><hi rend="italic>">All natural!</hi>
+                  Coffee!
+                  </head>
+               <head type="h2">
+                  <hi rend="italic>">All natural!</hi>
                </head>
                <p>
                   Also less than 5 kg, payment on delivery, prepaid, postage.
@@ -625,7 +649,7 @@
                </p>
             </div>
             <div type="ad" n="4">
-               <head><hi rend="bold">Fine tea</hi></head>
+               <head>Fine tea</head>
                <p>
                   If you want to drink pure, unadulterated tea, write to the address below,
                   <lb/>1 kg fine, pure tea only 6 crowns.
@@ -647,12 +671,12 @@
                <lb/>Easy, low-interest loans available.</p>
             </div>
       </div>
-      <fw type="footer">
+         <fw type="footer">
             <foreign xml:lang="de">
-               Herausgeber und verantwortlicher Redact. <rs type="person">OSIAS H. WILF</rs> recte Weinstock
-               <lb/>Druck von <rs type="person">E. Salat</rs> Witwe des <rs type="person">U.W. Salat</rs>, <rs type="place"><ref source="place002">Lemberg</ref></rs> <rs type="place"><ref source="place065">Kasimirgasse 35</ref></rs>
+               Herausgeber und verantwortlicher Redact. <rs type="person"><ref source="person031">OSIAS H. WILF</ref></rs> recte Weinstock
+               <lb/>Druck von <rs type="person"><ref source="person032">E. Salat</ref></rs> Witwe des <rs type="person"><ref source="person033">U.W. Salat</ref></rs>, <rs type="place"><ref source="place002">Lemberg</ref></rs> <rs type="place"><ref source="place065">Kasimirgasse</ref> 35</rs>
             </foreign>
-        </fw>
+         </fw>
       </body>
   </text>
 </TEI>
