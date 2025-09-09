@@ -54,13 +54,13 @@
  
                 </style>
             </head>
-            <body class="d-flex flex-column h-80">
+            <body class="d-flex flex-column h-100">
                 
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0">
                     <div class="container">
                         <div class="head">
-                            <div class="col-md-8 col-lg-8 col-sm-12">   
+                            <div class="col-md-12 col-lg-12 col-sm-10">   
                             </div>
                         </div>
 
