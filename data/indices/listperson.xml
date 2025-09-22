@@ -38,8 +38,8 @@
             </person>
             <person xml:id="person003">
               <persName>
-                <forename>Franz Joseph</forename>
-                <surname>of Habsburg</surname>
+                <forename>Franz Joseph I</forename>
+                <surname>of Austria</surname>
               </persName>
               <birth><date when-iso="1830-08-18">1830-08-18</date></birth>
               <death><date when-iso="1916-11-21">1916-11-21</date></death>
@@ -97,18 +97,18 @@
               </person>
               <person xml:id="person009">
                 <persName>
-                  <forename>Ferdinand August</forename>
+                  <forename>August Ferdinand</forename>
                   <surname>Bebel</surname>
                 </persName>
               <birth><date when-iso="1840-02-22">1840-02-22</date></birth>
               <death><date when-iso="1913-08-13">1913-08-13</date></death>
               <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q76520</idno>
-              <occupation>Socialist Member of German Parliament, 1871-1918. Goes by August Bebel.</occupation>
+              <occupation>Socialist Member of German Parliament, 1871-1918.</occupation>
               </person>
               <person xml:id="person010">
                 <persName>
-                  <forename>Wilhelm II.</forename>
-                  <surname>Emperor</surname>
+                  <forename>Wilhelm II</forename>
+                  <surname>von Preußen</surname>
                 </persName>
               <birth><date when-iso="1859-01-27">1859-01-27</date></birth>
               <death><date when-iso="1941-06-04">1941-06-04</date></death>
@@ -118,7 +118,7 @@
             <person xml:id="person011">
               <persName>
                 <forename>David</forename>
-                 <surname>King</surname>
+                 <surname>/</surname>
               </persName>
               <birth><date when-iso="-1039">1039 BCE</date></birth>
               <death><date when-iso="-969">969 BCE</date></death>
@@ -138,7 +138,7 @@
               <person xml:id="person013">
                 <persName>
                   <forename>Stéphanie</forename>
-                  <surname>of Belgium</surname>
+                  <surname>de Belgique</surname>
                 </persName>
                 <birth><date when-iso="1864-05-21">1864-05-21</date></birth>
                 <death><date when-iso="1945-08-23">1945-08-23</date></death>
@@ -148,7 +148,7 @@
               <person xml:id="person014">
                 <persName>
                   <forename>Leopold II</forename>
-                  <surname>of Belgium</surname>
+                  <surname>de Belgique</surname>
                 </persName>
                 <birth><date when-iso="1835-04-09">1835-04-09</date></birth>
                 <death><date when-iso="1909-12-17">1909-12-17</date></death>
@@ -163,7 +163,7 @@
                 <birth when-iso="1040-02-22">1040-02-22</birth>
                 <death when-iso="1105-07-13">1105-07-13</death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q26456</idno>
-                <occupation>Rabbi. Known as Rashi.</occupation>
+                <occupation>French rabbi. Known as Rashi.</occupation>
               </person>
               <person xml:id="person016">
                 <persName>
@@ -193,7 +193,7 @@
                 <birth><date when-iso="960">960</date></birth>
                 <death><date when-iso="1040">1040</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q982050</idno>
-                <occupation>Rabbi, taught in Mainz</occupation>
+                <occupation>German rabbi, taught in Mainz</occupation>
               </person>
               <person xml:id="person019">
                 <persName>
@@ -203,7 +203,7 @@
                 <birth when-iso="990">990</birth>
                 <death when-iso="1064">1064</death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1187659</idno>
-                <occupation>Rabbi. Taught in Mainz.</occupation>
+                <occupation>German rabbi. Taught in Mainz.</occupation>
               </person>
               <person xml:id="person020">
                 <persName>
@@ -212,7 +212,7 @@
                 </persName>
                 <birth><date>Not Known</date></birth>
                 <death><date when-iso="1070">1070</date></death>
-                <idno type="URL" subtype="wikiwant">https://www.wikiwand.com/en/Isaac_ben_Eliezer_Halevi</idno>
+                <idno type="URL" subtype="jewishencyclopedia">https://jewishencyclopedia.com/articles/8195-isaac-ha-levi-of-worms</idno>
                 <occupation>Rabbi. Taught in Worms.</occupation>
               </person>
               <person xml:id="person021">
@@ -223,7 +223,7 @@
                 <birth><date>Not Known</date></birth>
                 <death><date>Not Known</date></death>
                 <idno></idno>
-                <occupation>Rabbi. Taught in Worms.</occupation>
+                <occupation>German rabbi. Taught in Worms.</occupation>
               </person>
               <person xml:id="person022">
                 <persName>
@@ -233,12 +233,12 @@
                 <birth><date when-iso="1030">1030s</date></birth>
                 <death><date when-iso="1100">1100s</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q5360397</idno>
-                <occupation>Rabbi. Taught in Speyer.</occupation>
+                <occupation>German rabbi. Taught in Speyer.</occupation>
               </person>          
               <person xml:id="person023">
                 <persName>
-                  <forename>Godfrey</forename>
-                  <surname>of Bouillon</surname>
+                  <forename>Godefroi</forename>
+                  <surname>de Bouillon</surname>
                 </persName>
                 <birth><date when-iso="1060">1060</date></birth>
                 <death><date when-iso="1100">1100</date></death>
@@ -263,7 +263,7 @@
                 <birth><date notBefore="1060" notAfter="1070">1060s</date></birth>
                 <death><date notBefore="1130" notAfter="1140">1130s</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q6810277</idno>
-                <occupation>Rashi&apos;s disciple and son-in-law</occupation>
+                <occupation>Rashi&apos;s disciple and son-in-law.</occupation>
               </person>
               <person xml:id="person026">
                 <persName>
@@ -273,7 +273,7 @@
                 <birth><date when-iso="1085">1085</date></birth>
                 <death><date when-iso="1158">1158</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q722697</idno>
-                <occupation>Rabbi. Known as RaShbaM. Rashi&apos;s grandson.</occupation>
+                <occupation>German rabbi. Known as Rashbam. Rashi&apos;s grandson.</occupation>
               </person>
               <person xml:id="person027">
                 <persName>
@@ -283,7 +283,7 @@
                 <birth><date notBefore="1090" notAfter="1100">1090s</date></birth>
                 <death><date notBefore="1130" notAfter="1140">1130s</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q7336982</idno>
-                <occupation>Rabbi. Known as RIvaM. Rashi&apos;s grandson.</occupation>
+                <occupation>Rabbi. Known as Rivam. Rashi&apos;s grandson.</occupation>
               </person>
               <person xml:id="person028">
                 <persName>
@@ -293,13 +293,15 @@
                 <birth><date notBefore="1100" notAfter="1110">1100s</date></birth>
                 <death><date when-iso="1171">1171</date></death>
                 <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q944289</idno>
-                <occupation>Rabbi. Known as Tam. Rashi&apos;s grandson.</occupation>
+                <occupation>German rabbi. Known as Rabbeinu Tam. Rashi&apos;s grandson.</occupation>
               </person>
               <person xml:id="person029">
                 <persName>
                   <forename>Ernö</forename>
                   <surname>Berger</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Coffee trader. Advertising in The Geniune Jew.</occupation>
               </person>
               <person xml:id="person030">
@@ -307,6 +309,8 @@
                   <forename>Ignatz</forename>
                   <surname>Rath</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Coffee trader. Advertising in The Geniune Jew.</occupation>
               </person>
               <person xml:id="person031">
@@ -314,21 +318,27 @@
                   <forename>Osias H.</forename>
                   <surname>Wilf</surname>
                 </persName>
-                <occupation>Editor of The Geniune Jew.</occupation>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Editor of The Genuine Jew.</occupation>
               </person>
               <person xml:id="person032"> 
                 <persName>
                   <forename>E.</forename>
                 <surname>Salat</surname>
                 </persName>
-                <occupation>Printer of The Geniune Jew.</occupation>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Printer in Lviv. Printed The Genuine Jew.</occupation>
               </person>           
               <person xml:id="person033">
                 <persName>
                   <forename>U.W.</forename>
                   <surname>Salat</surname>
                 </persName>
-                <occupation>Dead Husband of E. Salat. Printer.</occupation>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Printer in Lviv.</occupation>
               </person>
               <person xml:id="person034">
                 <persName>
@@ -338,17 +348,17 @@
                 <birth when-iso="1843-06-18"><date>1843-06-18</date></birth>
                 <death when-iso="1915-08-16"><date>1915-08-16</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q640475</idno>
-                <occupation>Prime Minister of the Kingdom of Hungary, 1899-1903</occupation>
+                <occupation>Prime Minister of the Kingdom of Hungary, 1899-1903.</occupation>
               </person>
               <person xml:id="person035">
                 <persName>
-                  <forename>Pius X</forename>
-                  <surname>Pope</surname>
+                  <forename>Guiseppe Melchiorre</forename>
+                  <surname>Sarto</surname>
                 </persName>
                 <birth><date when-iso="1835-06-02">1835-06-02</date></birth>
                 <death><date when-iso="1094-08-20">1904-08-20</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q43739</idno>
-                <occupation>Pope from 1903-1914. Birthname: Giuseppe Melchiorre Sarto</occupation>
+                <occupation>Pope Pius X, 1903-1914.</occupation>
               </person>
               <person xml:id="person036">
                 <persName>
@@ -358,7 +368,7 @@
                 <birth><date when-iso="1844-06-29">1844-06-29</date></birth>
                 <death><date when-iso="1921-08-16">1921-08-16</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q211827</idno>
-                <occupation>King of Serbia, 1903-1921.</occupation>
+                <occupation>King Peter I of Serbia, 1903-1921.</occupation>
               </person>
               <person xml:id="person037">
                 <persName>
@@ -368,7 +378,7 @@
                 <birth><date when-iso="1876-08-14">1876-08-14</date></birth>
                 <death><date when-iso="1903-05-29">1903-05-29</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q297547</idno>
-                <occupation>King of Serbia, 1889-1903.</occupation>
+                <occupation>King Alexander I of Serbia, 1889-1903.</occupation>
               </person>
               <person xml:id="person038">
                 <persName>
@@ -378,7 +388,7 @@
                 <birth><date when-iso="1837-12-26">1837-12-26</date></birth>
                 <death><date when-iso="1917-01-16">1917-01-16</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q467093</idno>
-                <occupation>United States Navy Admiral</occupation>
+                <occupation>United States Navy Admiral.</occupation>
               </person>
               <person xml:id="person039">
                 <persName>
@@ -418,7 +428,7 @@
                 <birth><date when-iso="1836-08-23">1868-05-18</date></birth>
                 <death><date when-iso="1902-09-19">1918-07-17</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q40787</idno>
-                <occupation>Emperor of Russia from 1894 to 1917</occupation>
+                <occupation>Last Emperor of Russia, 1894-1917.</occupation>
               </person>
               <person xml:id="person043">
                 <persName>
@@ -458,7 +468,7 @@
                 <birth><date when-iso="1215">1215</date></birth>
                 <death><date when-iso="1293-04-27">1293-04-27</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q72163</idno>
-                <occupation>Called Rabbi Meir of Rothenburg. Known by the Hebrew language acronym Maharam of Rothenburg. German rabbi and poet.</occupation>
+                <occupation>German rabbi. Called Rabbi Meir of Rothenburg. Known by the Hebrew language acronym Maharam of Rothenburg.</occupation>
               </person>
               <person xml:id="person047">
                 <persName>
@@ -468,7 +478,7 @@
                 <birth><date when-iso="1869-11-11">1869-11-11</date></birth>
                 <death><date when-iso="1947-12-28">1947-12-28</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q150642</idno>
-                <occupation>King of Italy from 1900 to 1946.</occupation>
+                <occupation>King of Italy, 1900-1946.</occupation>
               </person>
               <person xml:id="person048">
                 <persName>
@@ -488,17 +498,9 @@
                 <birth><date when-iso="1807-07-04">1807-07-04</date></birth>
                 <death><date when-iso="1882-06-02">1882-06-02</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q539</idno>
-                <occupation>Italian general, patriot, and republican, 1807–1882.</occupation>
+                <occupation>Italian general and republican.</occupation>
               </person>
               <person xml:id="person050">
-                <persName>
-                  <forename>Nicholas II</forename>
-                  <surname>Romanov</surname>
-                </persName>
-                <birth><date when-iso="1868-05-06">1868-05-06</date></birth>
-                <death><date when-iso="1918-07-17">1918-07-17</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q40787</idno>
-                <occupation>Tsar/Emperor of Russia, 1894 - 1917.</occupation>
               </person>
               <person xml:id="person051">
                 <persName>
@@ -518,14 +520,15 @@
                 <birth><date when-iso="1852-11-03">1852-11-03</date></birth>
                 <death><date when-iso="1912-07-30">1912-07-30</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q174231</idno>
-                <occupation>Emperor of Japan, 1867 - 1912.
-                  <lb/>Given Name: Mutsuhito.</occupation>
+                <occupation>Emperor of Japan, 1867 - 1912. Given Name: Mutsuhito.</occupation>
               </person>
               <person xml:id="person053">
                 <persName>
                   <forename>L.</forename>
                   <surname>Aperman</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Coffee merchant from Brody.</occupation>
               </person>
               <person xml:id="person054">
@@ -533,6 +536,8 @@
                   <forename>Kneppe</forename>
                   <surname>/</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Baptised Jew. Imprisoned Rabbi Meir of Rothenburg.</occupation>
               </person>
               <person xml:id="person055">
@@ -540,6 +545,8 @@
                   <forename>A.</forename>
                   <surname>Hübscher</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Employer in Prague. Advertised in The Genuine Jew.</occupation>
               </person>
               <person xml:id="person056">
@@ -547,29 +554,37 @@
                   <forename>Joel</forename>
                   <surname>Weinreb</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Merchant in Lviv. Advertised in The Genuine Jew.</occupation>
               </person>
               <person xml:id="person057">
                 <persName>
-                  <forename>Zweibel</forename>
-                  <surname>Leydesdorf</surname>
+                  <forename>William</forename>
+                  <surname>Leidesdorff</surname>
                 </persName>
-                <death><date when-iso="1848">1848</date></death>
-                <occupation>Jew who immigrated to the USA. 
-                  <lb/>Left 700,000 dollars to his heirs.</occupation>
+                <birth><date when-iso="1802">1802</date></birth>
+                <death><date when-iso="1848-05-18">1848-05-18</date></death>
+                <idno type="URL" subtype="jewishencyclopedia">https://jewishencyclopedia.com/articles/9729-leidesdorff-william</idno>
+                <occupation>Hungarian Jew who immigrated to the USA.</occupation>
               </person>
               <person xml:id="person058">
                 <persName>
                   <forename>Elijah</forename>
                   <surname>Hift</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Relative of Zweibel Leydesdorf. Inherited 7 million dollars.</occupation>
               </person>
               <person xml:id="person059">
                 <persName>
                   <forename>Asher</forename>
-                  <surname>/</surname>
+                  <surname>ben Jehiel</surname>
                 </persName>
+                <birth><date when-iso="1250">1250</date></birth>
+                <death><date when-iso="1327-10-24">1327-10-24</date></death>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q722525</idno>
                 <occupation>Student of Rabbi Meir of Rothenburg</occupation>
               </person>
               <person xml:id="person060">
@@ -610,12 +625,12 @@
                 <birth><date when-iso="1852-03-01">1852-03-01</date></birth>
                 <death><date when-iso="1930-03-19">1923-02-22</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q503827</idno>
-                <occupation>French statesman.</occupation>
+                <occupation>French statesman of the French Third Republic.</occupation>
               </person>
               <person xml:id="person064">
                 <persName>
-                  <forename>Anatol</forename>
-                  <surname>Stessel</surname>
+                  <forename>Anatoly</forename>
+                  <surname>Stoessel</surname>
                 </persName>
                 <birth><date when-iso="1852-03-01">1848-06-28</date></birth>
                 <death><date when-iso="1930-03-19">1915-01-18</date></death>
@@ -664,12 +679,12 @@
               </person>
               <person xml:id="person069">
                 <persName> 
-                  <forename>Aryeh Leibish Haleivy Ish</forename>
+                  <forename>Aryeh Leib ben Isaac</forename>
                   <surname>Horowitz</surname>
                 </persName>
                 <birth><date when-iso="1847">1847</date></birth>
                 <death><date when-iso="1909">1909</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.geni.com/people/Rabbi-Aryeh-Leibish-Horowitz-Rabbi-of-Stryj-Author-of-Horei-Besomim/6000000002765083489</idno>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q61961758</idno>
                 <occupation>Rabbi in Stanislau, 1904-1909.</occupation>
               </person>
               <person xml:id="person070">
@@ -894,8 +909,8 @@
               </person>
               <person xml:id="person092">
                 <persName> 
-                  <forename>Károly</forename>
-                  <surname>Khuen-Héderváry de Hédervár</surname>
+                  <forename>Kálmán</forename>
+                  <surname>Tisza</surname>
                 </persName>
                 <birth><date when-iso="1830-12-16">1830-12-16</date></birth>
                 <death><date when-iso="1902-03-23">1902-03-23</date></death>
@@ -954,8 +969,8 @@
               </person>
               <person xml:id="person098">
                 <persName> 
-                  <forename>Hoshea</forename>
-                  <surname>King of Isreal</surname>
+                  <forename>Hosea</forename>
+                  <surname>/</surname>
                 </persName>
                 <birth><date when-iso="-0759">759 BC</date></birth>
                 <death><date when-iso="-0723">723 BC</date></death>
@@ -975,7 +990,7 @@
               <person xml:id="person100">
                 <persName> 
                   <forename>Sargon II</forename>
-                  <surname>King</surname>
+                  <surname>/</surname>
                 </persName>
                 <birth><date when-iso="-0765">765 BC</date></birth>
                 <death><date when-iso="-0705">705 BC</date></death>
@@ -1025,7 +1040,7 @@
               <person xml:id="person105">
                 <persName> 
                   <forename>Edward VII</forename>
-                  <surname>King</surname>
+                  <surname>/</surname>
                 </persName>
                 <birth><date when-iso="1841-11-09">1841-11-09</date></birth>
                 <death><date when-iso="1910-05-06">1910-05-06</date></death>
@@ -1037,7 +1052,9 @@
                   <forename>Nathan</forename>
                   <surname>Sprecher</surname>
                 </persName>
-                <occupation>Advertiser.</occupation>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Polish businessman for farming equipment.</occupation>
               </person>
               <person xml:id="person107">
                 <persName> 
@@ -1102,7 +1119,7 @@
               <person xml:id="person113">
                 <persName> 
                   <forename>Abdülmecid I</forename>
-                  <surname>Sultan</surname>
+                  <surname>/</surname>
                 </persName>
                 <birth><date when-iso="1823-04-25">1823-04-25</date></birth>
                 <death><date when-iso="1861-06-25">1861-06-25</date></death>
@@ -1122,7 +1139,7 @@
               <person xml:id="person115">
                 <persName>
                   <forename>Georgios</forename>
-                  <surname>Prince</surname>
+                  <surname>/</surname>
                 </persName>
                 <birth><date when-iso="1869-06-24">1869-06-24</date></birth>
                 <death><date when-iso="1957-11-25">1957-11-25</date></death>
@@ -1151,12 +1168,12 @@
               </person>
               <person xml:id="person118">
                 <persName>
-                  <forename>Georgiy Yury</forename>
+                  <forename>Georgy Yury</forename>
                   <surname>Bakhmeteff</surname>
                 </persName>
                 <birth><date when-iso="1855">1847</date></birth>
                 <death><date when-iso="1928-08-29">1928-08-29</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q660970</idno>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q5536638</idno>
                 <occupation>Russian diplomat; ambassador to Bulgaria, 1897-1905.</occupation>
               </person>
               <person xml:id="person119">
@@ -1164,6 +1181,9 @@
                   <forename>Luis</forename>
                   <surname>Gonz</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Jewish New Yorker who died in 1904 and left his wealth to Jewish charity.</occupation>
               </person>
               <person xml:id="person120">
                 <persName>
@@ -1232,7 +1252,7 @@
                 </persName>
                 <birth><date when-iso="1839-07-08">1839-07-08</date></birth>
                 <death><date when-iso="1937-05-23">1937-05-23</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q522120</idno>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q160278</idno>
                 <occupation>U.S.-American business magnate; one of the wealthiest people in modern history.</occupation>
               </person>
               <person xml:id="person127">
@@ -1263,7 +1283,7 @@
                 <birth><date when-iso="1831-10-18">1831-10-18</date></birth>
                 <death><date when-iso="1888-06-15">1888-06-15</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q58600</idno>
-                <occupation>German Emperor and King of Prussia, March to June 1888</occupation>
+                <occupation>German Emperor Frederick III and King of Prussia, March to June 1888.</occupation>
               </person>
               <person xml:id="person130">
                 <persName>
@@ -1307,6 +1327,7 @@
                   <surname>von Rotenberg</surname>
                 </persName>
                 <birth><date when-iso="1275">1275</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Daughter of Baruch Ben Meir, Rabbi Meir of Rothenburg.</occupation>
               </person>
               <person xml:id="person135">
@@ -1315,6 +1336,7 @@
                   <surname>von Rotenberg</surname>
                 </persName>
                 <birth><date when-iso="1245">1245</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Wife of Baruch Ben Meir, Rabbi Meir of Rothenburg.</occupation>
               </person>
               <person xml:id="person136">
@@ -1322,6 +1344,8 @@
                   <forename>Hannah</forename>
                   <surname>/</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Sister or sister-in-law of Baruch Ben Meir, Rabbi Meir of Rothenburg.</occupation>
               </person>
               <person xml:id="person137">
@@ -1339,24 +1363,36 @@
                   <forename>M.</forename>
                   <surname>Labiner</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Coffee trader in Ternopil. Advertiser.</occupation>
               </person>
               <person xml:id="person139">
                 <persName>
                   <forename>S.</forename>
                   <surname>Weinstock</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Literature provider in Lviv. Advertiser.</occupation>
               </person>
               <person xml:id="person140">
                 <persName>
                   <forename>Hirsch</forename>
                   <surname>Gutwirth</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Fabric trader in Lviv. Advertiser.</occupation>
               </person>
               <person xml:id="person141">
                 <persName>
                   <forename>A.</forename>
                   <surname>Stropp</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Provider of informational material in Neunkirchen. Advertiser.</occupation>
               </person>
               <person xml:id="person142">
                 <persName>
@@ -1373,12 +1409,18 @@
                   <forename>Simha</forename>
                   <surname>Hershkovitz</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Toll Household leaseholder in Lviv, victim of an armed robbery.</occupation>
               </person>
               <person xml:id="person144">
                 <persName>
                   <forename>Yisrael</forename>
                   <surname>Minevitch</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Jewish landlord in St Petersburg.</occupation>
               </person>
               <person xml:id="person145">
                 <persName>
@@ -1402,7 +1444,7 @@
               </person>
               <person xml:id="person147">
                 <persName>
-                  <forename>Isaac</forename>
+                  <forename>Yitzchak</forename>
                   <surname>/</surname>
                 </persName>
                 <birth><date when-iso="-1851">1851 BCE</date></birth>
@@ -1412,23 +1454,13 @@
               </person>
               <person xml:id="person148">
                 <persName>
-                  <forename>Jacob</forename>
+                  <forename>Yaacov</forename>
                   <surname>/</surname>
                 </persName>
                 <birth><date when-iso="-1791">1791 BCE</date></birth>
                 <death><date when-iso="-1644">1644 BCE</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q289957</idno>
                 <occupation>Forefather of Israelites. Son of Isaac, grandson of Abraham.</occupation>
-              </person>
-              <person xml:id="person149">
-                <persName>
-                  <forename>Moses</forename>
-                  <surname>/</surname>
-                </persName>
-                <birth><date notBefore="-1689" notAfter="-1391">Between 1689 BCE and 1391 BCE.</date></birth>
-                <death><date notBefore="-1473" notAfter="-1271">Between 1473 BCE and 1271 BCE.</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q9077</idno>
-                <occupation>Abrahamic prophet said to have led the Israelites out of Egypt.</occupation>
               </person>
               <person xml:id="person150">
                 <persName>
@@ -1438,7 +1470,7 @@
                 <birth><date when-iso="1843">1843</date></birth>
                 <death><date when-iso="1929">1929</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q5362059</idno>
-                <occupation>Rabbi. Leading rabbinic authoritiy of Litvak.</occupation>
+                <occupation>Lithuanian-Belarusian rabbi. Leading rabbinic authoritiy of Litvak.</occupation>
               </person>
               <person xml:id="person151">
                 <persName>
@@ -1447,8 +1479,8 @@
                 </persName>
                 <birth><date when-iso="1841">1841</date></birth>
                 <death><date when-iso="1910">1910</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q5362056</idno>
-                <occupation>Rabbi.</occupation>
+                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2903915</idno>
+                <occupation>Lithuanian rabbi.</occupation>
               </person>
               <person xml:id="person152">
                 <persName>
@@ -1462,23 +1494,29 @@
               </person>
               <person xml:id="person153">
                 <persName>
-                  <forename>Efraim Shlomo</forename>
+                  <forename>Ephraim Shlomo</forename>
                   <surname>Zalman Weingort</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person154">
                 <persName>
-                  <forename>Bentzion</forename>
+                  <forename>Benzion</forename>
                   <surname>Sternfeld</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person155">
                 <persName>
-                  <forename>Solomon</forename>
+                  <forename>Shlomo</forename>
                   <surname>Shapira</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person156">
@@ -1486,6 +1524,8 @@
                   <forename>Abraham</forename>
                   <surname>Gelbord</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person157">
@@ -1493,6 +1533,8 @@
                   <forename>Moshe</forename>
                   <surname>/</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person158">
@@ -1510,6 +1552,8 @@
                   <forename>Zerah</forename>
                   <surname>/</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person160">
@@ -1517,6 +1561,8 @@
                   <forename>Morenu</forename>
                   <surname>Binyamin</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person161">
@@ -1534,6 +1580,8 @@
                   <forename>Chaim Meir Noach</forename>
                   <surname>Levin</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person163">
@@ -1561,6 +1609,8 @@
                   <forename>Yehoshua</forename>
                   <surname>/</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person166">
@@ -1578,6 +1628,8 @@
                   <forename>Shmuel Levi</forename>
                   <surname>Rabinowitz</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person168">
@@ -1614,6 +1666,8 @@
                   <forename>Yehoshua</forename>
                   <surname>Eizik</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person172">
@@ -1621,6 +1675,8 @@
                   <forename>Meir</forename>
                   <surname>Amlers</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person173">
@@ -1628,6 +1684,8 @@
                   <forename>Meshach</forename>
                   <surname>Shmuel</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person174">
@@ -1718,6 +1776,8 @@
                   <forename>Yosef</forename>
                   <surname>Shlopfer</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person184">
@@ -1725,6 +1785,8 @@
                   <forename>Yosef</forename>
                   <surname>Razin</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person185">
@@ -1732,6 +1794,8 @@
                   <forename>Eliyahu Leib</forename>
                   <surname>Shapira</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person186">
@@ -1739,7 +1803,9 @@
                   <forename>H. Sholem</forename>
                   <surname>Grosskopf</surname>
                 </persName>
-                <occupation></occupation>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Chair of the Lviv cultus board.</occupation>
               </person>
               <person xml:id="person187">
                 <persName>
@@ -1756,6 +1822,8 @@
                   <forename>/</forename>
                   <surname>Ivkov</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Japanese spy in the Russo-Japanese war.</occupation>
               </person>
               <person xml:id="person189">
@@ -1763,11 +1831,13 @@
                   <forename>/</forename>
                   <surname>Hippe</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
               </person>
               <person xml:id="person190">
                 <persName>
                   <forename>Gustav</forename>
-                  <surname>Kohn</surname>
+                  <surname>Cohn</surname>
                 </persName>
                 <birth><date when-iso="1840-12-12">1840-12-12</date></birth>
                 <death><date when-iso="1919-09-17">1919-09-17</date></death>
@@ -1899,6 +1969,9 @@
                   <forename>Salomon</forename>
                   <surname>Dulberg</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Victim of the Zabolotiv persecution.</occupation>
               </person>
               <person xml:id="person204">
                 <persName>
@@ -1915,6 +1988,8 @@
                   <forename>H.</forename>
                   <surname>Rubenstein</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Jewish doctor.</occupation>
               </person>
               <person xml:id="person206">
@@ -1922,11 +1997,13 @@
                   <forename>Dr</forename>
                   <surname>Garfunkel</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Jewish doctor.</occupation>
               </person>
               <person xml:id="person207">
                 <persName>
-                  <forename>Yom-Tov</forename>
+                  <forename>Yom-Tob</forename>
                   <surname>Lipmann-Heller</surname>
                 </persName>
                 <birth><date when-iso="1579">1579</date></birth>
@@ -1939,7 +2016,9 @@
                   <forename>Moses Ha-Levi</forename>
                   <surname>Heller</surname>
                 </persName>
-                <occupation>Father of Yom-Tov Lipmann-Heller.</occupation>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Grandfather of Yom-Tob Lipmann-Heller.</occupation>
               </person>
               <person xml:id="person209">
                 <persName>
@@ -2035,6 +2114,8 @@
                   <forename>David</forename>
                   <surname>Senior</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Son of Abraham Senior.</occupation>
               </person>
               <person xml:id="person219">
@@ -2052,6 +2133,8 @@
                   <forename>Potipherah</forename>
                   <surname>Priest</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q7234956</idno>
                 <occupation>Priest of ancient Egypt in Genesis.</occupation>
               </person>
@@ -2060,6 +2143,8 @@
                   <forename>Ben</forename>
                   <surname>Solomon</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Writer in The Geniune Jew</occupation>
               </person>
               <person xml:id="person222">
@@ -2067,6 +2152,8 @@
                   <forename>Ben</forename>
                   <surname>Zvi</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Writer in The Geniune Jew</occupation>
               </person>
               <person xml:id="person223">
@@ -2074,6 +2161,8 @@
                   <forename>Dr</forename>
                   <surname>Summer</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Local judge in Frankfurt in 1904.</occupation>
               </person>
               <person xml:id="person224">
@@ -2096,53 +2185,58 @@
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q334869</idno>
                 <occupation>Emir of Afghanistan, 1901-1919.</occupation>
               </person>
-              <person xml:id="person226">
-                <persName>
-                  <forename>Elijah</forename>
-                  <surname>Hift</surname>
-                </persName>
-              </person>
-              <person xml:id="person227">
-                <persName>
-                  <forename>Zweibel</forename>
-                  <surname>Leydesdorf</surname>
-                </persName>
-              </person>
               <person xml:id="person228">
                 <persName>
                   <forename>Chaim</forename>
                   <surname>Loker</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Victim of the Zabolotiv persecution.</occupation>
               </person>
               <person xml:id="person229">
                 <persName>
                   <forename>Dud</forename>
                   <surname>Jupiter</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Victim of the Zabolotiv persecution.</occupation>
               </person>
               <person xml:id="person230">
                 <persName>
                   <forename>Layzer</forename>
                   <surname>Burg</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Victim of the Zabolotiv persecution.</occupation>
               </person>
               <person xml:id="person231">
                 <persName>
                   <forename>Feivel</forename>
                   <surname>Enker</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Victim of the Zabolotiv persecution.</occupation>
               </person>
               <person xml:id="person232">
                 <persName>
                   <forename>Yirachmiel</forename>
                   <surname>Gier</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Victim of the Zabolotiv persecution.</occupation>
               </person>
               <person xml:id="person233">
                 <persName>
                   <forename>/</forename>
                   <surname>Koronitzsky</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Regional court judge of Zabolotiv in 1904 during the Zabolotiv trials.</occupation>
               </person>
               <person xml:id="person234">
@@ -2150,6 +2244,8 @@
                   <forename>/</forename>
                   <surname>Bilewicz</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Council member of Zabolotiv in 1904 during the Zabolotiv trials.</occupation>
               </person>
               <person xml:id="person235">
@@ -2157,6 +2253,8 @@
                   <forename>/</forename>
                   <surname>Vyshinsky</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Council member of Zabolotiv in 1904 during the Zabolotiv trials.</occupation>
               </person>
               <person xml:id="person236">
@@ -2164,6 +2262,8 @@
                   <forename>/</forename>
                   <surname>Dashevsky</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Council member of Zabolotiv in 1904 during the Zabolotiv trials.</occupation>
               </person>
               <person xml:id="person237">
@@ -2171,6 +2271,8 @@
                   <forename>/</forename>
                   <surname>Feral</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Council member of Zabolotiv in 1904 during the Zabolotiv trials.</occupation>
               </person>
               <person xml:id="person238">
@@ -2178,6 +2280,8 @@
                   <forename>/</forename>
                   <surname>Drohobytskyi</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Prosecutor during the Zabolotiv trials in 1904.</occupation>
               </person>
               <person xml:id="person239">
@@ -2185,6 +2289,8 @@
                   <forename>Dr</forename>
                   <surname>Zipser</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Jewish representative during the Zabolotiv trials in 1904.</occupation>
               </person>
               <person xml:id="person240">
@@ -2192,6 +2298,8 @@
                   <forename>/</forename>
                   <surname>Hashevsky</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Judical Agent during the Zabolotiv trials in 1904.</occupation>
               </person>
               <person xml:id="person241">
@@ -2199,6 +2307,8 @@
                   <forename>/</forename>
                   <surname>Mislavski</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Judical Agent during the Zabolotiv trials in 1904.</occupation>
               </person>
               <person xml:id="person242">
@@ -2206,6 +2316,8 @@
                   <forename>/</forename>
                   <surname>Yurtschenko</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Judical Agent during the Zabolotiv trials in 1904.</occupation>
               </person>
               <person xml:id="person243">
@@ -2213,6 +2325,8 @@
                   <forename>Jan</forename>
                   <surname>Orzech</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
                 <occupation>Police chief during the Zabolotiv trials in 1904.</occupation>
               </person>
               <person xml:id="person244">
@@ -2220,6 +2334,9 @@
                   <forename>Solomo</forename>
                   <surname>Fridman</surname>
                 </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Writer for the paper.</occupation>
               </person>
             </listPerson>
           </div>
