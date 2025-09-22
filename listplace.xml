@@ -46,7 +46,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q36036</idno>
                     </place> 
                     <place xml:id="place003">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Sonnengasse</placeName>
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Panteleimona Kulisha St</placeName>
                         <location type="coords"><geo>49.84777348999111 24.024325540895227</geo>
                     </location>
                     <location type="located_in_place">
@@ -64,7 +64,7 @@
                     <location type="located_in_place">
                         <placeName key="place100">Europe</placeName>
                     </location>
-                    <note>Now called Panteleimona Kulisha St</note>
+                    <note>Was called Sonnengasse in 1904.</note>
                     </place>
                     <place xml:id="place004">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Moldova</placeName>
@@ -848,6 +848,20 @@
                         <idno type="Geonames">https://www.geonames.org/692372/stryi.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q158923</idno>
                     </place>
+                    <place xml:id="place064">
+                        <placeName type="person_namensvariante_nachname-komma-vorname">Trieste</placeName>
+                        <location type="coords">
+                            <geo>13.6989939 -89.1914249</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place040">Italy</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/3165185/trieste.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q546</idno>
+                    </place>
                     <place xml:id="place065">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Hrodototska St</placeName>
                         <location type="coords">
@@ -869,20 +883,6 @@
                             <placeName key="place100">Europe</placeName>
                         </location>
                         <note>Named Kasimirgasse in 1904.</note>
-                    </place>
-                    <place xml:id="place064">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Trieste</placeName>
-                        <location type="coords">
-                            <geo>13.6989939 -89.1914249</geo>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place040">Italy</placeName>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place100">Europe</placeName>
-                        </location>
-                        <idno type="Geonames">https://www.geonames.org/3165185/trieste.html</idno>
-                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q546</idno>
                     </place>
                     <place xml:id="place067">
                         <placeName type="person_namensvariante_nachname-komma-vorname">Poland</placeName>
@@ -3965,7 +3965,7 @@
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
                         </location>
-                        <idno type="Geonames"></idno>
+                        <idno type="Geonames">https://www.geonames.org/622997/pruzhany.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1885543</idno>
                     </place>
                     <place xml:id="place268">
