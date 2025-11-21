@@ -28,7 +28,7 @@
                         <note>Empire in Central Europe, 1867–1918.</note>
                     </place>
                     <place xml:id="place002">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Lviv</placeName>
+                        <placeName>Lviv</placeName>
                         <location type="coords"><geo>49.841952 24.0315921</geo></location>
                         <location type="located_in_place">
                             <placeName key="place006">Galicia</placeName>
@@ -46,7 +46,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q36036</idno>
                     </place> 
                     <place xml:id="place003">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Panteleimona Kulisha St</placeName>
+                        <placeName>Panteleimona Kulisha St</placeName>
                         <location type="coords"><geo>49.84777348999111 24.024325540895227</geo>
                     </location>
                     <location type="located_in_place">
@@ -67,7 +67,7 @@
                     <note>Was called Sonnengasse in 1904.</note>
                     </place>
                     <place xml:id="place004">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Moldova</placeName>
+                        <placeName>Moldova</placeName>
                         <location type="coords">
                             <geo>46.9803875 28.3896969</geo>
                         </location>
@@ -78,7 +78,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q217</idno>
                     </place>
                     <place xml:id="place005">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Gaza</placeName>
+                        <placeName>Gaza</placeName>
                         <location type="coords">
                         <geo>31.4432234 34.360007</geo>
                         </location>
@@ -89,7 +89,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q39760</idno>
                     </place>
                     <place xml:id="place006">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Galicia</placeName>
+                        <placeName>Galicia</placeName>
                         <location type="coords">
                             <geo>49.83 24.0142</geo>
                         </location>                    
@@ -106,7 +106,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q180086</idno>
                     </place>
                     <place xml:id="place007">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Vienna</placeName>
+                        <placeName>Vienna</placeName>
                    <location type="coords">
                        <geo>48.2083537 16.3725042</geo>
                    </location>
@@ -123,7 +123,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1741</idno>
                     </place>                   
                     <place xml:id="place008">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">North America</placeName>
+                        <placeName>North America</placeName>
                         <location type="coords">
                             <geo>39.7837304 -100.445882</geo>
                         </location>
@@ -131,7 +131,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q49</idno>
                     </place>
                     <place xml:id="place009">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Hungary</placeName>
+                        <placeName>Hungary</placeName>
                         <location type="coords">
                             <geo>47.1817585 19.5060937</geo>
                         </location>
@@ -145,7 +145,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q28</idno>
                     </place>
                     <place xml:id="place010">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Germany</placeName>
+                        <placeName>Germany</placeName>
                         <location type="coords">
                             <geo>51.1638175 10.4478313</geo>
                         </location>
@@ -156,7 +156,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q183</idno>
                     </place>
                     <place xml:id="place011">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">England</placeName>
+                        <placeName>England</placeName>
                         <location type="coords">
                             <geo>52.5310214 -1.2649062</geo>
                         </location>
@@ -167,7 +167,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q21</idno>
                     </place>
                     <place xml:id="place012">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Babylonia</placeName>
+                        <placeName>Babylonia</placeName>
                         <location type="coords">
                             <geo>32.5422222 44.42111111111111</geo>
                         </location>
@@ -175,7 +175,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q47690</idno>
                     </place>       
                     <place xml:id="place013">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Egypt</placeName>
+                        <placeName>Egypt</placeName>
                         <location type="coords">
                             <geo>26.2540493 29.2675469</geo>
                         </location>
@@ -189,7 +189,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q79</idno>
                     </place>
                     <place xml:id="place014">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Russia</placeName>
+                        <placeName>Russia</placeName>
                         <location type="coords">
                             <geo>60 100</geo>
                         </location>
@@ -203,7 +203,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q159</idno>
                     </place>
                     <place xml:id="place015">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Chișinău</placeName>
+                        <placeName>Chișinău</placeName>
                         <location type="coords">
                             <geo>47.0245117 28.8322923</geo>
                         </location>
@@ -218,7 +218,7 @@
                         <note>Capital of Moldova, part of the Russian kingdom from 1812 to 1917.</note>
                     </place>
                     <place xml:id="place016">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Gomel</placeName>
+                        <placeName>Gomel</placeName>
                         <location type="coords">
                             <geo>52.4238936 31.0131698</geo>
                         </location>
@@ -233,7 +233,7 @@
                         <note>Another name for Gomel is Homyel.</note>
                     </place>
                     <place xml:id="place017">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Bessarabia</placeName>
+                        <placeName>Bessarabia</placeName>
                         <location type="coords">
                             <geo>47 29</geo>
                         </location>
@@ -251,7 +251,7 @@
                         <note>Historical Region, today located in Moldova and Ukraine.</note>
                     </place>
                     <place xml:id="place018">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">St Petersburg</placeName>
+                        <placeName>St Petersburg</placeName>
                         <location type="coords">
                             <geo>59.938732 30.316229</geo>
                         </location>
@@ -265,7 +265,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q656</idno>
                     </place>
                     <place xml:id="place019">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Japan</placeName>
+                        <placeName>Japan</placeName>
                         <location type="coords">
                             <geo>36.5748441 139.2394179</geo>
                         </location>
@@ -279,7 +279,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q17</idno>
                     </place>     
                     <place xml:id="place020">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Belarus</placeName>
+                        <placeName>Belarus</placeName>
                         <location type="coords">
                             <geo>53 27</geo>
                         </location>
@@ -291,7 +291,7 @@
                         <note></note>
                     </place>            
                     <place xml:id="place021">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">China</placeName>
+                        <placeName>China</placeName>
                         <location type="coords">
                             <geo>35.000074 104.999927</geo>
                         </location>
@@ -305,7 +305,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q29520</idno>
                     </place>
                     <place xml:id="place022">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Korea</placeName>
+                        <placeName>Korea</placeName>
                         <location type="coords">
                             <geo>36.638392 127.6961188</geo>
                         </location>
@@ -319,7 +319,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q483134</idno>
                     </place>
                     <place xml:id="place023">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Pacific Ocean</placeName>
+                        <placeName>Pacific Ocean</placeName>
                         <location type="coords">
                             <geo>-0.703107 -120.9375</geo>
                         </location>
@@ -328,7 +328,7 @@
                         <note>Called Silent Ocean in the Source.</note>
                     </place>
                     <place xml:id="place024">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Asia</placeName>
+                        <placeName>Asia</placeName>
                         <location type="coords">
                             <geo>51.2086975 89.2343748</geo>
                         </location>
@@ -336,7 +336,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q48</idno>
                     </place>
                     <place xml:id="place025">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Austria</placeName>
+                        <placeName>Austria</placeName>
                         <location type="coords">
                             <geo>47.59397 14.12456</geo>
                         </location>
@@ -350,7 +350,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q40</idno>
                     </place>
                     <place xml:id="place026">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Bohemia</placeName>
+                        <placeName>Bohemia</placeName>
                         <location type="coords">
                             <geo>51.128251 10.6363712</geo>
                         </location>
@@ -367,7 +367,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q39193</idno>
                     </place>
                     <place xml:id="place027">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Moravia</placeName>
+                        <placeName>Moravia</placeName>
                         <location type="coords">
                             <geo>50.5250765 7.9219061</geo>
                         </location>
@@ -384,7 +384,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q43266</idno>
                     </place>
                     <place xml:id="place028">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Manchuria</placeName>
+                        <placeName>Manchuria</placeName>
                         <location type="coords">
                             <geo>-9.2079909 -76.1651529</geo>
                         </location>
@@ -397,7 +397,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q81126</idno>
                     </place>
                     <place xml:id="place029">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Rzeszów</placeName>
+                        <placeName>Rzeszów</placeName>
                         <location type="coords">
                             <geo>50.0374531 22.0047174</geo>
                         </location>
@@ -414,7 +414,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q598</idno>
                     </place>
                     <place xml:id="place030">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Budapest</placeName>
+                        <placeName>Budapest</placeName>
                         <location type="coords">
                             <geo>47.4978789 19.0402383</geo>
                         </location>
@@ -431,7 +431,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1781</idno>
                     </place>
                     <place xml:id="place031">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Berlin</placeName>
+                        <placeName>Berlin</placeName>
                         <location type="coords">
                             <geo>52.5170365 13.3888599</geo>
                         </location>
@@ -445,7 +445,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q64</idno>
                     </place>
                     <place xml:id="place032">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Karlsruhe</placeName>
+                        <placeName>Karlsruhe</placeName>
                         <location type="coords">
                             <geo>49.0068705 8.4034195</geo>
                         </location>
@@ -459,7 +459,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1040</idno>
                     </place>
                     <place xml:id="place033">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Warsaw</placeName>
+                        <placeName>Warsaw</placeName>
                         <location type="coords">
                             <geo>52.2319581 21.0067249</geo>
                         </location>
@@ -473,7 +473,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q270</idno>
                     </place>
                     <place xml:id="place034">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Israel</placeName>
+                        <placeName>Israel</placeName>
                         <location type="coords">
                             <geo>30.8124247 34.8594762</geo>
                         </location>
@@ -484,7 +484,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q801</idno>
                     </place>
                     <place xml:id="place035">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Bucharest</placeName>
+                        <placeName>Bucharest</placeName>
                         <location type="coords">
                             <geo>44.4361414 26.1027202</geo>
                         </location>
@@ -498,7 +498,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q19660</idno>
                     </place>
                     <place xml:id="place036">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Dowlish Wake</placeName>
+                        <placeName>Dowlish Wake</placeName>
                         <location type="coords">
                             <geo>50.9094125 -2.889848</geo>
                         </location>
@@ -512,7 +512,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q2616263</idno>
                     </place>
                     <place xml:id="place037">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Ålesund</placeName>
+                        <placeName>Ålesund</placeName>
                         <location type="coords">
                             <geo>40.741895 -73.989308</geo>
                         </location>
@@ -526,7 +526,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q42900680</idno>
                     </place>
                     <place xml:id="place038">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Arad</placeName>
+                        <placeName>Arad</placeName>
                         <location type="coords">
                             <geo>46.1753793 21.3196342</geo>
                         </location>
@@ -543,7 +543,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q173591</idno>
                     </place>
                     <place xml:id="place039">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Turin</placeName>
+                        <placeName>Turin</placeName>
                         <location type="coords">
                             <geo>45.0677551 7.6824892</geo>
                         </location>
@@ -557,7 +557,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q495</idno>
                     </place>
                     <place xml:id="place040">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Italy</placeName>
+                        <placeName>Italy</placeName>
                         <location type="coords">
                             <geo>42.6384261 12.674297</geo>
                         </location>
@@ -568,7 +568,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q38</idno>
                     </place>
                     <place xml:id="place041">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Madrid</placeName>
+                        <placeName>Madrid</placeName>
                         <location type="coords">
                             <geo>40.4167047 -3.7035825</geo>
                         </location>
@@ -582,7 +582,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q2807</idno>
                     </place>
                     <place xml:id="place042">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Belgium</placeName>
+                        <placeName>Belgium</placeName>
                         <location type="coords">
                             <geo>50.6402809 4.6667145</geo>
                         </location>
@@ -593,7 +593,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q31</idno>
                     </place>
                     <place xml:id="place043">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Spain</placeName>
+                        <placeName>Spain</placeName>
                         <location type="coords">
                             <geo>40 -4</geo>
                         </location>
@@ -604,7 +604,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q29</idno>
                     </place>
                     <place xml:id="place045">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">France</placeName>
+                        <placeName>France</placeName>
                         <location type="coords">
                             <geo>46 2</geo>
                         </location>
@@ -615,7 +615,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q142</idno>
                     </place>
                     <place xml:id="place046">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Mainz</placeName>
+                        <placeName>Mainz</placeName>
                         <location type="coords">
                             <geo>50.0012314 8.2762513</geo>
                         </location>
@@ -632,7 +632,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1720</idno>
                     </place>
                     <place xml:id="place047">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Worms</placeName>
+                        <placeName>Worms</placeName>
                         <location type="coords">
                             <geo>49.6302618 8.3620898</geo>
                         </location>
@@ -649,7 +649,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q3852</idno>
                     </place>
                     <place xml:id="place048">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Speyer</placeName>
+                        <placeName>Speyer</placeName>
                         <location type="coords">
                             <geo>49.3165553 8.433615</geo>
                         </location>
@@ -666,7 +666,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q6829</idno>
                     </place>
                     <place xml:id="place049">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Mecklenburg</placeName>
+                        <placeName>Mecklenburg</placeName>
                         <location type="coords">
                             <geo>53.83333 12.5</geo>
                         </location>
@@ -680,7 +680,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q109057</idno>
                     </place>
                     <place xml:id="place050">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Jerusalem</placeName>
+                        <placeName>Jerusalem</placeName>
                         <location type="coords">
                             <geo>31.7788242 35.2257626</geo>
                         </location>
@@ -694,7 +694,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1218</idno>
                     </place>
                     <place xml:id="place051">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Australia</placeName>
+                        <placeName>Australia</placeName>
                         <location type="coords">
                             <geo>-25 135</geo>
                         </location>
@@ -702,7 +702,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q408</idno>
                     </place>
                     <place xml:id="place052">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Indian Ocean</placeName>
+                        <placeName>Indian Ocean</placeName>
                         <location type="coords">
                             <geo>-10 70</geo>
                         </location>
@@ -710,7 +710,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1239</idno>
                     </place>
                     <place xml:id="place053">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Artic Ocean</placeName>
+                        <placeName>Artic Ocean</placeName>
                         <location type="coords">
                             <geo>85 0</geo>
                         </location>
@@ -718,7 +718,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q788</idno>
                     </place>
                     <place xml:id="place054">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Santos</placeName>
+                        <placeName>Santos</placeName>
                         <location type="coords">
                             <geo>-23.9335988 -46.3286399</geo>
                         </location>
@@ -729,7 +729,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q81882</idno>
                     </place>
                     <place xml:id="place055">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Puerto Rico</placeName>
+                        <placeName>Puerto Rico</placeName>
                         <location type="coords">
                             <geo>18.2247706 -66.4858295</geo>
                         </location>
@@ -740,7 +740,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1183</idno>
                     </place>
                     <place xml:id="place056">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Cuba</placeName>
+                        <placeName>Cuba</placeName>
                         <location type="coords">
                             <geo>23.0131338 -80.8328748</geo>
                         </location>
@@ -751,7 +751,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q788</idno>
                     </place>
                     <place xml:id="place057">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Sri Lanka</placeName>
+                        <placeName>Sri Lanka</placeName>
                         <location type="coords">
                             <geo>7.5554942 80.7137847</geo>
                         </location>
@@ -763,7 +763,7 @@
                         <note>Named Ceylon in the Source.</note>
                     </place>
                     <place xml:id="place058">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Java</placeName>
+                        <placeName>Java</placeName>
                         <location type="coords">
                             <geo>-6.7115076 110.6337137</geo>
                         </location>
@@ -777,7 +777,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q3757</idno>
                     </place>
                     <place xml:id="place059">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Fuime</placeName>
+                        <placeName>Fuime</placeName>
                         <location type="coords">
                             <geo>45.3530556 14.442777777777778</geo>
                         </location>
@@ -795,7 +795,7 @@
                         <note>Was an exclave of Hungary. Now in Croatia, called Rijeka.</note>
                     </place>
                     <place xml:id="place060">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Przeworsk</placeName>
+                        <placeName>Przeworsk</placeName>
                         <desc type="entity_type">City</desc>
                         <location type="coords">
                             <geo>50.0544952 22.501379</geo>
@@ -810,7 +810,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q983875</idno>
                     </place>
                     <place xml:id="place061">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Ukraine</placeName>
+                        <placeName>Ukraine</placeName>
                         <location type="coords">
                             <geo>49 32</geo>
                         </location>
@@ -818,7 +818,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q212</idno>
                     </place>
                     <place xml:id="place062">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">San Salvador</placeName>
+                        <placeName>San Salvador</placeName>
                         <location type="coords">
                             <geo>13.6989939 -89.1914249</geo>
                         </location>
@@ -826,7 +826,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q3110</idno>
                     </place>
                     <place xml:id="place063">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Stryi</placeName>
+                        <placeName>Stryi</placeName>
                         <location type="coords">
                             <geo>49.26171 23.84721</geo>
                         </location>
@@ -849,7 +849,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q158923</idno>
                     </place>
                     <place xml:id="place064">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Trieste</placeName>
+                        <placeName>Trieste</placeName>
                         <location type="coords">
                             <geo>13.6989939 -89.1914249</geo>
                         </location>
@@ -863,7 +863,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q546</idno>
                     </place>
                     <place xml:id="place065">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Hrodototska St</placeName>
+                        <placeName>Hrodototska St</placeName>
                         <location type="coords">
                             <geo>49.842922 24.0209546</geo>
                         </location>
@@ -885,7 +885,7 @@
                         <note>Named Kasimirgasse in 1904.</note>
                     </place>
                     <place xml:id="place067">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Poland</placeName>
+                        <placeName>Poland</placeName>
                         <location type="coords">
                             <geo>52.2159335 19.134422</geo>
                         </location>
@@ -896,7 +896,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q36</idno>
                     </place>
                     <place xml:id="place068">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Romania</placeName>
+                        <placeName>Romania</placeName>
                         <location type="coords">
                             <geo>46 25</geo>
                         </location>
@@ -907,7 +907,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q218</idno>
                     </place>
                     <place xml:id="place069">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Norway</placeName>
+                        <placeName>Norway</placeName>
                         <location type="coords">
                             <geo>61 8</geo>
                         </location>
@@ -2856,7 +2856,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q2236258</idno>
                     </place>
                     <place xml:id="place196">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Kherson</placeName>
+                        <placeName>Kherson</placeName>
                         <location type="coords"><geo>46.63695 32.61458</geo></location>
                         <location type="located_in_place">
                             <placeName key="place006">Galicia</placeName>
@@ -2874,7 +2874,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q156732</idno>
                     </place> 
                     <place xml:id="place197">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Sweden</placeName>
+                        <placeName>Sweden</placeName>
                         <location type="coords"><geo>62 15</geo></location>
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
@@ -2883,7 +2883,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q34</idno>
                     </place>
                     <place xml:id="place198">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Baltic Sea</placeName>
+                        <placeName>Baltic Sea</placeName>
                         <location type="coords"><geo>56 80</geo></location>
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
@@ -2892,7 +2892,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q545</idno>
                     </place>
                     <place xml:id="place199">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Ingria</placeName>
+                        <placeName>Ingria</placeName>
                         <location type="coords"><geo>59.633333 29.3</geo></location>
                         <location type="located_in_place">
                             <placeName key="place197">Sweden</placeName>
@@ -2908,7 +2908,7 @@
                         <note>Historical region. Was part of Sweden, later Russia.</note>
                     </place>
                     <place xml:id="place200">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Copenhagen</placeName>
+                        <placeName>Copenhagen</placeName>
                         <location type="coords"><geo>55.67594 12.56553</geo></location>
                         <location type="located_in_place">
                             <placeName key="place201">Denmark</placeName>
@@ -2920,7 +2920,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1748</idno>
                     </place>
                     <place xml:id="place201">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Denmark</placeName>
+                        <placeName>Denmark</placeName>
                         <location type="coords"><geo>56 10</geo></location>
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
@@ -2929,7 +2929,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q35</idno>
                     </place>
                     <place xml:id="place202">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Riga</placeName>
+                        <placeName>Riga</placeName>
                         <location type="coords"><geo>56.946 24.10589</geo></location>
                         <location type="located_in_place">
                             <placeName key="place203">Latvia</placeName>
@@ -2948,7 +2948,7 @@
                         <note>Part of Russia until 1917.</note>
                     </place>
                     <place xml:id="place203">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Latvia</placeName>
+                        <placeName>Latvia</placeName>
                         <location type="coords"><geo>57 25</geo></location>
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
@@ -2957,7 +2957,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q211</idno>
                     </place>
                     <place xml:id="place204">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Livonia</placeName>
+                        <placeName>Livonia</placeName>
                         <location type="coords"><geo>58 26</geo></location>
                         <location type="located_in_place">
                             <placeName key="place203">Latvia</placeName>
@@ -2973,7 +2973,7 @@
                         <note>Historical region in today's Latvia and Estonia.</note>
                     </place>
                     <place xml:id="place205">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Narva</placeName>
+                        <placeName>Narva</placeName>
                         <location type="coords"><geo>58 26</geo></location>
                         <location type="located_in_place">
                             <placeName key="place206">Estonia</placeName>
@@ -2985,7 +2985,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q102158</idno>
                     </place>
                     <place xml:id="place206">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Estonia</placeName>
+                        <placeName>Estonia</placeName>
                         <location type="coords"><geo>59 26</geo></location>
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
@@ -2994,7 +2994,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q191</idno>
                     </place>
                     <place xml:id="place207">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Narva</placeName>
+                        <placeName>Narva</placeName>
                         <location type="coords"><geo>59.46069 28.07487</geo></location>
                         <location type="located_in_place">
                             <placeName key="place206">Estonia</placeName>
@@ -3010,7 +3010,7 @@
                         <note>River between Russia and Estonia.</note>
                     </place>
                     <place xml:id="place208">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Devil's Island</placeName>
+                        <placeName>Devil's Island</placeName>
                         <location type="coords"><geo>5.2932 -52.58317</geo></location>
                         <location type="located_in_place">
                             <placeName key="place045">France</placeName>
@@ -3026,7 +3026,7 @@
                         <note>Penal colony in the Pacific Ocean. Located in the French colonies.</note>
                     </place>
                     <place xml:id="place209">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Sadhora</placeName>
+                        <placeName>Sadhora</placeName>
                         <location type="coords"><geo>48.35197 25.96272</geo></location>
                         <location type="located_in_place">
                             <placeName key="place128">Bukovina</placeName>
@@ -3044,7 +3044,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q2005381</idno>
                     </place>
                     <place xml:id="place210">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">South Africa</placeName>
+                        <placeName>South Africa</placeName>
                         <location type="coords"><geo>-29, 24</geo></location>
                         <location type="located_in_place">
                             <placeName key="place137">Africa</placeName>
@@ -3053,7 +3053,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q258</idno>
                     </place>
                     <place xml:id="place211">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Ireland</placeName>
+                        <placeName>Ireland</placeName>
                         <location type="coords"><geo>53 -8</geo></location>
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
@@ -3062,7 +3062,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q22890</idno>
                     </place>
                     <place xml:id="place212">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Rovereto</placeName>
+                        <placeName>Rovereto</placeName>
                         <location type="coords"><geo>45.8904 11.04053</geo></location>
                         <location type="located_in_place">
                             <placeName key="place235">Tyrol</placeName>
@@ -3097,7 +3097,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q5303900</idno>
                     </place>
                     <place xml:id="place214">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Uman</placeName>
+                        <placeName>Uman</placeName>
                         <location type="coords">
                             <geo>48.7501 30.21944</geo>
                         </location>
@@ -3114,7 +3114,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q208499</idno>
                     </place>
                     <place xml:id="place215">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Kaunas</placeName>
+                        <placeName>Kaunas</placeName>
                         <location type="coords">
                             <geo>54.90272 23.90961</geo>
                         </location>
@@ -3131,7 +3131,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q4115712</idno>
                     </place>
                     <place xml:id="place216">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Assyria</placeName>
+                        <placeName>Assyria</placeName>
                         <location type="coords">
                             <geo>36.19099 44.0093</geo>
                         </location>
@@ -3145,7 +3145,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q41137</idno>
                     </place>
                     <place xml:id="place217">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Samaria</placeName>
+                        <placeName>Samaria</placeName>
                         <location type="coords">
                             <geo>32.25, 35.16667</geo>
                         </location>
@@ -3159,7 +3159,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1294629</idno>
                     </place>
                     <place xml:id="place218">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Sakhalin</placeName>
+                        <placeName>Sakhalin</placeName>
                         <location type="coords">
                             <geo>51 143</geo>
                         </location>
@@ -3173,7 +3173,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q7792</idno>
                     </place>
                     <place xml:id="place219">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Wiesbaden</placeName>
+                        <placeName>Wiesbaden</placeName>
                         <location type="coords">
                             <geo>50.08258 8.24932</geo>
                         </location>
@@ -3187,7 +3187,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1721</idno>
                     </place>
                     <place xml:id="place220">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Netherlands</placeName>
+                        <placeName>Netherlands</placeName>
                         <location type="coords">
                             <geo>52.25 5.75</geo>
                         </location>
@@ -3198,7 +3198,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q55</idno>
                     </place>
                     <place xml:id="place221">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Pyongyang</placeName>
+                        <placeName>Pyongyang</placeName>
                         <location type="coords">
                             <geo>39.03385 125.75432</geo>
                         </location>
@@ -3212,7 +3212,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q18808</idno>
                     </place>
                     <place xml:id="place222">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Schulerstraße</placeName>
+                        <placeName>Schulerstraße</placeName>
                         <location type="coords">
                             <geo>48.20835 16.375</geo>
                         </location>
@@ -3231,7 +3231,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q105232936</idno>
                     </place>
                     <place xml:id="place223">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Podgórze</placeName>
+                        <placeName>Podgórze</placeName>
                         <location type="coords">
                             <geo>52.43861 19.51858</geo>
                         </location>
@@ -3248,7 +3248,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q2553877</idno>
                     </place>
                     <place xml:id="place224">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Valladolid</placeName>
+                        <placeName>Valladolid</placeName>
                         <location type="coords">
                             <geo>41.65518 -4.72372</geo>
                         </location>
@@ -3262,7 +3262,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q8356</idno>
                     </place>
                     <place xml:id="place225">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Málaga</placeName>
+                        <placeName>Málaga</placeName>
                         <location type="coords">
                             <geo>36.72016 -4.42034</geo>
                         </location>
@@ -3276,7 +3276,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q8851</idno>
                     </place>
                     <place xml:id="place226">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Seville</placeName>
+                        <placeName>Seville</placeName>
                         <location type="coords">
                             <geo>37.38283 -5.97317</geo>
                         </location>
@@ -3290,7 +3290,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q8717</idno>
                     </place>
                     <place xml:id="place227">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Bilbao</placeName>
+                        <placeName>Bilbao</placeName>
                         <location type="coords">
                             <geo>43.26271 -2.92528</geo>
                         </location>
@@ -3304,7 +3304,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q8692</idno>
                     </place>
                     <place xml:id="place228">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Gijón</placeName>
+                        <placeName>Gijón</placeName>
                         <location type="coords">
                             <geo>43.53573 -5.66152</geo>
                         </location>
@@ -3318,7 +3318,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q12273</idno>
                     </place>
                     <place xml:id="place229">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Potsdam</placeName>
+                        <placeName>Potsdam</placeName>
                         <location type="coords">
                             <geo>52.39886 13.06566</geo>
                         </location>
@@ -3332,7 +3332,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1711</idno>
                     </place>
                     <place xml:id="place230">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Varna</placeName>
+                        <placeName>Varna</placeName>
                         <location type="coords">
                             <geo>43.21667 27.91667</geo>
                         </location>
@@ -3346,7 +3346,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q6506</idno>
                     </place>
                     <place xml:id="place231">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Odessa</placeName>
+                        <placeName>Odessa</placeName>
                         <location type="coords">
                             <geo>46.48572 30.74383</geo>
                         </location>
@@ -3363,7 +3363,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1874</idno>
                     </place>
                     <place xml:id="place232">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Athens</placeName>
+                        <placeName>Athens</placeName>
                         <location type="coords">
                             <geo>37.98376 23.72784</geo>
                         </location>
@@ -3377,7 +3377,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1524</idno>
                     </place>
                     <place xml:id="place233">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Athens</placeName>
+                        <placeName>Athens</placeName>
                         <location type="coords">
                             <geo>37.03913 22.11265</geo>
                         </location>
@@ -3391,7 +3391,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q167895</idno>
                     </place>
                     <place xml:id="place234">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Brno</placeName>
+                        <placeName>Brno</placeName>
                         <location type="coords">
                             <geo>49.19522 16.60796</geo>
                         </location>
@@ -3411,7 +3411,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q14960</idno>
                     </place>
                     <place xml:id="place235">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Tyrol</placeName>
+                        <placeName>Tyrol</placeName>
                         <location type="coords"><geo>47 11.5</geo></location>
                         <location type="located_in_place">
                             <placeName key="place025">Austria</placeName>
@@ -3429,7 +3429,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q42880</idno>
                     </place>
                     <place xml:id="place236">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Olomouc</placeName>
+                        <placeName>Olomouc</placeName>
                         <location type="coords">
                             <geo>49.59552 17.25175</geo>
                         </location>
@@ -3449,7 +3449,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q81137</idno>
                     </place>
                     <place xml:id="place237">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">German East Africa</placeName>
+                        <placeName>German East Africa</placeName>
                         <location type="coords">
                             <geo>-2.413056 30.543611</geo>
                         </location>
@@ -3463,7 +3463,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q153963</idno>
                     </place>
                     <place xml:id="place238">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Baku</placeName>
+                        <placeName>Baku</placeName>
                         <location type="coords">
                             <geo>40.37767 49.89201</geo>
                         </location>
@@ -3480,7 +3480,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q9248</idno>
                     </place>
                     <place xml:id="place239">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Azerbaijan</placeName>
+                        <placeName>Azerbaijan</placeName>
                         <location type="coords">
                             <geo>40.5 47.5</geo>
                         </location>
@@ -3494,7 +3494,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q227</idno>
                     </place>
                     <place xml:id="place240">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Brussels</placeName>
+                        <placeName>Brussels</placeName>
                         <location type="coords">
                             <geo>50.85045 4.34878</geo>
                         </location>
@@ -3508,7 +3508,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q239</idno>
                     </place>
                     <place xml:id="place241">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Kronstadt</placeName>
+                        <placeName>Kronstadt</placeName>
                         <location type="coords">
                             <geo>59.992 29.77616</geo>
                         </location>
@@ -3525,7 +3525,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q239</idno>
                     </place>
                     <place xml:id="place242">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Bolzano</placeName>
+                        <placeName>Bolzano</placeName>
                         <location type="coords">
                             <geo>46.49067 11.33982</geo>
                         </location>
@@ -3551,7 +3551,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q6526</idno>
                     </place>
                     <place xml:id="place243">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Tangier</placeName>
+                        <placeName>Tangier</placeName>
                         <location type="coords">
                             <geo>35.76727 -5.79975</geo>
                         </location>
@@ -3565,7 +3565,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q126148</idno>
                     </place>
                     <place xml:id="place244">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Mogador Island</placeName>
+                        <placeName>Mogador Island</placeName>
                         <location type="coords">
                             <geo>31.49556 -9.78639</geo>
                         </location>
@@ -3579,7 +3579,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q960083</idno>
                     </place>
                     <place xml:id="place245">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Wrocław</placeName>
+                        <placeName>Wrocław</placeName>
                         <location type="coords">
                             <geo>51.1 17.03333</geo>
                         </location>
@@ -3769,7 +3769,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1198</idno>
                     </place>
                     <place xml:id="place256">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Melnyzja-Podilska</placeName>
+                        <placeName>Melnyzja-Podilska</placeName>
                         <location type="coords"><geo>48.60816 26.16657</geo></location>
                         <location type="located_in_place">
                             <placeName key="place006">Galicia</placeName>
@@ -3787,7 +3787,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1026915</idno>
                     </place>
                     <place xml:id="place257">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Borshchiv</placeName>
+                        <placeName>Borshchiv</placeName>
                         <location type="coords"><geo>50.51472 29.10871</geo></location>
                         <location type="located_in_place">
                             <placeName key="place006">Galicia</placeName>
@@ -4315,7 +4315,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q4408930</idno>
                     </place>
                     <place xml:id="place292">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Barcelona</placeName>
+                        <placeName>Barcelona</placeName>
                         <location type="coords">
                             <geo>41.38879 2.15899</geo>
                         </location>
@@ -4354,7 +4354,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q7835</idno>
                     </place>
                     <place xml:id="place295">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Gdańsk</placeName>
+                        <placeName>Gdańsk</placeName>
                         <location type="coords">
                             <geo>54.35227 18.64912</geo>
                         </location>
@@ -4368,7 +4368,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q1792</idno>
                     </place>
                     <place xml:id="place296">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Würzburg</placeName>
+                        <placeName>Würzburg</placeName>
                         <location type="coords">
                             <geo>49.79391 9.95121</geo>
                         </location>
@@ -4385,7 +4385,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q2999</idno>
                     </place>
                     <place xml:id="place297">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Kostrzyn nad Odrą</placeName>
+                        <placeName>Kostrzyn nad Odrą</placeName>
                         <location type="coords">
                             <geo>52.58713 14.64953</geo>
                         </location>
@@ -4399,7 +4399,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q156837</idno>
                     </place>
                     <place xml:id="place298">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Wallerstein</placeName>
+                        <placeName>Wallerstein</placeName>
                         <location type="coords">
                             <geo>48.88741 10.47591</geo>
                         </location>
@@ -4416,7 +4416,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q503441</idno>
                     </place>
                     <place xml:id="place299">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Würzburg</placeName>
+                        <placeName>Würzburg</placeName>
                         <location type="coords">
                             <geo>49.79391 9.95121</geo>
                         </location>
@@ -4433,7 +4433,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q2999</idno>
                     </place>
                     <place xml:id="place300">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Mikulov</placeName>
+                        <placeName>Mikulov</placeName>
                         <location type="coords">
                             <geo>48.80556 16.6378</geo>
                         </location>
@@ -4453,7 +4453,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q682544</idno>
                     </place>
                     <place xml:id="place301">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Leopoldstadt</placeName>
+                        <placeName>Leopoldstadt</placeName>
                         <location type="coords">
                             <geo>48.21667 16.4</geo>
                         </location>
@@ -4473,7 +4473,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q259120</idno>
                     </place>
                     <place xml:id="place302">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Nemyriw</placeName>
+                        <placeName>Nemyriw</placeName>
                         <location type="coords">
                             <geo>48.97002 28.83781</geo>
                         </location>
@@ -4487,7 +4487,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q997335</idno>
                     </place>
                     <place xml:id="place303">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Volodymyr</placeName>
+                        <placeName>Volodymyr</placeName>
                         <location type="coords">
                             <geo>50.85253 24.32364 </geo>
                         </location>
@@ -4501,7 +4501,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q33544</idno>
                     </place>
                     <place xml:id="place304">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Toledo</placeName>
+                        <placeName>Toledo</placeName>
                         <location type="coords">
                             <geo>39.8581 -4.02263</geo>
                         </location>
@@ -4515,7 +4515,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q5836</idno>
                     </place>
                     <place xml:id="place305">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Navarre</placeName>
+                        <placeName>Navarre</placeName>
                         <location type="coords">
                             <geo>42.75 -1.66667</geo>
                         </location>
@@ -4529,7 +4529,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q4018</idno>
                     </place>
                     <place xml:id="place306">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Portugal</placeName>
+                        <placeName>Portugal</placeName>
                         <location type="coords">
                             <geo>39.6945 -8.13057</geo>
                         </location>
@@ -4540,7 +4540,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q45</idno>
                     </place>
                     <place xml:id="place307">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Canaan</placeName>
+                        <placeName>Canaan</placeName>
                         <location type="coords">
                             <geo>32.766667 35.333333</geo>
                         </location>
@@ -4710,7 +4710,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q4455999</idno>
                     </place>
                     <place xml:id="place316">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Krakivska vulytsia</placeName>
+                        <placeName>Krakivska vulytsia</placeName>
                         <location type="coords"><geo>49.84454 24.02949</geo>
                         </location>
                         <location type="located_in_place">
@@ -4730,7 +4730,7 @@
                         </location>
                     </place>
                     <place xml:id="place317">
-                        <placeName type="person_namensvariante_nachname-komma-vorname">Yana Zhyzhky</placeName>
+                        <placeName>Yana Zhyzhky</placeName>
                         <location type="coords"><geo>49.84419 24.02900</geo>
                         </location>
                         <location type="located_in_place">
