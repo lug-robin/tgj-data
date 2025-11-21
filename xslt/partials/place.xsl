@@ -7,21 +7,6 @@
         
         <table class="table entity-table">
             <tbody>
-                <?tr >
-                    <th>
-                        Place
-                    </th>
-                    <td>
-                        <xsl:choose>
-                            <xsl:when test="./tei:settlement/tei:placeName">
-                                <xsl:value-of select="./tei:settlement/tei:placeName"/>
-                            </xsl:when>
-                            <xsl:otherwise>
-                                <xsl:value-of select="./tei:placeName"/>
-                            </xsl:otherwise>
-                        </xsl:choose>
-                    </td>
-                </tr?>
                 <xsl:if test="./tei:location[@type='located_in_place']">
                     <tr>
                         <th>
