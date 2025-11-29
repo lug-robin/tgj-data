@@ -1833,6 +1833,7 @@
                 </persName>
                 <birth><date>Unknown</date></birth>
                 <death><date>Unknown</date></death>
+                <occupation>Scientist.</occupation>
               </person>
               <person xml:id="person190">
                 <persName>
@@ -1976,7 +1977,7 @@
               <person xml:id="person204">
                 <persName>
                   <forename>Alexandrina Victoria</forename>
-                  <surname>Queen</surname>
+                  <surname>/</surname>
                 </persName>
                 <birth><date when-iso="1819-05-24">1819-05-24</date></birth>
                 <death><date when-iso="1901-01-22">1901-01-22</date></death>
@@ -1994,7 +1995,7 @@
               </person>
               <person xml:id="person206">
                 <persName>
-                  <forename>Dr</forename>
+                  <forename>/</forename>
                   <surname>Garfunkel</surname>
                 </persName>
                 <birth><date>Unknown</date></birth>
@@ -2023,7 +2024,7 @@
               <person xml:id="person209">
                 <persName>
                   <forename>Ferdinand II</forename>
-                  <surname>Holy Roman Emperor</surname>
+                  <surname>/</surname>
                 </persName>
                 <birth><date when-iso="1578-07-09">1578-07-09</date></birth>
                 <death><date when-iso="1637-02-15">1637-02-15</date></death>
@@ -2131,7 +2132,7 @@
               <person xml:id="person220">
                 <persName>
                   <forename>Potipherah</forename>
-                  <surname>Priest</surname>
+                  <surname>/</surname>
                 </persName>
                 <birth><date>Unknown</date></birth>
                 <death><date>Unknown</date></death>
@@ -2158,7 +2159,7 @@
               </person>
               <person xml:id="person223">
                 <persName>
-                  <forename>Dr</forename>
+                  <forename>/</forename>
                   <surname>Summer</surname>
                 </persName>
                 <birth><date>Unknown</date></birth>
@@ -2286,7 +2287,7 @@
               </person>
               <person xml:id="person239">
                 <persName>
-                  <forename>Dr</forename>
+                  <forename>/</forename>
                   <surname>Zipser</surname>
                 </persName>
                 <birth><date>Unknown</date></birth>

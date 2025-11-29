@@ -56,6 +56,13 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="he">Hebrew</language>
+            <language ident="de">German</language>
+         </langUsage>
+      </profileDesc>
    </teiHeader>
    <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040304">
       <surface ulx="0" uly="0" lrx="4245" lry="6128" n="1">
@@ -138,7 +145,7 @@
                afford a tutor and without money, they cannot learn a lot.
             </p>
             <fw type="footer">We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the voice of the upholders of religion) to send every letter and money to this address: 
-               <lb/>OSIAS H. WILF, <rs type="place"><ref source="place002">LEMBERG</ref></rs> <ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.
+               <lb/><rs type="person"><ref source="person031">OSIAS H. WILF</ref>,</rs> <rs type="place"><ref source="place002">LEMBERG</ref></rs> <ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.
             </fw><pb/>
             <fw type="pageNum">- 2 -</fw>
             <p>
