@@ -91,10 +91,7 @@
    </facsimile>
    <text>
       <body>
-         <div type="heading" n="1" style="one column">
-
-            <p><foreign xml:lang="de">1.Jahrgang Nr. 12 </foreign> 1st year</p>
-         </div>
+         <fw><foreign xml:lang="de">1.Jahrgang Nr. 12 </foreign> 1st year</fw>
          <div type="title" n="1">
             <head>
                <hi rend="bold">The Geniune Jew</hi>
