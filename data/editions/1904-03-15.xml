@@ -28,23 +28,13 @@
             <date when="2025">2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
-                  <p>You are free to: Share — copy and redistribute the material in any medium or
-                     format; adapt — remix, transform, and build upon the material for any purpose,
-                     even commercially.</p>
-                  <p>The licensor cannot revoke these freedoms as long as you follow the license
-                     terms. Under the following terms:</p>
-                  <p>Attribution — You must give appropriate credit, provide a link to the license,
-                     and indicate if changes were made. You may do so in any reasonable manner, but
-                     not in any way that suggests the licensor endorses you or your use. No
-                     additional restrictions — You may not apply legal terms or technological
-                     measures that legally restrict others from doing anything the license
-                     permits.</p>
+                  <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  <p>The licensor cannot revoke these freedoms as long as you follow the license terms. Under the following terms:</p>
+                  <p>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No
+                     additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
                   <p>Notices:</p>
-                  <p>You do not have to comply with the license for elements of the material in the
-                     public domain or where your use is permitted by an applicable exception or
-                     limitation. No warranties are given. The license may not give you all of the
-                     permissions necessary for your intended use. For example, other rights such as
-                     publicity, privacy, or moral rights may limit how you use the material.</p>
+                  <p>You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the
+                     permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</p>
                </licence>
                <p>Copyright 2021 Österreichische Nationalbibliothek</p>
             </availability>
@@ -66,6 +56,13 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="he">Hebrew</language>
+            <language ident="de">German</language>
+         </langUsage>
+      </profileDesc>
    </teiHeader>
    <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040315">
       <surface ulx="0" uly="0" lrx="4257" lry="6222" n="1">
@@ -83,20 +80,16 @@
    </facsimile>
    <text>
       <body>
-         <div type="heading" n="1" style="one column">
-
-            <p><foreign xml:lang="de">1.Jahrgang Nr. 9</foreign> 1st year</p>
-         </div>
-         <div type="title" n="1">
+         <fw type="head" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 9 - </foreign>1st year</fw>
+         <div n="1">
             <head>
-               <hi rend="bold">The Geniune Jew</hi>
+               The Geniune Jew
             </head>
-            <p>Organ for Yiddish matters</p>
-            <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
-            <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+            <p style="text-align:center">Organ for Yiddish Matters
+               <lb/><foreign xml:lang="de">DER WAHRE JUDE</foreign>
+               <foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
-         <div type="editorial" n="1" style="two columns">
-            <cb n="1"/>
+         <div n="2">
             <table rows="4" cols="2">
                <head>The Geniune Jew costs</head>
                <row role="data">
@@ -117,16 +110,12 @@
                </row>
             </table>
             <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-03-15"> March 15th 1904</date></p>
-            <cb n="2"/>
             <p>
-               <lb/>Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign
-                  xml:lang="de">Redaction "Der wahre Jude",<rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place"><ref source="place003">Sonnengasse</ref> 27</rs></foreign>
-               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign
-                  xml:lang="de"><rs type="place"><ref source="place002">Lemberg</ref></rs>, <date when-iso="1904-03-15">den 15.März 1904</date></foreign>.</p>
+               <lb/>Adverts are cheaply calculated <lb/>All letters and money send to:<lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place"><ref source="place003">Sonnengasse</ref> 27</rs></foreign>
+               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign xml:lang="de"><rs type="place"><ref source="place002">Lemberg</ref></rs>, <date when-iso="1904-03-15">den 15.März 1904</date></foreign>.</p>
          </div>
-         <lb/>
-         <div n="1">
-            <head style="text-align:center"><hi rend="bold">Germans and Czechs - and <rs type="person"><ref source="person007">Dr. Byk</ref></rs></hi></head>
+         <div n="3">
+            <head>Germans and Czechs - and <rs type="person">Dr <ref source="person007">Byk</ref></rs></head>
             <p>
                The situation of Austrian Jews is quite strange. Whatever they do, everything is foul. The Polish think they are Germans and cry about them helping to Germanise <rs type="place"><ref source="place006">Galicia</ref></rs>. 
                The Ruthenians clamour about them being Polish and assist in oppressing the Ruthanians. The Germans in <rs type="place"><ref source="place026">Bohemia</ref></rs> yell that the Jews cooperate with the Czechs and the Czechs 
@@ -151,17 +140,11 @@
                wrongdoings; supporting Germans as a Polish delegate. A huge debate erupted. Luckily, two other Poles voted with <rs type="person">Dr <ref source="person007">Byk</ref></rs> and <rs type="person">Dr <ref source="person109">Rapoport</ref></rs>: 
                <rs type="person"><ref source="person110">Merunowicz</ref></rs> and <rs type="person"><ref source="person111">Gniewosz</ref></rs>. Otherwise this could have ended in a true anti-semitic tale. Still, in 
             </p>
-         </div>
-         <div type="information" style="one column">
-            <p>We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the
-               voice of the upholders of religion) to send every letter and money to this
-               address:</p>
-            <p><rs type="person"><ref source="person031">OSIAS H. WILF</ref></rs>, <rs type="place"><ref source="place002">LEMBERG</ref></rs>
-               <ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.</p>
-            <p style="text-align:center">[1]</p>
-         </div>
-         <pb/>
-         <div n="1">
+            <fw type="footer">We ask the subscribers of <foreign xml:lang="he-Hebr" style="rtl">מחזיקי הדת</foreign> and <foreign xml:lang="he-Hebr" style="rtl">קול מחזיקי הדת</foreign> to send every letter and money to this address:
+            <lb/><rs type="person"><ref source="person031">OSIAS H. WILF</ref></rs>, <rs type="place"><ref source="place002">LEMBERG</ref></rs> <ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.
+            </fw>
+            <pb/>
+            <fw type="pageNum">- 2 -</fw>
             <p>
                anti-semitic Polish and Czech papers feature attacks against the <hi rend="italic">Jew</hi> <rs type="person">Dr <ref source="person007">Byk</ref></rs>. 
             </p>
@@ -169,8 +152,8 @@
                antisemitic Czechs. Whatever they are doing, he shouldn’t say a word. That way he would have spared the trouble and wouldn’t give antisemitic papers a chance to rail against Jews.
             </p>
          </div>
-         <div n="2">
-            <head style="text-align:center"><hi rend="bold">Turkish politics.</hi></head>
+         <div n="4">
+            <head>Turkish politics.</head>
             <p>
                Once upon a time <rs type="place"><ref source="place075">Turkey</ref></rs> played the most important role in world politics, back when its great army flooded half <rs type="place"><ref source="place100">Europe</ref></rs>. 
                Every greater power banded together, formed alliances and contracts in order to protect themselves against the Turkish might. - This hasn’t been the case for over 200 years now. Since the Polish king <rs type="person"><ref source="person112">John Sobieski</ref></rs> 
@@ -216,7 +199,8 @@
             <p>
                Even <rs type="place"><ref source="place075">Turkey</ref></rs> accepted the reform scheme. It agreed to all conditions which had been 
             </p>
-            <p style="text-align:center" rend="bold">[2]</p><pb/>
+            <pb/>
+            <fw type="pageNum">- 3 -</fw>
             <p>
                requested, because it realised that the powers united and excuses won’t work anymore. The world thought that finally the Balkan question would finally be answered. The riots would stop, <rs type="place"><ref source="place112">Bulgaria</ref></rs> and 
                <rs type="place"><ref source="place080">Montenegro</ref></rs> would stop siccing on <rs type="place"><ref source="place081">Macedonia</ref></rs> and the perils of war would disappear. But now, the Russo-Japanese war broke out and everything starts anew. 
@@ -237,8 +221,8 @@
                opinion. An important competitor to the sultan’s heritage disappeared making it easier for others to divide the heritage. 
             </p>
          </div>
-         <div>
-            <head style="text-align:center"><hi rend="bold">Famine in <rs type="place"><ref source="place043">Spain</ref></rs>.</hi></head>
+         <div n="5">
+            <head>Famine in <rs type="place"><ref source="place043">Spain</ref></rs>.</head>
             <p>
                Tragic news about a horrible famine has been reported from <rs type="place"><ref source="place043">Spain</ref></rs> lately. In many cities inflation has grown greatly causing not only poor people, but also wealthy ones to go hungry. In the capital <rs type="place"><ref source="place041"><hi rend="italic">Madrid</hi></ref></rs> 
             </p>
@@ -257,8 +241,9 @@
                capital <rs type="place"><ref source="place041">Madrid</ref></rs>, the people are very agitated and revolts can break out any day. The government is helpless, the treasury is empty and they cannot help the people. 
             </p>
          </div>
-         <div>
-            <head style="text-align:center"><hi rend="bold">News.<lb/>Jewish News.</hi></head>
+         <div n="6">
+            <head>News.</head>
+            <head type="h2">Jewish news.</head>
             <p>
                (<rs type="place"><ref source="place007">Vienna</ref></rs>). The supreme court decided an interesting verdict. A widow (a woman whose husband died without children) had to pay her brother in law 8,000 crowns because he should release her from the obligation of levirate marriage 
                and she should marry again. After the marriage she sued her brother in law to give her the money back, because he blackmailed her. The court dismissed the case. She then elevated the lawsuit to the supreme court which sentenced the culprit to return the money, because he exploited 
@@ -267,8 +252,8 @@
             </p>
             <p>
                (<rs type="place"><ref source="place107">Rome</ref></rs>). An antisemetic stage play was performed in an asylum. The play is about</p>
-               
-            <p style="text-align:center" rend="bold">[3]</p><cb/>
+            <pb/>
+            <fw type="pageNum">- 4 -</fw>
             <p>
                Jewish people luring a Christian girl to slaughter her. The government closed the asylum instantly. The director and writer of the play have been arrested because of Jew-baiting. 
             </p>
@@ -288,8 +273,10 @@
                (<rs type="place"><ref source="place096">New York</ref></rs>). The recently deceased Jew <rs type="person"><ref source="person119">Luis <hi rend="italic">Gonz</hi></ref></rs> left half a million dollars behind for Jewish charity and private persons.
             </p>
          </div>
-         <div>
-            <head><hi rend="bold">Telegrams.<lb/>The war.<lb/>Between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs></hi></head>
+         <div n="7">
+            <head>Telegrams.</head>
+            <head type="h2">The war.</head>
+            <head type="h3">Between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs></head>
             <p>
                <rs type="place"><ref source="place083">Port Arthur</ref></rs>. The Russian battleship in the harbour attacked the Japanese battleships who were stationed close to the harbour. Some Russian battleships started firing at the Japanese ships. The Japanese returned the fire and completely 
                destroyed one and damaged another ship badly. A Japanese ship has also been damaged badly. The Russians retreated. The Japanese followed and bombarded the stronghold for four hours. This time they did a lot of damage. -<cb/> The soldiers of the destroyed and sinking ships were arrested 
@@ -310,8 +297,8 @@
                city which are fiercely protected by the officers. The military is not allowed to get ahold of these barrels, because if they do, they will forget the war. They will drink, murder, and rob their own population and the stronghold will be raided by the Japanese. 
             </p>
          </div>
-         <div>
-            <head><hi rend="bold">The peace in <rs type="place"><ref source="place009">Hungary</ref></rs>.</hi></head>
+         <div n="8">
+            <head>The peace in <rs type="place"><ref source="place009">Hungary</ref></rs>.</head>
             <p>
                (<rs type="place"><ref source="place030">Budapest</ref></rs>). The parliament passed the recruitment act. The medical examination for the military will start on <date when="1904-03-21">March 21</date> and last until the end of it. On <date when="1904-05-09">May 9</date> the reserves 
                will be sent home and the newly appointed military dispersed. - The whole country is satisfied with the conciliation between the opposition and the government. 
@@ -320,30 +307,24 @@
                The emperor will travel to <rs type="place"><ref source="place030">Budapest</ref></rs> next week and will be welcomed with a great parade.
             </p>
          </div>
-         <div>
-            <head><hi rend="bold">The third <rs type="place"><ref source="place105">Kishinev</ref></rs> trials.</hi></head>
+         <div n="9">
+            <head>The third <rs type="place"><ref source="place105">Kishinev</ref></rs> trials.</head>
             <p>
                <rs type="place"><ref source="place105">Chișinău</ref></rs>. During the third trials following have been convicted: one defendant for four years, one to two years and eight months forced labour. 15 to one year workhouse and four minors to four months jail. 36 defendants have been discharged. 
             </p>
          </div>
-         <div>
-            <head><hi rend="bold">The Austrian imperial assembly.</hi></head>
+         <div n="10">
+            <head>The Austrian imperial assembly.</head>
             <p>
                <rs type="place"><ref source="place007">Vienna</ref></rs>. The Czech obstruction continues. Important discussions cannot be led.
             </p>
          </div>
-         <div type="footer" style="one columns" n="1">
-            <p>
-               <foreign xml:lang="de">
-                  <lb/>Herausgeber und verantwortlicher Redact. <rs type="person"><ref source="person031">OSIAS H. WILF</ref></rs>
-                  recte Weinstock <lb/>Druck von <rs type="person"><ref source="person032">E. Salat</ref></rs> Witwe des <rs
-                     type="person"><ref source="person033">U.W. Salat</ref></rs>, <rs type="place"><ref source="place002"
-                        >Lemberg</ref></rs>
-                  <rs type="place"><ref source="place065">Kasimirgasse 35</ref></rs>
-               </foreign>
-            </p>
-            <p style="text-align:center">[4]</p>
-         </div>
+         <fw type="footer">
+            <foreign xml:lang="de">
+               Herausgeber und verantwortlicher Redact. <rs type="person"><ref source="person031">OSIAS H. WILF</ref></rs> recte Weinstock
+               <lb/>Druck von <rs type="person"><ref source="person032">E. Salat</ref></rs> Witwe des <rs type="person"><ref source="person033">U.W. Salat</ref></rs>, <rs type="place"><ref source="place002">Lemberg</ref></rs> <rs type="place"><ref source="place065">Kasimirgasse</ref> 35</rs>
+            </foreign>
+         </fw>
       </body>
    </text>
 </TEI>

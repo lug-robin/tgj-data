@@ -56,6 +56,13 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+           <language ident="he">Hebrew</language>
+           <language ident="de">German</language>
+        </langUsage>
+     </profileDesc>
   </teiHeader>
    <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040205">
      <surface ulx="0" uly="0" lrx="4435" lry="6183">
@@ -85,7 +92,7 @@
   </facsimile>
   <text>
       <body xml:lang="en">
-         <fw type="head" n="1"><foreign xml:lang="de">1.Jahrgang Nr. 1 </foreign>1st year</fw>
+         <fw type="head" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 1 - </foreign>1st year</fw>
          <div n="1">
             <head>The Geniune Jew</head>
             <p style="text-align:center">Organ for Yiddish Matters

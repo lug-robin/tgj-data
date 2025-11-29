@@ -56,6 +56,13 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+           <language ident="he">Hebrew</language>
+           <language ident="de">German</language>
+        </langUsage>
+     </profileDesc>
   </teiHeader>
    <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040226">
       <surface ulx="0" uly="0" lrx="4257" lry="6222" n="1">

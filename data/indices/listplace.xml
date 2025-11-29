@@ -288,7 +288,6 @@
                         </location>
                         <idno type="Geonames">https://www.geonames.org/630336/republic-of-belarus.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q184</idno>
-                        <note></note>
                     </place>            
                     <place xml:id="place021">
                         <placeName>China</placeName>
@@ -1950,7 +1949,6 @@
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
                         </location>
-                        <note></note>
                         <idno type="Geonames">https://www.geonames.org/597427/republic-of-lithuania.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q37</idno>
                     </place>
@@ -1965,7 +1963,6 @@
                         <location type="located_in_place">
                             <placeName key="place024">Asia</placeName>
                         </location>
-                        <note></note>
                         <idno type="Geonames">https://www.geonames.org/630673/black-sea.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q166</idno>
                     </place>

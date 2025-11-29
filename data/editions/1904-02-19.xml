@@ -56,6 +56,13 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+           <language ident="he">Hebrew</language>
+           <language ident="de">German</language>
+        </langUsage>
+      </profileDesc>
   </teiHeader>
    <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040219">
       <surface ulx="0" uly="0" lrx="4241" lry="6151" n="1">
@@ -222,7 +229,7 @@
                the <rs type="person"><ref source="person047">Italian king</ref></rs> and will not welcome a catholic emperor like Emperor <rs type="person"><ref source="person003">Franz Joseph</ref></rs> if he visits the 
                <rs type="person"><ref source="person047">Italian king</ref></rs> in <rs type="place"><ref source="place107">Rome</ref></rs>. However, he proposed meeting the <rs type="person"><ref source="person047">Italian king</ref></rs> in another 
                city apart from <rs type="place"><ref source="place107">Rome</ref></rs>. But the <rs type="person"><ref source="person047">Italian king</ref></rs> does not want that as he does not want to give in to the 
-               <rs type="person"><ref source="person035">pope</ref></rs>. Moreover, the relationship between both governments is strained. The current Italian King, <rs type="person">Viktor Emanuel</rs>, has visited all monarchs, 
+               <rs type="person"><ref source="person035">pope</ref></rs>. Moreover, the relationship between both governments is strained. The current Italian King, <rs type="person"><ref source="person047">Viktor Emanuel</ref></rs>, has visited all monarchs, 
                like the German and Russian emperors, the <rs type="person"><ref source="person105">English king</ref></rs> or the <rs type="person"><ref source="person089">French president</ref></rs> - just not the 
                <rs type="person"><ref source="person003">Austrian emperor</ref></rs>. The Italian people show their hostility against <rs type="place"><ref source="place025">Austria</ref></rs> openly. The Italians insist on 
                claiming <rs type="place"><ref source="place064">Trieste</ref></rs>, <rs type="place"><ref source="place108">South Tyrol</ref></rs>, <rs type="place"><ref source="place109">Dalmatia</ref></rs>, and other countries 
@@ -411,7 +418,7 @@
                antisemitism dominates the courts. 
             </p>
             <p>
-               (<rs type="place"><ref source="place035">Bucharest</ref></rs>). The Jewish emigration from <rs type="place">Romania</rs> increased in the past year. Two to three years ago <cb/>emigration was very high. One year ago it subsided a bit. Then <date when="1903">1903</date>, 
+               (<rs type="place"><ref source="place035">Bucharest</ref></rs>). The Jewish emigration from <rs type="place"><ref source="place124">Romania</ref></rs> increased in the past year. Two to three years ago <cb/>emigration was very high. One year ago it subsided a bit. Then <date when="1903">1903</date>, 
                again 8011 Jews emigrated from <rs type="place"><ref source="place068">Romania</ref></rs>. 
             </p>
             <p>
@@ -629,11 +636,3 @@
       </body>
   </text>
 </TEI>
-
-
-
-
-
-
-
-

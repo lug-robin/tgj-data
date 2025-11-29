@@ -2,11 +2,11 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-15.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-22.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="s">The Genuine Jew - 1904-03-15</title>
+            <title level="s">The Genuine Jew - 1904-03-22</title>
             <title level="a">1904-03-15</title>
             <author>Multiple Authors</author>
             <editor>
@@ -28,23 +28,12 @@
             <date when="2025">2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
-                  <p>You are free to: Share — copy and redistribute the material in any medium or
-                     format; adapt — remix, transform, and build upon the material for any purpose,
-                     even commercially.</p>
-                  <p>The licensor cannot revoke these freedoms as long as you follow the license
-                     terms. Under the following terms:</p>
-                  <p>Attribution — You must give appropriate credit, provide a link to the license,
-                     and indicate if changes were made. You may do so in any reasonable manner, but
-                     not in any way that suggests the licensor endorses you or your use. No
-                     additional restrictions — You may not apply legal terms or technological
-                     measures that legally restrict others from doing anything the license
-                     permits.</p>
+                  <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
+                     for any purpose, even commercially.</p>
+                  <p>The licensor cannot revoke these freedoms as long as you follow the license terms. Under the following terms:</p>
+                  <p>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
                   <p>Notices:</p>
-                  <p>You do not have to comply with the license for elements of the material in the
-                     public domain or where your use is permitted by an applicable exception or
-                     limitation. No warranties are given. The license may not give you all of the
-                     permissions necessary for your intended use. For example, other rights such as
-                     publicity, privacy, or moral rights may limit how you use the material.</p>
+                  <p>You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</p>
                </licence>
                <p>Copyright 2021 Österreichische Nationalbibliothek</p>
             </availability>
@@ -66,6 +55,13 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="he">Hebrew</language>
+            <language ident="de">German</language>
+         </langUsage>
+      </profileDesc>
    </teiHeader>
    <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040315">
       <surface ulx="0" uly="0" lrx="4257" lry="6222" n="1">
@@ -85,7 +81,7 @@
       <body>
          <div type="heading" n="1" style="one column">
 
-            <p><foreign xml:lang="de">1.Jahrgang Nr. 10</foreign> 1st year</p>
+            <p><foreign xml:lang="de">1.Jahrgang Nr. 11</foreign> 1st year</p>
          </div>
          <div type="title" n="1">
             <head>
