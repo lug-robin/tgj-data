@@ -2427,6 +2427,42 @@
                 <death><date>Unknown</date></death>
                 <occupation>Jewish girl who has been baptised in a monastery in Krakow.</occupation>
               </person>
+              <person xml:id="person251">
+                <persName>
+                  <forename>/</forename>
+                  <surname>Davidov</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Chief Justice in the Kishinev trials.</occupation>
+              </person>
+              <person xml:id="person252">
+                <persName>
+                  <forename>/</forename>
+                  <surname>Korkhov</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Part of the Kishinev trials. Accused to have murdered Ulman.</occupation>
+              </person>
+              <person xml:id="person253">
+                <persName>
+                  <forename>/</forename>
+                  <surname>Ulman</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Murder victim in the Kishinev trials.</occupation>
+              </person>
+              <person xml:id="person254">
+                <persName>
+                  <forename>/</forename>
+                  <surname>Petersko</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Brothers who killed two Jews and were part of the Kishinev trials.</occupation>
+              </person>
             </listPerson>
           </div>
         </body>
