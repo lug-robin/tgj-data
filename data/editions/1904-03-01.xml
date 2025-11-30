@@ -107,7 +107,7 @@
                   <cell role="data">For a quarter year - 5.50 "</cell>
                </row>
             </table>
-            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-03-01">, March 1st 1904</date></p><cb/>
+            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-03-01"> March 1st 1904</date></p><cb/>
             <p>
                Adverts are cheaply calculated
                <lb/>All letters and money send to:
@@ -151,8 +151,8 @@
             </p>
          </div>
          <fw type="footnote">
-            We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the voice of the upholders of religion) to send every letter and money to this address:
-            <lb/>OSIAS H. WILF, <rs type="place"><ref source="place002">LEMBERG</ref></rs><ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.</fw><pb/>
+            We ask the subscribers of <foreign xml:lang="he">מחזיקי הדת</foreign> and <foreign xml:lang="he">קול מחזיקי הדת</foreign> to send every letter and money to this address:
+            <lb/><ref source="person031">OSIAS H. WILF</ref>, <rs type="place"><ref source="place002">LEMBERG</ref></rs> <rs type="place"><ref source="place003">Sonnengasse</ref> 27</rs>.</fw><pb/>
             <fw type="pageNum">- 2 -</fw>
          <div n="4">
             <head>The Austrian <rs type="place"><ref source="place077">Balkan</ref></rs> Politics</head>
@@ -223,7 +223,7 @@
             </p><pb/>
             <fw type="pageNum">- 3 -</fw>
             <p>
-               <rs type="person"><ref source="person047">king</ref> of <rs type="place"><ref source="place040">Italy</ref></rs></rs> is the son-in-law of a Montenegrin prince and sees itself as a big part of the families of the <rs type="place"><ref source="place077">Balkan</ref></rs>.
+               <rs type="person"><ref source="person047">king</ref></rs> of <rs type="place"><ref source="place040">Italy</ref></rs> is the son-in-law of a Montenegrin prince and sees itself as a big part of the families of the <rs type="place"><ref source="place077">Balkan</ref></rs>.
             </p>
             <p>
                In the end, it comes down to this: if a war breaks out on the <rs type="place"><ref source="place077">Balkan</ref></rs>, then <rs type="place"><ref source="place025">Austria</ref></rs> is going to use that opportunity to march into <rs type="place"><ref source="place081">Macedonia</ref></rs> 
@@ -271,7 +271,7 @@
                about the concession of the Hungarian military. It seems as if the government needs to dissolve the Reichstag and call for re-elections.
             </p>
             <p>
-               <hi rend="bold"><rs type="place"><ref source="place075">Turkey</ref></rs>.</hi> The Turkish government shows once again that it does not intend to follow through with the reforms that <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs> 
+               <rs type="place"><ref source="place075">Turkey</ref></rs>. The Turkish government shows once again that it does not intend to follow through with the reforms that <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs> 
                are trying to implement in <rs type="place"><ref source="place081">Macedonia</ref></rs>. One point of the <ref source="https://www.wikidata.org/wiki/Q3406988">reformation</ref> intends to establish a police force in <rs type="place"><ref source="place081">Macedonia</ref></rs> under orders of foreign officers. At 
                first, <rs type="place"><ref source="place075">Turkey</ref></rs> agreed which led to all powers to send high officers there for this reason. An Italian general has now been appointed to high command of the police. Suddenly, <rs type="place"><ref source="place075">Turkey</ref></rs> had the belief that according to 
                Turkish religion a Christian is not allowed to command over Turks. Therefore, foreign officers can only be counselors to a Turkish commander. The other powers agreed because they did not want to bother with <rs type="place"><ref source="place075">Turkey</ref></rs>. Now, <rs type="place"><ref source="place075">Turkey</ref></rs> 
@@ -290,7 +290,7 @@
                Jewish news.
             </head>
             <p>
-               (<rs type="place"><ref source="place149">Krakow</ref></rs>). Not long ago, a fifteen year old, Jewish girl - <rs type="person">Gitel Epstein</rs> - went missing from a village. Now she has been found in a monastery in <rs type="place"><ref source="place149">Krakow</ref></rs>, where she had been baptised. The parents 
+               (<rs type="place"><ref source="place149">Krakow</ref></rs>). Not long ago, a fifteen year old, Jewish girl - <rs type="person"><ref source="person250">Gitel Epstein</ref></rs> - went missing from a village. Now she has been found in a monastery in <rs type="place"><ref source="place149">Krakow</ref></rs>, where she had been baptised. The parents 
                asked the court that the child be brought back to them. But because the parents were not married legally, the court refused their plea. They had lawfully wedded and their attorney demanded now to return their child to them. Until now, the court has not yet responded to the appeal.
             </p>
             <p>

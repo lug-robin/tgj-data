@@ -2418,6 +2418,15 @@
                 <death><date>Unknown</date></death>
                 <occupation>Liquor Lessee.</occupation>
               </person>
+              <person xml:id="person250">
+                <persName>
+                  <forename>Gitel</forename>
+                  <surname>Epstein</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Jewish girl who has been baptised in a monastery in Krakow.</occupation>
+              </person>
             </listPerson>
           </div>
         </body>
