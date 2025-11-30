@@ -2213,12 +2213,12 @@
               </person>
               <person xml:id="person227">
                 <persName>
-                  <forename></forename>
-                  <surname></surname>
+                  <forename>Almana</forename>
+                  <surname>Stein</surname>
                 </persName>
                 <birth><date>Unknown</date></birth>
                 <death><date>Unknown</date></death>
-                <occupation></occupation>
+                <occupation>President of the Jewish orphanage for boys in Budapest.</occupation>
               </person>
               <person xml:id="person228">
                 <persName>
@@ -2372,6 +2372,51 @@
                 <birth><date>Unknown</date></birth>
                 <death><date>Unknown</date></death>
                 <occupation>Writer for the paper.</occupation>
+              </person>
+              <person xml:id="person245">
+                <persName>
+                  <forename>Jakob</forename>
+                  <surname>Zigrean</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Charged of torturing a boy.</occupation>
+              </person>
+              <person xml:id="person246">
+                <persName>
+                  <forename>Martin</forename>
+                  <surname>Darlatzu</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Charged of torturing a boy.</occupation>
+              </person>
+              <person xml:id="person247">
+                <persName>
+                  <forename>J.B.</forename>
+                  <surname>Bm.</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person248">
+                <persName>
+                  <forename>Jakob</forename>
+                  <surname>B.</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Register Administrator.</occupation>
+              </person>
+              <person xml:id="person249">
+                <persName>
+                  <forename>B.</forename>
+                  <surname>W.</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Liquor Lessee.</occupation>
               </person>
             </listPerson>
           </div>
