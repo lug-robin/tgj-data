@@ -501,6 +501,13 @@
                 <occupation>Italian general and republican.</occupation>
               </person>
               <person xml:id="person050">
+                <persName>
+                  <forename>/</forename>
+                  <surname>Klinger</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unkown</date></death>
+                <occupation>President of the Lviv religious community.</occupation>
               </person>
               <person xml:id="person051">
                 <persName>
@@ -1461,6 +1468,15 @@
                 <death><date when-iso="-1644">1644 BCE</date></death>
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q289957</idno>
                 <occupation>Forefather of Israelites. Son of Isaac, grandson of Abraham.</occupation>
+              </person>
+              <person xml:id="person149">
+                <persName>
+                  <forename>/</forename>
+                  <surname>Schneider</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Antisemitic polititian in the Austrian Delegation.</occupation>
               </person>
               <person xml:id="person150">
                 <persName>

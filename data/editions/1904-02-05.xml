@@ -119,7 +119,7 @@
                   <cell role="data">For a quarter year - 3.50 "</cell>
                </row>
             </table>
-            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-02-05">, February 5th 1904</date></p><cb/>
+            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-02-05"> February 5th 1904</date></p><cb/>
             <p>
                Adverts are cheaply calculated
                <lb/>All letters and money send to:
@@ -263,7 +263,7 @@
             </p>
             <p>
                Lately, people in <rs type="place"><ref source="place006">Galicia</ref></rs> have started talking about creating new sources of income, societies are being created, gatherings are being convened and committees are being elected, 
-               who pay attention to the question how to improve the financial situation. A <ref type="information" source="https://www.wikidata.org/wiki/Q2908887">Bat Kol</ref> has been shared: “let’s support the domestic products” - whoever establishes a new business, who wants to build a 
+               who pay attention to the question how to improve the financial situation. A <ref source="https://www.wikidata.org/wiki/Q2908887">Bat Kol</ref> has been shared: “let’s support the domestic products” - whoever establishes a new business, who wants to build a 
                new factory, get subsidies and support, in order to be able to survive against the competition from abroad and keep existing. 
             </p>
             <p>
@@ -347,7 +347,7 @@
          <head>Letter from <rs type="place"><ref source="place014">Russia</ref></rs></head>
          <p>
             After the horrible persecution of <rs type="place"><ref source="place015">Chișinău</ref></rs> and <rs type="place"><ref source="place016">Gomel</ref></rs>, after the ridiculous comedy what was the 
-            <ref type="information" source="https://www.wikidata.org/wiki/Q1814439">Chișinău progrom</ref>, which made the whole world indignant - do we all 
+            <ref source="https://www.wikidata.org/wiki/Q1814439">Chișinău progrom</ref>, which made the whole world indignant - do we all 
             of a sudden now hear that the government has called together all other provinces to an assembly, in which it is to be consulted if Jewish people should be allowed to live 
             in the whole country of <rs type="place"><ref source="place014">Russia</ref></rs>, unlike now as they are crowded together in few provinces like chickens on the roost and only the best, for example those who are 
             in the highest tax brackets or graduates etc., can live in all of <rs type="place"><ref source="place014">Russia</ref></rs>. Rumour has it, that several provinces are in favour of expanding the Jew’s rights to live 
@@ -430,7 +430,7 @@
                In the meantime the imperial council has shut down and only the delegations are counceling. The delegation is only to concern itself with <hi rend="italic"> foreign</hi> politics and with 
                military matters. But because a great deal of members of the imperial council and the manor house who are from different parties are part of the delegation and therefore they mainly talk about  
                <hi rend="italic">internal</hi> matters, about the dispute between the Czech and German, etc., and very little about foreign politics. Of course,  <cb/>nothing comes of this all this talking, 
-               idle words remain, without a purpose or practical value. - Concurrently, the government reigns with <rs type="information" source="https://www.verfassungen.eu/hu/verf48.htm#Gesetzesartikel_XII:1867">§ 14</rs>, 
+               idle words remain, without a purpose or practical value. - Concurrently, the government reigns with <ref source="https://www.verfassungen.eu/hu/verf48.htm#Gesetzesartikel_XII:1867">§ 14</ref>, 
                it is working as well as possible, it even wants to negotiate new trade contracts with German, and also the <ref type="information" source="https://www.wikidata.org/wiki/Q209601">Compromise with Hungary</ref> 
                by the means of § 14, and because the Czechs treathen not to approve the recruit law this year, the government also wants to pass this law with § 14. 
             </p>
@@ -479,10 +479,10 @@
                religious community. One of the previous board members will be named as commissioner as well as some council members and previous board members will be added.
             </p>
             <p>
-               (<rs type="place"><ref source="place007">Vienna</ref></rs>). In the Austrian Delegation the antisemite <rs type="person">Schneider</rs> seized the opportunity to grumble about Jewish people. He said that Jewish 
+               (<rs type="place"><ref source="place007">Vienna</ref></rs>). In the Austrian Delegation the antisemite <rs type="person"><ref source="person149">Schneider</ref></rs> seized the opportunity to grumble about Jewish people. He said that Jewish 
                merchants would sell poor merchandise abroad and therefore the reputation of Austrian merchandise is sullied leading to no buyers. He also showed torn-up boots, which a Jewish merchant wanted to export abroad. The delegation 
-               president Baron <rs type="person"><ref source="person006"><hi rend="italic">Gautsch</hi></ref></rs> called him to order several times and after <rs type="person">Schneider</rs> said at the end that Jewish people are not humans he 
-               shut him down. The delegate Dr. <rs type="person"><ref source="person007"><hi rend="italic">Byk</hi></ref></rs> punished him severely. The president of our religious community <rs type="person"> Mr. Klinger</rs> wants him to resign immediately.
+               president Baron <rs type="person"><ref source="person006"><hi rend="italic">Gautsch</hi></ref></rs> called him to order several times and after <rs type="person"><ref source="person149">Schneider</ref></rs> said at the end that Jewish people are not humans he 
+               shut him down. The delegate Dr. <rs type="person"><ref source="person007"><hi rend="italic">Byk</hi></ref></rs> punished him severely. The president of our religious community <rs type="person">Mr. <ref source="person050">Klinger</ref></rs> wants him to resign immediately.
             </p>   
             <p>
                (<rs type="place"><ref source="place030">Budapest</ref></rs>). Merchants and sales clerks are in dispute on the matter of the Sunday rest. The merchants think the new act concerning this should be reduced 
@@ -500,7 +500,7 @@
             <p>
                (<rs type="place"><ref source="place033">Warsaw</ref></rs>). More than 150 Jewish workers have been arrested because they have been suspected of being socialists. - The emigration Jewish people from <rs type="place"><ref source="place014">Russia</ref></rs> 
                is growing and growing. Hundreds of families leave the country and go to <rs type="place"><ref source="place008">America</ref></rs>, <rs type="place137">Africa</rs>, <rs type="place"><ref source="place051">Australia</ref></rs> and <rs type="place"><ref source="place034">Israel</ref></rs>. 
-               Generally, there are a lot of families from <cb/><rs type="place"><ref source="place015">Chișinău</ref></rs> to <rs type="place">Israel</rs>. Most of them are craftsmen. - In different Russian cities Jewish people are being prosecuted by police who 
+               Generally, there are a lot of families from <cb/><rs type="place"><ref source="place015">Chișinău</ref></rs> to <rs type="place"><ref source="place034">Israel</ref></rs>. Most of them are craftsmen. - In different Russian cities Jewish people are being prosecuted by police who 
                also close down their stores and deport them. - Many cities asked the government to allow Jewish people to live there for the sake of trade. The government now allowed Jewish people to stay in over 50 cities where it has been forbidden up until now. 
             </p>  
             <p>
@@ -534,7 +534,7 @@
                Several dynamite bombs have been found in the king’s castle in <rs type="place"><hi rend="italic"><ref source="place041">Madrid</ref></hi></rs> (<rs type="place"><ref source="place043">Spain</ref></rs>), which have been set there by anarchists in order to destroy the castle. 
             </p>
            <p>
-              The previous Austrian crown princess <rs type="person"><ref source="person013">Stéphanie</ref></rs> has handed over a complaint to her father, <rs type="person"><ref source="person014">King</ref></rs> of <rs type="place">Belgium</rs> to hand over part of her 
+              The previous Austrian crown princess <rs type="person"><ref source="person013">Stéphanie</ref></rs> has handed over a complaint to her father, <rs type="person"><ref source="person014">King</ref></rs> of <rs type="place"><ref source="place042">Belgium</ref></rs> to hand over part of her 
               <rs type="person"><ref source="person040">mother´s</ref></rs> inheritance, over 20 million francs. 
            </p>
          </div>
@@ -542,7 +542,7 @@
             <head>Feuilleton.</head>
             <head type="h2">Rabbi <ref source="person015"><rs type="person">Shlomo Yitzchaki</rs> (<rs type="person">Rashi)</rs></ref></head><head type="h3">(A memoir).</head>
             <p>
-               Shortly, it has been 800 years since the celebrated Talmud scholar <hi rend="italic">Rabbi <rs type="person">Shlomo Yitzchaki</rs></hi>, known as <rs type="person"><hi rend="italic"><ref source="person015">Rashi</ref></hi></rs> who has enlightened all 
+               Shortly, it has been 800 years since the celebrated Talmud scholar <hi rend="italic">Rabbi <rs type="person"><ref source="person015">Shlomo Yitzchaki</ref></rs></hi>, known as <rs type="person"><hi rend="italic"><ref source="person015">Rashi</ref></hi></rs> who has enlightened all 
                of the Jewry with his famous commentary on the Torah and the Talmud, has died. The name <rs type="person"><ref source="person015">Rashi</ref></rs> has been well known to every Jew, every schoolboy knows him and also</p>
             <pb/>
             <fw type="pageNum">- 8 -</fw>
@@ -554,11 +554,11 @@
                to read a short biography about <rs type="person"><ref source="person015">Rashi</ref></rs>.
             </p>
             <p>
-               <rs type="person"><ref source="person015">Rashi</ref></rs> was born during the fifth century in the fifth millennium (in the year 1028 according to the Christian calendar) in <rs type="place"><hi rend="italic"><ref source="place138">Troyes</ref></hi></rs> in <rs type="place"><ref source="place045">France</ref></rs> 
+               <rs type="person"><ref source="person015">Rashi</ref></rs> was born during the fifth century in the fifth millennium (in the year <date when-iso="1028">1028</date> according to the Christian calendar) in <rs type="place"><hi rend="italic"><ref source="place138">Troyes</ref></hi></rs> in <rs type="place"><ref source="place045">France</ref></rs> 
                at the same time as the last gaon of <rs type="place"><ref source="place012">Babylonia</ref></rs> <rs type="person"><ref source="person016">Rabbi Hai</ref></rs> died. The sun of the holy doctrine which has stopped shining in the East (<rs type="place"><ref source="place012">Babylonia</ref></rs>), has started to rise 
                again in <rs type="place"><ref source="place138">Troyes</ref></rs> (<rs type="place"><ref source="place045">France</ref></rs>). <rs type="person"><ref source="person015">Rashi</ref></rs> comes from a family of scholars. His father was a great Talmud scholar, his mother was a sister of the well 
                known Rabbi <rs type="person"><ref source="person017">Simeon bar Isaac</ref></rs>, who has written a lot of poems. In his youth, <rs type="person"><ref source="person015">Rashi</ref></rs> went to <rs type="place"><ref source="place046">Mainz</ref></rs> (<rs type="place"><ref source="place010">Germany</ref></rs>) where at that 
-               time was an important rabbinical academy where <rs type="person"><ref source="person018">Gerschom ben Jehuda</ref></rs> taught, and now during <rs type="person"><ref source="person015">Rashi</ref></rs>’s time, Rabbi <rs type="person">Yaakov ben Yadar</rs>, which <rs type="person"><ref source="person015">Rashi</ref></rs> 
+               time was an important rabbinical academy where <rs type="person"><ref source="person018">Gerschom ben Jehuda</ref></rs> taught, and now during <rs type="person"><ref source="person015">Rashi</ref></rs>’s time, Rabbi <rs type="person"><ref source="person019">Yaakov ben Yakar</ref></rs>, which <rs type="person"><ref source="person015">Rashi</ref></rs> 
                has mentioned often in his commentary. From <rs type="place"><ref source="place043">Mainz</ref></rs>, <rs type="person"><ref source="person015">Rashi</ref></rs> went to <rs type="place"><ref source="place047">Worms</ref></rs> and studied there under the great goan Rabbi 
                <rs type="person"><ref source="person020">Isaac ben Eliezer Halevi</ref></rs> and Rabbi <rs type="person"><ref source="person021">Eleazar ben Jehuda</ref></rs>. After that he studied under Rabbi <rs type="person"><ref source="person022">Eliakim ben Meshullam</ref></rs> in <rs type="place"><ref source="place048">Speyer</ref></rs> 
                and from there he went back to <rs type="place"><ref source="place045">France</ref></rs>, where he spread the light of his doctrine about the whole world.
@@ -574,15 +574,15 @@
             </p>
             <p>
                Nowadays, <rs type="person"><ref source="person015">Rashi</ref></rs>’s wonders are still being talked about. We only want to talk about one miracle. During <rs type="person"><ref source="person015">Rashi</ref></rs>’s time, the Christians went on a 
-               <ref type="information" source="https://www.wikidata.org/wiki/Q51649">crusade</ref>, which means they travelled to <rs type="place"><ref source="place034">Israel</ref></rs> in order to take away the Holy Land from the Turks. Jewish people have suffered 
-               tremendously because of the crusades and the prosecution is today known as the “<ref type="information" source="https://www.wikidata.org/wiki/Q51651">Rhineland massacres</ref>”. The leader of the First Crusade, <rs type="person023"><ref source="person">Godfrey of Bouillon</ref></rs> 
+               <ref source="https://www.wikidata.org/wiki/Q51649">crusade</ref>, which means they travelled to <rs type="place"><ref source="place034">Israel</ref></rs> in order to take away the Holy Land from the Turks. Jewish people have suffered 
+               tremendously because of the crusades and the prosecution is today known as the “<ref source="https://www.wikidata.org/wiki/Q51651">Rhineland massacres</ref>”. The leader of the First Crusade, <rs type="person023"><ref source="person">Godfrey of Bouillon</ref></rs> 
                asked <rs type="person"><ref source="person015">Rashi</ref></rs> before departure if he would be prosperous. <rs type="person"><ref source="person015">Rashi</ref></rs> told him he will win the war and become king of <rs type="place"><ref source="place050">Jerusalem</ref></rs>. 
-               But after that the Turks will come back to drive him away and he will return home with three horses only. In the end, it happened like that, the only difference being that <rs type="person">Godfrey</rs> came back with four horses. He wanted to punish 
+               But after that the Turks will come back to drive him away and he will return home with three horses only. In the end, it happened like that, the only difference being that <rs type="person"><ref source="person023">Godfrey</ref></rs> came back with four horses. He wanted to punish 
                <rs type="person"><ref source="person015">Rashi</ref></rs>, because his prophecy was not completely fulfilled, as he came back with four horses. However, as he arrived at the city gates, the gate suddenly fell and squashed one horse. Therefore, 
                <rs type="person"><ref source="person015">Rashi</ref></rs>`s prophecy came completely true. He immediately went to <rs type="person"><ref source="person015">Rashi</ref></rs>, but he had already died and several rabbis carried out the burial rites.
             </p>
             <p>
-               <rs type="person"><ref source="person015">Rashi</ref></rs> died in <date>4865</date> (<date>1105</date>) at the age of 77. He was working on his commentary to the Talmud Torah. His disciple and son in law Rabbi <rs type="person"><ref source="person024">Judah ben Nathan</ref></rs> 
+               <rs type="person"><ref source="person015">Rashi</ref></rs> died in <date>4865</date> (<date when="1105">1105</date>) at the age of 77. He was working on his commentary to the Talmud Torah. His disciple and son in law Rabbi <rs type="person"><ref source="person024">Judah ben Nathan</ref></rs> 
                has completed the commentary of the Torah. Another one of <rs type="person"><ref source="person015">Rashi</ref></rs>’s sons in law, Rabbi <rs type="person"><ref source="person025">Meir ben Samuel</ref></rs>, had three famous sons: Rabbi 
                <rs type="person"><ref source="person026">Samuel ben Meir</ref></rs> (known as <rs type="person"><ref source="person026">RaShbaM</ref></rs>),Rabbi <rs type="person"><ref source="person027">Isaac ben Meir (RIvaM)</ref></rs>, 
                and Rabbi <rs type="person"><ref source="person028">Tam</ref></rs>. These three grandsons of <rs type="person"><ref source="person015">Rashi</ref></rs>´s were the authors of the first appendix. 
@@ -630,7 +630,7 @@
             <p>
                Free samle and payment on delivery
             <lb/>
-               <rs type="person">Berger Ernö</rs>, <rs type="place"><ref source="place059">Fuime</ref></rs>.
+               <rs type="person"><ref source="person029">Berger Ernö</ref></rs>, <rs type="place"><ref source="place059">Fuime</ref></rs>.
             </p>
             </div>
             <div type="ad" n="2">
@@ -638,7 +638,7 @@
                   The sugar refinery of <rs type="place"><ref source="place060">Przeworsk</ref></rs>
                </head>
                <p>
-                  Has immensely scaled up its sugar production for 1904 and recommends every variety to extremely low prices.
+                  Has immensely scaled up its sugar production for <date when="1904">1904</date> and recommends every variety to extremely low prices.
                </p>
             </div>
             <div type="ad" n="3">
@@ -654,7 +654,7 @@
                </p>
                <p>
                   <foreign xml:lang="de">
-                     <rs type="person">IGNATZ RATH</rs>, <rs type="place"><ref source="place064">TRIEST</ref></rs> <rs type="place"><ref source="place040">I</ref></rs>.
+                     <rs type="person"><ref source="person030">IGNATZ RATH</ref></rs>, <rs type="place"><ref source="place064">TRIEST</ref></rs> <rs type="place"><ref source="place040">I</ref></rs>.
                      <lb/>Südfrüchten Versandt en gros &amp; en detail</foreign>
                </p>
             </div>
