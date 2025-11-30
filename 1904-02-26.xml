@@ -119,7 +119,7 @@
                   <cell role="data">For a quarter year - 5.50 "</cell>
                </row>
             </table>
-            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-02-26">, February 26th 1904</date></p><cb/>
+            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-02-26"> February 26th 1904</date></p><cb/>
             <p>
                Adverts are cheaply calculated
                <lb/>All letters and money send to:
@@ -253,7 +253,7 @@
                As I said, it is not easy to provide any specific proposal for the education of the Jewish daughters. The main thing is that the parents will start to care more about their daughters, they should strive to teach them 
                Jewish and economically. This then will result in great advantages for the Jewry and the capital of parents and men alike. 
             </p>
-            <p style="text-align:right">Ben Solomon.</p>
+            <p style="text-align:right"><rs type="person"><ref source="person221">Ben Solomon</ref></rs>.</p>
          </div>
          <div n="6">
             <head>The luxury</head>
@@ -378,7 +378,7 @@
             <p>
                Lately, rarely any news of the Russo-Japanese war has been reported. As the first Japanese victories at sea have destroyed the Russian force, the Japanese now control the marines and can do whatever 
                they want there. <rs type="place"><ref source="place014">Russia</ref></rs> has almost completely withdrawn, the main military quarters in the harbour city of <rs type="place"><ref source="person083">Port Arthur</ref></rs>
-               - which the Japanese have besieged - have been dissolved and moved it to the city of <rs type="place"><ref source="place175"><hi rend="bold">Harbin</hi></ref></rs> which is several kilometres away 
+               - which the Japanese have besieged - have been dissolved and moved it to the city of <rs type="place"><ref source="place175"><hi rend="italic">Harbin</hi></ref></rs> which is several kilometres away 
                from the sea. Now, the Japanese sent their military to <rs type="place"><ref source="place022">Korea</ref></rs> - but until a bigger army is formed there and until they come in contact with the 
                Russians again, meaning the first battle on land, it will still take some time. News from the East-Asian battlefield is therefore not particularly interesting. 
             </p>
@@ -544,14 +544,14 @@
                in 1898 - 434, 252 men and 182 women; in 1899 - 482, 280 men and 202 women; in 1900 - 559, 315 men and 244 women; in 1901 - 551, 313 men and 238 women.
             </p>
             <p>   
-               (<rs type="place"><ref source="place030">Budapest</ref></rs>). The emperor gifted <rs type="person">Almana Stein</rs>, the president of the Jewish orphanage for boys, the Golden Cross of 
+               (<rs type="place"><ref source="place030">Budapest</ref></rs>). The emperor gifted <rs type="person"><ref source="person227">Almana Stein</ref></rs>, the president of the Jewish orphanage for boys, the Golden Cross of 
                Merit with the crown in honour of her beneficence. 
             </p>
             <p>   
                (<rs type="place"><ref source="place035">Bukarest</ref></rs>). In the month of July, in the city <rs type="place"><ref source="place180">Iași</ref></rs>, a four year old boy has gone missing. 
-               Into a field. The Romanians <rs type="person">Jakob Zigrean</rs> and <rs type="person">Martin Darlatzu</rs> tormented the child badly. They sat him on an ant hill and put pieces of broken glass into his mouth. The poor 
-               parents were searching for the child everywhere when <rs type="person">Darlatzu</rs> told them that the child was in a hole in the woods, from which he was rescued, barely alive. 
-               The court sentenced <rs type="person">Jakob Zigrean</rs> to five months. The other accomplices were acquitted of a charge. 
+               Into a field. The Romanians <rs type="person"><ref source="person245">Jakob Zigrean</ref></rs> and <rs type="person"><ref source="person246">Martin Darlatzu</ref></rs> tormented the child badly. They sat him on an ant hill and put pieces of broken glass into his mouth. The poor 
+               parents were searching for the child everywhere when <rs type="person"><ref source="person246">Darlatzu</ref></rs> told them that the child was in a hole in the woods, from which he was rescued, barely alive. 
+               The court sentenced <rs type="person"><ref source="person245">Jakob Zigrean</ref></rs> to five months. The other accomplice was acquitted of a charge. 
             </p>
             <p>
                (<rs type="place"><ref source="place018">St Petersburg</ref></rs>). Bad times are coming for the Jewish community. The government, who treated them graciously until now, changed its proceedings. 
@@ -599,13 +599,13 @@
          <div n="14">
             <head>Postbox.</head>
             <p>
-               To <hi rend="italic"><rs type="person">Rabbi J. B. Bm.</rs></hi> The rabbi is not obliged to present the marriage documents to the register administrator. (Decree of the  K.K. prefecture).
+               To <hi rend="italic"><rs type="person"><ref source="person247">Rabbi J. B. Bm.</ref></rs></hi> The rabbi is not obliged to present the marriage documents to the register administrator. (Decree of the  K.K. prefecture).
             </p>
             <p>  
-               To register administrator <hi rend="italic"><rs type="person">Jakob B.</rs></hi> It is not sufficient that the parties are personally known, but have to verify their personal abilities to marry. 
+               To register administrator <hi rend="italic"><rs type="person"><ref source="person248">Jakob B.</ref></rs></hi> It is not sufficient that the parties are personally known, but have to verify their personal abilities to marry. 
             </p>
             <p>
-               To the liquor lessee <hi rend="italic"><rs type="person">B. W.</rs></hi>: the authorised sellers of licensed liquor are forbidden to fill the barrels in front of customers as the retailer with 
+               To the liquor lessee <hi rend="italic"><rs type="person"><ref source="person249">B. W.</ref></rs></hi>: the authorised sellers of licensed liquor are forbidden to fill the barrels in front of customers as the retailer with 
                their beverages. (Prefecture decree).
             </p>
          </div>
@@ -652,7 +652,7 @@
                   Free samle and payment on delivery
                </p>
                <p>
-                  <rs type="person">Berger Ernö</rs>, <rs type="place"><ref source="place058">Fuime</ref></rs>.
+                  <rs type="person"><ref source="person029">Berger Ernö</ref></rs>, <rs type="place"><ref source="place058">Fuime</ref></rs>.
                </p>
             </div>
             <div type="ad" n="4">
@@ -662,7 +662,7 @@
                   <lb/>1 kg fine, pure tea only 6 crowns.
                   <lb/>There is also tea costing 3 to 10 crowns per kg.
                   <lb/>Sample for free and prepaid.
-                  <lb/><rs type="person">L. Aperman</rs>, <rs type="place"><ref source="place132">Brody</ref></rs> <rs type="place"><ref source="place006">Galicia</ref></rs>.
+                  <lb/><rs type="person"><ref source="person053">L. Aperman</ref></rs>, <rs type="place"><ref source="place132">Brody</ref></rs> <rs type="place"><ref source="place006">Galicia</ref></rs>.
                   <lb/>Thee &amp; Caffe Lager.
                </p>
             </div>
