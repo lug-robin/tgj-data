@@ -91,14 +91,11 @@
    </facsimile>
    <text>
       <body>
-         <div type="heading" n="1" style="one column">
-
-            <p><foreign xml:lang="de">1.Jahrgang Nr. 10 </foreign> 1st year</p>
-         </div>
-         <div type="title" n="1">
-            <head>
-               <hi rend="bold">The Geniune Jew</hi>
-            </head>
+         <fw>
+            <foreign xml:lang="de">1.Jahrgang Nr. 10 </foreign> 1st year
+         </fw>
+         <div n="1">
+            <head>The Geniune Jew</head>
             <p>Organ for Yiddish matters</p>
             <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
             <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
