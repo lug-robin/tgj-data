@@ -2202,6 +2202,24 @@
                 <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q334869</idno>
                 <occupation>Emir of Afghanistan, 1901-1919.</occupation>
               </person>
+              <person xml:id="person226">
+                <persName>
+                  <forename>/</forename>
+                  <surname>Moore</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Rabbi.</occupation>
+              </person>
+              <person xml:id="person227">
+                <persName>
+                  <forename></forename>
+                  <surname></surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation></occupation>
+              </person>
               <person xml:id="person228">
                 <persName>
                   <forename>Chaim</forename>
