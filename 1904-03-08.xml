@@ -80,42 +80,42 @@
    </facsimile>
    <text>
       <body>
-            <fw type="head" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 7 - </foreign>1st year</fw>
-            <div n="1">
-               <head>The Geniune Jew</head>
-               <p style="text-align:center">Organ for Yiddish Matters
-                  <lb/><foreign xml:lang="de">DER WAHRE JUDE</foreign>
-                  <foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
-            </div>
-            <div n="2">
-               <table rows="4" cols="2" style="text-align:center;width:50%">
-                  <head>The Geniune Jew costs</head>
-                  <row role="data">
-                     <cell role="data">In <rs type="place"><ref source="place001">Austria-Hungary</ref></rs></cell>
-                     <cell role="data">Abroad</cell>
-                  </row>
-                  <row role="data">
-                     <cell role="data">For a whole year - 12 Kronen</cell>
-                     <cell role="data">For a whole year - 20 Francs</cell>
-                  </row>
-                  <row role="data">
-                     <cell role="data">For a half year - 6 "</cell>
-                     <cell role="data">For a half year - 10 "</cell>
-                  </row>
-                  <row role="data">
-                     <cell role="data">For a quarter year - 3.50 "</cell>
-                     <cell role="data">For a quarter year - 5.50 "</cell>
-                  </row>
-               </table>
-               <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-03-08">, March 8th 1904</date></p><cb/>
-               <p>
-                  Adverts are cheaply calculated
-                  <lb/>All letters and money send to:
-                  <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place"><ref source="place003">Sonnengasse 27</ref></rs></foreign>
-                  <lb/>The Genuine Jew is published every Friday
-                  <lb/><foreign xml:lang="de"><rs type="place"><ref source="place002">Lemberg</ref></rs>, <date when-iso="1904-03-08">den 8. März 1904</date></foreign>.
-               </p>
-            </div>
+         <fw type="head" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 7 - </foreign>1st year</fw>
+         <div n="1">
+            <head>The Geniune Jew</head>
+            <p style="text-align:center">Organ for Yiddish Matters
+            <lb/><foreign xml:lang="de">DER WAHRE JUDE</foreign>
+            <lb/><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+         </div>
+         <div n="2">
+            <table rows="4" cols="2" style="text-align:center;width:50%">
+               <head>The Geniune Jew costs</head>
+               <row role="data">
+                  <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
+                  <cell role="data">Abroad</cell>
+               </row>
+               <row role="data">
+                  <cell role="data">For a whole year - 12 Kronen</cell>
+                  <cell role="data">For a whole year - 20 Francs</cell>
+               </row>
+               <row role="data">
+                  <cell role="data">For a half year - 6 "</cell>
+                  <cell role="data">For a half year - 10 "</cell>
+               </row>
+               <row role="data">
+                  <cell role="data">For a quarter year - 3.50 "</cell>
+                  <cell role="data">For a quarter year - 5.50 "</cell>
+               </row>
+           </table>
+           <p><placeName><ref source="place002">Lviv</ref></placeName>,<date when-iso="1904-03-08"> March 8th 1904</date></p><cb/>
+           <p>
+              Adverts are cheaply calculated
+              <lb/>All letters and money send to:
+              <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse 27</ref></placeName></foreign>
+              <lb/>The Genuine Jew is published every Friday
+              <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <date when-iso="1904-03-08">den 8. März 1904</date></foreign>.
+            </p>
+         </div>
          <div n="3">
             <p>
                We ask our subscribers who paid for the “Genuine Jew” when it was published only once a week, to please send money to add to their subscription according to the current price of the newspaper. For those who do not 
@@ -124,64 +124,64 @@
             <p style="text-align:right">- The editorial office.</p>
          </div>
          <div>
-            <head>The new <rs type="person"><ref source="person082">Dreyfus</ref></rs> Trials</head>
+            <head>The new <persName><ref source="person082">Dreyfus</ref></persName> Trials</head>
             <p style="text-align:center">The truth shall spring out of the earth. (Psalm 85:11)</p>
             <p>
                Justice has won again. The truth can not be suppressed forever, but has to surface like oil on water. It is possible that the falsehood, the lie, can win for a short time, but later the truth has to come to light.
             </p>
             <p>
-               We saw that happening during the Dreyfus trials. It is horrible to think about the heap of lies and duplicity which the French generals pinned on poor <rs type="person"><ref source="person082">Dreyfus</ref></rs>, just because he 
-               is Jewish. After hundreds of years<cb/> the world will think the story of <rs type="person"><ref source="person082">Dreyfus</ref></rs> to be a fairy tale which is a preposterous lie. Nobody will believe that something 
+               We saw that happening during the Dreyfus trials. It is horrible to think about the heap of lies and duplicity which the French generals pinned on poor <persName><ref source="person082">Dreyfus</ref></persName>, just because he 
+               is Jewish. After hundreds of years<cb/> the world will think the story of <persName><ref source="person082">Dreyfus</ref></persName> to be a fairy tale which is a preposterous lie. Nobody will believe that something 
                like this is even possible! - A lot has been written about it, but it is still not the whole story. Deceptions and lies that have not been uncovered yet are still present. Who knows how long it will take to uncover the whole truth.
                All of the general staff, a lot of foreign officers, ambassadors, envoys, and attachées (foreign representatives at the French government) intermeddled in the <ref source="https://www.wikidata.org/wiki/Q173457">Dreyfus-affair</ref>. 
                Men in high and important positions, who call the shots in all important matters of the land, the most important issues in politics, in war and in peace - those men were not ashamed to contribute in the prosecution of a single man, 
                a Jewish officer. Nobody knew him, nobody was interested in him, he could have lived a hundred years and nobody would have taken notice of him. - that is how great the power of deception is; of lies, of violence, of persecution 
                and of antisemitism. However, the truth, justice has come out on top. The truth shall spring out of the earth. Neither the efforts of French generals, nor those of the ministers or the people have helped - poor 
-               <rs type="person"><ref source="person082">Dreyfus</ref></rs> who was prisoned on the <rs type="place"><ref source="place208">Devil’s Island</ref></rs> for five years
+               <persName><ref source="person082">Dreyfus</ref></persName> who was prisoned on the <placeName><ref source="place208">Devil’s Island</ref></placeName> for five years
             </p>
          </div>
          <fw type="footnote">
-            We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the voice of the upholders of religion) to send every letter and money to this address:
-            <lb/>OSIAS H. WILF, <rs type="place"><ref source="place002">LEMBERG</ref></rs> <ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.<pb/>
+            We ask the subscribers of <foreign xml:lang="he">מחזיקי הדת</foreign> and <foreign xml:lang="he">קול מחזיקי הדת</foreign> to send every letter and money to this address:
+            <lb/><ref source="person031"><persName>OSIAS H. WILF</persName></ref>, <placeName><ref source="place002">LEMBERG</ref></placeName> <placeName><ref source="place003">Sonnengasse</ref> 27</placeName>.<pb/>
             <fw type="pageNum">- 2 -</fw>
          </fw>
          <div n="4">
             <p>
-               cut off of the whole world overseen and policed like a dangerous criminal - that Jew <rs type="person"><ref source="person082">Dreyfus</ref></rs> has not let the world  adjourn. Like a dead person of every world, he appeared in dreams, 
-               woke up his friends and scared them. The greatest men of <rs type="place"><ref source="place045">France</ref></rs>, like the writers <rs type="person"><ref source="person083">Zola</ref></rs>, <rs type="person"><ref source="person084">Reinach</ref></rs>, 
-               <rs type="person"><ref source="person085">Lazare</ref></rs>, the vice president of the senate <rs type="person"><ref source="person086">Scheurer-Kestner</ref></rs>, the famous advocate <rs type="person"><ref source="person087">Labori</ref></rs>, 
-               the general <rs type="person"><ref source="person088">Picquart</ref></rs> and others looked after the persecuted Jew. They called out a movement in <rs type="place"><ref source="place045">France</ref></rs>, they excited every soul, 
-               they worked as long as it was necessary to convince the French people that <rs type="person"><ref source="person082">Dreyfus</ref></rs> is innocent. They demanded to bring him back from <rs type="place"><ref source="place208">Devil’s island</ref></rs>.
+               cut off of the whole world overseen and policed like a dangerous criminal - that Jew <persName><ref source="person082">Dreyfus</ref></persName> has not let the world  adjourn. Like a dead person of every world, he appeared in dreams, 
+               woke up his friends and scared them. The greatest men of <placeName><ref source="place045">France</ref></placeName>, like the writers <persName><ref source="person083">Zola</ref></persName>, <persName><ref source="person084">Reinach</ref></persName>, 
+               <persName><ref source="person085">Lazare</ref></persName>, the vice president of the senate <persName><ref source="person086">Scheurer-Kestner</ref></persName>, the famous advocate <persName><ref source="person087">Labori</ref></persName>, 
+               the general <persName><ref source="person088">Picquart</ref></persName> and others looked after the persecuted Jew. They called out a movement in <placeName><ref source="place045">France</ref></placeName>, they excited every soul, 
+               they worked as long as it was necessary to convince the French people that <persName><ref source="person082">Dreyfus</ref></persName> is innocent. They demanded to bring him back from <placeName><ref source="place208">Devil’s island</ref></placeName>.
             </p>
             <p>
-               The French people, the parliament, the senate, the supreme court thought that <rs type="person"><ref source="person082">Dreyfus</ref></rs> was innocent, but the antisemitic generals did not want to drop off, they did not want to admit the truth. 
-               <rs type="person"><ref source="person082">Dreyfus</ref></rs> came back, he was put on trial a second time. Publically, in front of the whole world, he defended himself, proved that he was innocent. The military court however did not want to relent 
-               and convicted him again. By then, the government could not stay quiet anymore, it could not stand aside anymore. The French president <rs type="person"><ref source="person089"><hi rend="italic">Loubet</hi></ref></rs> <hi rend="italic">pardoned</hi> and released him. 
+               The French people, the parliament, the senate, the supreme court thought that <persName><ref source="person082">Dreyfus</ref></persName> was innocent, but the antisemitic generals did not want to drop off, they did not want to admit the truth. 
+               <persName><ref source="person082">Dreyfus</ref></persName> came back, he was put on trial a second time. Publically, in front of the whole world, he defended himself, proved that he was innocent. The military court however did not want to relent 
+               and convicted him again. By then, the government could not stay quiet anymore, it could not stand aside anymore. The French president <persName><ref source="person089"><hi rend="italic">Loubet</hi></ref></persName> <hi rend="italic">pardoned</hi> and released him. 
             </p>
             <p>
-               <rs type="person"><ref source="person082">Dreyfus</ref></rs> and his companions were not content with that. Pardoned - that means: he is indeed guilty, but he was remitted the penalty. He wants to prove that he is <hi rend="italic">not guilty</hi>, 
+               <persName><ref source="person082">Dreyfus</ref></persName> and his companions were not content with that. Pardoned - that means: he is indeed guilty, but he was remitted the penalty. He wants to prove that he is <hi rend="italic">not guilty</hi>, 
                he does not need to be pardoned. He demands <hi rend="italic">justice</hi>. It took a long time until he achieved this because according to the law, a new fact which the previous court did not know about, had to be detected. Therefore, a new trial 
-               had to commence, but in the end not one, but several more facts were found. It was found out that general <rs type="person"><ref source="person090">Paty de Clam</ref></rs>, who led the trial against <rs type="person"><ref source="person082">Dreyfus</ref></rs>, 
-               kept all documents which proved <rs type="person"><ref source="person082">Dreyfus</ref></rs>’ innocence and did not show them to the court. And so, the Supreme court took matters into its hands, initiated a lengthy investigation and finally decided 
-               that the whole <rs type="person"><ref source="person082">Dreyfus</ref></rs> trial needs to be revised.
+               had to commence, but in the end not one, but several more facts were found. It was found out that general <persName><ref source="person090">Paty de Clam</ref></persName>, who led the trial against <persName><ref source="person082">Dreyfus</ref></persName>, 
+               kept all documents which proved <persName><ref source="person082">Dreyfus</ref></persName>’ innocence and did not show them to the court. And so, the Supreme court took matters into its hands, initiated a lengthy investigation and finally decided 
+               that the whole <persName><ref source="person082">Dreyfus</ref></persName> trial needs to be revised.
             </p>
             <p>
                To prevent a military court from further obscuring the whole matter and  convicting Dreyfus again, the court ordered that it is forbidden to try him to another military court. Solely the Supreme Court is allowed to carry out the lawsuit. This investigation 
-               will last several more months. Every lie, every contortion will be exposed and in the end, <hi rend="italic"><rs type="person"><ref source="person082">Dreyfus</ref></rs> will be acquitted</hi>. He can join the military again, without a doubt he can<cb/> 
-               achieve a higher rank than before and the <rs type="person"><ref source="person082">Dreyfus</ref></rs> affair will come to an end. 
+               will last several more months. Every lie, every contortion will be exposed and in the end, <hi rend="italic"><persName><ref source="person082">Dreyfus</ref></persName> will be acquitted</hi>. He can join the military again, without a doubt he can<cb/> 
+               achieve a higher rank than before and the <persName><ref source="person082">Dreyfus</ref></persName> affair will come to an end. 
             </p>
             <p>
-               We as Jews are particularly interested in the <rs type="person"><ref source="person082">Dreyfus</ref></rs> affair because of two things. First, <rs type="person"><ref source="person082">Dreyfus</ref></rs> is a <hi rend="italic">Jew</hi> and was 
+               We as Jews are particularly interested in the <persName><ref source="person082">Dreyfus</ref></persName> affair because of two things. First, <persName><ref source="person082">Dreyfus</ref></persName> is a <hi rend="italic">Jew</hi> and was 
                prosecuted because of it, because he is a <hi rend="italic">Jew</hi> - and second, his story resembles that of the Jewry, which is also persecuted because it is Jewish. - And if we can observe how justice and truth has come out victorious, we 
                are joyous with hope that there is justice for the Jewish people. The earth will flourish anew, and justice will descend from heaven. 
             </p>
          </div>
          <div n="5">
-            <head>Recent anti-Jewish violence in <rs type="place"><ref source="place014">Chișinău</ref></rs></head>
+            <head>Recent anti-Jewish violence in <placeName><ref source="place014">Chișinău</ref></placeName></head>
             <p> 
-               It has been a long tradition in <rs type="place"><ref source="place014">Russia</ref></rs>, that in order to calm the Russian nation which is fierce against the government, to chevy the Jews. It was like this in 1881, after the 
+               It has been a long tradition in <placeName><ref source="place014">Russia</ref></placeName>, that in order to calm the Russian nation which is fierce against the government, to chevy the Jews. It was like this in <date when-iso="1881">1881</date>, after the 
                <ref source="https://www.wikidata.org/wiki/Q1494934">nihilistic revolutions</ref> when pogroms were happening in every major city. The government achieved two things with these policies: first, the rabble hates the Jews, not the government; 
-               second, the government can satisfy the commotions, introduce martial law and oppress the people once again. - That is also the root for the <rs type="place"><ref source="place014">Kishinev</ref></rs> pogrom. The government saw that the 
+               second, the government can satisfy the commotions, introduce martial law and oppress the people once again. - That is also the root for the <placeName><ref source="place014">Kishinev</ref></placeName> pogrom. The government saw that the 
                nation had been discontent for some years and the working class was strongly agitated - the government sic the people against the nation immediately. 
             </p>
             <p>
@@ -190,7 +190,7 @@
                and even helps to foster it. 
             </p>
             <p>
-               This time, the government chose <rs type="place"><ref source="place014">Chișinău</ref></rs> once again for the persecutions. Reports say that there have been demonstrations against Jews. The mob wandered through the streets in large crowds, 
+               This time, the government chose <placeName><ref source="place014">Chișinău</ref></placeName> once again for the persecutions. Reports say that there have been demonstrations against Jews. The mob wandered through the streets in large crowds, 
                yelled threats against the Jews and broke in the windows of several Jewish houses. Multiple Jewish shops were robbed, some Jewish people were even beat up. 
             </p>
             <p>
@@ -206,47 +206,47 @@
             <p>
                between the newspapers I waited six years for another one… Still I need to indeed wait three years for the next one… but three is not six… only because of that I give you a piece of advice that you should also do so for the three fake years… 
                that means you should publish your newspaper daily and that would provide you with three additional real years of means of support - with a daily newspaper you will gain twenty times the number of subscribers, without exaggeration - in my city 
-               <rs type="place"><ref source="place209">Sadhora</ref></rs>, you will gain a lot of subscribers as before other papers written in vernacular have. “<ref source="https://www.wikidata.org/wiki/Q12405872">Der Fraind</ref>”, a paper coming from 
-               <rs type="place"><ref source="place018">St Petersburg</ref></rs>, has substantial subscribers here, because it is a daily paper. If it would take three days for another paper to arrive - everybody knows the news already. But if you publish your 
+               <placeName><ref source="place209">Sadhora</ref></placeName>, you will gain a lot of subscribers as before other papers written in vernacular have. “<ref source="https://www.wikidata.org/wiki/Q12405872">Der Fraind</ref>”, a paper coming from 
+               <placeName><ref source="place018">St Petersburg</ref></placeName>, has substantial subscribers here, because it is a daily paper. If it would take three days for another paper to arrive - everybody knows the news already. But if you publish your 
                paper daily, you will have a lot of subscribers. - I ask you to hear my request. - 
-               Your subscriber, <rs type="person">Naftoli Salomon</rs>
+               Your subscriber, <persName><ref source="person255">Naftoli Salomon</ref></persName>
             </p>
          </div>
          <div n="7">
-            <head>The political situation in <rs type="place"><ref source="place009">Hungary</ref></rs>.</head>
+            <head>The political situation in <placeName><ref source="place009">Hungary</ref></placeName>.</head>
             <p>
                For more than a year already, there has been a conflict in the Hungarian parliament which cannot be resolved. The emperor has already appointed two different ministers twice already and the government has granted the opposition important concessions. 
-               As is common knowledge, <rs type="place"><ref source="place009">Hungary</ref></rs> has been separated from <rs type="place"><ref source="place025">Austria</ref></rs> and forms a peculiar country. It has its own ministry, a special parliament and completely 
-               different laws in every area which concerns the inner state affairs only. <rs type="place"><ref source="place025">Austria</ref></rs> and <rs type="place"><ref source="place009">Hungary</ref></rs> are bound with a treaty which was concluded in the <ref source="https://www.wikidata.org/wiki/Q209601">Compromise</ref> 
-               and needs to be renewed every decade. According to the Compromise, both countries together constitute a joint monarchy which is called <rs type="place"><ref source="place001">Austria-Hungary</ref></rs>. They have a joint military, joined foreign politics 
-               which is led by a joint minister of foreign affairs, and joint tariff legislation with joint trade contracts which means that the customs for foreign merchandise is the same whether it is important in <rs type="place"><ref source="place025">Austria</ref></rs> 
-               or <rs type="place"><ref source="place009">Hungary</ref></rs>. The trade contracts with other countries are being decided together. The foreign politics being jointly executed <rs type="place"><ref source="place009">Hungary</ref></rs> would have to join 
-               <rs type="place"><ref source="place025">Austria</ref></rs> in war and vice versa. However, there is a party in <rs type="place"><ref source="place009">Hungary</ref></rs> which wants the only connection to <rs type="place"><ref source="place025">Austria</ref></rs> 
+               As is common knowledge, <placeName><ref source="place009">Hungary</ref></placeName> has been separated from <placeName><ref source="place025">Austria</ref></placeName> and forms a peculiar country. It has its own ministry, a special parliament and completely 
+               different laws in every area which concerns the inner state affairs only. <placeName><ref source="place025">Austria</ref></placeName> and <placeName><ref source="place009">Hungary</ref></placeName> are bound with a treaty which was concluded in the <ref source="https://www.wikidata.org/wiki/Q209601">Compromise</ref> 
+               and needs to be renewed every decade. According to the Compromise, both countries together constitute a joint monarchy which is called <placeName><ref source="place001">Austria-Hungary</ref></placeName>. They have a joint military, joined foreign politics 
+               which is led by a joint minister of foreign affairs, and joint tariff legislation with joint trade contracts which means that the customs for foreign merchandise is the same whether it is important in <placeName><ref source="place025">Austria</ref></placeName> 
+               or <placeName><ref source="place009">Hungary</ref></placeName>. The trade contracts with other countries are being decided together. The foreign politics being jointly executed <placeName><ref source="place009">Hungary</ref></placeName> would have to join 
+               <placeName><ref source="place025">Austria</ref></placeName> in war and vice versa. However, there is a party in <placeName><ref source="place009">Hungary</ref></placeName> which wants the only connection to <placeName><ref source="place025">Austria</ref></placeName> 
                to be having <hi rend="italic">one</hi> emperor. Other than that each country should be a country on its own. Each country should have their own military, their own tax tariffs, trade contracts and the likes of it. The majority of the current Hungarian 
-               population still stands with the government which does not want to split off <rs type="place"><ref source="place025">Austria</ref></rs>. Both countries profit from the mutual cohabitation: First, the monarchy is big and strong and can therefore defend its own 
-               interests like any great power; second, both countries distribute its produce in the other country. <rs type="place"><ref source="place009">Hungary</ref></rs> sends crops and cattle, <rs type="place"><ref source="place025">Austria</ref></rs> sends its factory 
+               population still stands with the government which does not want to split off <placeName><ref source="place025">Austria</ref></placeName>. Both countries profit from the mutual cohabitation: First, the monarchy is big and strong and can therefore defend its own 
+               interests like any great power; second, both countries distribute its produce in the other country. <placeName><ref source="place009">Hungary</ref></placeName> sends crops and cattle, <placeName><ref source="place025">Austria</ref></placeName> sends its factory 
                products. Immi- and emigration is freely allowed as to why trade is very common which strengthens the populations wealth.<cb/> 
             </p>
             <p>
-               As the government proposed the new recruitment plan last year according to which <rs type="place"><rs type="place001">Austria-Hungary</rs></rs> 
+               As the government proposed the new recruitment plan last year according to which <placeName><ref type="place001">Austria-Hungary</ref></placeName> 
                wanted to raise the military with several thousand men, the Hungarian opposition said that it will take advantage of the opportunity and withhold approval until their demands are met. They want the language of command to be Hungarian instead of German as has been 
                the case until now. The government denied this request with the following explanation: if Hungarian became the command language the military unity would be disrupted and split into a special Hungarian and a special Austrian military. In case of war they would not 
-               be able to understand each other and cause a disaster. If the government made several smaller concessions regarding the military, the opposition would have been easy to please. However the government (<rs type="person"><ref source="person035">Kálmán <hi rend="italic">Széll</hi></ref></rs> 
+               be able to understand each other and cause a disaster. If the government made several smaller concessions regarding the military, the opposition would have been easy to please. However the government (<persName><ref source="person035">Kálmán <hi rend="italic">Széll</hi></ref></persName> 
                was the minister president then) explained that it cannot pander to the military demands as only the emperor has the final say in this matter and the government cannot mingle. Furthermore the opposition obstructed the recruitment law. This filibuster lasted several 
-               months during which the government watched calmly until the obstruction got tired and gave up. However the opposition never got tired, the minister president <rs type="person"><ref source="place035">Széll</ref></rs> resigned and Count <rs type="person"><ref source="person091">Károly Khuen-Héderváry</ref></rs> 
+               months during which the government watched calmly until the obstruction got tired and gave up. However the opposition never got tired, the minister president <persName><ref source="place035">Széll</ref></persName> resigned and Count <persName><ref source="person091">Károly Khuen-Héderváry</ref></persName> 
                followed him as minister president. He granted the opposition multiple concessions. For example, Hungarian soldiers should only serve in Hungarian regiments, the inscriptions on Hungarian barracks should only be written in Hungarian and the like. The majority of the 
                opposition was satisfied and forfeited, but a smaller part  did not want to budge. As the procedural rules of the Hungarian parliament are unrestricted and not parochial, the government could not come to a conclusion with the minority of the opposition. Count 
-               <rs type="person"><ref source="person091">Khuen-Héderváry</ref></rs> resigned from his position and was replaced by <rs type="person"><ref source="person005">István Tisza</ref></rs>, the son of the previous prime minister <rs type="person"><ref source="person092">Kálmán Tisza</ref></rs>.
+               <persName><ref source="person091">Khuen-Héderváry</ref></persName> resigned from his position and was replaced by <persName><ref source="person005">István Tisza</ref></persName>, the son of the previous prime minister <persName><ref source="person092">Kálmán Tisza</ref></persName>.
             </p>
             <p>
                The new minister president also started by making concessions to the opposition to appease them. As the recruitment law was not passed, the military could not be approved and the three year veterans were held back and instead the reserves were conscripted which provoked 
-               dissatisfaction in the whole country. <rs type="person"><ref source="person005">Tisza</ref></rs> thought that the opposition would give in easier as the reserves should go back home. But he made a mistake. The small of the opposition continued filibustering and it could not be contained. 
+               dissatisfaction in the whole country. <persName><ref source="person005">Tisza</ref></persName> thought that the opposition would give in easier as the reserves should go back home. But he made a mistake. The small of the opposition continued filibustering and it could not be contained. 
             </p>
             <p>
-               Now, Count <rs type="person"><ref source="person005">Tisza</ref></rs> has lost his patience and wants to break the filibuster with force. He made a motion in parliament to change the order of business so that obstruction will not be possible anymore. A fight in the Hungarian 
+               Now, Count <persName><ref source="person005">Tisza</ref></persName> has lost his patience and wants to break the filibuster with force. He made a motion in parliament to change the order of business so that obstruction will not be possible anymore. A fight in the Hungarian 
                parliament is looming. Now a big part of the deputies who have not been in the opposition
-            </p>
-            <p style="text-align:center" rend="bold">[3]</p>
+            </p><pb/>
+            <fw type="pageNum">- 4 -</fw>
             <p>
                are now against changing the order of business as they think of it as an illegality. Therefore, they have joined the filibuster. It will be a difficult battle without an indication who will win.
             </p>
@@ -255,57 +255,57 @@
             <head>News.</head>
             <head type="h2">Jewish News.</head>
             <p>
-               (<rs type="place"><ref source="place187">Kyiv</ref></rs>). The way how the Russian government treats Jewish people is illustrated by this case: A local Jewish doctor volunteered to travel to the war zone in <rs type="place"><ref source="place136">East Asia</ref></rs> to work as a doctor in 
-               the military hospital. After the doctor departed on a military train, the police ordered his mother and sister to leave <rs type="place"><ref source="place187">Kyiv</ref></rs>. They were allowed to live there with their son and brother, as he is a doctor. But now that he is gone, they are 
+               (<placeName><ref source="place187">Kyiv</ref></placeName>). The way how the Russian government treats Jewish people is illustrated by this case: A local Jewish doctor volunteered to travel to the war zone in <placeName><ref source="place136">East Asia</ref></placeName> to work as a doctor in 
+               the military hospital. After the doctor departed on a military train, the police ordered his mother and sister to leave <placeName><ref source="place187">Kyiv</ref></placeName>. They were allowed to live there with their son and brother, as he is a doctor. But now that he is gone, they are 
                not allowed to reside there anymore. 
-               (<rs type="place"><ref source="place156">London</ref></rs>). Antisemitism is also present in the English parliament. Delegate <rs type="person"><ref source="person093">Markham</ref></rs> asked the <rs type="person"><ref source="person094">home secretary</ref></rs> whether he was aware that 
+               (<placeName><ref source="place156">London</ref></placeName>). Antisemitism is also present in the English parliament. Delegate <persName><ref source="person093">Markham</ref></persName> asked the <persName><ref source="person094">home secretary</ref></persName> whether he was aware that 
                4,000 Polish Jews who do not know English, which harms the domestic workers, work in English coal pits. And if the home secretary knew about this, what would he do to remedy the situation. - The home secretary answered that it was reported to him that 1,200 Jewish workers work there who perform 
                their duties diligently as to why they do not harm the domestic workers at all.
-               (<rs type="place"><ref source="place210">South Africa</ref></rs>). Immigration to <rs type="place"><ref source="place210">South Africa</ref></rs> has been complicated further. Before, every immigrant should prove that they have 5 pounds sterling (60 guilds), now they demand proof of 20 pounds (240 guilds).
+               (<placeName><ref source="place210">South Africa</ref></placeName>). Immigration to <placeName><ref source="place210">South Africa</ref></placeName> has been complicated further. Before, every immigrant should prove that they have 5 pounds sterling (60 guilds), now they demand proof of 20 pounds (240 guilds).
             </p>
          </div>
          <div n="9">
             <head>Telegrams.</head>
-            <head type="h2">The <rs type="place"><ref source="place147">Zabolotiv</ref></rs> trial.</head>
+            <head type="h2">The <placeName><ref source="place147">Zabolotiv</ref></placeName> trial.</head>
             <p>
-               <rs type="place"><ref source="place148">Kolomyia</ref></rs>. The trial about the antisemitic excesses in <rs type="place"><ref source="place148">Kolomyia</ref></rs> were closed on March 5. The trial did not clarify the whole situation. Two of the main defendants, the financial supervisor <hi rend="italic"><rs type="person">Skalski</rs></hi> 
-               and the merchant <rs type="person">Krivitsky</rs> were accused of stirring up hatred against the Jews were acquitted of their charge. Many witnesses exonerated them and claimed that they have not been part of this whole thing. Both defendants pinned everything on the police, who were not there on time. 
+               <placeName><ref source="place148">Kolomyia</ref></placeName>. The trial about the antisemitic excesses in <placeName><ref source="place148">Kolomyia</ref></placeName> were closed on March 5. The trial did not clarify the whole situation. Two of the main defendants, the financial supervisor <hi rend="italic"><persName>Skalski</persName></hi> 
+               and the merchant <persName>Krivitsky</persName> were accused of stirring up hatred against the Jews were acquitted of their charge. Many witnesses exonerated them and claimed that they have not been part of this whole thing. Both defendants pinned everything on the police, who were not there on time. 
             </p>
             <p>
                If only an officer would have been at the crime scene when the turmoil started, would it have calmed down immediately. It is true that as soon as the police<cb/> arrived at the square, the mob ran away, but police arrived too late.
             </p>
             <p>
-               The court sentenced following defendants: <rs type="person">Anatoly Falitshuk</rs> to five days detention, <rs type="person">Arkady Savak</rs> to 14 days, <rs type="person">Alyona Sammattyuk</rs> to five days, <rs type="person">Pavel Chaban</rs> to four months rigorous imprisonment with one day fast every two weeks, 
-               <rs type="person">Stefan Kavalerski</rs> to two months of rigorous imprisonment with fast, <rs type="person">Theodor Butschek</rs> to two months with fast, <rs type="person">Aleksa Roke</rs> to two months with fast, <rs type="person">Nikola Duvnjak</rs> to two months with fast, <rs type="person">Edvard Neuburger</rs> 
-               to two months with fast, <rs type="person">Jan Sorokavsky</rs> to two months with fast. Nine defendants were discharged, the convicts have to pay the court fees. The demands for compensation made by the harmed Jews have to be brought to civil court. 
+               The court sentenced following defendants: <persName>Anatoly Falitshuk</persName> to five days detention, <persName>Arkady Savak</persName> to 14 days, <persName>Alyona Sammattyuk</persName> to five days, <persName>Pavel Chaban</persName> to four months rigorous imprisonment with one day fast every two weeks, 
+               <persName>Stefan Kavalerski</persName> to two months of rigorous imprisonment with fast, <persName>Theodor Butschek</persName> to two months with fast, <persName>Aleksa Roke</persName> to two months with fast, <persName>Nikola Duvnjak</persName> to two months with fast, <persName>Edvard Neuburger</persName> 
+               to two months with fast, <persName>Jan Sorokavsky</persName> to two months with fast. Nine defendants were discharged, the convicts have to pay the court fees. The demands for compensation made by the harmed Jews have to be brought to civil court. 
             </p>
             <p>
-               All of the convicts accepted their verdict except for <rs type="person">Aleksa Roke</rs> who asked for three days of respite.
+               All of the convicts accepted their verdict except for <persName>Aleksa Roke</persName> who asked for three days of respite.
             </p>
          </div>
          <div n="10">
             <head>The war.</head>
-            <head type="h2">Between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs>.</head>
+            <head type="h2">Between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName>.</head>
             <p>
-               <rs type="place"><ref source="place156">London</ref></rs>. Reports from <rs type="place"><ref source="place019">Japan</ref></rs> state that the Japanese already arrived in <rs type="place"><ref source="place083">Port Arthur</ref></rs>. They want to besiege Port Arthur by land as well.
+               <placeName><ref source="place156">London</ref></placeName>. Reports from <placeName><ref source="place019">Japan</ref></placeName> state that the Japanese already arrived in <placeName><ref source="place083">Port Arthur</ref></placeName>. They want to besiege Port Arthur by land as well.
             </p>
             <p>
-               <rs type="place"><ref source="place083">Port Arthur</ref></rs>. The Russians bank on the Japanese to besiege <rs type="place"><ref source="place083">Port Arthur</ref></rs>. They also think that the Japanese will manage to conquer the fortress. 
+               <placeName><ref source="place083">Port Arthur</ref></placeName>. The Russians bank on the Japanese to besiege <placeName><ref source="place083">Port Arthur</ref></placeName>. They also think that the Japanese will manage to conquer the fortress. 
             </p>
             <p>
-               <rs type="place"><ref source="place082">Vladivostok</ref></rs>. In the night from Sunday to Monday, Japanese battleships bombarded the fortress. The Russian ships did not shoot back, because the Japanese ships were too far away and the Japanese cannons can shoot farther than the Russian ones. The Japanese did not do a lot of damage.
+               <placeName><ref source="place082">Vladivostok</ref></placeName>. In the night from Sunday to Monday, Japanese battleships bombarded the fortress. The Russian ships did not shoot back, because the Japanese ships were too far away and the Japanese cannons can shoot farther than the Russian ones. The Japanese did not do a lot of damage.
             </p>
             <p>
-               <rs type="place"><ref source="place156">London</ref></rs>. The Japanese started to build a light railway in <rs type="place"><ref source="place022">Korea</ref></rs>, which should facilitate military transport. They are said to have already reached the Manchurian borders. The Russians retreat. 
+               <placeName><ref source="place156">London</ref></placeName>. The Japanese started to build a light railway in <placeName><ref source="place022">Korea</ref></placeName>, which should facilitate military transport. They are said to have already reached the Manchurian borders. The Russians retreat. 
             </p>
             <p>
-               <rs type="place"><ref source="place193">Beijing</ref></rs>. The Chinese act more and more like double agents. They claim to be neutral, and therefore impartial, but they secretly arm to war and collect a lot of military at the border. As soon as the Japanese win the ground warfare, the Chinese will join the Japanese and declare war on <rs type="place"><ref source="place014">Russia</ref></rs>.
+               <placeName><ref source="place193">Beijing</ref></placeName>. The Chinese act more and more like double agents. They claim to be neutral, and therefore impartial, but they secretly arm to war and collect a lot of military at the border. As soon as the Japanese win the ground warfare, the Chinese will join the Japanese and declare war on <placeName><ref source="place014">Russia</ref></placeName>.
             </p>
          </div>
          <div n="1">
             <fw type="footer" n="1">
-               <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <rs type="person"><ref source="person031">OSIAS H. WILF</ref></rs> recte Weinstock 
-                  <lb/>Druck von <rs type="person"><ref source="person032">E. Salat</ref></rs> Witwe des <rs type="person"><ref source="person033">U.W. Salat</ref></rs>, <rs type="place"><ref source="place002">Lemberg</ref></rs> <rs type="place"><ref source="place065">Kasimirgasse 35</ref></rs></foreign>
+               <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte Weinstock 
+                  <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse 35</ref></placeName></foreign>
             </fw>
          </div>
       </body>

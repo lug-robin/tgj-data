@@ -2463,6 +2463,15 @@
                 <death><date>Unknown</date></death>
                 <occupation>Brothers who killed two Jews and were part of the Kishinev trials.</occupation>
               </person>
+              <person xml:id="person255">
+                <persName>
+                  <forename>Naftoli</forename>
+                  <surname>Salomon</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Reader of The Genuine Jew.</occupation>
+              </person>
             </listPerson>
           </div>
         </body>
