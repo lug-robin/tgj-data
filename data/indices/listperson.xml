@@ -44,7 +44,7 @@
               <birth><date when-iso="1830-08-18">1830-08-18</date></birth>
               <death><date when-iso="1916-11-21">1916-11-21</date></death>
               <occupation>Emperor of Austria-Hungary, 1848-1916.</occupation>
-              <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q51056</idno>
+              <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q51056</idno>
             </person>
             <person xml:id="person004">
               <persName>
@@ -54,7 +54,7 @@
               <birth><date when-iso="1850-11-06">1850-11-06</date></birth>
               <death><date when-iso="1919-03-05">1919-03-05</date></death>
               <occupation>Minister President of Austria-Hungary, 1900-1904.</occupation>
-              <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q72242</idno>
+              <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q72242</idno>
             </person>
               <person xml:id="person005">
               <persName>  
@@ -222,7 +222,6 @@
                 </persName>
                 <birth><date>Not Known</date></birth>
                 <death><date>Not Known</date></death>
-                <idno></idno>
                 <occupation>German rabbi. Taught in Worms.</occupation>
               </person>
               <person xml:id="person022">
@@ -347,7 +346,7 @@
                 </persName>
                 <birth when-iso="1843-06-18"><date>1843-06-18</date></birth>
                 <death when-iso="1915-08-16"><date>1915-08-16</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q640475</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q640475</idno>
                 <occupation>Prime Minister of the Kingdom of Hungary, 1899-1903.</occupation>
               </person>
               <person xml:id="person035">
@@ -357,7 +356,7 @@
                 </persName>
                 <birth><date when-iso="1835-06-02">1835-06-02</date></birth>
                 <death><date when-iso="1094-08-20">1904-08-20</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q43739</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q43739</idno>
                 <occupation>Pope Pius X, 1903-1914.</occupation>
               </person>
               <person xml:id="person036">
@@ -367,7 +366,7 @@
                 </persName>
                 <birth><date when-iso="1844-06-29">1844-06-29</date></birth>
                 <death><date when-iso="1921-08-16">1921-08-16</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q211827</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q211827</idno>
                 <occupation>King Peter I of Serbia, 1903-1921.</occupation>
               </person>
               <person xml:id="person037">
@@ -377,7 +376,7 @@
                 </persName>
                 <birth><date when-iso="1876-08-14">1876-08-14</date></birth>
                 <death><date when-iso="1903-05-29">1903-05-29</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q297547</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q297547</idno>
                 <occupation>King Alexander I of Serbia, 1889-1903.</occupation>
               </person>
               <person xml:id="person038">
@@ -387,7 +386,7 @@
                 </persName>
                 <birth><date when-iso="1837-12-26">1837-12-26</date></birth>
                 <death><date when-iso="1917-01-16">1917-01-16</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q467093</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q467093</idno>
                 <occupation>United States Navy Admiral.</occupation>
               </person>
               <person xml:id="person039">
@@ -397,7 +396,7 @@
                 </persName>
                 <birth><date when-iso="1824-01-27">1824-01-27</date></birth>
                 <death><date when-iso="1911-08-12">1911-08-12</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q528460</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q528460</idno>
                 <occupation>Dutch painter.</occupation>
               </person>
               <person xml:id="person040">
@@ -407,7 +406,7 @@
                 </persName>
                 <birth><date when-iso="1836-08-23">1836-08-23</date></birth>
                 <death><date when-iso="1902-09-19">1902-09-19</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q234047</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q234047</idno>
                 <occupation>Queen Consort of Belgium.</occupation>
               </person>
               <person xml:id="person041">
@@ -417,7 +416,7 @@
                 </persName>
                 <birth><date when-iso="1836-08-23">1843-05-13</date></birth>
                 <death><date when-iso="1902-09-19">1917-05-27</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q701150</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q701150</idno>
                 <occupation>Imperial Russian Navy admiral.</occupation>
               </person>
               <person xml:id="person042">
@@ -427,7 +426,7 @@
                 </persName>
                 <birth><date when-iso="1836-08-23">1868-05-18</date></birth>
                 <death><date when-iso="1902-09-19">1918-07-17</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q40787</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q40787</idno>
                 <occupation>Last Emperor of Russia, 1894-1917.</occupation>
               </person>
               <person xml:id="person043">
@@ -437,7 +436,7 @@
                 </persName>
                 <birth><date when-iso="1194-12-26">1194-12-26</date></birth>
                 <death><date when-iso="1250-12-13">1250-12-13</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q130221</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q130221</idno>
                 <occupation>Holy Roman Emperor, 1230-1250.</occupation>
               </person>
               <person xml:id="person044">
@@ -447,7 +446,7 @@
                 </persName>
                 <birth><date when-iso="1265-03-13">1265-03-13</date></birth>
                 <death><date when-iso="1325-06-05">1325-06-05</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q650606</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q650606</idno>
                 <occupation>Count of Württemberg, 1279–1325.</occupation>
               </person>
               <person xml:id="person045">
@@ -457,7 +456,7 @@
                 </persName>
                 <birth><date when-iso="1218-05-01">1218-05-01</date></birth>
                 <death><date when-iso="1291-07-12">1291-07-12</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q76956</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q76956</idno>
                 <occupation>King of Germany/King of the Romans, 1273-1291.</occupation>
               </person>
               <person xml:id="person046">
@@ -467,7 +466,7 @@
                 </persName>
                 <birth><date when-iso="1215">1215</date></birth>
                 <death><date when-iso="1293-04-27">1293-04-27</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q72163</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q72163</idno>
                 <occupation>German rabbi. Called Rabbi Meir of Rothenburg. Known by the Hebrew language acronym Maharam of Rothenburg.</occupation>
               </person>
               <person xml:id="person047">
@@ -477,7 +476,7 @@
                 </persName>
                 <birth><date when-iso="1869-11-11">1869-11-11</date></birth>
                 <death><date when-iso="1947-12-28">1947-12-28</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q150642</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q150642</idno>
                 <occupation>King of Italy, 1900-1946.</occupation>
               </person>
               <person xml:id="person048">
@@ -487,7 +486,7 @@
                 </persName>
                 <birth><date when-iso="1847-02-24">1847-02-24</date></birth>
                 <death><date when-iso="1924-07-17">1924-07-17</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1236827</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1236827</idno>
                 <occupation>Italian politician, 1847-1924.</occupation>
               </person>
               <person xml:id="person049">
@@ -497,7 +496,7 @@
                 </persName>
                 <birth><date when-iso="1807-07-04">1807-07-04</date></birth>
                 <death><date when-iso="1882-06-02">1882-06-02</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q539</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q539</idno>
                 <occupation>Italian general and republican.</occupation>
               </person>
               <person xml:id="person050">
@@ -516,7 +515,7 @@
                 </persName>
                 <birth><date when-iso="1872-06-03">1872-06-03</date></birth>
                 <death><date when-iso="1919-02-20">1919-02-20</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q334869</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q334869</idno>
                 <occupation>Emir of Afghanistan, 1901-1919.</occupation>
               </person>
               <person xml:id="person052">
@@ -526,7 +525,7 @@
                 </persName>
                 <birth><date when-iso="1852-11-03">1852-11-03</date></birth>
                 <death><date when-iso="1912-07-30">1912-07-30</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q174231</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q174231</idno>
                 <occupation>Emperor of Japan, 1867 - 1912. Given Name: Mutsuhito.</occupation>
               </person>
               <person xml:id="person053">
@@ -591,7 +590,7 @@
                 </persName>
                 <birth><date when-iso="1250">1250</date></birth>
                 <death><date when-iso="1327-10-24">1327-10-24</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q722525</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q722525</idno>
                 <occupation>Student of Rabbi Meir of Rothenburg</occupation>
               </person>
               <person xml:id="person060">
@@ -601,7 +600,7 @@
                 </persName>
                 <birth><date when-iso="1849-03-25">1849-03-25</date></birth>
                 <death><date when-iso="1921-03-28">1921-03-28</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q392632</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q392632</idno>
                 <occupation>Austrian politician, Minister of Foreign Affairs of Austria-Hungary, 1895-1906.</occupation>
               </person>
               <person xml:id="person061">
@@ -611,7 +610,7 @@
                 </persName>
                 <birth><date when-iso="1841-11-10">1841-11-10</date></birth>
                 <death><date when-iso="1920-01-01">1920-01-01</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q698652</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q698652</idno>
                 <occupation>Austrian-Hungarian General and Minister of War, 1902-1906.</occupation>
               </person>
               <person xml:id="person062">
@@ -621,7 +620,7 @@
                 </persName>
                 <birth><date when-iso="1848-07-25">1848-07-25</date></birth>
                 <death><date when-iso="1930-03-19">1930-03-19</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q19008</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q19008</idno>
                 <occupation>British Prime Minister, Conservative politician, and statesman.</occupation>
               </person>
               <person xml:id="person063">
@@ -631,7 +630,7 @@
                 </persName>
                 <birth><date when-iso="1852-03-01">1852-03-01</date></birth>
                 <death><date when-iso="1930-03-19">1923-02-22</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q503827</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q503827</idno>
                 <occupation>French statesman of the French Third Republic.</occupation>
               </person>
               <person xml:id="person064">
@@ -641,7 +640,7 @@
                 </persName>
                 <birth><date when-iso="1852-03-01">1848-06-28</date></birth>
                 <death><date when-iso="1930-03-19">1915-01-18</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2524487</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2524487</idno>
                 <occupation>Russian general. Admiral during the Russo-Japanese war.</occupation>
               </person>
               <person xml:id="person065">
@@ -651,7 +650,7 @@
                 </persName>
                 <birth><date>Between 1689 BCE and 1391 BCE</date></birth>
                 <death><date>Between 1473 BCE and 1271 BCE</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q9077</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q9077</idno>
                 <occupation>Abrahamic prophet said to have led the Israelites out of Egypt. Important prophet in Judaism.</occupation>
               </person>
               <person xml:id="person066">
@@ -661,7 +660,7 @@
                 </persName>
                 <birth><date when-iso="1769-08-15">1769-08-15</date></birth>
                 <death><date when-iso="1821-05-08">1821-05-08</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q517</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q517</idno>
                 <occupation>French military leader, French Emperor, 1804–1814 and 1815.</occupation>
               </person>
               <person xml:id="person067">
@@ -671,7 +670,7 @@
                 </persName>
                 <birth><date when-iso="1827">1827</date></birth>
                 <death><date when-iso="1905">1905</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q12408256</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q12408256</idno>
                 <occupation>Lviv rabbi.</occupation>
               </person>
               <person xml:id="person068">
@@ -681,7 +680,7 @@
                 </persName>
                 <birth><date when-iso="1848-03-17">1848-03-17</date></birth>
                 <death><date when-iso="1925-01-16">1925-01-16</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q527156</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q527156</idno>
                 <occupation>Imperial Russian general and war minister.</occupation>
               </person>
               <person xml:id="person069">
@@ -691,7 +690,7 @@
                 </persName>
                 <birth><date when-iso="1847">1847</date></birth>
                 <death><date when-iso="1909">1909</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q61961758</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q61961758</idno>
                 <occupation>Rabbi in Stanislau, 1904-1909.</occupation>
               </person>
               <person xml:id="person070">
@@ -701,7 +700,7 @@
                 </persName>
                 <birth><date when-iso="1836-06-14">1836-06-14</date></birth>
                 <death><date when-iso="1902-01-07">1902-01-07</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q367248</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q367248</idno>
                 <occupation>Polish banker and finance counsellor.</occupation>
               </person>
               <person xml:id="person071">
@@ -711,7 +710,7 @@
                 </persName>
                 <birth><date when-iso="1845-01-06">1845-01-06</date></birth>
                 <death><date when-iso="1907-03-19">1907-03-19</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q142580</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q142580</idno>
                 <occupation>Russian politian. Minister of foreign affairs, 1900-1906.</occupation>
               </person>
               <person xml:id="person072">
@@ -721,7 +720,7 @@
                 </persName>
                 <birth><date when-iso="1856-03-18">1856-03-18</date></birth>
                 <death><date when-iso="1919-08-16">1919-08-16</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q463739</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q463739</idno>
                 <occupation>Russian ambassador to France, Denmark, and Japan. Minister of foreign affairs, 1906-1910.</occupation>
               </person>
               <person xml:id="person073">
@@ -731,7 +730,7 @@
                 </persName>
                 <birth><date when-iso="1856-03-18">1853-04-18</date></birth>
                 <death><date when-iso="1919-08-16">1943-01-29</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q438448</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q438448</idno>
                 <occupation>Finance Minister of Russia, 1904-1905 and 1906-1914. 4th Russian prime minister, 1911-1916.</occupation>
               </person>
               <person xml:id="person074">
@@ -741,7 +740,7 @@
                 </persName>
                 <birth><date when-iso="1822-12-06">1822-12-06</date></birth>
                 <death><date when-iso="1904-03-01">1904-03-01</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1329535</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1329535</idno>
                 <occupation>Russian minister of war, 1881-1898. Minister of National education, 1901-1902.</occupation>
               </person>
               <person xml:id="person075">
@@ -751,7 +750,7 @@
                 </persName>
                 <birth><date when-iso="1845-05-13">1845-05-13</date></birth>
                 <death><date when-iso="1938-03-27">1938-03-27</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q3920484</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q3920484</idno>
                 <occupation>General Govenor of Kyiv, Southwestern Krai, and Galicia.</occupation>
               </person>
               <person xml:id="person076">
@@ -761,7 +760,7 @@
                 </persName>
                 <birth><date when-iso="1235">1235</date></birth>
                 <death><date when-iso="1298-04-17">1298-04-17</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2639833</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2639833</idno>
                 <occupation>Count of Hohenberg, 13th century.</occupation>
               </person>
               <person xml:id="person077">
@@ -771,7 +770,7 @@
                 </persName>
                 <birth><date when-iso="1672-06-09">1672-06-09</date></birth>
                 <death><date when-iso="1725-02-08">1725-02-08</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q8479</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q8479</idno>
                 <occupation>Tsar/Emperor of Russia, 1682-1725.</occupation>
               </person>
               <person xml:id="person078">
@@ -781,7 +780,7 @@
                 </persName>
                 <birth><date when-iso="1682-06-27">1682-06-27</date></birth>
                 <death><date when-iso="1718-12-11">1718-12-11</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q52934</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q52934</idno>
                 <occupation>Emperor of Sweden, 1697-1718.</occupation>
               </person>
               <person xml:id="person079">
@@ -791,7 +790,7 @@
                 </persName>
                 <birth><date when-iso="1670-05-12">1670-05-12</date></birth>
                 <death><date when-iso="1733-02-01">1733-02-01</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q53437</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q53437</idno>
                 <occupation>Emperor of Poland, 1697-1706.</occupation>
               </person>
               <person xml:id="person080">
@@ -801,7 +800,7 @@
                 </persName>
                 <birth><date when-iso="1694-11-21">1694-11-21</date></birth>
                 <death><date when-iso="1778-05-30">1778-05-30</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q53437</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q53437</idno>
                 <occupation>French writer, historian, and philosopher.</occupation>
               </person>
               <person xml:id="person081">
@@ -811,7 +810,7 @@
                 </persName>
                 <birth><date when-iso="1625-10-10">1625-10-10</date></birth>
                 <death><date when-iso="1703-01-16">1703-01-16</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q434533</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q434533</idno>
                 <occupation>Swedish count and military engineer.</occupation>
               </person>
               <person xml:id="person082">
@@ -821,7 +820,7 @@
                 </persName>
                 <birth><date when-iso="1859-10-09">1859-10-09</date></birth>
                 <death><date when-iso="1935-07-12">1935-07-12</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q171826</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q171826</idno>
                 <occupation>French artillery officer. Victim of the Dreyfus affair.</occupation>
               </person>
               <person xml:id="person083">
@@ -831,7 +830,7 @@
                 </persName>
                 <birth><date when-iso="1840-04-02">1840-04-02</date></birth>
                 <death><date when-iso="1902-09-29">1902-09-29</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q504</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q504</idno>
                 <occupation>French novelist, journalist, and playwright.</occupation>
               </person>
               <person xml:id="person084">
@@ -841,7 +840,7 @@
                 </persName>
                 <birth><date when-iso="1856-09-30">1856-09-30</date></birth>
                 <death><date when-iso="1921-04-18">1921-04-18</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q172161</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q172161</idno>
                 <occupation>French author and politician.</occupation>
               </person>
               <person xml:id="person085">
@@ -851,7 +850,7 @@
                 </persName>
                 <birth><date when-iso="1865-06-14">1865-06-14</date></birth>
                 <death><date when-iso="1903-09-01">1903-09-01</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q822562</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q822562</idno>
                 <occupation>French literary critic, political journalist, polemicist, and anarchist. Known as the first Dreyfusard.</occupation>
               </person>
               <person xml:id="person086">
@@ -861,7 +860,7 @@
                 </persName>
                 <birth><date when-iso="1833-02-11">1833-02-11</date></birth>
                 <death><date when-iso="1899-09-19">1899-09-19</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q166297</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q166297</idno>
                 <occupation>French politician and industrialist.</occupation>
               </person>
               <person xml:id="person087">
@@ -871,7 +870,7 @@
                 </persName>
                 <birth><date when-iso="1860-04-18">1860-04-18</date></birth>
                 <death><date when-iso="1935-07-12">1917-03-14</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q922807</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q922807</idno>
                 <occupation>French attorney.</occupation>
               </person>
               <person xml:id="person088">
@@ -881,7 +880,7 @@
                 </persName>
                 <birth><date when-iso="1859-10-09">1854-09-06</date></birth>
                 <death><date when-iso="1935-07-12">1914-01-19</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q717539</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q717539</idno>
                 <occupation>French Minister of War.</occupation>
               </person>
               <person xml:id="person089">
@@ -891,7 +890,7 @@
                 </persName>
                 <birth><date when-iso="1838-12-30">1838-12-30</date></birth>
                 <death><date when-iso="1929-12-20">1929-12-20</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q169502</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q169502</idno>
                 <occupation>8th French president, 1899-1906.</occupation>
               </person>
               <person xml:id="person090">
@@ -901,7 +900,7 @@
                 </persName>
                 <birth><date when-iso="1853-02-21">1853-02-21</date></birth>
                 <death><date when-iso="1916-09-03">1916-09-03</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q532404</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q532404</idno>
                 <occupation>Army officer and a key figure in the Dreyfus affair.</occupation>
               </person>
               <person xml:id="person091">
@@ -911,7 +910,7 @@
                 </persName>
                 <birth><date when-iso="1849-05-23">1849-05-23</date></birth>
                 <death><date when-iso="1918-02-16">1918-02-16</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q561716</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q561716</idno>
                 <occupation>Prime minister of Hungary, 1903.</occupation>
               </person>
               <person xml:id="person092">
@@ -921,7 +920,7 @@
                 </persName>
                 <birth><date when-iso="1830-12-16">1830-12-16</date></birth>
                 <death><date when-iso="1902-03-23">1902-03-23</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q254737</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q254737</idno>
                 <occupation>Prime minister of Hungary, 1875-1890.</occupation>
               </person>
               <person xml:id="person093">
@@ -931,7 +930,7 @@
                 </persName>
                 <birth><date when-iso="1866-08-25">1866-08-25</date></birth>
                 <death><date when-iso="1916-08-25">1916-08-25</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q9385017</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q9385017</idno>
                 <occupation>British politician. Member of Parliament of Mansfield.</occupation>
               </person>
               <person xml:id="person094">
@@ -941,7 +940,7 @@
                 </persName>
                 <birth><date when-iso="1851-10-21">1851-10-21</date></birth>
                 <death><date when-iso="1926-01-25">1926-01-25</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q13426124</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q13426124</idno>
                 <occupation>British home secretary, 1902-1905.</occupation>
               </person>
               <person xml:id="person095">
@@ -951,7 +950,7 @@
                 </persName>
                 <birth><date when-iso="1705">1705</date></birth>
                 <death><date when-iso="1768">1768</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2369644</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2369644</idno>
                 <occupation>Ukrainian Cossack rebel, part of the Haidamaka, and one of the leaders of the <ref source="https://www.wikidata.org/wiki/Q1659789">Koliivshchyna</ref>.</occupation>
               </person>
               <person xml:id="person096">
@@ -961,7 +960,7 @@
                 </persName>
                 <birth><date when-iso="1595">1595</date></birth>
                 <death><date when-iso="1657-07-27">1657-07-27</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q203808</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q203808</idno>
                 <occupation>Hetman of the <ref source="https://www.wikidata.org/wiki/Q1076173">Zaporizhzhya</ref> Army, head of Ukraine during the <ref source="https://www.wikidata.org/wiki/Q16157109">Hetmanship</ref>, 1648–1657.</occupation>
               </person>
               <person xml:id="person097">
@@ -971,7 +970,7 @@
                 </persName>
                 <birth><date when-iso="1740">1740</date></birth>
                 <death><date when-iso="1768">1768</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1958210</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1958210</idno>
                 <occupation><ref source="https://www.wikidata.org/wiki/Q1076173">Zaporizhian</ref> Cossack and one of the leaders of the <ref source="https://www.wikidata.org/wiki/Q1659789">Koliivshchyna</ref> rebellion.</occupation>
               </person>
               <person xml:id="person098">
@@ -981,7 +980,7 @@
                 </persName>
                 <birth><date when-iso="-0759">759 BC</date></birth>
                 <death><date when-iso="-0723">723 BC</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q319038</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q319038</idno>
                 <occupation>19th king of Northern Isreal, 732 - 722 BC.</occupation>
               </person>
               <person xml:id="person099">
@@ -991,7 +990,7 @@
                 </persName>
                 <birth><date when-iso="-0711-02-13">711-02-13 BC</date></birth>
                 <death><date when-iso="-0585">585 BC</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q200188</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q200188</idno>
                 <occupation>First emperor of Japan, 660 - 585 BC.</occupation>
               </person>
               <person xml:id="person100">
@@ -1001,7 +1000,7 @@
                 </persName>
                 <birth><date when-iso="-0765">765 BC</date></birth>
                 <death><date when-iso="-0705">705 BC</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q208336</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q208336</idno>
                 <occupation>King of Assyria, 722 - 705 BC.</occupation>
               </person>
               <person xml:id="person101">
@@ -1011,7 +1010,7 @@
                 </persName>
                 <birth><date when-iso="1829-10-19">1829-10-19</date></birth>
                 <death><date when-iso="1908-12-20">1908-12-20</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q561659</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q561659</idno>
                 <occupation>Russian Saint.</occupation>
               </person>
               <person xml:id="person102">
@@ -1021,7 +1020,7 @@
                 </persName>
                 <birth><date when-iso="1829-04-26">1829-04-26</date></birth>
                 <death><date when-iso="1894-02-06">1894-02-06</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q77242</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q77242</idno>
                 <occupation>German surgeon, performed the first successful gastrectomy for gastric cancer.</occupation>
               </person>
               <person xml:id="person103">
@@ -1031,7 +1030,7 @@
                 </persName>
                 <birth><date when-iso="1832-04-20">1832-04-20</date></birth>
                 <death><date when-iso="1910-10-05">1910-10-05</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q74655</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q74655</idno>
                 <occupation>German internist, founded the first international association for cancer research.</occupation>
               </person>
               <person xml:id="person104">
@@ -1041,7 +1040,7 @@
                 </persName>
                 <birth><date when-iso="1849-07-20">1849-07-20</date></birth>
                 <death><date when-iso="1916-12-29">1916-12-29</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q38354</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q38354</idno>
                 <occupation>Russian diplomat, ambassador to Denmark, 1897-1903 and England, 1903-1917.</occupation>
               </person>
               <person xml:id="person105">
@@ -1051,7 +1050,7 @@
                 </persName>
                 <birth><date when-iso="1841-11-09">1841-11-09</date></birth>
                 <death><date when-iso="1910-05-06">1910-05-06</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q20875</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q20875</idno>
                 <occupation>King of England, 1901-1910.</occupation>
               </person>
               <person xml:id="person106">
@@ -1070,7 +1069,7 @@
                 </persName>
                 <birth><date when-iso="1869-06-01">1869-06-01</date></birth>
                 <death><date when-iso="1943-07-17">1943-07-17</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q15640245</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q15640245</idno>
                 <occupation>Austrian and Czech journalist, politician, activist, a member of the Reichsrat, 1901-1907. </occupation>
               </person>
               <person xml:id="person108">
@@ -1080,7 +1079,7 @@
                 </persName>
                 <birth><date when-iso="1864-06-05">1864-06-05</date></birth>
                 <death><date when-iso="1911-08-26">1911-08-26</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q17335159</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q17335159</idno>
                 <occupation>Austrian and Czech journalist, a member of the Reichsrat, 1901-1907.</occupation>
               </person>
               <person xml:id="person109">
@@ -1090,7 +1089,7 @@
                 </persName>
                 <birth><date when-iso="1840-07-15">1840-07-15</date></birth>
                 <death><date when-iso="1907-02-14">1907-02-14</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q9160181</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q9160181</idno>
                 <occupation>Polish politician, a member of the Reichsrat, 1879-1907.</occupation>
               </person>
               <person xml:id="person110">
@@ -1100,7 +1099,7 @@
                 </persName>
                 <birth><date when-iso="1846">1846</date></birth>
                 <death><date when-iso="1919-12-11">1919-12-11</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q9356939</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q9356939</idno>
                 <occupation>Polish politician, a member of the Reichsrat, 1897-1907.</occupation>
               </person>
               <person xml:id="person111">
@@ -1110,7 +1109,7 @@
                 </persName>
                 <birth><date when-iso="1841-08-17">1841-08-17</date></birth>
                 <death><date when-iso="1909-02-17">1909-02-17</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q9382631</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q9382631</idno>
                 <occupation>Polish politician, a member of the Reichsrat, 1891-1907.</occupation>
               </person>
               <person xml:id="person112">
@@ -1120,7 +1119,7 @@
                 </persName>
                 <birth><date when-iso="1629-08-17">1629-08-17</date></birth>
                 <death><date when-iso="1696-06-17">1696-06-17</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q53454</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q53454</idno>
                 <occupation>King of Poland and Grand Duke of Lithuania, 1674-1696.</occupation>
               </person>
               <person xml:id="person113">
@@ -1130,7 +1129,7 @@
                 </persName>
                 <birth><date when-iso="1823-04-25">1823-04-25</date></birth>
                 <death><date when-iso="1861-06-25">1861-06-25</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q174772</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q174772</idno>
                 <occupation>Sultan of the Ottoman Empire, 1839-1861.</occupation>
               </person>
               <person xml:id="person114">
@@ -1140,7 +1139,7 @@
                 </persName>
                 <birth><date when-iso="1796-07-06">1796-07-06</date></birth>
                 <death><date when-iso="1855-03-02">1855-03-02</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q130734</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q130734</idno>
                 <occupation>Emperor of Russia, 1825-1855</occupation>
               </person>
               <person xml:id="person115">
@@ -1150,7 +1149,7 @@
                 </persName>
                 <birth><date when-iso="1869-06-24">1869-06-24</date></birth>
                 <death><date when-iso="1957-11-25">1957-11-25</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q170396</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q170396</idno>
                 <occupation>High Commissioner of Cretan State, 1898-1906.</occupation>
               </person>
               <person xml:id="person116">
@@ -1160,7 +1159,7 @@
                 </persName>
                 <birth><date when-iso="1855">1855</date></birth>
                 <death><date when-iso="1922">1922</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q660970</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q660970</idno>
                 <occupation>Inspectorate-General of Macedonia, 1902-1908.</occupation>
               </person>
               <person xml:id="person117">
@@ -1170,7 +1169,7 @@
                 </persName>
                 <birth><date when-iso="1855-01-08">1855-01-08</date></birth>
                 <death><date when-iso="1930-09-12">1930-09-12</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q4507519</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q4507519</idno>
                 <occupation>Russian diplomat; extraordinary Envoy and Minister of Plenipotentiary in Serbia, 1900-1904.</occupation>
               </person>
               <person xml:id="person118">
@@ -1180,7 +1179,7 @@
                 </persName>
                 <birth><date when-iso="1855">1847</date></birth>
                 <death><date when-iso="1928-08-29">1928-08-29</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q5536638</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q5536638</idno>
                 <occupation>Russian diplomat; ambassador to Bulgaria, 1897-1905.</occupation>
               </person>
               <person xml:id="person119">
@@ -1199,7 +1198,7 @@
                 </persName>
                 <birth><date when-iso="1845-03-22">1845-03-22</date></birth>
                 <death><date when-iso="1915-09-03">1915-09-03</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q87049</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q87049</idno>
                 <occupation>Archbishop of Olomouc, 1893-1904.</occupation>
               </person>
               <person xml:id="person121">
@@ -1209,7 +1208,7 @@
                 </persName>
                 <birth><date when-iso="1841-10-07">1841-10-07</date></birth>
                 <death><date when-iso="1921-03-01">1921-03-01</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q283255</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q283255</idno>
                 <occupation>Last monarch of Montenegro. Prince (1860-1910) and king (1910-1918).</occupation>
               </person>
               <person xml:id="person122">
@@ -1219,7 +1218,7 @@
                 </persName>
                 <birth><date when-iso="1884-03-06">1884-03-06</date></birth>
                 <death><date when-iso="1976-04-25">1976-04-25</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q23900899</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q23900899</idno>
                 <occupation>Banker and art collector. Member of the Rothschild family, Austrian branch.</occupation>
               </person>
               <person xml:id="person123">
@@ -1229,7 +1228,7 @@
                 </persName>
                 <birth><date when-iso="1844-08-29">1844-08-29</date></birth>
                 <death><date when-iso="1911-02-11">1911-02-11</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2638701</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2638701</idno>
                 <occupation>Banker and art collector. Member of the Rothschild family, Austrian branch.</occupation>
               </person>
               <person xml:id="person124">
@@ -1239,7 +1238,7 @@
                 </persName>
                 <birth><date when-iso="1844-08-29">1848-03-15</date></birth>
                 <death><date when-iso="1911-02-11">1915-02-19</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1360419</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1360419</idno>
                 <occupation>Austrian politician and founder of the antisemitic "Deutsches Volksblatt".</occupation>
               </person>
               <person xml:id="person125">
@@ -1249,7 +1248,7 @@
                 </persName>
                 <birth><date when-iso="1844-08-29">1848-03-15</date></birth>
                 <death><date when-iso="1911-02-11">1915-02-19</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q522120</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q522120</idno>
                 <occupation>Austrian politician; finance minister of Austria-Hungary, 1903-1912.</occupation>
               </person>
               <person xml:id="person126">
@@ -1259,7 +1258,7 @@
                 </persName>
                 <birth><date when-iso="1839-07-08">1839-07-08</date></birth>
                 <death><date when-iso="1937-05-23">1937-05-23</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q160278</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q160278</idno>
                 <occupation>U.S.-American business magnate; one of the wealthiest people in modern history.</occupation>
               </person>
               <person xml:id="person127">
@@ -1269,7 +1268,7 @@
                 </persName>
                 <birth><date when-iso="2">1837-04-17</date></birth>
                 <death><date when-iso="19">1913-03-31</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q54168</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q54168</idno>
                 <occupation>U.S.-American financier and investment banker.</occupation>
               </person>
               <person xml:id="person128">
@@ -1279,7 +1278,7 @@
                 </persName>
                 <birth><date when-iso="1843-09-29">1843-09-29</date></birth>
                 <death><date when-iso="1882-07-07">1882-07-07</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q57173</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q57173</idno>
                 <occupation>Russian general in the Russo-Turkish war.</occupation>
               </person>
               <person xml:id="person129">
@@ -1289,7 +1288,7 @@
                 </persName>
                 <birth><date when-iso="1831-10-18">1831-10-18</date></birth>
                 <death><date when-iso="1888-06-15">1888-06-15</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q58600</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q58600</idno>
                 <occupation>German Emperor Frederick III and King of Prussia, March to June 1888.</occupation>
               </person>
               <person xml:id="person130">
@@ -1305,7 +1304,7 @@
                 </persName>
                 <birth><date when-iso="1838-04-12">1838-04-12</date></birth>
                 <death><date when-iso="1919-04-02">1919-04-02</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1731850</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1731850</idno>
                 <occupation>German watchmaker, built astronomical clock.</occupation>
               </person>
               <person xml:id="person132">
@@ -1315,7 +1314,7 @@
                 </persName>
                 <birth><date when-iso="-0308">308 BCE</date></birth>
                 <death><date when-iso="-0215">215 BCE</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q313675</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q313675</idno>
                 <occupation>Ruler of Syracuse, Greek Sicily, 275-215 BCE.</occupation>
               </person>
               <person xml:id="person133">
@@ -1325,7 +1324,7 @@
                 </persName>
                 <birth><date when-iso="-0308">308 BCE</date></birth>
                 <death><date when-iso="-0246-01-28">246-01-28 BCE</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q39576</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q39576</idno>
                 <occupation>Pharaoh of Ptolemaic Egypt, 284-246 BCE.</occupation>
               </person>
               <person xml:id="person134">
@@ -1362,7 +1361,7 @@
                 </persName>
                 <birth><date when-iso="1876-07-10">1876-07-10</date></birth>
                 <death><date when-iso="1928-01-09">1928-01-09</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q12032979</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q12032979</idno>
                 <occupation>Bohemian cobbler. Victim of an antisemitic miscarrige of justice, falsely accused of killing a Christian girl as a blood libel.</occupation>
               </person>
               <person xml:id="person138">
@@ -1408,7 +1407,7 @@
                 </persName>
                 <birth><date when-iso="1849-07-22">1849-07-22</date></birth>
                 <death><date when-iso="1909-11-24">1909-11-24</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2418568</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2418568</idno>
                 <occupation>Austrian entrepreneur.</occupation>
               </person>
               <person xml:id="person143">
@@ -1436,7 +1435,7 @@
                 </persName>
                 <birth><date when-iso="1849-01-08">1849-01-08</date></birth>
                 <death><date when-iso="1904-04-13">1904-04-13</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q315847</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q315847</idno>
                 <occupation>Russian admiral. Fought in Russo-Turkish (1877-1878) war as captain and in the Russo-Japanese war (1904-1905) as vice-admiral.</occupation>
               </person>
               <person xml:id="person146">
@@ -1446,7 +1445,7 @@
                 </persName>
                 <birth><date notBefore="-2167" notAfter="-1792">Between 2167 BCE and 1792 BCE</date></birth>
                 <death><date notBefore="-2050" notAfter="-1638">Between 2050 BCE and 1638 BCE</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q9181</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q9181</idno>
                 <occupation>Hebrew patriarch. Founding Father of the relationship between God and Jews.</occupation>
               </person>
               <person xml:id="person147">
@@ -1456,7 +1455,7 @@
                 </persName>
                 <birth><date when-iso="-1851">1851 BCE</date></birth>
                 <death><date when-iso="-1851">1671 BCE</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q522120</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q522120</idno>
                 <occupation>One of the three patriarchs of Israelites. Son of Abraham, father of Jacob and Esau.</occupation>
               </person>
               <person xml:id="person148">
@@ -1466,7 +1465,7 @@
                 </persName>
                 <birth><date when-iso="-1791">1791 BCE</date></birth>
                 <death><date when-iso="-1644">1644 BCE</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q289957</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q289957</idno>
                 <occupation>Forefather of Israelites. Son of Isaac, grandson of Abraham.</occupation>
               </person>
               <person xml:id="person149">
@@ -1485,7 +1484,7 @@
                 </persName>
                 <birth><date when-iso="1843">1843</date></birth>
                 <death><date when-iso="1929">1929</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q5362059</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q5362059</idno>
                 <occupation>Lithuanian-Belarusian rabbi. Leading rabbinic authoritiy of Litvak.</occupation>
               </person>
               <person xml:id="person151">
@@ -1495,7 +1494,7 @@
                 </persName>
                 <birth><date when-iso="1841">1841</date></birth>
                 <death><date when-iso="1910">1910</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2903915</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2903915</idno>
                 <occupation>Lithuanian rabbi.</occupation>
               </person>
               <person xml:id="person152">
@@ -1505,7 +1504,7 @@
                 </persName>
                 <birth><date when-iso="1842">1842</date></birth>
                 <death><date when-iso="1905-02-08">1905-02-08</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q5362056</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q5362056</idno>
                 <occupation>Lithuanian Rabbi.</occupation>
               </person>
               <person xml:id="person153">
@@ -1560,7 +1559,7 @@
                 </persName>
                 <birth><date when-iso="1847-11-06">1847-11-06</date></birth>
                 <death><date when-iso="1935-09-09">1935-09-09</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q5528373</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q5528373</idno>
                 <occupation>American Rabbi.</occupation>
               </person>
               <person xml:id="person159">
@@ -1588,7 +1587,7 @@
                 </persName>
                 <birth><date when-iso="1832-01-07">1832-01-07</date></birth>
                 <death><date when-iso="1912-09-24">1912-09-24</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2898049</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2898049</idno>
                 <occupation>Rabbi of Valozhyn, Moscow, and Jerusalem.</occupation>
               </person>
               <person xml:id="person162">
@@ -1607,7 +1606,7 @@
                 </persName>
                 <birth><date when-iso="1829-01-24">1829-01-24</date></birth>
                 <death><date when-iso="1908-02-24">1908-02-24</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1686102</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1686102</idno>
                 <occupation>Lithuanian rabbi.</occupation>
               </person>
               <person xml:id="person164">
@@ -1617,7 +1616,7 @@
                 </persName>
                 <birth><date when-iso="1837">1837</date></birth>
                 <death><date when-iso="1907">1907</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q8053892</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q8053892</idno>
                 <occupation>Russian rabbi.</occupation>
               </person>
               <person xml:id="person165">
@@ -1636,7 +1635,7 @@
                 </persName>
                 <birth><date when-iso="1846-09-01">1846-09-01</date></birth>
                 <death><date when-iso="1917-06-11">1917-06-11</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q7023320</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q7023320</idno>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person167">
@@ -1655,7 +1654,7 @@
                 </persName>
                 <birth><date when-iso="1847-04-16">1847-04-16</date></birth>
                 <death><date when-iso="1905-01-11">1905-01-11</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2891454</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2891454</idno>
                 <occupation>Rabbi.</occupation>
               </person>
               <person xml:id="person169">
@@ -1674,7 +1673,7 @@
                 </persName>
                 <birth><date when-iso="1866-03-07">1866-03-07</date></birth>
                 <death><date when-iso="1933-11-28">1933-11-28</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q6916131</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q6916131</idno>
                 <occupation>Lithuanian-Palestinia rabbi.</occupation>
               </person>
               <person xml:id="person171">
@@ -1709,7 +1708,7 @@
                   <forename>Zvi Hirsch</forename>
                   <surname>Broyda</surname>
                 </persName>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q128259029</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q128259029</idno>
                 <occupation>Lithuanian rabbi.</occupation>
               </person>
               <person xml:id="person175">
@@ -1719,7 +1718,7 @@
                 </persName>
                 <birth><date when-iso="1837">1837</date></birth>
                 <death><date when-iso="1921">1921</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2899417</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2899417</idno>
                 <occupation>Belarusian rabbi.</occupation>
               </person>
               <person xml:id="person176">
@@ -1774,7 +1773,7 @@
                 </persName>
                 <birth><date when-iso="1853-03-25">1853-03-25</date></birth>
                 <death><date when-iso="1918-07-03">1918-07-30</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q2637350</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2637350</idno>
                 <occupation>Belarusian rabbi.</occupation>
               </person>
               <person xml:id="person182">
@@ -1784,7 +1783,7 @@
                 </persName>
                 <birth><date when-iso="1863-08-24">1863-08-24</date></birth>
                 <death><date when-iso="1940-08-09">1940-08-09</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q543723</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q543723</idno>
                 <occupation>Lithuanian rabbi.</occupation>
               </person>
               <person xml:id="person183">
@@ -1830,7 +1829,7 @@
                 </persName>
                 <birth><date when-iso="1838-09-19">1838-09-19</date></birth>
                 <death><date when-iso="1917-12-18">1917-12-18</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1063595</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1063595</idno>
                 <occupation>French military officer, deputy chief of staff during the trials against Dreyfus.</occupation>
               </person>
               <person xml:id="person188">
@@ -1858,7 +1857,7 @@
                 </persName>
                 <birth><date when-iso="1840-12-12">1840-12-12</date></birth>
                 <death><date when-iso="1919-09-17">1919-09-17</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q71853</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q71853</idno>
                 <occupation>German economist, known for his contribution to transportation.</occupation>
               </person>
               <person xml:id="person191">
@@ -1868,7 +1867,7 @@
                 </persName>
                 <birth><date when-iso="1867-08-09">1867-08-09</date></birth>
                 <death><date when-iso="1949-02-19">1949-02-19</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1635398</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1635398</idno>
                 <occupation>German social democratic politician.</occupation>
               </person>
               <person xml:id="person192">
@@ -1878,7 +1877,7 @@
                 </persName>
                 <birth><date when-iso="1834-09-30">1834-09-30</date></birth>
                 <death><date when-iso="1895-07-24">1895-07-24</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q89596093</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q89596093</idno>
                 <occupation>German anthropologist and doctor, researching craniometry.</occupation>
               </person>
               <person xml:id="person193">
@@ -1888,7 +1887,7 @@
                 </persName>
                 <birth><date when-iso="1821-03-17"></date></birth>
                 <death><date when-iso="1864-05-21"></date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q7781630</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q7781630</idno>
                 <occupation>German psychologist and anthropologist.</occupation>
               </person>
               <person xml:id="person194">
@@ -1898,7 +1897,7 @@
                 </persName>
                 <birth><date when-iso="1844-12-18">1844-12-18</date></birth>
                 <death><date when-iso="1931-09-09">1931-09-09</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q62830</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q62830</idno>
                 <occupation>German national economist and social reformer.</occupation>
               </person>
               <person xml:id="person195">
@@ -1908,7 +1907,7 @@
                 </persName>
                 <birth><date when-iso="1846">1846</date></birth>
                 <death><date when-iso="1922">1922</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q94917980</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q94917980</idno>
                 <occupation>German city planner.</occupation>
               </person>
               <person xml:id="person196">
@@ -1918,7 +1917,7 @@
                 </persName>
                 <birth><date when-iso="1841-06-08">1841-06-08</date></birth>
                 <death><date when-iso="1910-02-01">1910-02-01</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q73975</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q73975</idno>
                 <occupation>German author, neo-liberal politician.</occupation>
               </person>
               <person xml:id="person197">
@@ -1928,7 +1927,7 @@
                 </persName>
                 <birth><date when-iso="1843-04-02">1843-04-02</date></birth>
                 <death><date when-iso="1909-08-13">1909-08-13</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q322021</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q322021</idno>
                 <occupation>German pathologist.</occupation>
               </person>
               <person xml:id="person198">
@@ -1938,7 +1937,7 @@
                 </persName>
                 <birth><date when-iso="1820">1820</date></birth>
                 <death><date when-iso="1897">1897</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q5341737</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q5341737</idno>
                 <occupation>British doctor.</occupation>
               </person>
               <person xml:id="person199">
@@ -1948,7 +1947,7 @@
                 </persName>
                 <birth><date when-iso="1837-06-02">1837-06-02</date></birth>
                 <death><date when-iso="1882-06-03">1882-06-03</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q5040532</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q5040532</idno>
                 <occupation>German gynaecology, medical researcher.</occupation>
               </person>
               <person xml:id="person200">
@@ -1958,7 +1957,7 @@
                 </persName>
                 <birth><date when-iso="-70-10-15">70-10-15 BCE</date></birth>
                 <death><date when-iso="-19-09-21">19-09-21 BCE</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1398</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1398</idno>
                 <occupation>Roman poet.</occupation>
               </person>
               <person xml:id="person201">
@@ -1968,7 +1967,7 @@
                 </persName>
                 <birth><date when-iso="1818-12-03">1818-12-03</date></birth>
                 <death><date when-iso="1901-02-10">1901-02-10</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q44993</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q44993</idno>
                 <occupation>German chemist and hygienist.</occupation>
               </person>
               <person xml:id="person202">
@@ -1978,7 +1977,7 @@
                 </persName>
                 <birth><date when-iso="1830-11-04">1830-11-04</date></birth>
                 <death><date when-iso="1911-12-20">1911-12-20</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1894102</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1894102</idno>
                 <occupation>French anthropologist.</occupation>
               </person>
               <person xml:id="person203">
@@ -1997,7 +1996,7 @@
                 </persName>
                 <birth><date when-iso="1819-05-24">1819-05-24</date></birth>
                 <death><date when-iso="1901-01-22">1901-01-22</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q522120</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q522120</idno>
                 <occupation>Queen Victoria of England, 1837-1901</occupation>
               </person>
               <person xml:id="person205">
@@ -2025,7 +2024,7 @@
                 </persName>
                 <birth><date when-iso="1579">1579</date></birth>
                 <death><date when-iso="1654-09-07">1654-09-07</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q66439</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q66439</idno>
                 <occupation>Czech rabbi.</occupation>
               </person>
               <person xml:id="person208">
@@ -2044,7 +2043,7 @@
                 </persName>
                 <birth><date when-iso="1578-07-09">1578-07-09</date></birth>
                 <death><date when-iso="1637-02-15">1637-02-15</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q150599</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q150599</idno>
                 <occupation>Holy Roman Emperor, 1619 - 1637</occupation>
               </person>
               <person xml:id="person210">
@@ -2054,7 +2053,7 @@
                 </persName>
                 <birth><date when-iso="1452-03-10">1452-03-10</date></birth>
                 <death><date when-iso="15-01-23">1516-01-15</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q12860</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q12860</idno>
                 <occupation>King of Aragon, Sicily, Naples, and Valencia</occupation>
               </person>
               <person xml:id="person211">
@@ -2064,7 +2063,7 @@
                 </persName>
                 <birth><date when-iso="1451-04-22">1451-04-22</date></birth>
                 <death><date when-iso="1504-11-26">1504-11-26</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q45859</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q45859</idno>
                 <occupation>First queen of a dynastically-united Spain, 1479-1504.</occupation>
               </person>
               <person xml:id="person212">
@@ -2074,7 +2073,7 @@
                 </persName>
                 <birth><date when-iso="1420-10-14">1420-10-14</date></birth>
                 <death><date when-iso="1498-09-16">1498-09-16</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q210735</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q210735</idno>
                 <occupation>Grand Inquisitor of Spain.</occupation>
               </person>
               <person xml:id="person213">
@@ -2084,7 +2083,7 @@
                 </persName>
                 <birth><date when-iso="1437">1437</date></birth>
                 <death><date when-iso="1508-09-23">1508-09-23</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q319902</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q319902</idno>
                 <occupation>Portuguese-Spanish Jewish businessman, exegete and philosopher.</occupation>
               </person>
               <person xml:id="person214">
@@ -2094,7 +2093,7 @@
                 </persName>
                 <birth><date when-iso="1412">1412</date></birth>
                 <death><date when-iso="1496">1496</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q330594</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q330594</idno>
                 <occupation>Sephardi court rabbi of Castile, royal tax-farmer-in-chief, and politician.</occupation>
               </person>
               <person xml:id="person215">
@@ -2104,7 +2103,7 @@
                 </persName>
                 <birth><date when-iso="1460">1460</date></birth>
                 <death><date when-iso="1535">1535</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q467062</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q467062</idno>
                 <occupation>Portuguese Jewish philosopher, physician and poet.</occupation>
               </person>
               <person xml:id="person216">
@@ -2123,7 +2122,7 @@
                 </persName>
                 <birth><date when-iso="1460">1460</date></birth>
                 <death><date when-iso="1554">1554</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q1290831</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1290831</idno>
                 <occupation>Spanish Jewish historian and writer.</occupation>
               </person>
               <person xml:id="person218">
@@ -2142,7 +2141,7 @@
                 </persName>
                 <birth><date when-iso="-1562">1562 BCE</date></birth>
                 <death><date when-iso="-1452">1452 BCE</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q522120</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q522120</idno>
                 <occupation>Biblical figure in Genesis.</occupation>
               </person>
               <person xml:id="person220">
@@ -2152,7 +2151,7 @@
                 </persName>
                 <birth><date>Unknown</date></birth>
                 <death><date>Unknown</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q7234956</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q7234956</idno>
                 <occupation>Priest of ancient Egypt in Genesis.</occupation>
               </person>
               <person xml:id="person221">
@@ -2189,7 +2188,7 @@
                 </persName>
                 <birth><date when-iso="1819-10-17">1819-10-17</date></birth>
                 <death><date when-iso="1904-05-30">1904-05-30</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q61444</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q61444</idno>
                 <occupation>Grand Duke of Mecklenburg-Strelitz.</occupation>
               </person>
               <person xml:id="person225">
@@ -2199,7 +2198,7 @@
                 </persName>
                 <birth><date when-iso="1872-06-03">1872-06-03</date></birth>
                 <death><date when-iso="1919-02-20">1919-02-20</date></death>
-                <idno type="URL" subtype="Wikidata">https://www.wikidata.org/wiki/Q334869</idno>
+                <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q334869</idno>
                 <occupation>Emir of Afghanistan, 1901-1919.</occupation>
               </person>
               <person xml:id="person226">

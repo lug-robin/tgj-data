@@ -108,7 +108,7 @@
             <table rows="4" cols="2">
                <head>The Geniune Jew costs</head>
                <row role="data">
-                  <cell role="data">In <rs type="place"><ref source="place001">Austria-Hungary</ref></rs></cell>
+                  <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
                   <cell role="data">Abroad</cell>
                </row>
                <row role="data">
@@ -124,11 +124,11 @@
                   <cell role="data">For a quarter year - 5.50 "</cell>
                </row>
             </table>
-            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-03-29"> March 29th 1904</date></p>
+            <p><placeName><ref source="place002">Lviv</ref></placeName>, <date calendar="Hebrew" when-custom="5664-01-13"><foreign xml:lang="he">Yom Shlishi, <ref source="https://www.wikidata.org/wiki/Q1586449">Shemini</ref></foreign> 5664</date></p>
             <cb/>
             <p>
-               <lb/>Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place">Sonnengasse 27</rs></foreign>
-               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign xml:lang="de"><rs type="place">Lemberg</rs>, <date when-iso="1904-03-11">den 29.März 1904</date></foreign>.</p>
+               <lb/>Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName>Sonnengasse 27</placeName></foreign>
+               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign xml:lang="de"><placeName>Lemberg</placeName>, <date when-iso="1904-03-29">den 29.März 1904</date></foreign>.</p>
          </div>
          <div n="2">
             <head><hi rend="bold">To our readers.</hi></head>
@@ -158,9 +158,9 @@
            
          </div>
          <div type="article" n="3">
-            <head><hi rend="bold">Antisemitic pogroms in <rs type="place"><ref source="place078">Greece</ref></rs><lb/>(Telegrams)</hi></head>
+            <head><hi rend="bold">Antisemitic pogroms in <placeName><ref source="place078">Greece</ref></placeName><lb/>(Telegrams)</hi></head>
             <p>
-               <rs type="place"><ref source="place232">Athens</ref></rs>. A Jew and a Greek had a dispute in the port city <rs type="place"><ref source="place233"><hi rend="italic">Kalamata</hi></ref></rs> which turned into a brawl in which the Greek was 
+               <placeName><ref source="place232">Athens</ref></placeName>. A Jew and a Greek had a dispute in the port city <placeName><ref source="place233"><hi rend="italic">Kalamata</hi></ref></placeName> which turned into a brawl in which the Greek was 
                killed. Several antisemites immediately started to yell that the Jews killed a Christian to use his blood for matzo. The people gathered in front of the house where the Jew lived and threw stones at it. The Jews lived in great fear, they 
                closed their doors and windows and hid in the attics and basements. The military needed to intervene and occupy the Jewish quarter. The mob was agitated and incited. The antisemitic papers stir up hatred against Jews and excesses are feared 
                to start in other Greek cities. 
@@ -185,323 +185,323 @@
                a mental relationship with slavery, we do everything according to other people, we make ourselves dependent on them. 
             </p>
             <p>
-               Even the pious Jews, our fearful and ultra-Orthodox brothers especially in <rs type="place"><ref source="place006">Galicia</ref></rs> when they ask themselves: “What has changed?” Why is our religious state here neglected like that, more than in other countries? - the explicit reply to that is “We are slaves” as well - We are 
+               Even the pious Jews, our fearful and ultra-Orthodox brothers especially in <placeName><ref source="place006">Galicia</ref></placeName> when they ask themselves: “What has changed?” Why is our religious state here neglected like that, more than in other countries? - the explicit reply to that is “We are slaves” as well - We are 
                slaves, we made ourselves dependent on these so-called “progressives”, they are our providers, our leaders, our representatives. We have great respect for them and do not dare to demand our religious relationships to become better.
             </p>
             <p>
-               The exodus from <rs type="place"><ref source="place013">Egypt</ref></rs> is one of the most important incidents in Jewish history. Countless times the holy Torah was bidden: “You shall commemorate the day you have left <rs type="place"><ref source="place013">Egypt</ref></rs> as long as you live”. And as a matter of fact this 
-               moment is very important for us. When we remember the exodus from <rs type="place"><ref source="place013">Egypt</ref></rs>, when we remember this important event, when we remember how God led us out of slavery into freedom, from the spiritual darkness into spiritual freedom, then this shall be an encouragement. We also shall 
-               strive to free ourselves from spiritual slavery. We shall be, like our ancestors in <rs type="place"><ref source="place013">Egypt</ref></rs>, worthy of salvation. Like our scholars say: “With three things, our ancestors were freed, because they have not changed their language, their names<cb/> and their clothes. We also have 
+               The exodus from <placeName><ref source="place013">Egypt</ref></placeName> is one of the most important incidents in Jewish history. Countless times the holy Torah was bidden: “You shall commemorate the day you have left <placeName><ref source="place013">Egypt</ref></placeName> as long as you live”. And as a matter of fact this 
+               moment is very important for us. When we remember the exodus from <placeName><ref source="place013">Egypt</ref></placeName>, when we remember this important event, when we remember how God led us out of slavery into freedom, from the spiritual darkness into spiritual freedom, then this shall be an encouragement. We also shall 
+               strive to free ourselves from spiritual slavery. We shall be, like our ancestors in <placeName><ref source="place013">Egypt</ref></placeName>, worthy of salvation. Like our scholars say: “With three things, our ancestors were freed, because they have not changed their language, their names<cb/> and their clothes. We also have 
                to adhere to Jewishness, with the name Jew, not ashamed of our rites, then we will be worthy. We shall be freed from spiritual and physical slavery and we will speak out against it with all our hearts. We <hi rend="italic">were</hi> (We <hi rend="italic">have been</hi> enslaved), but today we are free people!
               </p>
          </div>
          <div n="5">
-              <head><hi rend="bold"><rs type="place"><ref source="place094">America</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs>.</hi></head>
+              <head><hi rend="bold"><placeName><ref source="place094">America</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName>.</hi></head>
             <p>
-               The Russian government and the Russian newspapers are astonished as to why the American people sympathise with <rs type="place"><ref source="place019">Japan</ref></rs> instead of with <rs type="place"><ref source="place014">Russia</ref></rs> in the current war. The Russian leaders put up an air of innocence as if they don’t know 
+               The Russian government and the Russian newspapers are astonished as to why the American people sympathise with <placeName><ref source="place019">Japan</ref></placeName> instead of with <placeName><ref source="place014">Russia</ref></placeName> in the current war. The Russian leaders put up an air of innocence as if they don’t know 
                what all of this is about and then sic their citizens against the Americans. 
             </p>
             <p>
-               It is true that relations between <rs type="place"><ref source="place014">Russia</ref></rs> and the <rs type="place"><ref source="place094">US</ref></rs> were good, but diplomatic relations and the folk’s outlook are two different things. One can be in good business relations if interests demand it, but that doesn’t mean that one 
-               doesn’t know that the other is a mean fellow and hates him. The American government is still neutral and will probably stay that way. However, the American people know <rs type="place"><ref source="place014">Russia</ref></rs> and whoever knows <rs type="place"><ref source="place014">Russia</ref></rs> cannot sympathise. 
+               It is true that relations between <placeName><ref source="place014">Russia</ref></placeName> and the <placeName><ref source="place094">US</ref></placeName> were good, but diplomatic relations and the folk’s outlook are two different things. One can be in good business relations if interests demand it, but that doesn’t mean that one 
+               doesn’t know that the other is a mean fellow and hates him. The American government is still neutral and will probably stay that way. However, the American people know <placeName><ref source="place014">Russia</ref></placeName> and whoever knows <placeName><ref source="place014">Russia</ref></placeName> cannot sympathise. 
             </p>
             <p>
-               The people leading the Russian government and newspaper want to talk the citizens into believing that they are being hated on by the Americans for no reason, but they know exactly why. The <rs type="place"><ref source="place094">US</ref></rs> cannot sympathise with <rs type="place"><ref source="place014">Russia</ref></rs>, only 
-               be against them because it is in our interest that <rs type="place"><ref source="place019">Japan</ref></rs> and not <rs type="place"><ref source="place014">Russia</ref></rs> should win the war. 
+               The people leading the Russian government and newspaper want to talk the citizens into believing that they are being hated on by the Americans for no reason, but they know exactly why. The <placeName><ref source="place094">US</ref></placeName> cannot sympathise with <placeName><ref source="place014">Russia</ref></placeName>, only 
+               be against them because it is in our interest that <placeName><ref source="place019">Japan</ref></placeName> and not <placeName><ref source="place014">Russia</ref></placeName> should win the war. 
             </p>
             <p>
-               When <rs type="place"><ref source="place019">Japan</ref></rs> wanted to take control over <rs type="place"><ref source="place028">Manchuria</ref></rs> after its war with <rs type="place"><ref source="place021">China</ref></rs>, it had the support of the American people because <rs type="place"><ref source="place019">Japan</ref></rs> 
-               promised an open door for all nations. However, <rs type="place"><ref source="place014">Russia</ref></rs> did not let it happen with the excuse of wanting to protect <rs type="place"><ref source="place021">China</ref></rs>’s interests and invaded <rs type="place"><ref source="place028">Manchuria</ref></rs>.
+               When <placeName><ref source="place019">Japan</ref></placeName> wanted to take control over <placeName><ref source="place028">Manchuria</ref></placeName> after its war with <placeName><ref source="place021">China</ref></placeName>, it had the support of the American people because <placeName><ref source="place019">Japan</ref></placeName> 
+               promised an open door for all nations. However, <placeName><ref source="place014">Russia</ref></placeName> did not let it happen with the excuse of wanting to protect <placeName><ref source="place021">China</ref></placeName>’s interests and invaded <placeName><ref source="place028">Manchuria</ref></placeName>.
             </p>
             <p>
-               They said they would “establish order”, promising the <rs type="place"><ref source="place094">USA</ref></rs> to protect its trading interests. However, afterwards it turned out that they tricked us and just wanted <rs type="place"><ref source="place028">Manchuria</ref></rs> for itself. And if the war hadn’t started, 
-               <rs type="place"><ref source="place028">Manchuria</ref></rs> would have stayed in <rs type="place"><ref source="place014">Russia</ref></rs>’s control and all of humanity would have been lost.
+               They said they would “establish order”, promising the <placeName><ref source="place094">USA</ref></placeName> to protect its trading interests. However, afterwards it turned out that they tricked us and just wanted <placeName><ref source="place028">Manchuria</ref></placeName> for itself. And if the war hadn’t started, 
+               <placeName><ref source="place028">Manchuria</ref></placeName> would have stayed in <placeName><ref source="place014">Russia</ref></placeName>’s control and all of humanity would have been lost.
             </p>
             <p>
-               The past three years the <rs type="place"><ref source="place094">USA</ref></rs> demanded <rs type="place"><ref source="place014">Russia</ref></rs> to relinquish its stronghold over <rs type="place"><ref source="place028">Manchuria</ref></rs>. It constantly promised to do so, but never fulfilled it. In <rs type="place"><ref source="place018">St Petersburg</ref></rs> 
-               the demand was answered with “We’ll leave soon”, but then never moved away from <rs type="place"><ref source="place028">Manchuria</ref></rs>. And now it has the audacity to demand <rs type="place"><ref source="place094">America</ref></rs>’s sympathy. 
+               The past three years the <placeName><ref source="place094">USA</ref></placeName> demanded <placeName><ref source="place014">Russia</ref></placeName> to relinquish its stronghold over <placeName><ref source="place028">Manchuria</ref></placeName>. It constantly promised to do so, but never fulfilled it. In <placeName><ref source="place018">St Petersburg</ref></placeName> 
+               the demand was answered with “We’ll leave soon”, but then never moved away from <placeName><ref source="place028">Manchuria</ref></placeName>. And now it has the audacity to demand <placeName><ref source="place094">America</ref></placeName>’s sympathy. 
             </p>
             <p>
-               The American people have understood the situation quite well. Every American citizen in their right mind saw that <rs type="place"><ref source="place014">Russia</ref></rs> lies about just ending trade with the <rs type="place"><ref source="place094">USA</ref></rs> and does so in a foul manner. So why should the American people now sympathise with 
-               <rs type="place"><ref source="place014">Russia</ref></rs>?
+               The American people have understood the situation quite well. Every American citizen in their right mind saw that <placeName><ref source="place014">Russia</ref></placeName> lies about just ending trade with the <placeName><ref source="place094">USA</ref></placeName> and does so in a foul manner. So why should the American people now sympathise with 
+               <placeName><ref source="place014">Russia</ref></placeName>?
             </p>
             <p>
-               It is simply not in the American interests for <rs type="place"><ref source="place014">Russia</ref></rs> to win the war because they will not fulfill their promises. However, there are reasons why
+               It is simply not in the American interests for <placeName><ref source="place014">Russia</ref></placeName> to win the war because they will not fulfill their promises. However, there are reasons why
             </p>
             <p style="text-align:center" rend="bold">[2]</p><pb/>
             <p>
-               the American people are allied with <rs type="place"><ref source="place019">Japan</ref></rs> and against <rs type="place"><ref source="place014">Russia</ref></rs> and those are more important. 
+               the American people are allied with <placeName><ref source="place019">Japan</ref></placeName> and against <placeName><ref source="place014">Russia</ref></placeName> and those are more important. 
             </p>
             <p>
-               The American is a practical person who defends his business interests, but he is also a noble, freedom loving person and as such he cannot sympathise with a dark force like <rs type="place"><ref source="place014">Russia</ref></rs>.
+               The American is a practical person who defends his business interests, but he is also a noble, freedom loving person and as such he cannot sympathise with a dark force like <placeName><ref source="place014">Russia</ref></placeName>.
             </p>
             <p>
                The American folk is one of the first which declared that all people are born equal and cannot be ruled by anyone and such people do not sympathise with a force which suppresses and oppresses 130 million people and exercises all its power to darken the world. 
             </p>
             <p>
-               Not a year has passed since the <rs type="place"><ref source="place094">USA</ref></rs> heard from <rs type="place"><ref source="place014">Russia</ref></rs>’s nefarious actions in <rs type="place"><ref source="place015">Chișinău</ref></rs>. The blood of innocent Jewish women and children touched the American hearts which 
+               Not a year has passed since the <placeName><ref source="place094">USA</ref></placeName> heard from <placeName><ref source="place014">Russia</ref></placeName>’s nefarious actions in <placeName><ref source="place015">Chișinău</ref></placeName>. The blood of innocent Jewish women and children touched the American hearts which 
                led them to sympathise with the innocent Jews. The diplomatic relations permitted the US to take action, but the hearts of the American folk are not bound to a diplomatic seal and turned to hatred against a government which kills innocent people.
             </p>
             <p>
-               What nerve does <rs type="place"><ref source="place014">Russia</ref></rs> have to expect sympathy from the American people?
+               What nerve does <placeName><ref source="place014">Russia</ref></placeName> have to expect sympathy from the American people?
             </p>
             <p>
-               <rs type="place"><ref source="place014">Russia</ref></rs> and the <rs type="place"><ref source="place094">USA</ref></rs>. Those are two countries which are not only stretched across thousands of miles, but also across centuries. <rs type="place"><ref source="place014">Russia</ref></rs> is a country of gloom, the 
-               <rs type="place"><ref source="place094">USA</ref></rs> is a country of freedom. <rs type="place"><ref source="place014">Russia</ref></rs> preaches and practises oppression and slavery while the US practises and defends freedom and love of humanity. 
+               <placeName><ref source="place014">Russia</ref></placeName> and the <placeName><ref source="place094">USA</ref></placeName>. Those are two countries which are not only stretched across thousands of miles, but also across centuries. <placeName><ref source="place014">Russia</ref></placeName> is a country of gloom, the 
+               <placeName><ref source="place094">USA</ref></placeName> is a country of freedom. <placeName><ref source="place014">Russia</ref></placeName> preaches and practises oppression and slavery while the US practises and defends freedom and love of humanity. 
             </p>
             <p>
-               Almost one and a half centuries ago, the <rs type="place"><ref source="place094">USA</ref></rs> established a free republic and <rs type="place"><ref source="place014">Russia</ref></rs> is still sending people to <rs type="place"><ref source="place178">Siberia</ref></rs> who dare to demand a constitution. 
-               <rs type="place"><ref source="place094">America</ref></rs> is the land which promises lightness in every corner of the world while <rs type="place"><ref source="place014">Russia</ref></rs> seeks to cover more countries with its sinister veil and the world shall not see its actions.
+               Almost one and a half centuries ago, the <placeName><ref source="place094">USA</ref></placeName> established a free republic and <placeName><ref source="place014">Russia</ref></placeName> is still sending people to <placeName><ref source="place178">Siberia</ref></placeName> who dare to demand a constitution. 
+               <placeName><ref source="place094">America</ref></placeName> is the land which promises lightness in every corner of the world while <placeName><ref source="place014">Russia</ref></placeName> seeks to cover more countries with its sinister veil and the world shall not see its actions.
             </p>
             <p>
-               The <rs type="place"><ref source="place094">USA</ref></rs> can be associated with <rs type="place"><ref source="place014">Russia</ref></rs> when it comes to trade, but the American people cannot sympathise with <rs type="place"><ref source="place014">Russia</ref></rs> if it wants to take over other countries and 
-               spread its gloom widely. The <rs type="place"><ref source="place094">USA</ref></rs> is a country if civilization and progress and light can never be united with darkness.
+               The <placeName><ref source="place094">USA</ref></placeName> can be associated with <placeName><ref source="place014">Russia</ref></placeName> when it comes to trade, but the American people cannot sympathise with <placeName><ref source="place014">Russia</ref></placeName> if it wants to take over other countries and 
+               spread its gloom widely. The <placeName><ref source="place094">USA</ref></placeName> is a country if civilization and progress and light can never be united with darkness.
             </p>
             <p>
-               <rs type="person">Jew. G.</rs>
+               <persName>Jew. G.</persName>
             </p>  
          </div>
          <div n="6">
             <head><hi rend="bold">Political News.</hi></head>
             <p>
-               <rs type="place"><ref source="place001">Austria-Hungary</ref></rs>. The political situation in <rs type="place"><ref source="place025">Austria</ref></rs> has calmed down again by closing down the Imperial Assembly. Communication between the Germans and the Czechs, which was negotiated the last few days, did not happen, 
+               <placeName><ref source="place001">Austria-Hungary</ref></placeName>. The political situation in <placeName><ref source="place025">Austria</ref></placeName> has calmed down again by closing down the Imperial Assembly. Communication between the Germans and the Czechs, which was negotiated the last few days, did not happen, 
                but there is hope that after the holidays, the discussion will continue and a conclusion will be reached. - In the Hungarian parliament meanwhile peace and quiet is kept; several important laws have been passed. It seems like everything has become alright already and obstruction will not happen any time soon. - The 
-               former minister president <rs type="person"><ref source="person091">Khuen-Héderváry</ref></rs> who is<cb/> has been appointed minister of the imperial court and has now been elected to a representative in the Imperial Assembly in <rs type="place"><ref source="place115">Timișoara</ref></rs>.
+               former minister president <persName><ref source="person091">Khuen-Héderváry</ref></persName> who is<cb/> has been appointed minister of the imperial court and has now been elected to a representative in the Imperial Assembly in <placeName><ref source="place115">Timișoara</ref></placeName>.
             </p>
             <p>
-               <rs type="place"><ref source="place010">Germany</ref></rs>. The <rs type="person"><ref source="person010">German emperor</ref></rs> who is travelling in the <rs type="place"><ref source="place072">Mediterranean</ref></rs> for relaxation met with the <rs type="person"><ref source="person047">King</ref></rs> of 
-               <rs type="place"><ref source="place040">Italy</ref></rs> in <rs type="place"><ref source="place293">Naples</ref></rs> on Saturday. The <rs type="person"><ref source="person047">Italian King</ref></rs> paid the <rs type="person"><ref source="person010">emperor</ref></rs> a visit on his ship “Hohenzollern” where 
-               lunch was served in his honour during which both rulers gave a toast which is of great political importance. Both mentioned the importance of the “<ref source="https://www.wikidata.org/wiki/Q153867">Triple Alliance</ref>” as a keeper of world peace and included the <rs type="person"><ref source="person003">Austrian emperor</ref></rs> 
-               as the third party in this league. - It is well-known that when they came together last year, both rulers did not mention <rs type="place"><ref source="place025">Austria</ref></rs> which caused a stir. This was used as proof that relations between <rs type="place"><ref source="place025">Austria</ref></rs> 
-               and <rs type="place"><ref source="place040">Italy</ref></rs> are not good. Now it seems that it has improved. 
+               <placeName><ref source="place010">Germany</ref></placeName>. The <persName><ref source="person010">German emperor</ref></persName> who is travelling in the <placeName><ref source="place072">Mediterranean</ref></placeName> for relaxation met with the <persName><ref source="person047">King</ref></persName> of 
+               <placeName><ref source="place040">Italy</ref></placeName> in <placeName><ref source="place293">Naples</ref></placeName> on Saturday. The <persName><ref source="person047">Italian King</ref></persName> paid the <persName><ref source="person010">emperor</ref></persName> a visit on his ship “Hohenzollern” where 
+               lunch was served in his honour during which both rulers gave a toast which is of great political importance. Both mentioned the importance of the “<ref source="https://www.wikidata.org/wiki/Q153867">Triple Alliance</ref>” as a keeper of world peace and included the <persName><ref source="person003">Austrian emperor</ref></persName> 
+               as the third party in this league. - It is well-known that when they came together last year, both rulers did not mention <placeName><ref source="place025">Austria</ref></placeName> which caused a stir. This was used as proof that relations between <placeName><ref source="place025">Austria</ref></placeName> 
+               and <placeName><ref source="place040">Italy</ref></placeName> are not good. Now it seems that it has improved. 
             </p>
             <p>
-               <rs type="place"><ref source="place045">France</ref></rs>. Important political changes are set up in <rs type="place"><ref source="place045">France</ref></rs>. <rs type="place"><ref source="place045">France</ref></rs> negotiates with <rs type="place"><ref source="place011">England</ref></rs> about forming an alliance 
-               according to which <rs type="place"><ref source="place011">England</ref></rs> shall stay in <rs type="place"><ref source="place013">Egypt</ref></rs> and <rs type="place"><ref source="place045">France</ref></rs> shall occupy Morocco again. If they do not reach a conclusion, <rs type="place"><ref source="place045">France</ref></rs> 
-               will not see it necessary to be aligned with <rs type="place"><ref source="place014">Russia</ref></rs> and the <ref source="https://www.wikidata.org/wiki/Q243799">Franco-Russian Alliance</ref> will be dissolved. This is well-known in <rs type="place"><ref source="place014">Russia</ref></rs>. Hence why worry about the 
-               negotiation between <rs type="place"><ref source="place045">France</ref></rs> and <rs type="place"><ref source="place011">England</ref></rs> prevails. 
+               <placeName><ref source="place045">France</ref></placeName>. Important political changes are set up in <placeName><ref source="place045">France</ref></placeName>. <placeName><ref source="place045">France</ref></placeName> negotiates with <placeName><ref source="place011">England</ref></placeName> about forming an alliance 
+               according to which <placeName><ref source="place011">England</ref></placeName> shall stay in <placeName><ref source="place013">Egypt</ref></placeName> and <placeName><ref source="place045">France</ref></placeName> shall occupy Morocco again. If they do not reach a conclusion, <placeName><ref source="place045">France</ref></placeName> 
+               will not see it necessary to be aligned with <placeName><ref source="place014">Russia</ref></placeName> and the <ref source="https://www.wikidata.org/wiki/Q243799">Franco-Russian Alliance</ref> will be dissolved. This is well-known in <placeName><ref source="place014">Russia</ref></placeName>. Hence why worry about the 
+               negotiation between <placeName><ref source="place045">France</ref></placeName> and <placeName><ref source="place011">England</ref></placeName> prevails. 
             </p>
             <p>
-               <rs type="place"><ref source="place075">Turkey</ref></rs>. The <rs type="place"><ref source="place077">Balkan</ref></rs> situation has not been solved yet. The negotiations between <rs type="place"><ref source="place075">Turkey</ref></rs> and <rs type="place"><ref source="place112">Bulgaria</ref></rs> concerning the 
-               establishment of order in <rs type="place"><ref source="place081">Macedonia</ref></rs> are still going on and it seems that the sultan is causing more and more trouble to postpone the resolution. 
+               <placeName><ref source="place075">Turkey</ref></placeName>. The <placeName><ref source="place077">Balkan</ref></placeName> situation has not been solved yet. The negotiations between <placeName><ref source="place075">Turkey</ref></placeName> and <placeName><ref source="place112">Bulgaria</ref></placeName> concerning the 
+               establishment of order in <placeName><ref source="place081">Macedonia</ref></placeName> are still going on and it seems that the sultan is causing more and more trouble to postpone the resolution. 
             </p>
          </div>
          <div n="7">
             <head><hi rend="bold">Telegrams.<lb/>
                The war<lb/>
-               between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs>.</hi></head>
+               between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName>.</hi></head>
             <p>
-               <rs type="place"><ref source="place156">London</ref></rs>. The Russian government grows more afraid of the Chinese and suspects a secret alliance between them and <rs type="place"><ref source="place019">Japan</ref></rs>. Admiral <rs type="person"><ref source="person041">Alekseyev</ref></rs> demanded of the government to 
-               expel the Chinese officials from <rs type="place"><ref source="place028">Manchuria</ref></rs>. Only then it will be possible to establish order.
+               <placeName><ref source="place156">London</ref></placeName>. The Russian government grows more afraid of the Chinese and suspects a secret alliance between them and <placeName><ref source="place019">Japan</ref></placeName>. Admiral <persName><ref source="person041">Alekseyev</ref></persName> demanded of the government to 
+               expel the Chinese officials from <placeName><ref source="place028">Manchuria</ref></placeName>. Only then it will be possible to establish order.
             </p>
             <p>
-               <rs type="place"><ref source="place156">London</ref></rs>. The last bombardment on <rs type="place"><ref source="place083">Port Arthur</ref></rs> was undertaken by the Japanese to supply some merchant ships in the harbour so the Russian ships could not escape to secondly drop off the Japanese military close to 
-               <rs type="place"><ref source="place083">Port Arthur</ref></rs>. The second task was fulfilled while the Russian ships were occupied. While they fought back against the Japanese attacks, a large part of the Japanese military had been dropped off at land. The first task did not succeed because the trading vessels were sunk before 
+               <placeName><ref source="place156">London</ref></placeName>. The last bombardment on <placeName><ref source="place083">Port Arthur</ref></placeName> was undertaken by the Japanese to supply some merchant ships in the harbour so the Russian ships could not escape to secondly drop off the Japanese military close to 
+               <placeName><ref source="place083">Port Arthur</ref></placeName>. The second task was fulfilled while the Russian ships were occupied. While they fought back against the Japanese attacks, a large part of the Japanese military had been dropped off at land. The first task did not succeed because the trading vessels were sunk before 
                the harbour as to why the Russian battleships can move in and out at their will.
             </p>
             <p style="text-align:center" rend="bold">[3]</p><pb/>
             <p>
-               <rs type="place"><ref source="place018">St Petersburg</ref></rs>. The donations for new Russian battleships amount to almost 3.5 million ruble until now (this is enough for 1/10 of a ship!).
+               <placeName><ref source="place018">St Petersburg</ref></placeName>. The donations for new Russian battleships amount to almost 3.5 million ruble until now (this is enough for 1/10 of a ship!).
             </p>
             <p>
-               <rs type="place"><ref source="place193">Beijing</ref></rs>. The Russians claim that the Japanese want to invade <rs type="place"><ref source="place021">China</ref></rs> and march into <rs type="place"><ref source="place028">Manchuria</ref></rs> from there, this would be a shortcut compared to marching through <rs type="place"><ref source="place022">Korea</ref></rs>.
+               <placeName><ref source="place193">Beijing</ref></placeName>. The Russians claim that the Japanese want to invade <placeName><ref source="place021">China</ref></placeName> and march into <placeName><ref source="place028">Manchuria</ref></placeName> from there, this would be a shortcut compared to marching through <placeName><ref source="place022">Korea</ref></placeName>.
             </p>
             <p>
-               <rs type="place"><ref source="place018">St Petersburg</ref></rs>. The supreme commander of the Russian army, general <rs type="person"><ref source="person068">Kuropaktin</ref></rs> has arrived in <rs type="place"><ref source="place028">Manchuria</ref></rs>, but the war will not commence too soon. <rs type="person"><ref source="person068">Kuropaktin</ref></rs> 
+               <placeName><ref source="place018">St Petersburg</ref></placeName>. The supreme commander of the Russian army, general <persName><ref source="person068">Kuropaktin</ref></persName> has arrived in <placeName><ref source="place028">Manchuria</ref></placeName>, but the war will not commence too soon. <persName><ref source="person068">Kuropaktin</ref></persName> 
                wants to defer until he has amassed a bigger army and until the Japanese will march further into the country (The question stands whether the Japanese will wait that long and not attack earlier, before he is strong enough). 
             </p>
             <p>
-               <rs type="place"><ref source="place018">St Petersburg</ref></rs>. The <rs type="person"><ref source="person042">tsar</ref></rs> is said to proceed to the battleground.
+               <placeName><ref source="place018">St Petersburg</ref></placeName>. The <persName><ref source="person042">tsar</ref></persName> is said to proceed to the battleground.
             </p>
             <p>
-               <rs type="place"><ref source="place095">Paris</ref></rs>. According to <rs type="place"><ref source="place021">China</ref></rs>, large gangs of “<ref source="https://www.wikidata.org/wiki/Q1335146">Boxers</ref>” are gathering there which want to invade <rs type="place"><ref source="place028">Manchuria</ref></rs>. 
+               <placeName><ref source="place095">Paris</ref></placeName>. According to <placeName><ref source="place021">China</ref></placeName>, large gangs of “<ref source="https://www.wikidata.org/wiki/Q1335146">Boxers</ref>” are gathering there which want to invade <placeName><ref source="place028">Manchuria</ref></placeName>. 
             </p>
             <p>
-               <rs type="place"><ref source="place177">Shenyang</ref></rs>. On <date when="1904-03-23">March 23rd</date> the Cossacks clashed with Japanese cavalry and infantry. The Japanese lost one official and six soldiers. The Cossacks retreated with great losses.
+               <placeName><ref source="place177">Shenyang</ref></placeName>. On <date when="1904-03-23">March 23rd</date> the Cossacks clashed with Japanese cavalry and infantry. The Japanese lost one official and six soldiers. The Cossacks retreated with great losses.
             </p>
          </div>
          <div n="8">
             <head><hi rend="bold">News.<lb/>Jewish News.</hi></head>
             <p>
-               (<rs type="place"><ref source="place018">St Petersburg</ref></rs>). The tobacco farmers of <rs type="place"><ref source="place294">Crimea</ref></rs> sent a petition to the government to allow Jews to come and reside in <rs type="place"><ref source="place294">Crimea</ref></rs> in March, April, September, and October, 
+               (<placeName><ref source="place018">St Petersburg</ref></placeName>). The tobacco farmers of <placeName><ref source="place294">Crimea</ref></placeName> sent a petition to the government to allow Jews to come and reside in <placeName><ref source="place294">Crimea</ref></placeName> in March, April, September, and October, 
                because it is necessary for the tobacco trade. The government asked all farmers, planters, and farmers about that and everyone declared to the government to allow it. 
             </p>
             <p>
-               (<rs type="place"><ref source="place295">Gdańsk</ref></rs>). Since last Saturday, a 19 year old Christian girl has gone missing. The antisemites immediately turned this into a story, they called out Jews to have killed the girl to use the blood in their rituals. Some days ago, part of the girl’s clothes were found 
+               (<placeName><ref source="place295">Gdańsk</ref></placeName>). Since last Saturday, a 19 year old Christian girl has gone missing. The antisemites immediately turned this into a story, they called out Jews to have killed the girl to use the blood in their rituals. Some days ago, part of the girl’s clothes were found 
                in the city moats. The whole moat was searched but the girl has not been found. - The Jewish population is deeply troubled about the coming agitation which antisemites will justify with this story.
             </p>
             <p>
-               (<rs type="place"><ref source="place296">Würzburg</ref></rs>). During a fight between a farmer and a Jew did the former beat the latter with a pitchfork vigorously enough that the Jew’s sleep ruptured and he died a few days later.
+               (<placeName><ref source="place296">Würzburg</ref></placeName>). During a fight between a farmer and a Jew did the former beat the latter with a pitchfork vigorously enough that the Jew’s sleep ruptured and he died a few days later.
             </p>
             <p>
-               (<rs type="place"><ref source="place297">Kostrzyn nad Odrą</ref></rs>). The local magistrate banned “ritual slaughter” in the municipal slaughterhouse. - The cities which ban slaughter increase steadily lately. The Jews in <rs type="place"><ref source="place010">Germany</ref></rs> should defend themselves heavily against the reputation.
+               (<placeName><ref source="place297">Kostrzyn nad Odrą</ref></placeName>). The local magistrate banned “ritual slaughter” in the municipal slaughterhouse. - The cities which ban slaughter increase steadily lately. The Jews in <placeName><ref source="place010">Germany</ref></placeName> should defend themselves heavily against the reputation.
             </p>
             <p>
-               (<rs type="place"><ref source="place095">Paris</ref></rs>). The supreme court interrogates the witnesses in the <rs type="person"><ref source="person082">Dreyfuß</ref></rs>-trial. The investigation is still held in secret. The<cb/> actual final hearing will take place only in June publically. 
+               (<placeName><ref source="place095">Paris</ref></placeName>). The supreme court interrogates the witnesses in the <persName><ref source="person082">Dreyfuß</ref></persName>-trial. The investigation is still held in secret. The<cb/> actual final hearing will take place only in June publically. 
             </p>
             <p>
-               (<rs type="place"><ref source="place156">London</ref></rs>). Over 5,000 foreigners immigrated to <rs type="place"><ref source="place011">England</ref></rs> in the last month, more than half of them are Jews. 
+               (<placeName><ref source="place156">London</ref></placeName>). Over 5,000 foreigners immigrated to <placeName><ref source="place011">England</ref></placeName> in the last month, more than half of them are Jews. 
             </p>
             <p>
-               (<rs type="place"><ref source="place231">Odessa</ref></rs>). Last week, the city captain gave the order to all local doctors to draw by lot who should voluntarily go to the battlefield where the war between <rs type="place"><ref source="place014">Russia</ref></rs> and <rs type="place"><ref source="place019">Japan</ref></rs> is happening. 
+               (<placeName><ref source="place231">Odessa</ref></placeName>). Last week, the city captain gave the order to all local doctors to draw by lot who should voluntarily go to the battlefield where the war between <placeName><ref source="place014">Russia</ref></placeName> and <placeName><ref source="place019">Japan</ref></placeName> is happening. 
             </p>
             <p>
-               A certain Jewish doctor <rs type="person"><ref source="person205">H. Rubenstein</ref></rs>, whose wife is dangerously ill, picked the number to drive there. 
+               A certain Jewish doctor <persName><ref source="person205">H. Rubenstein</ref></persName>, whose wife is dangerously ill, picked the number to drive there. 
             </p>
             <p>
                He asked to be freed from this deed and he was allowed to, on the condition that he sends another Jewish doctor in his place. 
             </p>
             <p>
-               <rs type="person"><ref source="person205">Rubenstein</ref></rs> asked <rs type="person"><ref source="person206">Dr Garfunkel</ref></rs> to take his place and <rs type="person"><ref source="person205">Dr Rubenstein</ref></rs> sent 4,000 rubles to the hospital on the battlefield in <rs type="person"><ref source="person206">Dr Garfunkel</ref></rs>’s name.
+               <persName><ref source="person205">Rubenstein</ref></persName> asked <persName>Dr <ref source="person206">Garfunkel</ref></persName> to take his place and <persName>Dr <ref source="person205">Rubenstein</ref></persName> sent 4,000 rubles to the hospital on the battlefield in <persName>Dr <ref source="person206">Garfunkel</ref></persName>’s name.
             </p>
          </div>
          <div n="9">
-            <head><hi rend="bold"><rs type="person"><ref source="person207">Rabbi Yom-Tov Lipmann Heller</ref></rs><lb/>(Tosafos Yom Tov)<lb/>(A biography).<lb/>a. </hi></head>
+            <head><hi rend="bold"><persName><ref source="person207">Rabbi Yom-Tov Lipmann Heller</ref></persName><lb/>(Tosafos Yom Tov)<lb/>(A biography).<lb/>a. </hi></head>
             <p>
-               Who was rabbi <rs type="person"><ref source="person207">Rabbi Yom-Tov Lipmann Heller</ref></rs>? Not many of our common brothers could answer this question. But if we tell them “the Tosafos Yom Tov” - they at once know who we are talking about. <rs type="person"><ref source="person207">Rabbi Yom-Tov Lipmann Heller</ref></rs> is the author of the 
+               Who was rabbi <persName><ref source="person207">Rabbi Yom-Tov Lipmann Heller</ref></persName>? Not many of our common brothers could answer this question. But if we tell them “the Tosafos Yom Tov” - they at once know who we are talking about. <persName><ref source="person207">Rabbi Yom-Tov Lipmann Heller</ref></persName> is the author of the 
                Tosefet Yom-Tov and lived 300 years ago. He is a person who has made his mark with his teachings, niceness, intelligence, profundity, rare morals, and piousness not with a tombstone of granite and marble which would erode by the sharp teeth of time, but with the story of his life…
             </p>
             <p>
-               <rs type="person"><ref source="person207">Rabbi Yom-Tov Lipmann Heller</ref></rs> was born in <rs type="place"><ref source="place298">Wallerstein</ref></rs> (<rs type="place"><ref source="place010">Germany</ref></rs>) in the year 5339 according to our calendar or <date when="1579">1579</date> according to the European calendar. 
-               He did not know his father as he died when his mother was still carrying him under her heart. He was raised by his grandfather <rs type="person"><ref source="person208">Rabbi Moses Ha-Levi Heller</ref></rs> who was the chief rabbi of <rs type="place"><ref source="place010">Germany</ref></rs>.
+               <persName><ref source="person207">Rabbi Yom-Tov Lipmann Heller</ref></persName> was born in <placeName><ref source="place298">Wallerstein</ref></placeName> (<placeName><ref source="place010">Germany</ref></placeName>) in the year 5339 according to our calendar or <date when="1579">1579</date> according to the European calendar. 
+               He did not know his father as he died when his mother was still carrying him under her heart. He was raised by his grandfather <persName><ref source="person208">Rabbi Moses Ha-Levi Heller</ref></persName> who was the chief rabbi of <placeName><ref source="place010">Germany</ref></placeName>.
             </p>
             <p>
-               The young <rs type="person"><ref source="person207">Yom-Tov</ref></rs>, who descended from a popular family was gifted with exceptional ability and everyone predicted him to grow up to be a great scholar. 
+               The young <persName><ref source="person207">Yom-Tov</ref></persName>, who descended from a popular family was gifted with exceptional ability and everyone predicted him to grow up to be a great scholar. 
             </p>
             <p>
-               With 18 years <rs type="person"><ref source="person207">Rabbi Yom Lipmann</ref></rs> was already an assistant to the rabbi and soon after the head of the yeshiva in the renowned Jewish community in <rs type="place"><ref source="place135">Prague</ref></rs>. From then on, he could live a happy, calm life without worry, but full of pursuit and 
+               With 18 years <persName><ref source="person207">Rabbi Yom Lipmann</ref></persName> was already an assistant to the rabbi and soon after the head of the yeshiva in the renowned Jewish community in <placeName><ref source="place135">Prague</ref></placeName>. From then on, he could live a happy, calm life without worry, but full of pursuit and 
                work; he studies with others and he studies alone. He became engrossed in rabbinic literature and his name became well-known with 19 years when he published his first work: an explanation to the “Bechinat Olam”. Afterwards he writes his other works, which we will talk about later. He was well cared for with his livelihood, he even lived rather 
                comfortably. The community appreciated him and saw that he wanted for nothing. 
             </p>
             <p>
-               In the year 5384 (<date when="1624">1624</date>) he became chief rabbi of <rs type="place"><ref source="place300">Mikulov</ref></rs> and soon after in the same year he was called by the community 
+               In the year 5384 (<date when="1624">1624</date>) he became chief rabbi of <placeName><ref source="place300">Mikulov</ref></placeName> and soon after in the same year he was called by the community 
             </p>
             <p style="text-align:center" rend="bold">[4]</p><pb/>
             <p>
-               in <rs type="place"><ref source="place007">Vienna</ref></rs> to be chief rabbi and leader. He stayed there until Purim in <date when="1627">1627</date>. In his works he wrote about how he tried to reach an agreement with the government to have a Jewish quarter to not live far apart and spread across the big city. The government gave them the quarter 
-               “<rs type="place"><ref source="place301">Leopoldstadt</ref></rs>”.
+               in <placeName><ref source="place007">Vienna</ref></placeName> to be chief rabbi and leader. He stayed there until Purim in <date when="1627">1627</date>. In his works he wrote about how he tried to reach an agreement with the government to have a Jewish quarter to not live far apart and spread across the big city. The government gave them the quarter 
+               “<placeName><ref source="place301">Leopoldstadt</ref></placeName>”.
             </p>
             <p>
-               For us today these endeavours seem strange to us: Jews should live together in a “Ghetto”. But back then, as the Jew was without protection or rights, defiled and persecuted, we shouldn’t be surprised what <rs type="person"><ref source="person207">Rabbi Yom-Tov Lipmann</ref></rs> wanted, that his sheep may be at least together in one place not 
+               For us today these endeavours seem strange to us: Jews should live together in a “Ghetto”. But back then, as the Jew was without protection or rights, defiled and persecuted, we shouldn’t be surprised what <persName><ref source="person207">Rabbi Yom-Tov Lipmann</ref></persName> wanted, that his sheep may be at least together in one place not 
                spread around separately. 
             </p>
             <p>
                In <date when="1627">1627</date>, the community in Prague called him back to be the chief Rabbi. Happy and cheerful he went there, in the city where he had spent his adolescence. With joy and pleasure, he took a seat on the rabbinic chair, but - luck stands on shaky legs, it can disappear very quickly. All of a sudden the light vanished. The 
-               joyful son of Rabbi <rs type="person"><ref source="person207">Yom-Tov Lipmann</ref></rs>’s life, his sky is overcast with black, dark clouds and soon hardship and misery came down on him.
+               joyful son of Rabbi <persName><ref source="person207">Yom-Tov Lipmann</ref></persName>’s life, his sky is overcast with black, dark clouds and soon hardship and misery came down on him.
             </p>
             <p>
-               Because of the <ref source="https://www.wikidata.org/wiki/Q2487">Thirty Years' War</ref> that happened back then, the government demanded high payments from all Jewish communities in <rs type="place"><ref source="place026">Bohemia</ref></rs>, including <rs type="place"><ref source="place135">Prague</ref></rs>. Against his will, the chief rabbi, 
+               Because of the <ref source="https://www.wikidata.org/wiki/Q2487">Thirty Years' War</ref> that happened back then, the government demanded high payments from all Jewish communities in <placeName><ref source="place026">Bohemia</ref></placeName>, including <placeName><ref source="place135">Prague</ref></placeName>. Against his will, the chief rabbi, 
                who was the main leader of the community, had to be part of a committee which the government set up to estimate how much taxes everyone should pay. Bad people who unfortunately are not rare and especially not in times like these, denounced him with the commission before the government that they are estimating wrongly, sparing the rich. 
-               <rs type="person"><ref source="person209">Emperor Ferdinand II</ref></rs> sent the rabbi and the committee a severe censure and told them to not repeat their behaviour. The enemies however did not leave the chief rabbi alone and continued with far more dangerous denunciations that in his books “Sefer Yede Mosheh” and “Maadanei Melech” he 
+               <persName><ref source="person209">Emperor Ferdinand II</ref></persName> sent the rabbi and the committee a severe censure and told them to not repeat their behaviour. The enemies however did not leave the chief rabbi alone and continued with far more dangerous denunciations that in his books “Sefer Yede Mosheh” and “Maadanei Melech” he 
                insults Christians and their religion. Two “learned” Jews were found who translated several words from these books to prove that the denunciations are correct. 
             </p>
             <p>
-               On <date when="1692-06-25">June 25 1692</date> the government ordered the bringing of <rs type="person"><ref source="person208">Yom-Tov Lipmann</ref></rs> to <rs type="place"><ref source="place007">Vienna</ref></rs> shackled in chains. One can only imagine the horrible impression the chief rabbi in chains like the most dangerous criminal 
+               On <date when="1692-06-25">June 25 1692</date> the government ordered the bringing of <persName><ref source="person208">Yom-Tov Lipmann</ref></persName> to <placeName><ref source="place007">Vienna</ref></placeName> shackled in chains. One can only imagine the horrible impression the chief rabbi in chains like the most dangerous criminal 
                would have on the entire community, the shame on all Jews. This can also easily instigate the people against the Jewish people, to attack them, rob their houses and kill them.
             </p>
             <p>
-               So, the reputable people of the community in <rs type="place"><ref source="place135">Prague</ref></rs> tried with constant effort for the rabbi to travel as a free man to <rs type="place"><ref source="place007">Vienna</ref></rs>, to face the judge alone. They took upon them the responsibility and the viceroy of <rs type="place"><ref source="place135">Prague</ref></rs> 
+               So, the reputable people of the community in <placeName><ref source="place135">Prague</ref></placeName> tried with constant effort for the rabbi to travel as a free man to <placeName><ref source="place007">Vienna</ref></placeName>, to face the judge alone. They took upon them the responsibility and the viceroy of <placeName><ref source="place135">Prague</ref></placeName> 
                who had known his orderliness, agreed that the Rabbi should travel alone, without a guard and without shackles.
             </p>
             <p>
-               In <rs type="place"><ref source="place007">Vienna</ref></rs> soon after <rs type="person"><ref source="person208">Yom-Tov Lipmann</ref></rs> went to the chancellor (<date when="1629-06-26">five days into Tammuz 5389 / June 26th 1629</date>) who took on him very strictly, accused him furiously of his crime of insulting Christians and put him 
+               In <placeName><ref source="place007">Vienna</ref></placeName> soon after <persName><ref source="person208">Yom-Tov Lipmann</ref></persName> went to the chancellor (<date when="1629-06-26">five days into Tammuz 5389 / June 26th 1629</date>) who took on him very strictly, accused him furiously of his crime of insulting Christians and put him 
                in prison between the greatest criminals and bandits.<cb/>
             </p>
             <p>
-               <rs type="person"><ref source="person207">Rabbi Yom-Tov Lipmann Heller</ref></rs>, who described the whole story alone later on in the special work “Megilat evah”. He talks about benevolence, about hardship, that none of the dangerous criminals did anything bad to him, but that he was respected and served him like loyal servants. 
+               <persName><ref source="person207">Rabbi Yom-Tov Lipmann Heller</ref></persName>, who described the whole story alone later on in the special work “Megilat evah”. He talks about benevolence, about hardship, that none of the dangerous criminals did anything bad to him, but that he was respected and served him like loyal servants. 
             </p>
             <p>
                The leader of the Viennese community did not rest until they managed to at least get him out of the most horrible prison and get him to a decent place instead.
             </p>
             <p>
-               The government put together a rabbinical court of twelve ministers, including the chancellor and the trial then started. The accused defended himself smartly, proved his innocence with wit and his verdict was: Heller should receive the death sentence for his crime, but the <rs type="person"><ref source="person209">emperor</ref></rs> has mercy 
-               and gives him his life and sentences him to pay 12,000 thaler at once (his enemies said he was very rich). His books shall be burnt and he must not be a rabbi from this day on anymore, not in <rs type="place"><ref source="place135">Prague</ref></rs>, not in <rs type="place"><ref source="place025">Austria</ref></rs>. 
+               The government put together a rabbinical court of twelve ministers, including the chancellor and the trial then started. The accused defended himself smartly, proved his innocence with wit and his verdict was: Heller should receive the death sentence for his crime, but the <persName><ref source="person209">emperor</ref></persName> has mercy 
+               and gives him his life and sentences him to pay 12,000 thaler at once (his enemies said he was very rich). His books shall be burnt and he must not be a rabbi from this day on anymore, not in <placeName><ref source="place135">Prague</ref></placeName>, not in <placeName><ref source="place025">Austria</ref></placeName>. 
             </p>
             <p>
-               His friends tried to relieve his verdict a bit: he should only pay 10,000 thaler, not at once, but in installments and his books should also not be burnt and he should be allowed to be a rabbi in <rs type="place"><ref source="place025">Austria</ref></rs> - not in <rs type="place"><ref source="place135">Prague</ref></rs>. 
+               His friends tried to relieve his verdict a bit: he should only pay 10,000 thaler, not at once, but in installments and his books should also not be burnt and he should be allowed to be a rabbi in <placeName><ref source="place025">Austria</ref></placeName> - not in <placeName><ref source="place135">Prague</ref></placeName>. 
             </p>
             <p>
                He was imprisoned for 40 days. 28 days in the month Av he was freed, but - as it is said - hollow and naked: without money, without rabbinate, without hope. Older, darker, he had to give away all his belongings to the government and even needed to look for a loan because he was not able to pay this huge sum. 
             </p>
             <p>
-               However, the rich people of <rs type="place"><ref source="place135">Prague</ref></rs> protected him; soon he was able to pay off his punishment and take on a new position. Three years later he was chief rabbi in <rs type="place"><ref source="place302">Nemirov</ref></rs> (<rs type="place"><ref source="place019">Russia</ref></rs>) 
-               where <rs type="place"><ref source="place096">Khmelnytsky</ref></rs> started the well-known revolution with the Cossacks. There was a great and important Jewish community. 
+               However, the rich people of <placeName><ref source="place135">Prague</ref></placeName> protected him; soon he was able to pay off his punishment and take on a new position. Three years later he was chief rabbi in <placeName><ref source="place302">Nemirov</ref></placeName> (<placeName><ref source="place019">Russia</ref></placeName>) 
+               where <placeName><ref source="place096">Khmelnytsky</ref></placeName> started the well-known revolution with the Cossacks. There was a great and important Jewish community. 
             </p>
             <p>
-               Three years he spent there in peace and was highly esteemed before he was called to the community of <rs type="place"><ref source="place303">Volodymyr</ref></rs> to be the chief rabbi there. In <date when="1643">1643</date> he became chief rabbi in <rs type="place"><ref source="place149">Krakow</ref></rs>. There he 
+               Three years he spent there in peace and was highly esteemed before he was called to the community of <placeName><ref source="place303">Volodymyr</ref></placeName> to be the chief rabbi there. In <date when="1643">1643</date> he became chief rabbi in <placeName><ref source="place149">Krakow</ref></placeName>. There he 
                lived his last years until his last day. He died on the 26th day of Elul at 75 years old. His tombstone stands in the Krakow cemetery until today. 
             </p>
             <p>
-               <rs type="person"><ref source="person207">Rabbi Yom-Tov Lipmann Heller</ref></rs> was a rare rabbi with a healthy, logical mind, a sharp brain, great in the Torah, great in Jewish sciences and partly foreign, general sciences. We have already touched upon his writings which he wrote as a young man of 18 years. Later he 
+               <persName><ref source="person207">Rabbi Yom-Tov Lipmann Heller</ref></persName> was a rare rabbi with a healthy, logical mind, a sharp brain, great in the Torah, great in Jewish sciences and partly foreign, general sciences. We have already touched upon his writings which he wrote as a young man of 18 years. Later he 
                wrote several other books, for example: commentary on the works of the Rosh (these are the books  “Lechem Chamudos” and  “Ma’adanei Melech” which brought him great misery), the work “Malbushe Yom Tov” and others. But the most important, most known of his writings is the “Tosafos Yom Tov” - commentary on the Mishnah. 
                Here we can witness his entire  glorious form: genius in explaining new things, perceptive to ask and answer and balance difficult parts and questions clear in every angle of the great rabbinic literature, studied in maths, geography, astronomy, and an invested researcher. The Tosafos Yom Tov was not well accepted 
                without a reason, the Mishnah is not printed without it anymore. The people know from the innermost part of their hearts that only because of
             </p>
             <p style="text-align:center" rend="bold">[5]</p><pb/>
             <p>
-               the Tosafos Yom Tov was the Mishnah completed like the bible and Talmud because of the commentary of <rs type="person"><ref source="person015">Rashi</ref></rs>.
+               the Tosafos Yom Tov was the Mishnah completed like the bible and Talmud because of the commentary of <persName><ref source="person015">Rashi</ref></persName>.
             </p>
             <p>
-               <rs type="person"><ref source="person207">Rabbi Yom-Tov Lipmann</ref></rs> has written in the Jewish language besides his Hebrew works for the common people. He translated into Jewish-German the text “Orchos Chaim”, customs and virtues; how a Jew is supposed to lead his life and he even printed explanations of salt meat. 
+               <persName><ref source="person207">Rabbi Yom-Tov Lipmann</ref></persName> has written in the Jewish language besides his Hebrew works for the common people. He translated into Jewish-German the text “Orchos Chaim”, customs and virtues; how a Jew is supposed to lead his life and he even printed explanations of salt meat. 
             </p>
             <p>
-               Following the horrors the Jews had to suffer in <date when="1648">5408 (1648)</date> in <rs type="place"><ref source="place061">Ukraine</ref></rs> as the entire community was slaughtered and whole cities were ravaged he wrote dirges which were printed in part in prayer books.
+               Following the horrors the Jews had to suffer in <date when="1648">5408 (1648)</date> in <placeName><ref source="place061">Ukraine</ref></placeName> as the entire community was slaughtered and whole cities were ravaged he wrote dirges which were printed in part in prayer books.
             </p>
             <p>
-               <rs type="person"><ref source="person207">Rabbi Yom-Tov Lipmann</ref></rs> left a big, branched family from which great gaon and rabbis descended. 
+               <persName><ref source="person207">Rabbi Yom-Tov Lipmann</ref></persName> left a big, branched family from which great gaon and rabbis descended. 
             </p>
             <p>
                May the memory of the righteous be a blessing!
             </p>
          </div>
          <div>
-            <head><hi>Feutellion<lb/>A horrible Passover night with the <ref source="https://www.wikidata.org/wiki/Q312214">Marrano</ref> in <rs type="place"><ref source="place043">Spain</ref></rs>.</hi></head>
+            <head><hi>Feutellion<lb/>A horrible Passover night with the <ref source="https://www.wikidata.org/wiki/Q312214">Marrano</ref> in <placeName><ref source="place043">Spain</ref></placeName>.</hi></head>
             <p> 
                The name “Marrano” (Anusim) was given by Christians to Jews who were Christians in pretence, from the outside, but actually deep inside their hearts they continued to be faithful Jews. The glimmer of our belief did not burn out several generations after their parents were baptised. A lot of Jewish blood was spilled 
                until the Jewish people agreed to renounce the faith of our parents, but the new faith was forced upon us with force. All of that caused the Marrano to return to their old faith which has been ripped out of their hearts with a big part of their life, of their souls.
             </p>
             <p>
                Two things were important for the Marrano for which they would step into the fire. This was the order of Passover and the <ref source="https://www.wikidata.org/wiki/Q1760699">Kol Nidre</ref> in Yom Kippur. The Kol Nidre was very important for them because it is a prayer to distract from all oaths to be true Catholics. 
-               The order of Passover was very important because it is a reminder for freedom which God has given to our parents when they were exiled from <rs type="place"><ref source="place013">Egypt</ref></rs>. Both customs have been started in a group, together with their brothers. To do that, they have looked for remote places 
+               The order of Passover was very important because it is a reminder for freedom which God has given to our parents when they were exiled from <placeName><ref source="place013">Egypt</ref></placeName>. Both customs have been started in a group, together with their brothers. To do that, they have looked for remote places 
                in the holes of mountains. 
             </p>
             <p>
-               The Marrano in <rs type="place"><ref source="place043">Spain</ref></rs> have suffered especially during the rule of <rs type="person"><ref source="person210">King Ferdinand</ref></rs> and his wife <rs type="person"><ref source="person211">Isabella</ref></rs> whose names are written with blood in the Jewish history.
+               The Marrano in <placeName><ref source="place043">Spain</ref></placeName> have suffered especially during the rule of <persName><ref source="person210">King Ferdinand</ref></persName> and his wife <persName><ref source="person211">Isabella</ref></persName> whose names are written with blood in the Jewish history.
             </p>
             <p>
-               The inquisition was started in Spain and the grand inquisitor was appointed the well-known cruel man-eater <rs type="person"><ref source="person212">Tomás de Torquemada</ref></rs> who bathed in the blood of the Marrano and burnt thousands of them. 
+               The inquisition was started in Spain and the grand inquisitor was appointed the well-known cruel man-eater <persName><ref source="person212">Tomás de Torquemada</ref></persName> who bathed in the blood of the Marrano and burnt thousands of them. 
             </p>
             <p>
-               At this time, Don <rs type="person"><ref source="person212">Isaac Abrabanel</ref></rs> came to <rs type="place"><ref source="place304">Toledo</ref></rs>, the capital of <rs type="place"><ref source="place043">Spain</ref></rs> with his family. The <rs type="place"><ref source="place304">Toledo</ref></rs> Jews were 
-               very happy about this famous man, this notable man. <rs type="person"><ref source="person214">Abraham Senior</ref></rs> who held the shares of the royal repayments who took him in as a partner for his bigger trades. Some months after that Don <rs type="person"><ref source="person212">Isaac</ref></rs> received an 
-               invitation to the royal court. There the <rs type="person"><ref source="person210">king</ref></rs> appointed him to be his finance minister.
+               At this time, Don <persName><ref source="person212">Isaac Abrabanel</ref></persName> came to <placeName><ref source="place304">Toledo</ref></placeName>, the capital of <placeName><ref source="place043">Spain</ref></placeName> with his family. The <placeName><ref source="place304">Toledo</ref></placeName> Jews were 
+               very happy about this famous man, this notable man. <persName><ref source="person214">Abraham Senior</ref></persName> who held the shares of the royal repayments who took him in as a partner for his bigger trades. Some months after that Don <persName><ref source="person212">Isaac</ref></persName> received an 
+               invitation to the royal court. There the <persName><ref source="person210">king</ref></persName> appointed him to be his finance minister.
             </p>
             <p>
-               He had this position for eight years, became very wealthy during that time and was loved and appreciated by everyone on court. During that time he concluded two marriage deals for his sons. His older son <rs type="person"><ref source="person215">Judah Leon Abravanel</ref></rs> married the daughter of his father’s associate, 
-               Don <rs type="person"><ref source="person214">Abraham Senior</ref></rs>. His younger son, Don <rs type="person"><ref source="person216">Joseph</ref></rs> who married the daughter of the well-known leader of<cb/> the city of <rs type="place"><ref source="place225">Málaga</ref></rs> <rs type="person"><ref source="person217">Rabbi Solomon ibn Verga</ref></rs> 
-               (author of the famous <ref source="https://www.wikidata.org/wiki/Q7430845">Scepter of Judah</ref>). All three in-laws, Don <rs type="person"><ref source="person212">Isaac</ref></rs>, Don <rs type="person"><ref source="person214">Abraham</ref></rs>, and Rabbi <rs type="person"><ref source="person217">Solomon</ref></rs> were 
-               three good rulers to protect our people in <rs type="place"><ref source="place043">Spain</ref></rs>. During this time the bloodhound <rs type="person"><ref source="person212">Torquemada</ref></rs> was ordered by <rs type="person"><ref source="person210">Ferdinand</ref></rs> to dispel all Jews from their land. He told 
-               him that because of their merits war prospers in his lands. It is God’s will to exile the people who are God’s enemies. A strict decree was passed that in four months time, not a single Jew shall remain in <rs type="place"><ref source="place043">Spain</ref></rs>, however their riches must stay in the country. Whichever 
-               Jew wants to take something of it with them will be punished with death. Lament and sorry met every Jewish person. Don <rs type="person"><ref source="person212">Isaac</ref></rs> and every great Jewish person proposed to spend all their wealth to nullify this decree, but nothing helped. The calamity could not possibly be averted.
+               He had this position for eight years, became very wealthy during that time and was loved and appreciated by everyone on court. During that time he concluded two marriage deals for his sons. His older son <persName><ref source="person215">Judah Leon Abravanel</ref></persName> married the daughter of his father’s associate, 
+               Don <persName><ref source="person214">Abraham Senior</ref></persName>. His younger son, Don <persName><ref source="person216">Joseph</ref></persName> who married the daughter of the well-known leader of<cb/> the city of <placeName><ref source="place225">Málaga</ref></placeName> <persName><ref source="person217">Rabbi Solomon ibn Verga</ref></persName> 
+               (author of the famous <ref source="https://www.wikidata.org/wiki/Q7430845">Scepter of Judah</ref>). All three in-laws, Don <persName><ref source="person212">Isaac</ref></persName>, Don <persName><ref source="person214">Abraham</ref></persName>, and Rabbi <persName><ref source="person217">Solomon</ref></persName> were 
+               three good rulers to protect our people in <placeName><ref source="place043">Spain</ref></placeName>. During this time the bloodhound <persName><ref source="person212">Torquemada</ref></persName> was ordered by <persName><ref source="person210">Ferdinand</ref></persName> to dispel all Jews from their land. He told 
+               him that because of their merits war prospers in his lands. It is God’s will to exile the people who are God’s enemies. A strict decree was passed that in four months time, not a single Jew shall remain in <placeName><ref source="place043">Spain</ref></placeName>, however their riches must stay in the country. Whichever 
+               Jew wants to take something of it with them will be punished with death. Lament and sorry met every Jewish person. Don <persName><ref source="person212">Isaac</ref></persName> and every great Jewish person proposed to spend all their wealth to nullify this decree, but nothing helped. The calamity could not possibly be averted.
             </p>
             <p>
-               The emigrants spread across all lands, across all seas. A part went to <rs type="place"><ref source="place075">Turkey</ref></rs> where Jews did not know any hardship. Another part went to <rs type="place"><ref source="place034">Israel</ref></rs>, another part to <rs type="place"><ref source="place305">Navarre</ref></rs>, a 
-               country to the north of <rs type="place"><ref source="place043">Spain</ref></rs> to where Don <rs type="person"><ref source="person214">Abraham Senior</ref></rs> and his whole family should emigrate to. Another part went to <rs type="place"><ref source="place040">Italy</ref></rs>, to <rs type="place"><ref source="place134">Africa</ref></rs> 
-               and wherever their feet carried them. However, the biggest part went to <rs type="place"><ref source="place306">Portugal</ref></rs>, because the country is next to <rs type="place"><ref source="place043">Spain</ref></rs> - in hopes that the kingship of <rs type="place"><ref source="place043">Spain</ref></rs> will realise 
+               The emigrants spread across all lands, across all seas. A part went to <placeName><ref source="place075">Turkey</ref></placeName> where Jews did not know any hardship. Another part went to <placeName><ref source="place034">Israel</ref></placeName>, another part to <placeName><ref source="place305">Navarre</ref></placeName>, a 
+               country to the north of <placeName><ref source="place043">Spain</ref></placeName> to where Don <persName><ref source="person214">Abraham Senior</ref></persName> and his whole family should emigrate to. Another part went to <placeName><ref source="place040">Italy</ref></placeName>, to <placeName><ref source="place134">Africa</ref></placeName> 
+               and wherever their feet carried them. However, the biggest part went to <placeName><ref source="place306">Portugal</ref></placeName>, because the country is next to <placeName><ref source="place043">Spain</ref></placeName> - in hopes that the kingship of <placeName><ref source="place043">Spain</ref></placeName> will realise 
                that without Jews their trades would be ruined forever and that they will surely soon call off the edict and allow them back into the country.
             </p>
             <p>
-               The two in-laws, the biggest Jewish magnates Don <rs type="person"><ref source="person213">Isaac Abrabanel</ref></rs> and Don <rs type="person"><ref source="person214">Abraham Senior</ref></rs> were ready to emigrate with their unhappy brothers to <rs type="place"><ref source="place305">Navarre</ref></rs> and <rs type="place"><ref source="place293">Naples</ref></rs>. 
-               But Don <rs type="person"><ref source="person214">Abraham</ref></rs> had unexpectedly been called to the queen <rs type="person"><ref source="person">Isabella</ref></rs>. She explained to him that they cannot dismiss faithful attendants like him and that he and his family need to be baptised and stay at his position. No wisdom will be able to help 
+               The two in-laws, the biggest Jewish magnates Don <persName><ref source="person213">Isaac Abrabanel</ref></persName> and Don <persName><ref source="person214">Abraham Senior</ref></persName> were ready to emigrate with their unhappy brothers to <placeName><ref source="place305">Navarre</ref></placeName> and <placeName><ref source="place293">Naples</ref></placeName>. 
+               But Don <persName><ref source="person214">Abraham</ref></persName> had unexpectedly been called to the queen <persName><ref source="person">Isabella</ref></persName>. She explained to him that they cannot dismiss faithful attendants like him and that he and his family need to be baptised and stay at his position. No wisdom will be able to help 
                him. He should not be under the impression that he can free himself with death. Because if he does not follow her orders, she will take revenge on all Jews who will pay with their lives.
             </p>
             <p>
-               If it was addressed to him, he would choose his own death a thousand times instead of yielding his old faith. But this was about the lives of hundreds of thousands of Jews. No prayer, no tears would help this situation. <rs type="person"><ref source="person">Isabella</ref></rs>’s heart was hard as stone and the old Rabbi 
-               <rs type="person"><ref source="person214">Abraham</ref></rs> with a broken heart had to do as he was told. He let his only son be called to him, Don <rs type="person"><ref source="person218">David Senior</ref></rs>. The father entered a cabinet with him and explained his bitter situation. Both of them cried a long time, 
-               they shed an ocean of tears for God in heaven. The father swore a holy oath with the son that he shall stay a devoted Jew in his heart and to raise his children with Judaism. On the same day, Don <rs type="person"><ref source="person214">Abraham</ref></rs> drove in a royal cart with his pious wife, with his married son, 
-               his daughter-in-law, and his young granddaughter, a one-year old girl to the monastery Santa Maria. The king and the queen were already waiting there with their bishop. Everyone was baptised and given new names: Don <rs type="person"><ref source="person214">Abraham</ref></rs> was given the name Don Fernando after his 
-               royal godfather, this means he belonged to the Spanish crown. However, they have not lived long in their new faith. Don Fernando Coronel, former Don <rs type="person"><ref source="person214">Abraham Senior</ref></rs>, died soon after, caused by sorrow and heartache. His wife, who saw the ceremony during which catholic 
-               clergymen buried his body in Christian manner, silently dropped dead on his grave because her soul left her body at this sight. Don Juan Coronel, formerly called Don <rs type="person"><ref source="person218">David Senior</ref></rs>, was offered his father’s position by the king. But he declined and instead demanded to 
+               If it was addressed to him, he would choose his own death a thousand times instead of yielding his old faith. But this was about the lives of hundreds of thousands of Jews. No prayer, no tears would help this situation. <persName><ref source="person">Isabella</ref></persName>’s heart was hard as stone and the old Rabbi 
+               <persName><ref source="person214">Abraham</ref></persName> with a broken heart had to do as he was told. He let his only son be called to him, Don <persName><ref source="person218">David Senior</ref></persName>. The father entered a cabinet with him and explained his bitter situation. Both of them cried a long time, 
+               they shed an ocean of tears for God in heaven. The father swore a holy oath with the son that he shall stay a devoted Jew in his heart and to raise his children with Judaism. On the same day, Don <persName><ref source="person214">Abraham</ref></persName> drove in a royal cart with his pious wife, with his married son, 
+               his daughter-in-law, and his young granddaughter, a one-year old girl to the monastery Santa Maria. The king and the queen were already waiting there with their bishop. Everyone was baptised and given new names: Don <persName><ref source="person214">Abraham</ref></persName> was given the name Don Fernando after his 
+               royal godfather, this means he belonged to the Spanish crown. However, they have not lived long in their new faith. Don Fernando Coronel, former Don <persName><ref source="person214">Abraham Senior</ref></persName>, died soon after, caused by sorrow and heartache. His wife, who saw the ceremony during which catholic 
+               clergymen buried his body in Christian manner, silently dropped dead on his grave because her soul left her body at this sight. Don Juan Coronel, formerly called Don <persName><ref source="person218">David Senior</ref></persName>, was offered his father’s position by the king. But he declined and instead demanded to 
                be made envoy to the royal courts of the allied kingdoms. His intention was to be close to his brothers and wherever possible help them and support them in their suffering.
             </p>
             <p>
@@ -510,51 +510,51 @@
             <p style="text-align:center" rend="bold">[6]</p><pb/>
          </div>
          <div>
-            <head><hi rend="bold">The Jews in <rs type="place"><ref source="place013">Egypt</ref></rs><lb/>According to Egyptian documents.</hi></head>
+            <head><hi rend="bold">The Jews in <placeName><ref source="place013">Egypt</ref></placeName><lb/>According to Egyptian documents.</hi></head>
             <p>
-               For the longest time, we only had one source for the old Jewish history - the Bible. Only in the past 19th century did the discoveries being made in <rs type="place"><ref source="place013">Egypt</ref></rs> and <rs type="place"><ref source="place012">Babylonia</ref></rs> open a new world for human research which has also 
-               illuminated darker times in the old Jewish history. The many monuments in <rs type="place"><ref source="place013">Egypt</ref></rs> including their depictions and inscriptions lay buried below the ground for thousands of years. The great pyramids, the numerous stone figures and pillars stood like an enigma and were witnesses 
+               For the longest time, we only had one source for the old Jewish history - the Bible. Only in the past 19th century did the discoveries being made in <placeName><ref source="place013">Egypt</ref></placeName> and <placeName><ref source="place012">Babylonia</ref></placeName> open a new world for human research which has also 
+               illuminated darker times in the old Jewish history. The many monuments in <placeName><ref source="place013">Egypt</ref></placeName> including their depictions and inscriptions lay buried below the ground for thousands of years. The great pyramids, the numerous stone figures and pillars stood like an enigma and were witnesses 
                to a life which is long gone, a life full of power and glory. The questing human mind has found a key for the mystery. After a lot of speculation and work they came to a conclusion regarding the Egyptian language which had become extinct a long time ago. The old inscriptions originating in the Egyptian kingdoms revealed a 
                marvelous picture of a sophisticated people which had glorious 4,000 years of history. Old, sunken cities are still being unearthed today and will reveal more mysteries of their old lives.
             </p>
             <p>
-               For us Jews are the speculations about the old Egyptian history are important as they reveal a lot about our own ancient history. The Egyptian monuments tell us about the stories in the Torah about the Jewish history in <rs type="place"><ref source="place013">Egypt</ref></rs>, about their hardships and redemption.
+               For us Jews are the speculations about the old Egyptian history are important as they reveal a lot about our own ancient history. The Egyptian monuments tell us about the stories in the Torah about the Jewish history in <placeName><ref source="place013">Egypt</ref></placeName>, about their hardships and redemption.
             </p>
             <p>
-               <rs type="place"><ref source="place013">Egypt</ref></rs> as a country which has been characterised with its fertility, and  great populated cities attracted different barbaric tribes which lived in the desert and in the mountains between <rs type="place"><ref source="place013">Egypt</ref></rs> and 
-               <rs type="place"><ref source="place307">Canaan</ref></rs>. Since always, the Egyptians tried with all their might to bar the war of various Asian people which were, in the Egyptians inscriptions, called Am (from the … word <ref source="https://www.wikidata.org/wiki/Q372091">Amalek</ref>) and from the 
-               barbarians (known in <rs type="place"><ref source="place013">Egypt</ref></rs> under the name <ref source="https://www.wikidata.org/wiki/Q559386">Shasu</ref>).
+               <placeName><ref source="place013">Egypt</ref></placeName> as a country which has been characterised with its fertility, and  great populated cities attracted different barbaric tribes which lived in the desert and in the mountains between <placeName><ref source="place013">Egypt</ref></placeName> and 
+               <placeName><ref source="place307">Canaan</ref></placeName>. Since always, the Egyptians tried with all their might to bar the war of various Asian people which were, in the Egyptians inscriptions, called Am (from the … word <ref source="https://www.wikidata.org/wiki/Q372091">Amalek</ref>) and from the 
+               barbarians (known in <placeName><ref source="place013">Egypt</ref></placeName> under the name <ref source="https://www.wikidata.org/wiki/Q559386">Shasu</ref>).
             </p>
             <p>
-               Semitic tribes travelled closer and closer to <rs type="place"><ref source="place013">Egypt</ref></rs> described by an image which remained from the period when the 12 royal family (dynasty) ruled. Depicted on the image are 37 semites who stand before the Pharaoh, the king of <rs type="place"><ref source="place013">Egypt</ref></rs>, 
-               and ask for permission to cultivate the lands. The image dates back circa 2000 years before the European calendar. The leader’s name is <rs type="person">Abu-Sha</rs> which sounds really semitic, the faces look semitic as well and the colour is the one with which Egyptians like to paint the Semits compared to other tribes.
+               Semitic tribes travelled closer and closer to <placeName><ref source="place013">Egypt</ref></placeName> described by an image which remained from the period when the 12 royal family (dynasty) ruled. Depicted on the image are 37 semites who stand before the Pharaoh, the king of <placeName><ref source="place013">Egypt</ref></placeName>, 
+               and ask for permission to cultivate the lands. The image dates back circa 2000 years before the European calendar. The leader’s name is <persName>Abu-Sha</persName> which sounds really semitic, the faces look semitic as well and the colour is the one with which Egyptians like to paint the Semits compared to other tribes.
             </p>
             <p>
-               The picture is a pretty illustration of the narrative told in the Torah, which says that when there is a famine in <rs type="place"><ref source="place307">Canaan</ref></rs>, people flocked to <rs type="place"><ref source="place013">Egypt</ref></rs>. 
+               The picture is a pretty illustration of the narrative told in the Torah, which says that when there is a famine in <placeName><ref source="place307">Canaan</ref></placeName>, people flocked to <placeName><ref source="place013">Egypt</ref></placeName>. 
             </p>
             <p>
-               The constant friction between the Egyptians and the Asian tribes finally led to a great group of Asian pastoral tribes <ref source="https://www.wikidata.org/wiki/Q192319">Hyksos</ref> settling in <rs type="place"><ref source="place013">Egypt</ref></rs> and taking over the whole Northern country. The Asians settled in the land 
+               The constant friction between the Egyptians and the Asian tribes finally led to a great group of Asian pastoral tribes <ref source="https://www.wikidata.org/wiki/Q192319">Hyksos</ref> settling in <placeName><ref source="place013">Egypt</ref></placeName> and taking over the whole Northern country. The Asians settled in the land 
                and founded their own royal dynasty. However, the Hyksos soon started to adapt the Egyptian<cb/> culture. They started to build the same pyramids like the Egyptians rulers did before. They adopted the Egyptian gods and started to lead the same life with the same state as the Egyptian pharaohs. But at the same time they imported 
-               a lot of customs from <rs type="place"><ref source="place024">Asia</ref></rs>. A lot of semitic words started to spread in <rs type="place"><ref source="place013">Egypt</ref></rs> that time around, several high-level officials in the government started bearing semitic names and the semitic idols  <ref source="https://www.wikidata.org/wiki/Q2894617">Bel</ref> 
+               a lot of customs from <placeName><ref source="place024">Asia</ref></placeName>. A lot of semitic words started to spread in <placeName><ref source="place013">Egypt</ref></placeName> that time around, several high-level officials in the government started bearing semitic names and the semitic idols  <ref source="https://www.wikidata.org/wiki/Q2894617">Bel</ref> 
                and <ref source="https://www.wikidata.org/wiki/Q130274">Astarte</ref> became deities like the Egyptian Gods.
             </p>
             <p>
-               Under the rule of the Hyksos the semitic people in <rs type="place"><ref source="place013">Egypt</ref></rs> expanded with newly arriving semitic tribes including from the Jewish people in <rs type="place"><ref source="place013">Egypt</ref></rs> who were welcomed with open arms.
+               Under the rule of the Hyksos the semitic people in <placeName><ref source="place013">Egypt</ref></placeName> expanded with newly arriving semitic tribes including from the Jewish people in <placeName><ref source="place013">Egypt</ref></placeName> who were welcomed with open arms.
             </p>
             <p>
-               The stories in the Torah provide a clear picture from the life in <rs type="place"><ref source="place013">Egypt</ref></rs> back then which correspond with the Egyptian life as we know it from the Egyptian monuments. 
+               The stories in the Torah provide a clear picture from the life in <placeName><ref source="place013">Egypt</ref></placeName> back then which correspond with the Egyptian life as we know it from the Egyptian monuments. 
             </p>
             <p>
-               From the Egyptian images we also know that the number of Jewish slaves in <rs type="place"><ref source="place013">Egypt</ref></rs> was also very large. We also know according to the Egyptian inscriptions that frankincense (incense) was a common article being brought from <rs type="place"><ref source="place307">Canaan</ref></rs> 
-               to <rs type="place"><ref source="place013">Egypt</ref></rs>. The Torah also talks about this during the sale of <rs type="person"><ref source="person219">Joseph</ref></rs> into slavery by his brothers. The honour <rs type="person"><ref source="person219">Joseph</ref></rs> received by being able to interpret dreams thanks to God. 
-               That is also proven by Egyptian documents which show how highly regarded an interpreting was. The narrative told by Genesis that the Pharaoh put on <rs type="person"><ref source="person219">Joseph</ref></rs>’s ring, put him in silken clothes and a golden chain on his necklace is also found in Egyptian monuments. Other higher 
-               officers, we find the word “Taba” in the Egyptian monuments, the highest officers are also called “Odn” in the Egyptian scripts with the addition “the second after the king”. In the Pentateuch the pharaoh says to <rs type="person"><ref source="person219">Joseph</ref></rs>: “You shall be above my house”, in the Egyptian inscriptions 
-               we also find an honorific meaning “the one seated above the house”. The word abork which is said to be yelled by <rs type="person"><ref source="person219">Joseph</ref></rs> is an Egyptian one and means: Your word is our wish. <rs type="person"><ref source="person219">Joseph</ref></rs>’s second name which he has taken on in 
-               <rs type="place"><ref source="place013">Egypt</ref></rs> - Zaphnath-Paaneah - is Egyptian and means “God speaks and he lives”. The Egyptian inscriptions also tell us from the custom of giving new names to high officials. <rs type="person"><ref source="person220">Potipherah</ref></rs> is also Egyptian and means “He whom Ra has given” 
-               (the son in <rs type="place"><ref source="place013">Egypt</ref></rs> was thought of a deity). 
+               From the Egyptian images we also know that the number of Jewish slaves in <placeName><ref source="place013">Egypt</ref></placeName> was also very large. We also know according to the Egyptian inscriptions that frankincense (incense) was a common article being brought from <placeName><ref source="place307">Canaan</ref></placeName> 
+               to <placeName><ref source="place013">Egypt</ref></placeName>. The Torah also talks about this during the sale of <persName><ref source="person219">Joseph</ref></persName> into slavery by his brothers. The honour <persName><ref source="person219">Joseph</ref></persName> received by being able to interpret dreams thanks to God. 
+               That is also proven by Egyptian documents which show how highly regarded an interpreting was. The narrative told by Genesis that the Pharaoh put on <persName><ref source="person219">Joseph</ref></persName>’s ring, put him in silken clothes and a golden chain on his necklace is also found in Egyptian monuments. Other higher 
+               officers, we find the word “Taba” in the Egyptian monuments, the highest officers are also called “Odn” in the Egyptian scripts with the addition “the second after the king”. In the Pentateuch the pharaoh says to <persName><ref source="person219">Joseph</ref></persName>: “You shall be above my house”, in the Egyptian inscriptions 
+               we also find an honorific meaning “the one seated above the house”. The word abork which is said to be yelled by <persName><ref source="person219">Joseph</ref></persName> is an Egyptian one and means: Your word is our wish. <persName><ref source="person219">Joseph</ref></persName>’s second name which he has taken on in 
+               <placeName><ref source="place013">Egypt</ref></placeName> - Zaphnath-Paaneah - is Egyptian and means “God speaks and he lives”. The Egyptian inscriptions also tell us from the custom of giving new names to high officials. <persName><ref source="person220">Potipherah</ref></persName> is also Egyptian and means “He whom Ra has given” 
+               (the son in <placeName><ref source="place013">Egypt</ref></placeName> was thought of a deity). 
             </p>
             <p>
-               The descriptions of the Egyptian period, which is described in the Torah, about the life on the royal court, about the situation of the Egyptian priests - are all aligning with the information acquired about <rs type="place"><ref source="place013">Egypt</ref></rs> from the monuments and inscriptions in their own language.
+               The descriptions of the Egyptian period, which is described in the Torah, about the life on the royal court, about the situation of the Egyptian priests - are all aligning with the information acquired about <placeName><ref source="place013">Egypt</ref></placeName> from the monuments and inscriptions in their own language.
             </p>
             <p style="text-align:center" rend="bold">[7]</p>
            
@@ -567,9 +567,9 @@
                   Illustrated price lists can be sent for free and without shipping costs on request. 
                   The delivery will make customers satisfied and accomplished to the max.
                </p>
-               <p><rs type="person"><ref source="person106">NATHAN SPRECHER</ref></rs>
+               <p><persName><ref source="person106">NATHAN SPRECHER</ref></persName>
                   <lb/>Artificial fertilizer, seeds &amp; machinery
-                  <lb/><rs type="place"><ref source="place223">Podgórze</ref></rs> - <rs type="place"><ref source="place149">Kraków</ref></rs>
+                  <lb/><placeName><ref source="place223">Podgórze</ref></placeName> - <placeName><ref source="place149">Kraków</ref></placeName>
                </p>
             </div>
             <div>
@@ -583,26 +583,26 @@
                   <lb/>ENTERTAIN and EDUCATE
                   <lb/>two thrilling novels daily, one SUBSTANTIALLY tasteful family insert
                   <lb/>The SUBSCRIPTION COSTS amount to:
-                  <lb/>For one daily, postpaid shipment in <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> and <rs type="place"><ref source="place142">Bosnia</ref></rs>; 2.70 K. monthly, 7.90 K quarterly. For twice weekly shipments of the 
+                  <lb/>For one daily, postpaid shipment in <placeName><ref source="place001">Austria-Hungary</ref></placeName> and <placeName><ref source="place142">Bosnia</ref></placeName>; 2.70 K. monthly, 7.90 K quarterly. For twice weekly shipments of the 
                   <lb/>SATURDAY- and THURSDAY-EDITIONS
                   <lb/>(with novel- and family-insert [in book form], extensive newsreel etc.); 2.64 K. quarterly, 5.20 K. for six months. For weekly shipments of the rich SATURDAY-EDITION (with novel- and family-insert [in book form], extensive newsreel etc.); 1.70 K quarterly, 3.30 K every six months.
                   <lb/>Daily subscriptions can start at any point, weekly subscriptions can only be started at the beginning of the month.
                   <lb/>FREE TRIALS
                   <lb/>The editorial office of the “Oesterreichische 
-                  <lb/>Volkszeitung”, <rs type="place"><ref source="place007">Vienna</ref>, 1010</rs>, <rs type="place"><ref source="place222">Schulerstraße</ref> 16</rs>.
+                  <lb/>Volkszeitung”, <placeName><ref source="place007">Vienna</ref>, 1010</placeName>, <placeName><ref source="place222">Schulerstraße</ref> 16</placeName>.
                   <lb/>All new subscribers receive the current, highly interesting novels and novellas for free.</p>
             </div> 
             <div>
                <p>
                   You can get various useful instructions for register handlers, head of cultural affairs, private individuals, etc. at different prices.
-                  <lb/><rs type="person"><ref source="person139">S. Weinstock</ref></rs>, in <rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place"><ref source="place185">Rzeznika</ref></rs> 5.
+                  <lb/><persName><ref source="person139">S. Weinstock</ref></persName>, in <placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place185">Rzeznika</ref></placeName> 5.
                </p>
             </div>
             <cb/>
             <div style="text-align:center">
                <p>Bank and exchange business
                   <lb/>ROHAYTN &amp; ULAM
-                  <lb/><foreign xml:lang="de"><rs type="place"><ref source="place002">Lemberg</ref></rs>, <rs type="place"><ref source="place186">Syxtuskagasse</ref></rs> 8.</foreign>
+                  <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <placeName><ref source="place186">Syxtuskagasse</ref></placeName> 8.</foreign>
                   <lb/>Buying and selling all kinds of
                   <lb/>Effects, lotteries, and coins.
                   <lb/>Lottery available in cheap installments.
@@ -620,43 +620,43 @@
                </p>
                <table rows="7" cols="2">
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place054">Santos</ref></rs> Coffee á 1.15 guilder / kg</cell>
+                     <cell role="data"><placeName><ref source="place054">Santos</ref></placeName> Coffee á 1.15 guilder / kg</cell>
                      <cell role="data">Passover Coffee</cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="palce"><ref source="place062">Salvador</ref></rs> 1.30 " "</cell>
+                     <cell role="data"><placeName><ref source="place062">Salvador</ref></placeName> 1.30 " "</cell>
                      <cell role="data">Lightly roasted  1.45 guilder, medium</cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place055">Puerto Rico</ref></rs>1.55 " "</cell>
+                     <cell role="data"><placeName><ref source="place055">Puerto Rico</ref></placeName>1.55 " "</cell>
                      <cell role="data">roast  1.65 guilder, dark roast 1.55</cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place056">Cuba</ref></rs> 1.60 " "</cell>
+                     <cell role="data"><placeName><ref source="place056">Cuba</ref></placeName> 1.60 " "</cell>
                      <cell role="data">guilder. Price per kg. Price list for free.</cell>
                   </row>
                   <row role="data">
-                     <cell role="data">Gold <rs type="place"><ref source="place058">Java</ref></rs> 1.60 " "</cell>
+                     <cell role="data">Gold <placeName><ref source="place058">Java</ref></placeName> 1.60 " "</cell>
                      <cell role="data">If more than 30 kg are bought, a</cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place054">Santos</ref></rs> 1.40 " "</cell>
+                     <cell role="data"><placeName><ref source="place054">Santos</ref></placeName> 1.40 " "</cell>
                      <cell role="data">discount of 20 heller is applied.</cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place055">Puerto Rico</ref></rs> 1.60 " "</cell>
+                     <cell role="data"><placeName><ref source="place055">Puerto Rico</ref></placeName> 1.60 " "</cell>
                      <cell role="data"></cell>
                   </row>
                </table>
                <p>
-                  <rs type="person">Berger Ernö</rs>, <rs type="place"><ref source="place058">Fuime</ref></rs>.
+                  <persName>Berger Ernö</persName>, <placeName><ref source="place058">Fuime</ref></placeName>.
                </p>
             </div>
             <div>
                <head><hi rend="bold">Cheapest supplier<lb/><hi rend="italic">without competition</hi></hi></head>
                <p>
                   of <ref source="https://www.wikidata.org/wiki/Q212950">tallits</ref>, Turkish silk, and nickel silver embroidery, 4, 8, 16 strings for sale at the well-known Galician tallits-factory
-                  <lb/><rs type="person"><ref source="person140">Hirsch Gutwirth</ref></rs>, <rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place"><ref source="place065">Hrodototska St</ref> 8</rs>               
+                  <lb/><persName><ref source="person140">Hirsch Gutwirth</ref></persName>, <placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place065">Hrodototska St</ref> 8</placeName>               
                </p>
             </div>
             <div>
@@ -664,7 +664,7 @@
                   Cancer, stomach- and liver disease, suspicious growths, internal and external tumors (often said to be harmless, but usually cancerous) as well as contagion and heredity of cancer written in my printing which I dispatch with several certified thank you letters (including clerics and Jesuits) for 10 heller in stamps.
                </p>
                <p>
-                  <rs type="person"><ref source="person141">A. Stropp</ref></rs>, <rs type="place"><ref source="place254">Neunkirchen</ref></rs> Nr. 347 <rs type="place"><ref source="place253">Kreis Wiedenbrück</ref></rs>. <rs type="place"><ref source="place255">Westfal</ref></rs>.
+                  <persName><ref source="person141">A. Stropp</ref></persName>, <placeName><ref source="place254">Neunkirchen</ref></placeName> Nr. 347 <placeName><ref source="place253">Kreis Wiedenbrück</ref></placeName>. <placeName><ref source="place255">Westfal</ref></placeName>.
                </p>
             </div>
             <div>
@@ -674,18 +674,15 @@
                   <lb/>1 kg fine, pure tea only 6 crowns.
                   <lb/>There is also tea costing 3 to 10 crowns per kg.
                   <lb/>Sample for free and prepaid.
-                  <lb/><rs type="person"><ref source="person053">L. Aperman</ref></rs>, <rs type="place"><ref source="place132">Brody</ref></rs> <rs type="place"><ref source="place006">Galicia</ref></rs>.
+                  <lb/><persName><ref source="person053">L. Aperman</ref></persName>, <placeName><ref source="place132">Brody</ref></placeName> <placeName><ref source="place006">Galicia</ref></placeName>.
                   <lb/>Thee &amp; Caffe Lager.
                </p>
             </div>
          <div type="footer" style="one columns" n="1">
             <p>
                <foreign xml:lang="de">
-                  <lb/>Herausgeber und verantwortlicher Redact. <rs type="person"><ref source="person031">OSIAS H. WILF</ref></rs>
-                  recte Weinstock <lb/>Druck von <rs type="person"><ref source="person032">E. Salat</ref></rs> Witwe des <rs
-                     type="person"><ref source="person033">U.W. Salat</ref></rs>, <rs type="place"><ref source="place002"
-                        >Lemberg</ref></rs>
-                  <rs type="place"><ref source="place065">Kasimirgasse 35</ref></rs>
+                  <lb/>Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName>recte Weinstock 
+                  <placeName><ref source="place065">Kasimirgasse 35</ref></placeName>
                </foreign>
             </p>
             <p style="text-align:center">[8]</p>

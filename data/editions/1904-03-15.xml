@@ -93,7 +93,7 @@
             <table rows="4" cols="2">
                <head>The Geniune Jew costs</head>
                <row role="data">
-                  <cell role="data">In <rs type="place"><ref source="place001">Austria-Hungary</ref></rs></cell>
+                  <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
                   <cell role="data">Abroad</cell>
                </row>
                <row role="data">
@@ -109,220 +109,220 @@
                   <cell role="data">For a quarter year - 5.50 "</cell>
                </row>
             </table>
-            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-03-15"> March 15th 1904</date></p>
+            <p><placeName><ref source="place002">Lviv</ref></placeName>,<date calendar="Hebrew" when-custom="5664-12-28"> <foreign xml:lang="he">Yom Shlishi <ref source="https://www.wikidata.org/wiki/Q1506424">Vayikra</ref></foreign> 5664</date></p>
             <p>
-               <lb/>Adverts are cheaply calculated <lb/>All letters and money send to:<lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place"><ref source="place003">Sonnengasse</ref> 27</rs></foreign>
-               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign xml:lang="de"><rs type="place"><ref source="place002">Lemberg</ref></rs>, <date when-iso="1904-03-15">den 15.März 1904</date></foreign>.</p>
+               <lb/>Adverts are cheaply calculated <lb/>All letters and money send to:<lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse</ref> 27</placeName></foreign>
+               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <date when-iso="1904-03-15">den 15.März 1904</date></foreign>.</p>
          </div>
          <div n="3">
-            <head>Germans and Czechs - and <rs type="person">Dr <ref source="person007">Byk</ref></rs></head>
+            <head>Germans and Czechs - and <persName>Dr <ref source="person007">Byk</ref></persName></head>
             <p>
-               The situation of Austrian Jews is quite strange. Whatever they do, everything is foul. The Polish think they are Germans and cry about them helping to Germanise <rs type="place"><ref source="place006">Galicia</ref></rs>. 
-               The Ruthenians clamour about them being Polish and assist in oppressing the Ruthanians. The Germans in <rs type="place"><ref source="place026">Bohemia</ref></rs> yell that the Jews cooperate with the Czechs and the Czechs 
+               The situation of Austrian Jews is quite strange. Whatever they do, everything is foul. The Polish think they are Germans and cry about them helping to Germanise <placeName><ref source="place006">Galicia</ref></placeName>. 
+               The Ruthenians clamour about them being Polish and assist in oppressing the Ruthanians. The Germans in <placeName><ref source="place026">Bohemia</ref></placeName> yell that the Jews cooperate with the Czechs and the Czechs 
                in turn think that they are German and so on. The best opportunity of action for the Jews is to stay as far away as possible from all disputes. Wherever two nations fight, they shall not intervene  if possible, because they 
                know that in the end, everything will be blamed on them.
             </p>
             <p>
-               In the last days a situation occurred which again proved this hypothesis. <rs type="person"><ref source="person107">Stein</ref></rs> and <rs type="person"><ref source="person108">Herzog</ref></rs>, two antisemites, insulted 
+               In the last days a situation occurred which again proved this hypothesis. <persName><ref source="person107">Stein</ref></persName> and <persName><ref source="person108">Herzog</ref></persName>, two antisemites, insulted 
                the Czech people in parliament. The Czechs then demanded to forward this matter to a special committee which had to present a proposal which details the Reichsrat’s disapproval of the said assertions (this committee is named 
-               “committee of disapproval”). By chance, two Jews were in this committee as well: <rs type="person"><ref source="person007">Dr. <hi rend="italic">Byk</hi></ref></rs> and <rs type="person"><ref source="person109">Dr Rappaport</ref></rs>, 
-               both from <rs type="place"><ref source="place006">Galicia</ref></rs>. Those two explained to the committee that the committee of approval is only used if one delegate insults another personally. The delegates <rs type="person"><ref source="person107">Stein</ref></rs> 
-               and <rs type="person"><ref source="person108">Herzog</ref></rs> did not insult anyone personally, they badmouthed the Czechs as a whole. Furthermore, the<cb/> committee can only commiserate about what has happened, but cannot express 
-               disapproval against <rs type="person"><ref source="person107">Stein</ref></rs> and <rs type="person"><ref source="person108">Herzog</ref></rs>. The delegate <rs type="person"><ref source="person109">Merunowicz</ref></rs> agreed 
-               with that and the presiding delegate <rs type="person"><ref source="person111">Gniewosz</ref></rs> as well. The committee decided that they will do as <rs type="person">Dr <ref source="person007">Byk</ref></rs> said and the presiding 
-               delegate chose him to be the speaker, he shall bring this motion forward. However, the <ref source="https://www.wikidata.org/wiki/Q21296288">Polish Circle</ref> was not satisfied with the decision and as <rs type="person">Dr <ref source="person007">Byk</ref></rs> 
+               “committee of disapproval”). By chance, two Jews were in this committee as well: <persName><ref source="person007">Dr. <hi rend="italic">Byk</hi></ref></persName> and <persName><ref source="person109">Dr Rappaport</ref></persName>, 
+               both from <placeName><ref source="place006">Galicia</ref></placeName>. Those two explained to the committee that the committee of approval is only used if one delegate insults another personally. The delegates <persName><ref source="person107">Stein</ref></persName> 
+               and <persName><ref source="person108">Herzog</ref></persName> did not insult anyone personally, they badmouthed the Czechs as a whole. Furthermore, the<cb/> committee can only commiserate about what has happened, but cannot express 
+               disapproval against <persName><ref source="person107">Stein</ref></persName> and <persName><ref source="person108">Herzog</ref></persName>. The delegate <persName><ref source="person109">Merunowicz</ref></persName> agreed 
+               with that and the presiding delegate <persName><ref source="person111">Gniewosz</ref></persName> as well. The committee decided that they will do as <persName>Dr <ref source="person007">Byk</ref></persName> said and the presiding 
+                  delegate chose him to be the speaker, he shall bring this motion forward. However, the <ref source="https://www.wikidata.org/wiki/Q21296288">Polish Circle</ref> was not satisfied with the decision and as <persName>Dr <ref source="person007">Byk</ref></persName> 
                learned this he explained that he cannot be the speaker and retreated from his position in the committee. As none of the other committee members wanted to present the decision, a new committee had to be elected. This committee 
-               decided to disapprove <rs type="person"><ref source="person107">Stein</ref></rs>'s and <rs type="person"><ref source="person108">Herzog</ref></rs>’s course of action. 
+               decided to disapprove <persName><ref source="person107">Stein</ref></persName>'s and <persName><ref source="person108">Herzog</ref></persName>’s course of action. 
             </p>
             <p>
-               This molehill turned into a mountain. The Germans were of course satisfied with <rs type="person">Dr <ref source="person007">Byk</ref></rs> and claimed that he did the right thing, the Czech exclaimed the opposite; he was in the 
-               wrong! <rs type="person">Dr <ref source="person007">Byk</ref></rs> was accused of sticking with the Germans, and furthermore with antisemites. Even Polish papers write about <rs type="person">Dr <ref source="person007">Byk</ref></rs>’s 
-               wrongdoings; supporting Germans as a Polish delegate. A huge debate erupted. Luckily, two other Poles voted with <rs type="person">Dr <ref source="person007">Byk</ref></rs> and <rs type="person">Dr <ref source="person109">Rapoport</ref></rs>: 
-               <rs type="person"><ref source="person110">Merunowicz</ref></rs> and <rs type="person"><ref source="person111">Gniewosz</ref></rs>. Otherwise this could have ended in a true anti-semitic tale. Still, in 
+               This molehill turned into a mountain. The Germans were of course satisfied with <persName>Dr <ref source="person007">Byk</ref></persName> and claimed that he did the right thing, the Czech exclaimed the opposite; he was in the 
+               wrong! <persName>Dr <ref source="person007">Byk</ref></persName> was accused of sticking with the Germans, and furthermore with antisemites. Even Polish papers write about <persName>Dr <ref source="person007">Byk</ref></persName>’s 
+               wrongdoings; supporting Germans as a Polish delegate. A huge debate erupted. Luckily, two other Poles voted with <persName>Dr <ref source="person007">Byk</ref></persName> and <persName>Dr <ref source="person109">Rapoport</ref></persName>: 
+               <persName><ref source="person110">Merunowicz</ref></persName> and <persName><ref source="person111">Gniewosz</ref></persName>. Otherwise this could have ended in a true anti-semitic tale. Still, in 
             </p>
             <fw type="footer">We ask the subscribers of <foreign xml:lang="he-Hebr" style="rtl">מחזיקי הדת</foreign> and <foreign xml:lang="he-Hebr" style="rtl">קול מחזיקי הדת</foreign> to send every letter and money to this address:
-            <lb/><rs type="person"><ref source="person031">OSIAS H. WILF</ref></rs>, <rs type="place"><ref source="place002">LEMBERG</ref></rs> <ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.
+               <lb/><persName><ref source="person031">OSIAS H. WILF</ref></persName>, <placeName><ref source="place002">LEMBERG</ref></placeName> <ref source="place003"><placeName>Sonnengasse 27</placeName></ref>.
             </fw>
             <pb/>
             <fw type="pageNum">- 2 -</fw>
             <p>
-               anti-semitic Polish and Czech papers feature attacks against the <hi rend="italic">Jew</hi> <rs type="person">Dr <ref source="person007">Byk</ref></rs>. 
+               anti-semitic Polish and Czech papers feature attacks against the <hi rend="italic">Jew</hi> <persName>Dr <ref source="person007">Byk</ref></persName>. 
             </p>
-            <p>We think it doesn’t matter whether <rs type="person">Dr <ref source="person007">Byk</ref></rs> had accepted the committee mandate from the beginning. He didn’t have to intervene in the dispute between antisemitic Germans and 
+            <p>We think it doesn’t matter whether <persName>Dr <ref source="person007">Byk</ref></persName> had accepted the committee mandate from the beginning. He didn’t have to intervene in the dispute between antisemitic Germans and 
                antisemitic Czechs. Whatever they are doing, he shouldn’t say a word. That way he would have spared the trouble and wouldn’t give antisemitic papers a chance to rail against Jews.
             </p>
          </div>
          <div n="4">
             <head>Turkish politics.</head>
             <p>
-               Once upon a time <rs type="place"><ref source="place075">Turkey</ref></rs> played the most important role in world politics, back when its great army flooded half <rs type="place"><ref source="place100">Europe</ref></rs>. 
-               Every greater power banded together, formed alliances and contracts in order to protect themselves against the Turkish might. - This hasn’t been the case for over 200 years now. Since the Polish king <rs type="person"><ref source="person112">John Sobieski</ref></rs> 
-               chased the Turks away in 1683 when they besieged <rs type="place"><ref source="place007">Vienna</ref></rs>, they haven’t played a big role anymore. Its influence shrank, it stopped conquering other countries. 
-               <rs type="place"><ref source="place075">Turkey</ref></rs> was satisfied that everyone got off its back and didn’t take away its remaining countries. 
+               Once upon a time <placeName><ref source="place075">Turkey</ref></placeName> played the most important role in world politics, back when its great army flooded half <placeName><ref source="place100">Europe</ref></placeName>. 
+               Every greater power banded together, formed alliances and contracts in order to protect themselves against the Turkish might. - This hasn’t been the case for over 200 years now. Since the Polish king <persName><ref source="person112">John Sobieski</ref></persName> 
+               chased the Turks away in 1683 when they besieged <placeName><ref source="place007">Vienna</ref></placeName>, they haven’t played a big role anymore. Its influence shrank, it stopped conquering other countries. 
+               <placeName><ref source="place075">Turkey</ref></placeName> was satisfied that everyone got off its back and didn’t take away its remaining countries. 
             </p>
             <p>
                But they were not allowed to rest. The Slavic countries which were oppressed before freed themselves from the Turkish burdens. Revolutions broke out and while not every revolt was successful they constantly disturbed the Turkish government 
-               and would not allow them to breathe easily. Furthermore, they waged war against <rs type="place"><ref source="place025">Austria</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs>. After every war, little by little, 
-               land was seized and <rs type="place"><ref source="place075">Turkey</ref></rs> remained with less countrymass. The Slavic people freed themselves one by one; the Montenegrians, the Serbs, the Greeks, the Romanians, and the Bulgarians. Finally, 
-               only a small piece of land in Europe remained for the <rs type="person"><ref source="person113">Sultan</ref></rs>. The Russian emperor <rs type="person"><ref source="person114">Nicholas</ref></rs> called him the “<ref source="https://www.wikidata.org/wiki/Q1472463">sick man of Europe</ref>”. 
-               This name is quite accurate. <rs type="place"><ref source="place075">Turkey</ref></rs> is sick. It’s not possible to resurrect or artificially provide life support via European politics. 
+               and would not allow them to breathe easily. Furthermore, they waged war against <placeName><ref source="place025">Austria</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName>. After every war, little by little, 
+               land was seized and <placeName><ref source="place075">Turkey</ref></placeName> remained with less countrymass. The Slavic people freed themselves one by one; the Montenegrians, the Serbs, the Greeks, the Romanians, and the Bulgarians. Finally, 
+               only a small piece of land in Europe remained for the <persName><ref source="person113">Sultan</ref></persName>. The Russian emperor <persName><ref source="person114">Nicholas</ref></persName> called him the “<ref source="https://www.wikidata.org/wiki/Q1472463">sick man of Europe</ref>”. 
+               This name is quite accurate. <placeName><ref source="place075">Turkey</ref></placeName> is sick. It’s not possible to resurrect or artificially provide life support via European politics. 
             </p>
             <p>
-               The European powers cannot agree to a plan, who should inherit <rs type="place"><ref source="place075">Turkey</ref></rs>’s power and how they want to divide the country. At last, they settled on an outcome: “Not for me - not for you!” 
+               The European powers cannot agree to a plan, who should inherit <placeName><ref source="place075">Turkey</ref></placeName>’s power and how they want to divide the country. At last, they settled on an outcome: “Not for me - not for you!” 
                They decided that everything should remain as it is. No one should take anything from the sultan and he in turn should not enlarge his territory as well. After the <ref source="https://www.wikidata.org/wiki/Q657055">Greco-Turkish war</ref>, 
-               <rs type="place"><ref source="place075">Turkey</ref></rs> did not take anything from <rs type="place"><ref source="place083">Greece</ref></rs> and even had to hand back <rs type="place"><ref source="place079">Crete</ref></rs> to 
-               <rs type="person">Prince <ref source="person115">Georg</ref></rs> who administers it as a formality in the name of the sultan. In reality, he is the master of it and does what he wants to.
+               <placeName><ref source="place075">Turkey</ref></placeName> did not take anything from <placeName><ref source="place083">Greece</ref></placeName> and even had to hand back <placeName><ref source="place079">Crete</ref></placeName> to 
+               <persName>Prince <ref source="person115">Georg</ref></persName> who administers it as a formality in the name of the sultan. In reality, he is the master of it and does what he wants to.
             </p>
             <p>
-               So, the powers agreed to change nothing concerning the Turkish lands. They watch over each other, nothing bad should happen there. But to calm the Slavic and Christian population down, they demanded from <rs type="place"><ref source="place075">Turkey</ref></rs> 
+               So, the powers agreed to change nothing concerning the Turkish lands. They watch over each other, nothing bad should happen there. But to calm the Slavic and Christian population down, they demanded from <placeName><ref source="place075">Turkey</ref></placeName> 
                to introduce reformations in the European provinces. The people should not have to endure Turkish officers and be exploited by them. The savage Turks, Albanians, and Armenians need not to rob, murder, and ransack Christians.
             </p>
             <p>
-               <rs type="place"><ref source="place075">Turkey</ref></rs> agreed to all of it. First it hesitated, searched for different excuses, but needed to give in at last and promised to introduce the reforms. Still, it did not happen. It certainly knew that no 
-               other power would dare to force introducing the reforms, because other powers would not permit it to happen. It’s near impossible for everyone to agree to one particular plan. <rs type="place"><ref source="place075">Turkey</ref></rs> played with 
+               <placeName><ref source="place075">Turkey</ref></placeName> agreed to all of it. First it hesitated, searched for different excuses, but needed to give in at last and promised to introduce the reforms. Still, it did not happen. It certainly knew that no 
+               other power would dare to force introducing the reforms, because other powers would not permit it to happen. It’s near impossible for everyone to agree to one particular plan. <placeName><ref source="place075">Turkey</ref></placeName> played with 
                different powers and at the end herded them like cattle. 
             </p>
             <p>
-               The powers watched and remained silent. Their jealousy of each other would not allow them to do something against it. However, the <rs type="place"><ref source="place081">Balkan</ref></rs> countries were not okay with keeping quiet, so they organised 
-               revolts and riots. They knew that <rs type="place"><ref source="place075">Turkey</ref></rs> would suppress these riots with force. It would allow Christians being robbed and murdered which would leave the powers with no other choice than to intervene 
-               and to seize the Slavik lands back from <rs type="place"><ref source="place075">Turkey</ref></rs>. 
+               The powers watched and remained silent. Their jealousy of each other would not allow them to do something against it. However, the <placeName><ref source="place081">Balkan</ref></placeName> countries were not okay with keeping quiet, so they organised 
+               revolts and riots. They knew that <placeName><ref source="place075">Turkey</ref></placeName> would suppress these riots with force. It would allow Christians being robbed and murdered which would leave the powers with no other choice than to intervene 
+               and to seize the Slavik lands back from <placeName><ref source="place075">Turkey</ref></placeName>. 
             </p>
             <p>
-               <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> as well as <rs type="place"><ref source="place014">Russia</ref></rs> cared the most about this matter; they are the closest neighbours and are the most invested in the 
-               <rs type="place"><ref source="place081">Balkan</ref></rs> countries. Both powers were also most keen on keeping the status quo in <rs type="place"><ref source="place075">Turkey</ref></rs> as they cannot agree on how to split the lands. If war would 
-               break out on the <rs type="place"><ref source="place081">Balkan</ref></rs>, both would have to intervene which both would rather avoid. So, they worked on a reform scheme which should be introduced in <rs type="place"><ref source="place075">Turkey</ref></rs>, 
-               mainly in <rs type="place"><ref source="place081">Macedonia</ref></rs> where the riots cannot be terminated. They hoped to achieve a lot with their plan: First, <rs type="place"><ref source="place075">Turkey</ref></rs> will not be able to find excuses 
-               anymore. If the two main powers propose a plan, every other power will have to support it and the sultan would not be able to fight against the unified European will. Second, the <rs type="place"><ref source="place081">Balkan</ref></rs> countries, who 
-               exploited the jealousy of <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs> and in turn did whatever they wanted to, will have to admit that the jealousy came to an end and 
-               therefore cannot be exploited anymore. Indeed, both called upon the <rs type="place"><ref source="place081">Balkan</ref></rs> countries to keep calm. They have to comply, whether they want to or not.
+               <placeName><ref source="place001">Austria-Hungary</ref></placeName> as well as <placeName><ref source="place014">Russia</ref></placeName> cared the most about this matter; they are the closest neighbours and are the most invested in the 
+               <placeName><ref source="place081">Balkan</ref></placeName> countries. Both powers were also most keen on keeping the status quo in <placeName><ref source="place075">Turkey</ref></placeName> as they cannot agree on how to split the lands. If war would 
+               break out on the <placeName><ref source="place081">Balkan</ref></placeName>, both would have to intervene which both would rather avoid. So, they worked on a reform scheme which should be introduced in <placeName><ref source="place075">Turkey</ref></placeName>, 
+               mainly in <placeName><ref source="place081">Macedonia</ref></placeName> where the riots cannot be terminated. They hoped to achieve a lot with their plan: First, <placeName><ref source="place075">Turkey</ref></placeName> will not be able to find excuses 
+               anymore. If the two main powers propose a plan, every other power will have to support it and the sultan would not be able to fight against the unified European will. Second, the <placeName><ref source="place081">Balkan</ref></placeName> countries, who 
+               exploited the jealousy of <placeName><ref source="place001">Austria-Hungary</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName> and in turn did whatever they wanted to, will have to admit that the jealousy came to an end and 
+               therefore cannot be exploited anymore. Indeed, both called upon the <placeName><ref source="place081">Balkan</ref></placeName> countries to keep calm. They have to comply, whether they want to or not.
             </p>
             <p>
-               Even <rs type="place"><ref source="place075">Turkey</ref></rs> accepted the reform scheme. It agreed to all conditions which had been 
+               Even <placeName><ref source="place075">Turkey</ref></placeName> accepted the reform scheme. It agreed to all conditions which had been 
             </p>
             <pb/>
             <fw type="pageNum">- 3 -</fw>
             <p>
-               requested, because it realised that the powers united and excuses won’t work anymore. The world thought that finally the Balkan question would finally be answered. The riots would stop, <rs type="place"><ref source="place112">Bulgaria</ref></rs> and 
-               <rs type="place"><ref source="place080">Montenegro</ref></rs> would stop siccing on <rs type="place"><ref source="place081">Macedonia</ref></rs> and the perils of war would disappear. But now, the Russo-Japanese war broke out and everything starts anew. 
+               requested, because it realised that the powers united and excuses won’t work anymore. The world thought that finally the Balkan question would finally be answered. The riots would stop, <placeName><ref source="place112">Bulgaria</ref></placeName> and 
+               <placeName><ref source="place080">Montenegro</ref></placeName> would stop siccing on <placeName><ref source="place081">Macedonia</ref></placeName> and the perils of war would disappear. But now, the Russo-Japanese war broke out and everything starts anew. 
             </p>
             <p>
-               First, the Macedonians and Bulgarians raised their heads. <rs type="place"><ref source="place014">Russia</ref></rs> is busy with <rs type="place"><ref source="place019">Japan</ref></rs> - it will not interfere with the <rs type="place"><ref source="place081">Balkan</ref></rs> 
-               affairs - but it will not allow <rs type="place"><ref source="place025">Austria</ref></rs> to interfere and take hold in the <rs type="place"><ref source="place081">Balkan</ref></rs>. <rs type="place"><ref source="place075">Turkey</ref></rs> has also started to bestir. 
-               It started to collect a lot of military and threatened to declare war on <rs type="place"><ref source="place112">Bulgaria</ref></rs>. <rs type="place"><ref source="place112">Bulgaria</ref></rs> was intimidated and calmed down. As Turkey saw that the threat worked it started 
+               First, the Macedonians and Bulgarians raised their heads. <placeName><ref source="place014">Russia</ref></placeName> is busy with <placeName><ref source="place019">Japan</ref></placeName> - it will not interfere with the <placeName><ref source="place081">Balkan</ref></placeName> 
+               affairs - but it will not allow <placeName><ref source="place025">Austria</ref></placeName> to interfere and take hold in the <placeName><ref source="place081">Balkan</ref></placeName>. <placeName><ref source="place075">Turkey</ref></placeName> has also started to bestir. 
+               It started to collect a lot of military and threatened to declare war on <placeName><ref source="place112">Bulgaria</ref></placeName>. <placeName><ref source="place112">Bulgaria</ref></placeName> was intimidated and calmed down. As Turkey saw that the threat worked it started 
                to go against the reform scheme which had already been under way. The sultan reflected on the reform scheme and realised that it would diminish his power as an independent ruler as why he cannot agree to it. Every day he is looking for more objections, every day he is finding 
-               more justifications and excuses. Soon he will demand for foreign officers to be in charge of the police in <rs type="place"><ref source="place081">Macedonia</ref></rs> again, they should wear Turkish uniforms, soon he wants them to be able to speak Turkish again - and in 
+               more justifications and excuses. Soon he will demand for foreign officers to be in charge of the police in <placeName><ref source="place081">Macedonia</ref></placeName> again, they should wear Turkish uniforms, soon he wants them to be able to speak Turkish again - and in 
                the end he wants - according to the Turkish religion - that a non-Turk is not allowed to be in charge of a Turk. The foreign officers therefore cannot have any authority. The same thing he introduced to Austrian and Russian civil agents who have been provided to the 
-               general administrator <rs type="person"><ref source="person116">Hilmi Pasha</ref></rs> as counselors. Before he agreed for them to wield administrative influence; but now he considered it again and decided that foreigners cannot be in control. They cannot dismiss Turkish 
+               general administrator <persName><ref source="person116">Hilmi Pasha</ref></persName> as counselors. Before he agreed for them to wield administrative influence; but now he considered it again and decided that foreigners cannot be in control. They cannot dismiss Turkish 
                officials or punish them or similar.
             </p>
             <p>
-               However, the sultan is playing with fire. He forgets that his position in <rs type="place"><ref source="place100">Europe</ref></rs> is dependent on the power’s jealousy of each other. If the powers united, they would be able to put an end to him. - Moreover, the fact that 
-               <rs type="place"><ref source="place014">Russia</ref></rs> has its attention somewhere else could be fatal to the sultan. Until now, <rs type="place"><ref source="place014">Russia</ref></rs> was part of the discussion but now they have not asked for <rs type="place"><ref source="place014">Russia</ref></rs>’s 
+               However, the sultan is playing with fire. He forgets that his position in <placeName><ref source="place100">Europe</ref></placeName> is dependent on the power’s jealousy of each other. If the powers united, they would be able to put an end to him. - Moreover, the fact that 
+               <placeName><ref source="place014">Russia</ref></placeName> has its attention somewhere else could be fatal to the sultan. Until now, <placeName><ref source="place014">Russia</ref></placeName> was part of the discussion but now they have not asked for <placeName><ref source="place014">Russia</ref></placeName>’s 
                opinion. An important competitor to the sultan’s heritage disappeared making it easier for others to divide the heritage. 
             </p>
          </div>
          <div n="5">
-            <head>Famine in <rs type="place"><ref source="place043">Spain</ref></rs>.</head>
+            <head>Famine in <placeName><ref source="place043">Spain</ref></placeName>.</head>
             <p>
-               Tragic news about a horrible famine has been reported from <rs type="place"><ref source="place043">Spain</ref></rs> lately. In many cities inflation has grown greatly causing not only poor people, but also wealthy ones to go hungry. In the capital <rs type="place"><ref source="place041"><hi rend="italic">Madrid</hi></ref></rs> 
+               Tragic news about a horrible famine has been reported from <placeName><ref source="place043">Spain</ref></placeName> lately. In many cities inflation has grown greatly causing not only poor people, but also wealthy ones to go hungry. In the capital <placeName><ref source="place041"><hi rend="italic">Madrid</hi></ref></placeName> 
             </p>
             <p>
                one litre milk costs one crown, one litre petroleum 80 heller, one kilogram potatoes 20 heller, one kilogram bread 45 heller. Other cities are even more expensive. The destitution prevailing<cb/> in the lower classes is indescribable. Seven dead, perished of starvation, 
                have been found on the capital’s streets these days. Multiple beggars roam the streets, the police had to be called to lead them to welfare institutions. In one day alone, over 1,500 beggars were collected. 
             </p>
             <p>
-               Because of hunger, riots broke out in multiple cities. In  <rs type="place"><ref source="place224">Valladolid</ref></rs>, a heap of women with naked children carrying black saucepan through the city yelling: “We demand bread and work!” They told them in the city hall that 
+               Because of hunger, riots broke out in multiple cities. In  <placeName><ref source="place224">Valladolid</ref></placeName>, a heap of women with naked children carrying black saucepan through the city yelling: “We demand bread and work!” They told them in the city hall that 
                the administration bought 6,000 kilograms of bread and will sell them cheaply. They were not satisfied and so they continued yelling and crashing around. Soon over 10,000 factory workers joined them. Fear dominated the city, everyone closed their windows and doors and hid 
                in their basements and attics. The masses broke street lanterns, smashed in the governors and mayor’s windows, and pelted a monastery with stones. They doused the monastery in petroleum and wanted to set it ablaze. Military then appeared and broke them up. Lately, the people 
                are upset with the clergy in general. If a riot breaks out in a city, the people will soon let off their steam with the monasteries. The military had to shoot and several people were wounded. Only then the crowd dispelled. But new riots are dreaded, because the people are furious.
             </p>
             <p>
-               In many other cities like  <rs type="place"><ref source="place225">Málaga</ref></rs>, <rs type="place"><ref source="place226">Seville</ref></rs>, <rs type="place"><ref source="place227">Bilbao</ref></rs>, <rs type="place"><ref source="place228">Gijón</ref></rs> as well as the 
-               capital <rs type="place"><ref source="place041">Madrid</ref></rs>, the people are very agitated and revolts can break out any day. The government is helpless, the treasury is empty and they cannot help the people. 
+               In many other cities like  <placeName><ref source="place225">Málaga</ref></placeName>, <placeName><ref source="place226">Seville</ref></placeName>, <placeName><ref source="place227">Bilbao</ref></placeName>, <placeName><ref source="place228">Gijón</ref></placeName> as well as the 
+               capital <placeName><ref source="place041">Madrid</ref></placeName>, the people are very agitated and revolts can break out any day. The government is helpless, the treasury is empty and they cannot help the people. 
             </p>
          </div>
          <div n="6">
             <head>News.</head>
             <head type="h2">Jewish news.</head>
             <p>
-               (<rs type="place"><ref source="place007">Vienna</ref></rs>). The supreme court decided an interesting verdict. A widow (a woman whose husband died without children) had to pay her brother in law 8,000 crowns because he should release her from the obligation of levirate marriage 
+               (<placeName><ref source="place007">Vienna</ref></placeName>). The supreme court decided an interesting verdict. A widow (a woman whose husband died without children) had to pay her brother in law 8,000 crowns because he should release her from the obligation of levirate marriage 
                and she should marry again. After the marriage she sued her brother in law to give her the money back, because he blackmailed her. The court dismissed the case. She then elevated the lawsuit to the supreme court which sentenced the culprit to return the money, because he exploited 
                her plight to extort the money. 
-               (<rs type="place"><ref source="place031">Berlin</ref></rs>). The municipality <rs type="place"><ref source="place229">Potsdam</ref></rs> wants to forbid ritual slaughter in its slaughterhouse. The local Jews certainly do anything to thwart this ban. 
+               (<placeName><ref source="place031">Berlin</ref></placeName>). The municipality <placeName><ref source="place229">Potsdam</ref></placeName> wants to forbid ritual slaughter in its slaughterhouse. The local Jews certainly do anything to thwart this ban. 
             </p>
             <p>
-               (<rs type="place"><ref source="place107">Rome</ref></rs>). An antisemetic stage play was performed in an asylum. The play is about</p>
+               (<placeName><ref source="place107">Rome</ref></placeName>). An antisemetic stage play was performed in an asylum. The play is about</p>
             <pb/>
             <fw type="pageNum">- 4 -</fw>
             <p>
                Jewish people luring a Christian girl to slaughter her. The government closed the asylum instantly. The director and writer of the play have been arrested because of Jew-baiting. 
             </p>
             <p>
-               (<rs type="place"><ref source="place018">St Petersburg</ref></rs>). Russian newspapers write that what the antisemitic papers accuse the Jews of, is not true. They claim that the Jews desert from the military because they do not want to go to the battleground in <rs type="place"><ref source="place136">East Asia</ref></rs>. 
-               On the contrary, a lot of Jewish soldiers volunteer enthusiastically for war. - Those same papers claim that what happened in <rs type="place"><ref source="place105">Chișinău</ref></rs>, the demonstrations against Jews, is not true. Instead peace and quiet prevails there. 
+               (<placeName><ref source="place018">St Petersburg</ref></placeName>). Russian newspapers write that what the antisemitic papers accuse the Jews of, is not true. They claim that the Jews desert from the military because they do not want to go to the battleground in <placeName><ref source="place136">East Asia</ref></placeName>. 
+               On the contrary, a lot of Jewish soldiers volunteer enthusiastically for war. - Those same papers claim that what happened in <placeName><ref source="place105">Chișinău</ref></placeName>, the demonstrations against Jews, is not true. Instead peace and quiet prevails there. 
             </p>
             <p>
-               (<rs type="place"><ref source="place112">Bulgaria</ref></rs>). On <date when="1904-02-26">February 26th</date>, the following case occurred in the Bulgarian harbour city <hi rend="italic"><rs type="place"><ref source="place230">Varna</ref></rs></hi>: a ship came from 
-               <hi rend="italic"><rs type="place"><ref source="place232">Odessa</ref></rs></hi> with several Jewish families who wanted to settle down in <rs type="place"><ref source="place112">Bulgaria</ref></rs>. The police did not even let the Jews come onto land and explained that foreign Jews are 
-               not allowed to settle in <rs type="place"><ref source="place112">Bulgaria</ref></rs>. The Jews informed the Russian consulate <rs type="person"><ref source="person117"><hi rend="italic">Charykov</hi></ref></rs> [He was envoy in <rs type="place"><ref source="place111">Serbia</ref></rs> at this time, 
-               <rs type="person"><ref source="person118">Bakhmeteff</ref></rs> was the Russian ambassador in <rs type="place"><ref source="place112">Bulgaria</ref></rs> 1897-1905] who put on his official uniform and swiftly marched to the harbour with consulate officers and military. The military carried 
-               a Russian flag. The consul explained to the police chief: “If the police wants to send the Jews back to <rs type="place"><ref source="place014">Russia</ref></rs>, it needs to stamp on this Russian flag!” He motioned the Jews to stand between his officers and led them to a hotel. He did 
-               not allow the police to interfere and demanded them to return the passports. - <rs type="place"><ref source="place014">Russia</ref></rs>, which treats its own Jews that badly, looks after them abroad! Or maybe it is just because we are at war?
+               (<placeName><ref source="place112">Bulgaria</ref></placeName>). On <date when="1904-02-26">February 26th</date>, the following case occurred in the Bulgarian harbour city <hi rend="italic"><placeName><ref source="place230">Varna</ref></placeName></hi>: a ship came from 
+               <hi rend="italic"><placeName><ref source="place232">Odessa</ref></placeName></hi> with several Jewish families who wanted to settle down in <placeName><ref source="place112">Bulgaria</ref></placeName>. The police did not even let the Jews come onto land and explained that foreign Jews are 
+               not allowed to settle in <placeName><ref source="place112">Bulgaria</ref></placeName>. The Jews informed the Russian consulate <persName><ref source="person117"><hi rend="italic">Charykov</hi></ref></persName> [He was envoy in <placeName><ref source="place111">Serbia</ref></placeName> at this time, 
+               <persName><ref source="person118">Bakhmeteff</ref></persName> was the Russian ambassador in <placeName><ref source="place112">Bulgaria</ref></placeName> 1897-1905] who put on his official uniform and swiftly marched to the harbour with consulate officers and military. The military carried 
+               a Russian flag. The consul explained to the police chief: “If the police wants to send the Jews back to <placeName><ref source="place014">Russia</ref></placeName>, it needs to stamp on this Russian flag!” He motioned the Jews to stand between his officers and led them to a hotel. He did 
+               not allow the police to interfere and demanded them to return the passports. - <placeName><ref source="place014">Russia</ref></placeName>, which treats its own Jews that badly, looks after them abroad! Or maybe it is just because we are at war?
             </p>
             <p>
-               (<rs type="place"><ref source="place096">New York</ref></rs>). The recently deceased Jew <rs type="person"><ref source="person119">Luis <hi rend="italic">Gonz</hi></ref></rs> left half a million dollars behind for Jewish charity and private persons.
+               (<placeName><ref source="place096">New York</ref></placeName>). The recently deceased Jew <persName><ref source="person119">Luis <hi rend="italic">Gonz</hi></ref></persName> left half a million dollars behind for Jewish charity and private persons.
             </p>
          </div>
          <div n="7">
             <head>Telegrams.</head>
             <head type="h2">The war.</head>
-            <head type="h3">Between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs></head>
+            <head type="h3">Between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName></head>
             <p>
-               <rs type="place"><ref source="place083">Port Arthur</ref></rs>. The Russian battleship in the harbour attacked the Japanese battleships who were stationed close to the harbour. Some Russian battleships started firing at the Japanese ships. The Japanese returned the fire and completely 
+               <placeName><ref source="place083">Port Arthur</ref></placeName>. The Russian battleship in the harbour attacked the Japanese battleships who were stationed close to the harbour. Some Russian battleships started firing at the Japanese ships. The Japanese returned the fire and completely 
                destroyed one and damaged another ship badly. A Japanese ship has also been damaged badly. The Russians retreated. The Japanese followed and bombarded the stronghold for four hours. This time they did a lot of damage. -<cb/> The soldiers of the destroyed and sinking ships were arrested 
                by the Japanese. Several dead and wounded on both sides.  
             </p>
             <p>
-               <rs type="place"><ref source="place156">London</ref></rs>. The Japanese sent over 70,000 soldiers to <rs type="place"><ref source="place022">Korea</ref></rs>. The Japanese military has also landed in <rs type="place"><ref source="place028">Manchuria</ref></rs> and 
-               <rs type="place"><ref source="place082">Vladivostok</ref></rs>. Two divisions march from two sides onto <rs type="place"><ref source="place082">Vladivostok</ref></rs> and the city will soon be trapped from all sides. - The Russian battleships in the harbour of <rs type="place"><ref source="place082">Vladivostok</ref></rs> 
+               <placeName><ref source="place156">London</ref></placeName>. The Japanese sent over 70,000 soldiers to <placeName><ref source="place022">Korea</ref></placeName>. The Japanese military has also landed in <placeName><ref source="place028">Manchuria</ref></placeName> and 
+               <placeName><ref source="place082">Vladivostok</ref></placeName>. Two divisions march from two sides onto <placeName><ref source="place082">Vladivostok</ref></placeName> and the city will soon be trapped from all sides. - The Russian battleships in the harbour of <placeName><ref source="place082">Vladivostok</ref></placeName> 
                steered out into the open sea, followed by the Japanese. 
             </p>
             <p>
-               <rs type="place"><ref source="place018">St Petersburg</ref></rs>. The former minister of war and the current supreme commander of the Russian army in <rs type="place"><ref source="place136">East Asia</ref></rs>, general <hi rend="italic"><rs type="person"><ref source="person068">Kuropatkin</ref></rs></hi> 
+               <placeName><ref source="place018">St Petersburg</ref></placeName>. The former minister of war and the current supreme commander of the Russian army in <placeName><ref source="place136">East Asia</ref></placeName>, general <hi rend="italic"><persName><ref source="person068">Kuropatkin</ref></persName></hi> 
                travelled to the war zone. Until he arrives there in 14 days, the Russian army will remain calm and avoid the Japanese. Only once he arrives will the army enter the war. 
             </p>
             <p>
-               <rs type="place"><ref source="place156">London</ref></rs>. As news from <rs type="place"><ref source="place083">Port Arthur</ref></rs> reports, agitation prevails. Immense inflation and hunger dominates the area. - The population flees as far as they can. Even the military and 
-               generals lose their confidence. Everyone agrees that although <rs type="place"><ref source="place083">Port Arthur</ref></rs>’s stronghold is powerful, the city will not withstand a siege forever and soon they will have to surrender. - Several barrels of brandy are stored in the 
+               <placeName><ref source="place156">London</ref></placeName>. As news from <placeName><ref source="place083">Port Arthur</ref></placeName> reports, agitation prevails. Immense inflation and hunger dominates the area. - The population flees as far as they can. Even the military and 
+               generals lose their confidence. Everyone agrees that although <placeName><ref source="place083">Port Arthur</ref></placeName>’s stronghold is powerful, the city will not withstand a siege forever and soon they will have to surrender. - Several barrels of brandy are stored in the 
                city which are fiercely protected by the officers. The military is not allowed to get ahold of these barrels, because if they do, they will forget the war. They will drink, murder, and rob their own population and the stronghold will be raided by the Japanese. 
             </p>
          </div>
          <div n="8">
-            <head>The peace in <rs type="place"><ref source="place009">Hungary</ref></rs>.</head>
+            <head>The peace in <placeName><ref source="place009">Hungary</ref></placeName>.</head>
             <p>
-               (<rs type="place"><ref source="place030">Budapest</ref></rs>). The parliament passed the recruitment act. The medical examination for the military will start on <date when="1904-03-21">March 21</date> and last until the end of it. On <date when="1904-05-09">May 9</date> the reserves 
+               (<placeName><ref source="place030">Budapest</ref></placeName>). The parliament passed the recruitment act. The medical examination for the military will start on <date when="1904-03-21">March 21</date> and last until the end of it. On <date when="1904-05-09">May 9</date> the reserves 
                will be sent home and the newly appointed military dispersed. - The whole country is satisfied with the conciliation between the opposition and the government. 
             </p>
             <p>
-               The emperor will travel to <rs type="place"><ref source="place030">Budapest</ref></rs> next week and will be welcomed with a great parade.
+               The emperor will travel to <placeName><ref source="place030">Budapest</ref></placeName> next week and will be welcomed with a great parade.
             </p>
          </div>
          <div n="9">
-            <head>The third <rs type="place"><ref source="place105">Kishinev</ref></rs> trials.</head>
+            <head>The third <placeName><ref source="place105">Kishinev</ref></placeName> trials.</head>
             <p>
-               <rs type="place"><ref source="place105">Chișinău</ref></rs>. During the third trials following have been convicted: one defendant for four years, one to two years and eight months forced labour. 15 to one year workhouse and four minors to four months jail. 36 defendants have been discharged. 
+               <placeName><ref source="place105">Chișinău</ref></placeName>. During the third trials following have been convicted: one defendant for four years, one to two years and eight months forced labour. 15 to one year workhouse and four minors to four months jail. 36 defendants have been discharged. 
             </p>
          </div>
          <div n="10">
             <head>The Austrian imperial assembly.</head>
             <p>
-               <rs type="place"><ref source="place007">Vienna</ref></rs>. The Czech obstruction continues. Important discussions cannot be led.
+               <placeName><ref source="place007">Vienna</ref></placeName>. The Czech obstruction continues. Important discussions cannot be led.
             </p>
          </div>
          <fw type="footer">
             <foreign xml:lang="de">
-               Herausgeber und verantwortlicher Redact. <rs type="person"><ref source="person031">OSIAS H. WILF</ref></rs> recte Weinstock
-               <lb/>Druck von <rs type="person"><ref source="person032">E. Salat</ref></rs> Witwe des <rs type="person"><ref source="person033">U.W. Salat</ref></rs>, <rs type="place"><ref source="place002">Lemberg</ref></rs> <rs type="place"><ref source="place065">Kasimirgasse</ref> 35</rs>
+               Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte Weinstock
+               <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse</ref> 35</placeName>
             </foreign>
          </fw>
       </body>
