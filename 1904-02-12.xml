@@ -103,7 +103,7 @@
             <table rows="4" cols="2" style="text-align:center;width:50%">
                <head>The Geniune Jew costs</head>
                <row role="data">
-                  <cell role="data">In <rs type="place"><ref source="place001">Austria-Hungary</ref></rs></cell>
+                  <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
                   <cell role="data">Abroad</cell>
                </row>
                <row role="data">
@@ -119,13 +119,13 @@
                   <cell role="data">For a quarter year - 3.50 "</cell>
                </row>
             </table>
-            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-02-12"> February 12th 1904</date></p><cb/>
+            <p><placeName><ref source="place002">Lviv</ref></placeName>, <date calendar="Hebrew" when-custom="5664-11-26"><foreign xml:lang="he">Yom Shlishi <ref source="https://www.wikidata.org/wiki/Q577354">Mishpatim</ref> 5664</foreign></date></p><cb/>
             <p>
                Adverts are cheaply calculated
                <lb/>All letters and money send to:
-               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place"><ref source="place003">Sonnengasse 27</ref></rs></foreign>
+               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse 27</ref></placeName></foreign>
                <lb/>The Genuine Jew is published every Friday
-               <lb/><foreign xml:lang="de"><rs type="place"><ref source="place002">Lemberg</ref></rs>, <date when-iso="1904-02-12">den 12. Februar 1904</date></foreign>.
+               <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <date when-iso="1904-02-12">den 12. Februar 1904</date></foreign>.
             </p>
          </div>
          <div n="3">
@@ -163,7 +163,7 @@
                if someone complains that the teacher is too pious (usually a lawyer or a doctor or similar who has little knowledge of religion and is hardly pious), nobody should think only he is a “fanatic” under no circumstances…
             </p>
             <p>
-               Not that anyone now thinks we are telling fairy tales, that we are suspected of lies. We want to bring facts which have been created in a big jewish community here in <rs type="place"><ref source="place006">Galicia</ref></rs>.               
+               Not that anyone now thinks we are telling fairy tales, that we are suspected of lies. We want to bring facts which have been created in a big jewish community here in <placeName><ref source="place006">Galicia</ref></placeName>.               
             </p>
            <p>
               A Jewish religious educator who came to the knowledge that Jewish students are sitting in school on Sabbath, asked the director he shall free the children from writing on Sabbath, as the law does allow that. The director sent 
@@ -189,39 +189,39 @@
             </p>
          </div>
          <div n="4">
-            <head>Letter from <rs type="place"><ref source="place009">Hungary</ref></rs></head>
+            <head>Letter from <placeName><ref source="place009">Hungary</ref></placeName></head>
             <p>
                The Hungarian Jews, their lives, their political and economical situation, are not really known to our Jewish readers. The Hungarian Jew is a different “type”, he differs from the Polish and the German ones. 
                They live miles apart and don’t come in contact with each other. I’m not looking to describe Hungarian Jewish people in detail, their situation, their conditions and their states. I will do that in another 
                letter. I just want to share important information which will interest every Jew.
             </p>
             <p>
-               In <rs type="place"><ref source="place009">Hungary</ref></rs> live - beside <ref source="https://www.wikidata.org/wiki/Q133032">Magyars</ref> - several other tribes, like Germans, Romanians, Slowakians, Croatians, Ruthenians and others.
-               Together they would be the majority in the whole populace and the Magyars do know that if all those tribes get together, <rs type="place"><ref source="place009">Hungary</ref></rs> would not be a Magyarianian state, nor a Slavish one. 
+               In <placeName><ref source="place009">Hungary</ref></placeName> live - beside <ref source="https://www.wikidata.org/wiki/Q133032">Magyars</ref> - several other tribes, like Germans, Romanians, Slowakians, Croatians, Ruthenians and others.
+               Together they would be the majority in the whole populace and the Magyars do know that if all those tribes get together, <placeName><ref source="place009">Hungary</ref></placeName> would not be a Magyarianian state, nor a Slavish one. 
                Therefore they strive to strengthen the Magyarian populace, suppress the other nationalities, refuse them their national pride and don’t let them develop their national interests. The Jewish people in 
-               <rs type="place"><ref source="place009">Hungary</ref></rs> are always loyal to the government, supporting it in every situation and above all, the government has always got massive support during elections in the cities, where many Jewish 
+               <placeName><ref source="place009">Hungary</ref></placeName> are always loyal to the government, supporting it in every situation and above all, the government has always got massive support during elections in the cities, where many Jewish 
                people live among Romanians and Slavic people. Without Jewish people, Slavic people would have been elected into the government. Where few Hungarians live, Jewish people help Hungarians to a successful election.
             </p>
             <p>
-               Furthermore, the Jewish people in <rs type="place"><ref source="place009">Hungary</ref></rs> can influence the government in certain ways and if they want something, they have the power to do so. Still, there have been some cases where the 
-               government issued laws, which harmed Jewish people there. The last minister president <rs type="person"><ref  source="person034">Kálmán Széll</ref></rs> allowed Christians to open shops and banks in frontier districts where a lot of Jewish 
+               Furthermore, the Jewish people in <placeName><ref source="place009">Hungary</ref></placeName> can influence the government in certain ways and if they want something, they have the power to do so. Still, there have been some cases where the 
+               government issued laws, which harmed Jewish people there. The last minister president <persName><ref  source="person034">Kálmán Széll</ref></persName> allowed Christians to open shops and banks in frontier districts where a lot of Jewish 
                people live among Ruthenians and Slavs in order to support the populace there. That harmed the Jewish people there. As soon as they opposed it, the government had to stop. Jewish people seem to have a bit more 
-               influence in <rs type="place"><ref source="place009">Hungary</ref></rs> compared to other countries.
+               influence in <placeName><ref source="place009">Hungary</ref></placeName> compared to other countries.
             </p>
             <p>
-               This influence also proved useful in the case of the Sunday rest. Many pious Jewish people, especially in <rs type="place"><ref source="place006">Galicia</ref></rs>, suffer under the law of Sunday Rest. They close their shop on Sabbath 
+               This influence also proved useful in the case of the Sunday rest. Many pious Jewish people, especially in <placeName><ref source="place006">Galicia</ref></placeName>, suffer under the law of Sunday Rest. They close their shop on Sabbath 
                and also have to do so on Sunday. Closing their stores two days a week is difficult, especially for the little merchant. The Hungarian Jewish people managed to achieve some relief.
             </p><pb/>
             <fw style="text-align:center">- 3 -</fw>
             <p>
                A few months ago, the government issued a decree for every tobacco shop to be open for business on Sabbath. The licence is to be revoked of those who keep it closed on Sabbath. This decree has been a 
                serious “punishment”. Several tobacconists, who didn’t want their licence to be revoked, and have therefore violated Sabbath. However, many pious Jewish people insisted and have not lost their livelihood over 
-               this. The Jewish people have raised tumult: they have handed over petitions to the finance minister. Last week he gave confirmation to the chancellery of Orthodox Jews in <rs type="place"><ref source="place030">Budapest</ref></rs> that he meets half of their 
+               this. The Jewish people have raised tumult: they have handed over petitions to the finance minister. Last week he gave confirmation to the chancellery of Orthodox Jews in <placeName><ref source="place030">Budapest</ref></placeName> that he meets half of their 
                demands. That means: he issued another decree that those who ran their shops before the previous decree may close their shops on Sabbath. And those who have had their licences revoked, will get it back. Still, 
                tobacconists who get their licence now have to vow to keep their shop open on Sabbath. In other words, pious Jewish people cannot open tobacco shops anymore…
             </p>
             <p>
-               The minister has already written to the chancellery that he cannot back down anymore and they cannot ask for more. However, the pious Jewish people of <rs type="place"><ref source="place009">Hungary</ref></rs> must not remain silent and have to use all means
+               The minister has already written to the chancellery that he cannot back down anymore and they cannot ask for more. However, the pious Jewish people of <placeName><ref source="place009">Hungary</ref></placeName> must not remain silent and have to use all means
                at their disposal to abolish the rest of this punishment. If the government doesn’t want to give in, they have to turn to the parliament. And if that doesn’t help as well they have to submit to our Lord, 
                King … and they will hopefully achieve everything. 
             </p>
@@ -234,117 +234,117 @@
          </div>
          <div n="5">
             <head><hi rend="bold">The War</hi></head>         
-               <head type="h2">Between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs></head>
+               <head type="h2">Between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName></head>
             <p>
-               After lengthy negotiation going back and forth, the war between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs> has ultimately broken out. Both have hesitated a long time, waiting for the other 
-               one to start the one so as to not bear the responsibility of inaugurating it. <cb/> Finally, <rs type="place"><ref source="place019">Japan</ref></rs> lost its patience and called back their ambassador from <rs type="place"><ref source="place018">St Petersburg</ref></rs> 
-               immediately leading to war. The first few days, news from Japanese victories at sea have been received. If <rs type="place"><ref source="place019">Japan</ref></rs> beats <rs type="place"><ref source="place014">Russia</ref></rs> at sea, the war will continue on the mainland. 
-               It is not clear yet how exactly both armies will crash against each other. First of all, no one knows how fast both want to reach the capital of <rs type="place"><ref source="place022">Korea</ref></rs>, <rs type="place"><ref source="place071">Seoul</ref></rs>. It’s therefore possible that the first war on land will be happening 
-               in <rs type="place"><ref source="place022">Korea</ref></rs>. If <rs type="place"><ref source="place019">Japan</ref></rs> gets to occupy <rs type="place"><ref source="place022">Korea</ref></rs> before the Russian military manages to get there, both enemies will already meet at the border of <rs type="place"><ref source="place028">Manchuria</ref></rs>. The 
-               Japanese military plans to invade <rs type="place"><ref source="place028">Manchuria</ref></rs> in order to split the Russian military into two parts and weaken their forces. <rs type="place"><ref source="place019">Japan</ref></rs> moves particularly cautiously to invade <rs type="place"><ref source="place028">Manchuria</ref></rs> 
+               After lengthy negotiation going back and forth, the war between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName> has ultimately broken out. Both have hesitated a long time, waiting for the other 
+               one to start the one so as to not bear the responsibility of inaugurating it. <cb/> Finally, <placeName><ref source="place019">Japan</ref></placeName> lost its patience and called back their ambassador from <placeName><ref source="place018">St Petersburg</ref></placeName> 
+               immediately leading to war. The first few days, news from Japanese victories at sea have been received. If <placeName><ref source="place019">Japan</ref></placeName> beats <placeName><ref source="place014">Russia</ref></placeName> at sea, the war will continue on the mainland. 
+               It is not clear yet how exactly both armies will crash against each other. First of all, no one knows how fast both want to reach the capital of <placeName><ref source="place022">Korea</ref></placeName>, <placeName><ref source="place071">Seoul</ref></placeName>. It’s therefore possible that the first war on land will be happening 
+               in <placeName><ref source="place022">Korea</ref></placeName>. If <placeName><ref source="place019">Japan</ref></placeName> gets to occupy <placeName><ref source="place022">Korea</ref></placeName> before the Russian military manages to get there, both enemies will already meet at the border of <placeName><ref source="place028">Manchuria</ref></placeName>. The 
+               Japanese military plans to invade <placeName><ref source="place028">Manchuria</ref></placeName> in order to split the Russian military into two parts and weaken their forces. <placeName><ref source="place019">Japan</ref></placeName> moves particularly cautiously to invade <placeName><ref source="place028">Manchuria</ref></placeName> 
                in secret. They want to destroy Russian connections to their country, to demolish their railroads and cut their supply stream of food and war materials in order to facilitate the Japanese victory in the end. 
             </p>
             <p>
-               News of the first Japanese victories impressed the whole world, therefore leading to hope it would be easier for <rs type="place"><ref source="place019">Japan</ref></rs> to make peace. <rs type="place"><ref source="place019">Japan</ref></rs> will be content with their first 
-               victories and would be inclined to make peace sooner. <rs type="place"><ref source="place014">Russia</ref></rs> was also scared of the war before it broke out and will certainly give in. Different sources talk about peace enforcement. Some say the <rs type="person"><ref source="person035">Pope</ref></rs> 
-               will be the “mediator”, others talk about our <rs type="person"><ref source="person003">Emperor Franz Josef</ref></rs> being an arbitrator, but for now nothing of that is true. No one so far has come forward to mediate and nobody wants to. - Every government declared themselves 
-               as “neutral”, meaning they are not supporting any party and just want to watch. Except for England, they support <rs type="place"><ref source="place019">Japan</ref></rs> in secret. There is a rumour that <rs type="place"><ref source="place011">England</ref></rs> won’t let Russian 
-               ships pass through the <rs type="place"><ref source="place072">Mediterranean Sea</ref></rs> to <rs type="place"><ref source="place136">East Asia</ref></rs>, through the <rs type="place"><ref source="place073">Dardanelles</ref></rs> or through the <rs type="place"><ref source="place074">Suez-Canal</ref></rs>. 
+               News of the first Japanese victories impressed the whole world, therefore leading to hope it would be easier for <placeName><ref source="place019">Japan</ref></placeName> to make peace. <placeName><ref source="place019">Japan</ref></placeName> will be content with their first 
+               victories and would be inclined to make peace sooner. <placeName><ref source="place014">Russia</ref></placeName> was also scared of the war before it broke out and will certainly give in. Different sources talk about peace enforcement. Some say the <persName><ref source="person035">Pope</ref></persName> 
+               will be the “mediator”, others talk about our <persName><ref source="person003">Emperor Franz Josef</ref></persName> being an arbitrator, but for now nothing of that is true. No one so far has come forward to mediate and nobody wants to. - Every government declared themselves 
+               as “neutral”, meaning they are not supporting any party and just want to watch. Except for England, they support <placeName><ref source="place019">Japan</ref></placeName> in secret. There is a rumour that <placeName><ref source="place011">England</ref></placeName> won’t let Russian 
+               ships pass through the <placeName><ref source="place072">Mediterranean Sea</ref></placeName> to <placeName><ref source="place136">East Asia</ref></placeName>, through the <placeName><ref source="place073">Dardanelles</ref></placeName> or through the <placeName><ref source="place074">Suez-Canal</ref></placeName>. 
             </p>
             <p>
-               <rs type="place"><ref source="place014">Russia</ref></rs> is trying to receive loans, but after the first losses, there are doubts they will get money. 
+               <placeName><ref source="place014">Russia</ref></placeName> is trying to receive loans, but after the first losses, there are doubts they will get money. 
             </p>
             <p>
-               No one can say for sure how long the war will last, but it seems like it will end soon. A long war, which will not be cheap for <rs type="place"><ref source="place014">Russia</ref></rs>, will cause revolutions inside the country. Rumour has it there are preparations 
-               for a revolution in <rs type="place"><ref source="place076">Russian Poland</ref></rs> already. Therefore, <rs type="place"><ref source="place014">Russia</ref></rs> needs to end the war soon to keep its own country in check. The idiom: “The camel wanted horns, but cut off the ears as well” became 
+               No one can say for sure how long the war will last, but it seems like it will end soon. A long war, which will not be cheap for <placeName><ref source="place014">Russia</ref></placeName>, will cause revolutions inside the country. Rumour has it there are preparations 
+               for a revolution in <placeName><ref source="place076">Russian Poland</ref></placeName> already. Therefore, <placeName><ref source="place014">Russia</ref></placeName> needs to end the war soon to keep its own country in check. The idiom: “The camel wanted horns, but cut off the ears as well” became 
                true for Russia now. Russia wanted </p><pb/> 
             <fw style="text-align:center">- 4 -</fw>
             <p>
                to invade foreign countries, but is now busy with its own land. 
             </p>
             <p>
-               The whole world is now curious how this war will end - if <rs type="place"><ref source="place014">Russia</ref></rs> or <rs type="place"><ref source="place019">Japan</ref></rs> will emerge as victor. Never before has everyone been so invested in a war, which is happening in a 
-               faraway country. Neither the war between <rs type="place"><ref source="place021">China</ref></rs> and <rs type="place"><ref source="place019">Japan</ref></rs> ten years ago nor the war between <rs type="place"><ref source="place043">Spain</ref></rs> and <rs type="place"><ref source="place094">America</ref></rs> 
-               five years ago was in everyone’s mind like that because the end result was not important for the whole world. However, now, it is of great importance. If <rs type="place"><ref source="place014">Russia</ref></rs> loses, its power will be forever broken, the dissatisfaction 
-               inside the country will grow. Either <rs type="place"><ref source="place014">Russia</ref></rs> has to issue a constitution and stop the tyrannical reign or revolutions will reign through the whole country and bring it to ruins. If <rs type="place"><ref source="place019">Japan</ref></rs> 
-               loses, the chances to advance into a <hi rend="italic">Worldwar</hi> in all of <rs type="place"><ref source="place100">Europe</ref></rs> and <rs type="place"><ref source="place024">Asia</ref></rs> is tremendous. Nobody will support <rs type="place"><ref source="place014">Russia</ref></rs> as every country is in conflict with them. 
-               Even their ally, France, is not happy with <rs type="place"><ref source="place014">Russia</ref></rs>’s occupation of <rs type="place"><ref source="place028">Manchuria</ref></rs>. <rs type="place"><ref source="place019">Japan</ref></rs> has <rs type="place"><ref source="place011">England</ref></rs> and 
-               <rs type="place"><ref source="place094">America</ref></rs> on their side, as <rs type="place"><ref source="place019">Japan</ref></rs> is waging war for them as well. They want the same thing <rs type="place"><ref source="place019">Japan</ref></rs> does: for 
-               <rs type="place"><ref source="place014">Russia</ref></rs> to leave <rs type="place"><ref source="place028">Manchuria</ref></rs>. But if <rs type="place"><ref source="place011">England</ref></rs> and <rs type="place"><ref source="place094">America</ref></rs> support <rs type="place"><ref source="place019">Japan</ref></rs>, 
-               <rs type="place"><ref source="place045">France</ref></rs> will certainly not watch from afar. Then, <rs type="place"><ref source="place010">Germany</ref></rs> and <rs type="place"><ref source="place040">Italy</ref></rs> also need to intervene, therefore developing the war into a 
+               The whole world is now curious how this war will end - if <placeName><ref source="place014">Russia</ref></placeName> or <placeName><ref source="place019">Japan</ref></placeName> will emerge as victor. Never before has everyone been so invested in a war, which is happening in a 
+               faraway country. Neither the war between <placeName><ref source="place021">China</ref></placeName> and <placeName><ref source="place019">Japan</ref></placeName> ten years ago nor the war between <placeName><ref source="place043">Spain</ref></placeName> and <placeName><ref source="place094">America</ref></placeName> 
+               five years ago was in everyone’s mind like that because the end result was not important for the whole world. However, now, it is of great importance. If <placeName><ref source="place014">Russia</ref></placeName> loses, its power will be forever broken, the dissatisfaction 
+               inside the country will grow. Either <placeName><ref source="place014">Russia</ref></placeName> has to issue a constitution and stop the tyrannical reign or revolutions will reign through the whole country and bring it to ruins. If <placeName><ref source="place019">Japan</ref></placeName> 
+               loses, the chances to advance into a <hi rend="italic">Worldwar</hi> in all of <placeName><ref source="place100">Europe</ref></placeName> and <placeName><ref source="place024">Asia</ref></placeName> is tremendous. Nobody will support <placeName><ref source="place014">Russia</ref></placeName> as every country is in conflict with them. 
+               Even their ally, France, is not happy with <placeName><ref source="place014">Russia</ref></placeName>’s occupation of <placeName><ref source="place028">Manchuria</ref></placeName>. <placeName><ref source="place019">Japan</ref></placeName> has <placeName><ref source="place011">England</ref></placeName> and 
+               <placeName><ref source="place094">America</ref></placeName> on their side, as <placeName><ref source="place019">Japan</ref></placeName> is waging war for them as well. They want the same thing <placeName><ref source="place019">Japan</ref></placeName> does: for 
+               <placeName><ref source="place014">Russia</ref></placeName> to leave <placeName><ref source="place028">Manchuria</ref></placeName>. But if <placeName><ref source="place011">England</ref></placeName> and <placeName><ref source="place094">America</ref></placeName> support <placeName><ref source="place019">Japan</ref></placeName>, 
+               <placeName><ref source="place045">France</ref></placeName> will certainly not watch from afar. Then, <placeName><ref source="place010">Germany</ref></placeName> and <placeName><ref source="place040">Italy</ref></placeName> also need to intervene, therefore developing the war into a 
                world war, for which no one can know how that will end. 
             </p>
             <p>
-               An important question now is the significance the Russian-Japanese war has in <rs type="place"><ref source="place001">Austria-Hungary</ref></rs>. On the outside, <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs> 
-               are at peace, but the differences between those two countries have not ceased to exist. <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> has always been in conflict with <rs type="place"><ref source="place014">Russia</ref></rs> about <rs type="place"><ref source="place014">Russia</ref></rs> 
-               settling in <rs type="place"><ref source="place075">Turkey</ref></rs> and bothering <rs type="place"><ref source="place025">Austria</ref></rs> there. <rs type="place"><ref source="place025">Austria</ref></rs> can breathe a sigh of relief and act more freely in the <rs type="place"><ref source="place077">Balkans</ref></rs>, now that 
-               <rs type="place"><ref source="place014">Russia</ref></rs> is occupied in <rs type="place"><ref source="place024">Asia</ref></rs>. The time has come for <rs type="place"><ref source="place025">Austria</ref></rs> to declare <rs type="place"><ref source="place124">Bosnia</ref></rs> and 
-               <rs type="place"><ref source="place125">Herzegovina</ref></rs> as its own. Until now, those two countries belonged to <rs type="place"><ref source="place075">Turkey</ref></rs> while <rs type="place"><ref source="place025">Austria</ref></rs> had merely occupied it. 
+               An important question now is the significance the Russian-Japanese war has in <placeName><ref source="place001">Austria-Hungary</ref></placeName>. On the outside, <placeName><ref source="place001">Austria-Hungary</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName> 
+               are at peace, but the differences between those two countries have not ceased to exist. <placeName><ref source="place001">Austria-Hungary</ref></placeName> has always been in conflict with <placeName><ref source="place014">Russia</ref></placeName> about <placeName><ref source="place014">Russia</ref></placeName> 
+               settling in <placeName><ref source="place075">Turkey</ref></placeName> and bothering <placeName><ref source="place025">Austria</ref></placeName> there. <placeName><ref source="place025">Austria</ref></placeName> can breathe a sigh of relief and act more freely in the <placeName><ref source="place077">Balkans</ref></placeName>, now that 
+               <placeName><ref source="place014">Russia</ref></placeName> is occupied in <placeName><ref source="place024">Asia</ref></placeName>. The time has come for <placeName><ref source="place025">Austria</ref></placeName> to declare <placeName><ref source="place124">Bosnia</ref></placeName> and 
+               <placeName><ref source="place125">Herzegovina</ref></placeName> as its own. Until now, those two countries belonged to <placeName><ref source="place075">Turkey</ref></placeName> while <placeName><ref source="place025">Austria</ref></placeName> had merely occupied it. 
             </p>
             <p>
-               There is another reason why <rs type="place"><ref source="place025">Austria</ref></rs> is interested in the Russian-Japanese War. As is known, <rs type="place"><ref source="place112">Bulgaria</ref></rs> intends to wage war with <rs type="place"><ref source="place075">Turkey</ref></rs> for 
-               a while now as <rs type="place"><ref source="place081">Macedonia</ref></rs> belongs to <rs type="place"><ref source="place112">Bulgaria</ref></rs>. Additionally, <rs type="place"><ref source="place080">Montenegro</ref></rs> is also constantly looking to involve 
-               <rs type="place"><ref source="place075">Turkey</ref></rs> in a conflict. <rs type="place"><ref source="place112">Bulgaria</ref></rs> and <rs type="place"><ref source="place080">Montenegro</ref></rs> hope to drive <rs type="place"><ref source="place075">Turkey</ref></rs> completely out of 
-               <rs type="place"><ref source="place100">Europe</ref></rs>. And if they lose the war, they may take no damage from it like <rs type="place"><rs type="place"><ref source="place089">Greece</ref></rs></rs> has taken no damage after losing the war with <rs type="place"><ref source="place075">Turkey</ref></rs>. 
-               The European powers did not let something bad happen to <rs type="place"><ref source="place089">Greece</ref></rs>. Even though <rs type="place"><ref source="place075">Turkey</ref></rs> has won the war, they had to give up the island <hi rend="italic"><rs type="place"><ref source="place079">Crete</ref></rs></hi>. 
-               Therefore, <rs type="place"><ref source="place112">Bulgaria</ref></rs> and <rs type="place"><ref source="place080">Montenegro</ref></rs> hope for the Christian powers to interfere in case they lose the war and take <rs type="place"><ref source="place081">Macedonia</ref></rs> away from <rs type="place"><ref source="place075">Turkey</ref></rs>. 
-               <rs type="place"><ref source="place111">Serbia</ref></rs> has <cb/>not wanted to interfere with disputes on the <rs type="place"><ref source="place077">Balkans</ref></rs> as long as <rs type="person"><ref source="person038">King Aleksandar</ref></rs> has ruled. However, since the revolution against 
-               <rs type="person"><ref source="person038">King Aleksandar</ref></rs> and the war of the new king, <rs type="person"><ref source="person037">King Peter</ref></rs>, dissatisfaction has risen in the country. The king has not punished the murder of <rs type="person"><ref source="person038">King Aleksandar</ref></rs> but started a war with 
-               <rs type="place"><ref source="place075">Turkey</ref></rs> to quench the discontent in the country.
+               There is another reason why <placeName><ref source="place025">Austria</ref></placeName> is interested in the Russian-Japanese War. As is known, <placeName><ref source="place112">Bulgaria</ref></placeName> intends to wage war with <placeName><ref source="place075">Turkey</ref></placeName> for 
+               a while now as <placeName><ref source="place081">Macedonia</ref></placeName> belongs to <placeName><ref source="place112">Bulgaria</ref></placeName>. Additionally, <placeName><ref source="place080">Montenegro</ref></placeName> is also constantly looking to involve 
+               <placeName><ref source="place075">Turkey</ref></placeName> in a conflict. <placeName><ref source="place112">Bulgaria</ref></placeName> and <placeName><ref source="place080">Montenegro</ref></placeName> hope to drive <placeName><ref source="place075">Turkey</ref></placeName> completely out of 
+               <placeName><ref source="place100">Europe</ref></placeName>. And if they lose the war, they may take no damage from it like <placeName><placeName><ref source="place089">Greece</ref></placeName></placeName> has taken no damage after losing the war with <placeName><ref source="place075">Turkey</ref></placeName>. 
+               The European powers did not let something bad happen to <placeName><ref source="place089">Greece</ref></placeName>. Even though <placeName><ref source="place075">Turkey</ref></placeName> has won the war, they had to give up the island <hi rend="italic"><placeName><ref source="place079">Crete</ref></placeName></hi>. 
+               Therefore, <placeName><ref source="place112">Bulgaria</ref></placeName> and <placeName><ref source="place080">Montenegro</ref></placeName> hope for the Christian powers to interfere in case they lose the war and take <placeName><ref source="place081">Macedonia</ref></placeName> away from <placeName><ref source="place075">Turkey</ref></placeName>. 
+               <placeName><ref source="place111">Serbia</ref></placeName> has <cb/>not wanted to interfere with disputes on the <placeName><ref source="place077">Balkans</ref></placeName> as long as <persName><ref source="person038">King Aleksandar</ref></persName> has ruled. However, since the revolution against 
+               <persName><ref source="person038">King Aleksandar</ref></persName> and the war of the new king, <persName><ref source="person037">King Peter</ref></persName>, dissatisfaction has risen in the country. The king has not punished the murder of <persName><ref source="person038">King Aleksandar</ref></persName> but started a war with 
+               <placeName><ref source="place075">Turkey</ref></placeName> to quench the discontent in the country.
             </p>
             <p>
-               Until now, every Balkan country was afraid to declare war on <rs type="place"><ref source="place075">Turkey</ref></rs>, because <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs> warned 
-               them not to start as they don’t want the situation in <rs type="place"><ref source="place075">Turkey</ref></rs> to change. But now, as <rs type="place"><ref source="place014">Russia</ref></rs> is occupied in <rs type="place"><ref source="place024">Asia</ref></rs>, the question is whether the 
-               Balkan countries prepare for war. News came via telegram that <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> needs to convene their reservists and prepare in case a war breaks out in <rs type="place"><ref source="place075">Turkey</ref></rs>. - 
-               The Russo-Japanese war can therefore have set off another war which is of great interest to <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> as well as the whole world. - Besides, the whole world is greatly interested in the war in 
-               <rs type="place"><ref source="place014">Russia</ref></rs> and expect daily news from the warside.
+               Until now, every Balkan country was afraid to declare war on <placeName><ref source="place075">Turkey</ref></placeName>, because <placeName><ref source="place001">Austria-Hungary</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName> warned 
+               them not to start as they don’t want the situation in <placeName><ref source="place075">Turkey</ref></placeName> to change. But now, as <placeName><ref source="place014">Russia</ref></placeName> is occupied in <placeName><ref source="place024">Asia</ref></placeName>, the question is whether the 
+               Balkan countries prepare for war. News came via telegram that <placeName><ref source="place001">Austria-Hungary</ref></placeName> needs to convene their reservists and prepare in case a war breaks out in <placeName><ref source="place075">Turkey</ref></placeName>. - 
+               The Russo-Japanese war can therefore have set off another war which is of great interest to <placeName><ref source="place001">Austria-Hungary</ref></placeName> as well as the whole world. - Besides, the whole world is greatly interested in the war in 
+               <placeName><ref source="place014">Russia</ref></placeName> and expect daily news from the warside.
             </p>
          </div><pb/>
          <fw style="text-align:center">- 5 -</fw>
          <div n="6">
             <head>The first Russian defeat.</head>
             <p>
-               <rs type="place"><ref source="place014">Russia</ref></rs> has already been harshly defeated in three battles on the ocean in the first few days of war. The first losses have shown that the Russian marines are not able to oppose the Japanese one on the water making one think the 
-               war is as good as won to the benefit of <rs type="place"><ref source="place019">Japan</ref></rs>. Over half of the Russian ships which are in <rs type="place"><ref source="place136">East Asia</ref></rs> have already been destroyed or at least have been incapacitated. Part of the 
-               other half are in the port of <rs type="place"><hi rend="italic"><ref source="place082">Vladivostok</ref></hi></rs> which is frozen over leading to the ships being stuck in there. The other part is stationed in <rs type="place"><ref source="place083">Port Arthur</ref></rs>, this 
-               part alone is not strong enough to combat <rs type="place"><ref source="place019">Japan</ref></rs>. Therefore, those ships will have to stay in the port and wait until <rs type="place"><ref source="place019">Japan</ref></rs> arrives to destroy the battle ships left. 
+               <placeName><ref source="place014">Russia</ref></placeName> has already been harshly defeated in three battles on the ocean in the first few days of war. The first losses have shown that the Russian marines are not able to oppose the Japanese one on the water making one think the 
+               war is as good as won to the benefit of <placeName><ref source="place019">Japan</ref></placeName>. Over half of the Russian ships which are in <placeName><ref source="place136">East Asia</ref></placeName> have already been destroyed or at least have been incapacitated. Part of the 
+               other half are in the port of <placeName><hi rend="italic"><ref source="place082">Vladivostok</ref></hi></placeName> which is frozen over leading to the ships being stuck in there. The other part is stationed in <placeName><ref source="place083">Port Arthur</ref></placeName>, this 
+               part alone is not strong enough to combat <placeName><ref source="place019">Japan</ref></placeName>. Therefore, those ships will have to stay in the port and wait until <placeName><ref source="place019">Japan</ref></placeName> arrives to destroy the battle ships left. 
             </p>
             <p>
                The Japanese military showed their understanding of warfare, they proved courage and initiative. As eyewitnesses report, Japanese bullets and cannons always fired their shot and landed it as well, while the Russian projectiles didn’t even hit their target once. - The start of the 
-               Russo-Japanese war seems similar to the start of the <ref source="https://www.wikidata.org/wiki/Q12583">Spanish-American war</ref> some time ago. Back then, the first battle also happened on the ocean, the American admiral <rs type="person"><ref source="person036"><hi rend="italic">Dewey</hi></ref></rs> 
-               destroyed the entire Spanish marine in front of the <rs type="place"><ref source="place084">Philippines</ref></rs> in one night and steered the war into the direction of the American victory. The Russo-Japanese war seems to go along these lines as well. Because of these first victories 
-               <rs type="place"><ref source="place019">Japan</ref></rs> managed to prevent the Russian marines from reaching <rs type="place"><ref source="place022">Korea</ref></rs> and marching into <rs type="place"><ref source="place028">Manchuria</ref></rs> from there. The first battles on 
-               land will probably occur in <rs type="place"><ref source="place022">Korea</ref></rs> or at the border to <rs type="place"><ref source="place028">Manchuria</ref></rs> and as it seems, <rs type="place"><ref source="place019">Japan</ref></rs> will win. They are better prepared and show 
+               Russo-Japanese war seems similar to the start of the <ref source="https://www.wikidata.org/wiki/Q12583">Spanish-American war</ref> some time ago. Back then, the first battle also happened on the ocean, the American admiral <persName><ref source="person036"><hi rend="italic">Dewey</hi></ref></persName> 
+               destroyed the entire Spanish marine in front of the <placeName><ref source="place084">Philippines</ref></placeName> in one night and steered the war into the direction of the American victory. The Russo-Japanese war seems to go along these lines as well. Because of these first victories 
+               <placeName><ref source="place019">Japan</ref></placeName> managed to prevent the Russian marines from reaching <placeName><ref source="place022">Korea</ref></placeName> and marching into <placeName><ref source="place028">Manchuria</ref></placeName> from there. The first battles on 
+               land will probably occur in <placeName><ref source="place022">Korea</ref></placeName> or at the border to <placeName><ref source="place028">Manchuria</ref></placeName> and as it seems, <placeName><ref source="place019">Japan</ref></placeName> will win. They are better prepared and show 
                more courage. The Russians on the other hand have lost some of their courage after the first losses and lost courage don’t fare well on the battlefield. When the troops fall, they will fall.
             </p>
             <p>
-               The whole world looks at the first victories of <rs type="place"><ref source="place019">Japan</ref></rs> with awe. It is known that the Japanese military training is highly advanced and they have proven great strength. However, rumour has it that there are <hi rend="italic">English officers</hi>
+               The whole world looks at the first victories of <placeName><ref source="place019">Japan</ref></placeName> with awe. It is known that the Japanese military training is highly advanced and they have proven great strength. However, rumour has it that there are <hi rend="italic">English officers</hi>
                on the ships who are dressed like the Japanese as to not be recognised and they are commanding the Japanese ships. If this is true, the admiration of the Japanese might is unwarranted as the English marine is the best in the world.
             </p>
             <p>
                More news followed the first Japanese victories.
             </p>
             <p>
-               The first message was fetched from a Russian gazette in <rs type="place"><ref source="place018">St Petersburg</ref></rs>, which reported on a telegram sent by admiral <rs type="person"><ref source="person041">Alekseyev</ref></rs> - the Russian govenor in <rs type="place"><ref source="place024">Asia</ref></rs> - to the <rs type="person"><ref source="person042">tsar</ref></rs>:
+               The first message was fetched from a Russian gazette in <placeName><ref source="place018">St Petersburg</ref></placeName>, which reported on a telegram sent by admiral <persName><ref source="person041">Alekseyev</ref></persName> - the Russian govenor in <placeName><ref source="place024">Asia</ref></placeName> - to the <persName><ref source="person042">tsar</ref></persName>:
             </p>
             <p>
-               “I have to inform about Japanese torpedo ships (ships that are tasked with destroying the enemy’s fleet) that were ambushing Russian war ships which were leaving the harbour of <rs type="place"><ref source="place083">Port Arthur</ref></rs>. During this attack   <hi rend="italic">three ironclads have 
+               “I have to inform about Japanese torpedo ships (ships that are tasked with destroying the enemy’s fleet) that were ambushing Russian war ships which were leaving the harbour of <placeName><ref source="place083">Port Arthur</ref></placeName>. During this attack   <hi rend="italic">three ironclads have 
                been destroyed: “Retvizan”, “Tsesarevich”, and “Pallada”</hi>.
             </p>
             <p>
                That is how the first message from the war side is written. One could imagine that if the Russian admiral delivered this telegram, the Russian loss must have been more severe as he has let on, as later sources described. The Japanese attacked worked so well: the Russian battle ships shot back, but 
                did not hit their targets and did not damage the Japanese. To caluclate the losses, it is important to understand what it means when an armed battle ship gets destroyed. Generally, an armed battle ship is to be understood as an <hi rend="italic">entire army corps</hi>. A battle ship is worth 20 million. 
-               As <rs type="place"><ref source="place014">Russia</ref></rs> lost three battle ships during the first attack, it amounts to three corps and 60 million. Furthermore, the loss of a ship is even greater, as building a ship like this takes years and years and the damage cannot be restored.
+               As <placeName><ref source="place014">Russia</ref></placeName> lost three battle ships during the first attack, it amounts to three corps and 60 million. Furthermore, the loss of a ship is even greater, as building a ship like this takes years and years and the damage cannot be restored.
             </p>
             <p>
-               All of <rs type="place"><ref source="place014">Russia</ref></rs> was shocked by the news of the first loss. The <rs type="person"><ref source="person042">tsar</ref></rs>’s ball has been cancelled because of it. The Russian stock plunged, the Russian enemies had a party, their allies grieved alongside them - 
+               All of <placeName><ref source="place014">Russia</ref></placeName> was shocked by the news of the first loss. The <persName><ref source="person042">tsar</ref></persName>’s ball has been cancelled because of it. The Russian stock plunged, the Russian enemies had a party, their allies grieved alongside them - 
                but soon a new message about the second Russian loss, which was even worse than the first one, was received.
             </p> 
             <p>
-               The governer <rs type="person"><ref source="person041">Alekseyev</ref></rs> sent the following telegram to the <rs type="person"><ref source="person042">tsar</ref></rs>: 
+               The governer <persName><ref source="person041">Alekseyev</ref></persName> sent the following telegram to the <persName><ref source="person042">tsar</ref></persName>: 
             </p>
             <p>
-               “On Monday, the Japanese troops, consiting of 15 battle ships, started to bomb the harbour of <rs type="place"><ref source="place083">Port Arthur</ref></rs>. We shot back from the fortress. After one hour, the Japanese stopped firing arms and left the harbour. Two officers and 54 soldiers are wounded, 
+               “On Monday, the Japanese troops, consiting of 15 battle ships, started to bomb the harbour of <placeName><ref source="place083">Port Arthur</ref></placeName>. We shot back from the fortress. After one hour, the Japanese stopped firing arms and left the harbour. Two officers and 54 soldiers are wounded, 
                10 soldiers have been killed. The Russian battle ships “Poltava”, “Diana”, “Askold”, and “Novik” have been
             </p><pb/>
             <fw style="text-align:center">- 6 -</fw> 
@@ -355,59 +355,59 @@
                This is how the governor delivered the news, and everyone can therefore be certain that the Russian loss has been much worse. Again, four battleships were damaged, the fortress suffered. The second defeat was even worse than the first one.
             </p>
             <p>
-               The third Japanese victory is also being reported on. At sea, next to the bay of <rs type="place"><ref source="place085">Chemulp'o</ref></rs>, Russian and Japanese battleships went into battle. <rs type="place"><ref source="place019">Japan</ref></rs> demolished the battleships, “Korietz” and “Varyag”. Most of the crew 
-               were able to save themselves, but in turn they were captured by <rs type="place"><ref source="place019">Japan</ref></rs>. The Japanese battleships have only been slightly damaged. According to the latest news, <rs type="place"><ref source="place019">Japan</ref></rs> managed to stop the Manchurian train and destroy it. 
+               The third Japanese victory is also being reported on. At sea, next to the bay of <placeName><ref source="place085">Chemulp'o</ref></placeName>, Russian and Japanese battleships went into battle. <placeName><ref source="place019">Japan</ref></placeName> demolished the battleships, “Korietz” and “Varyag”. Most of the crew 
+               were able to save themselves, but in turn they were captured by <placeName><ref source="place019">Japan</ref></placeName>. The Japanese battleships have only been slightly damaged. According to the latest news, <placeName><ref source="place019">Japan</ref></placeName> managed to stop the Manchurian train and destroy it. 
                This is another big win as the Russian military deliveries are interrupted.
             </p> 
             <p>
-               Generally, the Russian defeats are confirmed to be greater and showed that there is not one capable admiral on the Russian fronts. <rs type="place"><ref source="place014">Russia</ref></rs> is on the best path to be completely defeated at sea.
+               Generally, the Russian defeats are confirmed to be greater and showed that there is not one capable admiral on the Russian fronts. <placeName><ref source="place014">Russia</ref></placeName> is on the best path to be completely defeated at sea.
             </p>
          </div>
          <div n="7">
             <head>The causes of the war.</head>
             <p>
-               The war between <rs type="place"><ref source="place014">Russia</ref></rs> and <rs type="place"><ref source="place019">Japan</ref></rs> broke out mainly because of <rs type="place"><ref source="place022">Korea</ref></rs> and <rs type="place"><ref source="place028">Manchuria</ref></rs>. Meaning, <rs type="place"><ref source="place014">Russia</ref></rs> 
-               and <rs type="place"><ref source="place019">Japan</ref></rs> are not at war because of their own countries, but because of foreign ones. <rs type="place"><ref source="place022">Korea</ref></rs> is a small country, amassing 218,650 square kilometres with 10 million inhabitants. Those inhabitants are great fanatics, lazy, 
+               The war between <placeName><ref source="place014">Russia</ref></placeName> and <placeName><ref source="place019">Japan</ref></placeName> broke out mainly because of <placeName><ref source="place022">Korea</ref></placeName> and <placeName><ref source="place028">Manchuria</ref></placeName>. Meaning, <placeName><ref source="place014">Russia</ref></placeName> 
+               and <placeName><ref source="place019">Japan</ref></placeName> are not at war because of their own countries, but because of foreign ones. <placeName><ref source="place022">Korea</ref></placeName> is a small country, amassing 218,650 square kilometres with 10 million inhabitants. Those inhabitants are great fanatics, lazy, 
                half-asleep and live like their ancestors a hundred years ago. The ruler of the country calls himself an “emperor”, but is in reality a man without courage or power; foreign ambassadors do whatever they want. He is controlled by the Russian ambassador as well as the Japanese, the English and the American one, and even by 
-               women. A Russian cook and an English governess influence him greatly. He just lets it all happen. Up until 10 years ago, China had the biggest authority in <rs type="place"><ref source="place022">Korea</ref></rs>, formally it belonged to <rs type="place"><ref source="place021">China</ref></rs>. Because of <rs type="place"><ref source="place022">Korea</ref></rs>, 
-               the last Chinese-Japanese war, where <rs type="place"><ref source="place019">Japan</ref></rs> emerged as victor, broke out as well. Back then, <rs type="place"><ref source="place019">Japan</ref></rs> wanted to take all of Korea, but the allied powers of <rs type="place"><ref source="place010">Germany</ref></rs>, 
-               <rs type="place"><ref source="place014">Russia</ref></rs>, and <rs type="place"><ref source="place045">France</ref></rs> interfered and forced <rs type="place"><ref source="place019">Japan</ref></rs> to acknowledge <rs type="place"><ref source="place022">Korea</ref></rs> as an independent state - not part of 
-               <rs type="place"><ref source="place021">China</ref></rs>, not part of <rs type="place"><ref source="place019">Japan</ref></rs>. However, <rs type="place"><ref source="place019">Japan</ref></rs> needs <rs type="place"><ref source="place022">Korea</ref></rs> because of trade, it needs to settle their merchants there. 
-               After the war, <rs type="place"><ref source="place014">Russia</ref></rs> started to invade <rs type="place"><ref source="place022">Korea</ref></rs> and to cause problems for <rs type="place"><ref source="place019">Japan</ref></rs> causing the Russian-Japanese relationship to be strained and irritated. 
+               women. A Russian cook and an English governess influence him greatly. He just lets it all happen. Up until 10 years ago, China had the biggest authority in <placeName><ref source="place022">Korea</ref></placeName>, formally it belonged to <placeName><ref source="place021">China</ref></placeName>. Because of <placeName><ref source="place022">Korea</ref></placeName>, 
+               the last Chinese-Japanese war, where <placeName><ref source="place019">Japan</ref></placeName> emerged as victor, broke out as well. Back then, <placeName><ref source="place019">Japan</ref></placeName> wanted to take all of Korea, but the allied powers of <placeName><ref source="place010">Germany</ref></placeName>, 
+               <placeName><ref source="place014">Russia</ref></placeName>, and <placeName><ref source="place045">France</ref></placeName> interfered and forced <placeName><ref source="place019">Japan</ref></placeName> to acknowledge <placeName><ref source="place022">Korea</ref></placeName> as an independent state - not part of 
+               <placeName><ref source="place021">China</ref></placeName>, not part of <placeName><ref source="place019">Japan</ref></placeName>. However, <placeName><ref source="place019">Japan</ref></placeName> needs <placeName><ref source="place022">Korea</ref></placeName> because of trade, it needs to settle their merchants there. 
+               After the war, <placeName><ref source="place014">Russia</ref></placeName> started to invade <placeName><ref source="place022">Korea</ref></placeName> and to cause problems for <placeName><ref source="place019">Japan</ref></placeName> causing the Russian-Japanese relationship to be strained and irritated. 
             </p>
             <p>
-               After the last uprising in <rs type="place"><ref source="place021">China</ref></rs>, the <ref source="https://www.wikidata.org/wiki/Q150229">Boxer Rebellion</ref>, where the “Boxers” rose up against foreigners, every country sent their military there to suppress the rebellion. After the situation calmed down, everyone’s military 
-               retreated, except for <rs type="place"><ref source="place014">Russia</ref></rs>, which stayed in the Chinese province of <rs type="place"><ref source="place028">Manchuria</ref></rs>. <rs type="place"><ref source="place014">Russia</ref></rs> occupied this region during the rebellion and refused to retreat. At first, it was looking 
+               After the last uprising in <placeName><ref source="place021">China</ref></placeName>, the <ref source="https://www.wikidata.org/wiki/Q150229">Boxer Rebellion</ref>, where the “Boxers” rose up against foreigners, every country sent their military there to suppress the rebellion. After the situation calmed down, everyone’s military 
+               retreated, except for <placeName><ref source="place014">Russia</ref></placeName>, which stayed in the Chinese province of <placeName><ref source="place028">Manchuria</ref></placeName>. <placeName><ref source="place014">Russia</ref></placeName> occupied this region during the rebellion and refused to retreat. At first, it was looking 
                for different excused, but the other
             </p><pb/>
             <fw style="text-align:center">- 7 -</fw>
             <p>
-               governments demanded <rs type="place"><ref source="place014">Russia</ref></rs> to vacate the area - after that <rs type="place"><ref source="place014">Russia</ref></rs> forced <rs type="place"><ref source="place021">China</ref></rs> to enter in an agreement after which <rs type="place"><ref source="place014">Russia</ref></rs> 
-               is allowed to keep occupying the province <rs type="place"><ref source="place028">Manchuaria</ref></rs> as long as it wants to. <rs type="place"><ref source="place028">Manchuria</ref></rs> should continue to be a Chinese province only by name. Because of the occupation of <rs type="place"><ref source="place028">Manchuria</ref></rs>, 
-               <rs type="place"><ref source="place014">Russia</ref></rs> became a closer neighbour to Korea, which bothered <rs type="place"><ref source="place019">Japan</ref></rs> quite a lot. But also other governments are not satisfied with this situation, mainly <rs type="place"><ref source="place011">England</ref></rs> and 
-               <rs type="place"><ref source="place094">America</ref></rs>, which are interested in <rs type="place"><ref source="place028">Manchuria</ref></rs> because of trade. Therefore, they put stones in <rs type="place"><ref source="place014">Russia</ref></rs>’s path and disrupted their trading. They wanted to close every Manchurian harbours for 
-               foreign trade. Still, <rs type="place"><ref source="place021">China</ref></rs> went into agreement with several other governments allowing them to trade however much they want. <rs type="place"><ref source="place011">England</ref></rs> and <rs type="place"><ref source="place094">America</ref></rs> therefore drove 
-               <rs type="place"><ref source="place019">Japan</ref></rs> continuously to not let <rs type="place"><ref source="place014">Russia</ref></rs> fob them off. And <rs type="place"><ref source="place019">Japan</ref></rs>, who could be sure that it had two big powers backing them up, demanded of <rs type="place"><ref source="place014">Russia</ref></rs> 
-               to relinquish any Korean influence and vacate <rs type="place"><ref source="place028">Manchuria</ref></rs>. The negotiations dragged on for months. <rs type="place"><ref source="place014">Russia</ref></rs> agreed to give up influence on Korea, but not to leave <rs type="place"><ref source="place028">Manchuria</ref></rs> - 
-               but <rs type="place"><ref source="place019">Japan</ref></rs> demanded both. 
+               governments demanded <placeName><ref source="place014">Russia</ref></placeName> to vacate the area - after that <placeName><ref source="place014">Russia</ref></placeName> forced <placeName><ref source="place021">China</ref></placeName> to enter in an agreement after which <placeName><ref source="place014">Russia</ref></placeName> 
+               is allowed to keep occupying the province <placeName><ref source="place028">Manchuaria</ref></placeName> as long as it wants to. <placeName><ref source="place028">Manchuria</ref></placeName> should continue to be a Chinese province only by name. Because of the occupation of <placeName><ref source="place028">Manchuria</ref></placeName>, 
+               <placeName><ref source="place014">Russia</ref></placeName> became a closer neighbour to Korea, which bothered <placeName><ref source="place019">Japan</ref></placeName> quite a lot. But also other governments are not satisfied with this situation, mainly <placeName><ref source="place011">England</ref></placeName> and 
+               <placeName><ref source="place094">America</ref></placeName>, which are interested in <placeName><ref source="place028">Manchuria</ref></placeName> because of trade. Therefore, they put stones in <placeName><ref source="place014">Russia</ref></placeName>’s path and disrupted their trading. They wanted to close every Manchurian harbours for 
+               foreign trade. Still, <placeName><ref source="place021">China</ref></placeName> went into agreement with several other governments allowing them to trade however much they want. <placeName><ref source="place011">England</ref></placeName> and <placeName><ref source="place094">America</ref></placeName> therefore drove 
+               <placeName><ref source="place019">Japan</ref></placeName> continuously to not let <placeName><ref source="place014">Russia</ref></placeName> fob them off. And <placeName><ref source="place019">Japan</ref></placeName>, who could be sure that it had two big powers backing them up, demanded of <placeName><ref source="place014">Russia</ref></placeName> 
+               to relinquish any Korean influence and vacate <placeName><ref source="place028">Manchuria</ref></placeName>. The negotiations dragged on for months. <placeName><ref source="place014">Russia</ref></placeName> agreed to give up influence on Korea, but not to leave <placeName><ref source="place028">Manchuria</ref></placeName> - 
+               but <placeName><ref source="place019">Japan</ref></placeName> demanded both. 
             </p>
             <p>
-               Lately, <rs type="place"><ref source="place014">Russia</ref></rs> started to prepare for war in <rs type="place"><ref source="place024">Asia</ref></rs>. <rs type="place"><ref source="place019">Japan</ref></rs> on the other side, also braced themselves for war. After a while, <rs type="place"><ref source="place019">Japan</ref></rs> 
-               realised that <rs type="place"><ref source="place014">Russia</ref></rs> took ages to answer <rs type="place"><ref source="place019">Japan</ref></rs>’s demand and hesitated for weeks on end, therefore only playing for time in order to finish preparing for war. Hence, <rs type="place"><ref source="place019">Japan</ref></rs> called back 
-               their ambassador from <rs type="place"><ref source="place018">St Petersburg</ref></rs>, meaning <rs type="place"><ref source="place019">Japan</ref></rs> is not ready anymore to negotiate with <rs type="place"><ref source="place014">Russia</ref></rs>, meaning <rs type="place"><ref source="place019">Japan</ref></rs> will protect their 
+               Lately, <placeName><ref source="place014">Russia</ref></placeName> started to prepare for war in <placeName><ref source="place024">Asia</ref></placeName>. <placeName><ref source="place019">Japan</ref></placeName> on the other side, also braced themselves for war. After a while, <placeName><ref source="place019">Japan</ref></placeName> 
+               realised that <placeName><ref source="place014">Russia</ref></placeName> took ages to answer <placeName><ref source="place019">Japan</ref></placeName>’s demand and hesitated for weeks on end, therefore only playing for time in order to finish preparing for war. Hence, <placeName><ref source="place019">Japan</ref></placeName> called back 
+               their ambassador from <placeName><ref source="place018">St Petersburg</ref></placeName>, meaning <placeName><ref source="place019">Japan</ref></placeName> is not ready anymore to negotiate with <placeName><ref source="place014">Russia</ref></placeName>, meaning <placeName><ref source="place019">Japan</ref></placeName> will protect their 
                rights with a blade. On Sunday then, the <hi rend="italic">war</hi> began. 
             </p>
          </div>
          <div n="8">
-            <head><rs type="place"><ref source="place019">Japan</ref></rs>.</head>
+            <head><placeName><ref source="place019">Japan</ref></placeName>.</head>
             <head type="h2">b.</head>
             <p>
-               <rs type="place"><ref source="place019">Japan</ref></rs> mostly consists of mountains. There are several high mountains and even volcanoes, which means the mountain erupts fire. The climate there is healthy: in the summer there is a warm and moist south wind, in the winter it is cold, harsh north wind. The population grows continuously. 
-               Each year it grows by 1/9. Every year, there are 350,000 marriages and 100,000 divorces. Each year over one million children are being born while 800,000 people die. <rs type="place"><ref source="place019">Japan</ref></rs> has a lot of big cities, for example the capital, <rs type="place"><hi rend="italic"><ref source="place086">Tokyo</ref></hi></rs> with 1,350,000 
-               inhabitants, <rs type="place"><ref source="place087">Osaka</ref></rs> - 500,000, <rs type="place"><ref source="place088">Kyoto</ref></rs> - 340,000, <rs type="place"><ref source="place089">Nogoya</ref></rs> - 250,000, <rs type="place"><ref source="place090">Taiwan</ref></rs> - 240,000, <rs type="place"><ref source="place091">Kōbe</ref></rs> 
-               - 200,000, <rs type="place"><ref source="place092">Yokohama</ref></rs> - 200,000 and others. - The bigger part of the Japanese is a united people. They speak the same language, wear the same clothes, practise the same customs and religion. Concerning their looks, they are similar to Mongols. The men’s average height is 158 cm and women’s 
+               <placeName><ref source="place019">Japan</ref></placeName> mostly consists of mountains. There are several high mountains and even volcanoes, which means the mountain erupts fire. The climate there is healthy: in the summer there is a warm and moist south wind, in the winter it is cold, harsh north wind. The population grows continuously. 
+               Each year it grows by 1/9. Every year, there are 350,000 marriages and 100,000 divorces. Each year over one million children are being born while 800,000 people die. <placeName><ref source="place019">Japan</ref></placeName> has a lot of big cities, for example the capital, <placeName><hi rend="italic"><ref source="place086">Tokyo</ref></hi></placeName> with 1,350,000 
+               inhabitants, <placeName><ref source="place087">Osaka</ref></placeName> - 500,000, <placeName><ref source="place088">Kyoto</ref></placeName> - 340,000, <placeName><ref source="place089">Nogoya</ref></placeName> - 250,000, <placeName><ref source="place090">Taiwan</ref></placeName> - 240,000, <placeName><ref source="place091">Kōbe</ref></placeName> 
+               - 200,000, <placeName><ref source="place092">Yokohama</ref></placeName> - 200,000 and others. - The bigger part of the Japanese is a united people. They speak the same language, wear the same clothes, practise the same customs and religion. Concerning their looks, they are similar to Mongols. The men’s average height is 158 cm and women’s 
                145 cm, their skin tone is of a light yellow, their hair is black as well as thick and strong, but their facial hair thin and weak. Some time ago they used to wear plaits like the Chinese, but since they got more civilised they cut them off. The Japanese are known <cb/> are known for their cleanliness, they are kind, decent, and polite. 
-               Their children respect and honour their parents. There are several schools and a university in <rs type="place"><ref source="place019">Japan</ref></rs>, where Hebrew is taught as well. Over 800 newspapers and bulletins are published there. The press law is very strict. The Japanese people lead a moderate lifestyle, they mostly eat rice, 
+               Their children respect and honour their parents. There are several schools and a university in <placeName><ref source="place019">Japan</ref></placeName>, where Hebrew is taught as well. Over 800 newspapers and bulletins are published there. The press law is very strict. The Japanese people lead a moderate lifestyle, they mostly eat rice, 
                millet, fish and similar, but not a lot of meat. Their clothes are made of linen, their houses are lowly built and made out of wood, and the roofs are made out of shingles or covered with straw - very rarely bricks are used. As the houses are built very closely next to each other, fires can spread quickly. - Most Japanese live off of 
                farming, livestock breeding, and mining. As of recently, factories were being built which export their merchandise abroad. The arts are rather developed, Japanese paper, porcelain, and paintings are known all over the globe. 
             </p>
@@ -419,27 +419,27 @@
             <head>News.</head>
             <head type="h2">Jewish News.</head>
             <p>
-               (<rs type="place"><ref source="place002">Lviv</ref></rs>). This coming Shabbat in the evening the <ref source="https://www.wikidata.org/wiki/Q833536">Chasidim synagogue</ref> will be holding the general meeting of the <foreign xml:lang="he">חלואת חן</foreign> society at 7 PM.
+               (<placeName><ref source="place002">Lviv</ref></placeName>). This coming Shabbat in the evening the <ref source="https://www.wikidata.org/wiki/Q833536">Chasidim synagogue</ref> will be holding the general meeting of the <foreign xml:lang="he">חלואת חן</foreign> society at 7 PM.
             </p>
             <p>
-               (<rs type="place"><ref source="place093">Frankfurt</ref></rs>). The local court judge <rs type="person"><ref source="person223">Dr Sommer</ref></rs> has been promoted to higher court judge. <rs type="person"><ref source="person223">Dr Sommer</ref></rs> is Jewish 
-               and went to grammar school together with the <rs type="person"><ref source="person010">German emperor</ref></rs>. As soon as the emperor gets to <rs type="place"><ref source="place093">Frankfurt</ref></rs>, he will visit him. 
+               (<placeName><ref source="place093">Frankfurt</ref></placeName>). The local court judge <persName><ref source="person223">Dr Sommer</ref></persName> has been promoted to higher court judge. <persName><ref source="person223">Dr Sommer</ref></persName> is Jewish 
+               and went to grammar school together with the <persName><ref source="person010">German emperor</ref></persName>. As soon as the emperor gets to <placeName><ref source="place093">Frankfurt</ref></placeName>, he will visit him. 
             </p>
             <p>
-               (<rs type="place"><ref source="place018">St Petersburg</ref></rs>). 19,229 Jewish people live in <rs type="place"><ref source="place018">St Petersburg</ref></rs>. Out of those, 4,847 are tailors, 11,115 work in printing and lithography, 1,655 are stonemasons and metalworkers, 
+               (<placeName><ref source="place018">St Petersburg</ref></placeName>). 19,229 Jewish people live in <placeName><ref source="place018">St Petersburg</ref></placeName>. Out of those, 4,847 are tailors, 11,115 work in printing and lithography, 1,655 are stonemasons and metalworkers, 
                380 doctors, 190 dentists, 258 pharmacists, 208 lawyers, 268 work in military, 2 are policemen, and the rest are freelancers, working as teachers, professors, authors and similar. 
             </p>
             <p>
-               (<rs type="place"><ref source="place095">Paris</ref></rs>). Soon, the revision of the <rs type="person"><ref source="person082">Dreyfus</ref></rs> process will start. The investigation found over 60 forgeries which were used to find Dreyfus guilty. It is certain that 
-               <rs type="person"><ref source="person082">Dreyfus</ref></rs> will be found completely innocent.
+               (<placeName><ref source="place095">Paris</ref></placeName>). Soon, the revision of the <persName><ref source="person082">Dreyfus</ref></persName> process will start. The investigation found over 60 forgeries which were used to find Dreyfus guilty. It is certain that 
+               <persName><ref source="person082">Dreyfus</ref></persName> will be found completely innocent.
             </p>
             <p>
-               (<rs type="place"><ref source="place096">New York</ref></rs>). According to the Austrian-Hungarian consul in the <rs type="place"><ref source="place095">USA</ref></rs>, there have been the following immigration from <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> 
-               to the <rs type="place"><ref source="place095">USA</ref></rs> in <date when="1902">1902</date>: 37,499 Polish, 34,412 Slovaks, 32,892 Croatians and Slavic people, 27,113 Magyars, 23,597 Germans, 18,759 <hi rend="italic">Jewish people</hi>, 9,819 Ruthenians, 9,577 Czechs, 4,227 
+               (<placeName><ref source="place096">New York</ref></placeName>). According to the Austrian-Hungarian consul in the <placeName><ref source="place095">USA</ref></placeName>, there have been the following immigration from <placeName><ref source="place001">Austria-Hungary</ref></placeName> 
+               to the <placeName><ref source="place095">USA</ref></placeName> in <date when="1902">1902</date>: 37,499 Polish, 34,412 Slovaks, 32,892 Croatians and Slavic people, 27,113 Magyars, 23,597 Germans, 18,759 <hi rend="italic">Jewish people</hi>, 9,819 Ruthenians, 9,577 Czechs, 4,227 
                Bulgarians, Serbs, and Montenegrians, 4,137 Rumanians, 2,170 Italians, and 1,723 Bosnian people.
             </p>
             <p>
-               (<rs type="place"><ref source="place097">Morocco</ref></rs>). In the city of <rs type="place"><ref source="place098">Settat</ref></rs>, persecutions against Jewish people broke out. While the Jewish people were doing their evening prayer in the Synagogue, Arabs ambushed their wives and 
+               (<placeName><ref source="place097">Morocco</ref></placeName>). In the city of <placeName><ref source="place098">Settat</ref></placeName>, persecutions against Jewish people broke out. While the Jewish people were doing their evening prayer in the Synagogue, Arabs ambushed their wives and 
                children, looted their houses. After they have killed numerous Jewish people, they took their women and children as captives. Over 300 houses were destroyed. The Arabs demand a lot of money to free the captives.
             </p></div><pb/>
          <fw style="text-align:center">- 8 -</fw>
@@ -448,49 +448,49 @@
                General news.
             </head>
             <p>
-               (<rs type="place"><ref source="place007">Vienna</ref></rs>). This Monday, Emperor <rs type="person"><ref source="person003">Franz Joseph</ref></rs> felt something in his lung. He has complained about rheumatism and stayed in bed all day. On Thursday, he already felt better, but your 
-               majesty will stay inside for some days and not go outside. - This week the <rs type="person"><ref source="person224">grand duke</ref></rs> of <rs type="place"><ref source="place049">Mecklenburg</ref></rs> visited our emperor and was received with a big parade.
+               (<placeName><ref source="place007">Vienna</ref></placeName>). This Monday, Emperor <persName><ref source="person003">Franz Joseph</ref></persName> felt something in his lung. He has complained about rheumatism and stayed in bed all day. On Thursday, he already felt better, but your 
+               majesty will stay inside for some days and not go outside. - This week the <persName><ref source="person224">grand duke</ref></persName> of <placeName><ref source="place049">Mecklenburg</ref></placeName> visited our emperor and was received with a big parade.
             </p>
             <p>
-               (<rs type="place"><ref source="place002">Lviv</ref></rs>). News has been received from <rs type="place"><ref source="place007">Vienna</ref></rs> that the allegiance will take place only in April because the delegation was not able to end their consultation. That’s why the Imperial 
+               (<placeName><ref source="place002">Lviv</ref></placeName>). News has been received from <placeName><ref source="place007">Vienna</ref></placeName> that the allegiance will take place only in April because the delegation was not able to end their consultation. That’s why the Imperial 
                Council cannot be convened to sign off on the recruit law.
             </p>
             <p>
-               (<rs type="place"><ref source="place063">Stryj</ref></rs>). A fire broke out on the night of <date when="1904-02-07">February 7th</date>. It was extinguished immediately, but a young man who wanted to save himself, jumped over a fence and fell to his death. - A woman heated her house 
+               (<placeName><ref source="place063">Stryj</ref></placeName>). A fire broke out on the night of <date when="1904-02-07">February 7th</date>. It was extinguished immediately, but a young man who wanted to save himself, jumped over a fence and fell to his death. - A woman heated her house 
                and threw a bottle of petroleum into the fire which started to burn. The petroleum also got on her clothes and she burnt to death.
             </p>
             <p>
-               (<rs type="place"><ref source="place184">Baltimore</ref></rs>). In this big American city, a massive fire broke out which has lasted four days already. Half of the city is burning. The damage is estimated at over 300 million dollars.
+               (<placeName><ref source="place184">Baltimore</ref></placeName>). In this big American city, a massive fire broke out which has lasted four days already. Half of the city is burning. The damage is estimated at over 300 million dollars.
             </p>
          </div>
          <div n="11">
-            <head><hi rend="bold">Feuilleton.</hi><lb/><rs type="person"><ref source="person046">Rabbi Meir</ref></rs> of <rs type="place"><ref source="place099">Rothenburg</ref></rs>. May his memory be a blessing.<lb/>(A historical retelling).<lb/>I</head>
+            <head><hi rend="bold">Feuilleton.</hi><lb/><persName><ref source="person046">Rabbi Meir</ref></persName> of <placeName><ref source="place099">Rothenburg</ref></placeName>. May his memory be a blessing.<lb/>(A historical retelling).<lb/>I</head>
             <p>
-               This story we are telling here is historically true and happened in the old city of <rs type="place"><ref source="place099">Rothenburg</ref></rs> in <rs type="place"><ref source="place010">Germany</ref></rs>. In the thirteenth century - according to the Gregorian calendar - 
+               This story we are telling here is historically true and happened in the old city of <placeName><ref source="place099">Rothenburg</ref></placeName> in <placeName><ref source="place010">Germany</ref></placeName>. In the thirteenth century - according to the Gregorian calendar - 
                the principality of <ref source="https://www.wikidata.org/wiki/Q130875">Hohenstauffen</ref> ruled in this city. The city was surrounded with high walls and moats and the royal palace is situated on a beautiful hill.  At this time the principality ruled over 
-               the whole land because one prince was the brother in law of the <rs type="person"><ref source="person043">Roman emperor</ref></rs> - the ruler of <rs type="place"><ref source="place010">Germany</ref></rs> at that time. The German peoples were dissatisfied with their sovereign and were said to have 
-               planned a rebellion. In <date when="1285">1285</date>, the <rs type="person"><ref source="person044">Count of Württemberg</ref></rs> started a rebellion in order to dispose of Emperor <rs type="person"><ref source="person045">Rudolf</ref></rs>, 
-               but <rs type="person"><ref source="person045">Rudolf</ref></rs> forcefully suppressed the rebellion with his military.
+               the whole land because one prince was the brother in law of the <persName><ref source="person043">Roman emperor</ref></persName> - the ruler of <placeName><ref source="place010">Germany</ref></placeName> at that time. The German peoples were dissatisfied with their sovereign and were said to have 
+               planned a rebellion. In <date when="1285">1285</date>, the <persName><ref source="person044">Count of Württemberg</ref></persName> started a rebellion in order to dispose of Emperor <persName><ref source="person045">Rudolf</ref></persName>, 
+               but <persName><ref source="person045">Rudolf</ref></persName> forcefully suppressed the rebellion with his military.
             </p> 
             <p>
-               The Jewish people in <rs type="place"><ref source="place099">Rothenburg</ref></rs> were valued at that time and have been protected by the prince against the masses, which used to attack the Jewish people a lot. The clergyman incited 
+               The Jewish people in <placeName><ref source="place099">Rothenburg</ref></placeName> were valued at that time and have been protected by the prince against the masses, which used to attack the Jewish people a lot. The clergyman incited 
                violence against the Jewish people. The principality was short on money and borrowed funds from the rich Jewish people leading to the principality protecting the Jewish people and letting no harm happen to them. The principality therefore issued rights and privileges, forbidding anyone to do harm as they were the prince’s subjects.
             </p>
             <p>
-               At that time, there was a Rabbi in <rs type="place"><ref source="place099">Rothenburg</ref></rs>, <rs type="person"><ref source="person046">Rabbi <hi rend="italic">Meir</hi></ref></rs> of <rs type="place"><ref><ref source="place047">Worms</ref></ref></rs> - may his memory be a blessing. An important gaon, who spread <cb/>
-               the light of the Torah across the whole country. He was also a knowledgeable scholar in various sciences and asked every important question for advice. He led his community with knowledge and in godliness. He was well-known in all of <rs type="place"><ref source="place010">Germany</ref></rs>, from all sides he was asked 
-               questions to receive the answers and what he said was accepted. He was so popular that he was just called “<rs type="person"><ref source="person046">Meir of Rothenburg</ref></rs>”. He also led a yeshiva where students from all around came to study under him.
+               At that time, there was a Rabbi in <placeName><ref source="place099">Rothenburg</ref></placeName>, <persName><ref source="person046">Rabbi <hi rend="italic">Meir</hi></ref></persName> of <placeName><ref><ref source="place047">Worms</ref></ref></placeName> - may his memory be a blessing. An important gaon, who spread <cb/>
+               the light of the Torah across the whole country. He was also a knowledgeable scholar in various sciences and asked every important question for advice. He led his community with knowledge and in godliness. He was well-known in all of <placeName><ref source="place010">Germany</ref></placeName>, from all sides he was asked 
+               questions to receive the answers and what he said was accepted. He was so popular that he was just called “<persName><ref source="person046">Meir of Rothenburg</ref></persName>”. He also led a yeshiva where students from all around came to study under him.
             </p>
             <p>
-               As the prince of <rs type="place"><ref source="place099">Rothenburg</ref></rs> heard how popular the Rabbi of his city was, he was delighted how prominent his city had become. He held the Rabbi in high regard and consulted 
-               with him on various political questions as well as admired the intelligence and reasoning of the <rs type="person"><ref source="person046">Meir</ref></rs> of <rs type="place"><ref source="place099">Rothenburg</ref></rs>.
+               As the prince of <placeName><ref source="place099">Rothenburg</ref></placeName> heard how popular the Rabbi of his city was, he was delighted how prominent his city had become. He held the Rabbi in high regard and consulted 
+               with him on various political questions as well as admired the intelligence and reasoning of the <persName><ref source="person046">Meir</ref></persName> of <placeName><ref source="place099">Rothenburg</ref></placeName>.
             </p>
             <p>
-               Only as the rebellion against Emperor <rs type="person"><ref source="person045">Rudolf</ref></rs> broke out did the situation of the Jewish community deteriorate. The rebellion disturbed the order in the country, everyone did whatever they wanted, ignored the law, and stole one another’s money - and 
+               Only as the rebellion against Emperor <persName><ref source="person045">Rudolf</ref></persName> broke out did the situation of the Jewish community deteriorate. The rebellion disturbed the order in the country, everyone did whatever they wanted, ignored the law, and stole one another’s money - and 
                everybody put the blame on the Jewish people to consume the funds. 
             </p>
             <p>
-               During this time, the Meir of <rs type="place"><ref source="place099">Rothenburg</ref></rs> ran circles around his wide, but low chambers, deep in thought. The rabbi has always - as he was an old man already - looked well, went upright, was neither bent nor broken. Therefore, everyone admired him, but 
+               During this time, the Meir of <placeName><ref source="place099">Rothenburg</ref></placeName> ran circles around his wide, but low chambers, deep in thought. The rabbi has always - as he was an old man already - looked well, went upright, was neither bent nor broken. Therefore, everyone admired him, but 
                immediately saw that he looked anxious and sick. He was dressed in his silken long coat, with a silken belt - both dropped down to his feet - on his head was a sable-hat, and in his hand he held a sceptre with a silver top. It was noticeable that he wanted to go somewhere. 
             </p>
             <p>
@@ -502,31 +502,31 @@
                welcomes you with mercy and grace. Why then are you so distressed?!
             </p>
             <p>
-               “You are right, my dearest!” answered <rs type="person"><ref source="person046">Meir</ref></rs>. Those who are confident do not need to be sad. However, I have been plagued by several fears. I think the good times for us Jews in 
-               <rs type="place"><ref source="place099">Rothenburg</ref></rs> are over and tough, sad days are to come. Our sun is setting and the darkest night is starting.”
+               “You are right, my dearest!” answered <persName><ref source="person046">Meir</ref></persName>. Those who are confident do not need to be sad. However, I have been plagued by several fears. I think the good times for us Jews in 
+               <placeName><ref source="place099">Rothenburg</ref></placeName> are over and tough, sad days are to come. Our sun is setting and the darkest night is starting.”
             </p>
             <p>
                The student was perplexed.
             </p>
             <p>
-               Did you perhaps forget the horrible plague which is going around in the <rs type="place"><ref source="place101">Rhinelands</ref></rs>, in <rs type="place"><ref source="place"><ref source="place102">Bavaria</ref></ref></rs> 
-               and in the bordering countries?” The <rs type="person"><ref source="person046">Meir</ref></rs> asked him. “Did you forget the hardship under which our brothers suffered? Not only three years have gone by since the mob attacked 
-               our brothers in <rs type="place"><ref source="place046">Mainz</ref></rs> and burnt them. In <rs type="place"><ref source="place104">Munich</ref></rs>, as well, a Jewish quarter was locked up and set on fire from all four sides 
-               and all Jewish people have been thrown into the fire afterwards - A messenger from the city of <rs type="place"><ref source="place105">Oberwesel</ref></rs> arrived yesterday and bore a horrible announcement: the clergymen there 
+               Did you perhaps forget the horrible plague which is going around in the <placeName><ref source="place101">Rhinelands</ref></placeName>, in <placeName><ref source="place"><ref source="place102">Bavaria</ref></ref></placeName> 
+               and in the bordering countries?” The <persName><ref source="person046">Meir</ref></persName> asked him. “Did you forget the hardship under which our brothers suffered? Not only three years have gone by since the mob attacked 
+               our brothers in <placeName><ref source="place046">Mainz</ref></placeName> and burnt them. In <placeName><ref source="place104">Munich</ref></placeName>, as well, a Jewish quarter was locked up and set on fire from all four sides 
+               and all Jewish people have been thrown into the fire afterwards - A messenger from the city of <placeName><ref source="place105">Oberwesel</ref></placeName> arrived yesterday and bore a horrible announcement: the clergymen there 
                defamed the Jewish people there having slaughtered a Christian child in order to sacrifice its blood for an offering. The clergymen set the people against the Jewish people with this false accusation which are scared of being 
                outside now. If this slander is now believed by the mobs, then heaven help us, massive hardship will come over Jewish people. Now, a rebellion broke out in the country, the revolutionists are not far from our lands. Wherever 
                they go, they will unleash all of their wrath <cb/>upon the Jewish people… This grim situation saddens me and I am very afraid why the prince called for me today”.               
             </p>
             <p>
-               “Why my dearest Rabbi, are you afraid and forgot that God - praise the Lord - the guardian of <rs type="place"><ref source="place050">Jerusalem</ref></rs> does not sleep?” - the student asked. “You are constantly aware that 
+               “Why my dearest Rabbi, are you afraid and forgot that God - praise the Lord - the guardian of <placeName><ref source="place050">Jerusalem</ref></placeName> does not sleep?” - the student asked. “You are constantly aware that 
                God is our guard, up to today, he protects us and will also not leave us now!”
             </p>
             <p>
-               “Of course, I know this, my child” - <rs type="person"><ref source="person046">Meir</ref></rs> answered “but I am telling you that it scares me. One of my acquaintances of the Christian court told me that some days ago a man arrived who I am fearful 
-               of. As people have told me, the scoundrel <rs type="person"><ref source="person054">Kneppe</ref></rs>, who has been chasing me like a snake, arrived.”
+               “Of course, I know this, my child” - <persName><ref source="person046">Meir</ref></persName> answered “but I am telling you that it scares me. One of my acquaintances of the Christian court told me that some days ago a man arrived who I am fearful 
+               of. As people have told me, the scoundrel <persName><ref source="person054">Kneppe</ref></persName>, who has been chasing me like a snake, arrived.”
             </p>
             <p>
-                All colour vanished from the face of the student as he heard the name of <rs type="person"><ref source="person054">Kneppe</ref></rs>.
+               All colour vanished from the face of the student as he heard the name of <persName><ref source="person054">Kneppe</ref></persName>.
             </p>
             <p>
                And the Rabbi continued: “For some years already, this evildoer has been following us wherever we go. Every false accusation, every defamation, every evil law, every persecution stems from him. His 
@@ -535,14 +535,14 @@
                of Israel. Therefore, he certainly arrived at the royal court to destroy me and the whole community with it. That is what I am scared of. I will soon go to the prince and see whether my fear is justified.” 
             </p>
             <p>   
-               <rs type="person"><ref source="person059">Asher</ref></rs> was very shocked hearing the Rabbi’s words and had become curious to see the end of it all.
+               <persName><ref source="person059">Asher</ref></persName> was very shocked hearing the Rabbi’s words and had become curious to see the end of it all.
             </p>
             <p>(To be continued).</p>
          </div>
          <div n="12">
             <head><hi rend="bold">Letterbox.</hi></head>
             <p>
-               To <rs type="person">Rabbi <ref source="person226">Moore</ref></rs>. When you have been the sole Rabbi in a small town before, the <ref source="https://www.parlament.gv.at/dokument/XXIV/ME/199/fname_197101.pdf">decree of <date when="1890-03-21">March 21st 1890</date></ref> 
+               To <persName>Rabbi <ref source="person226">Moore</ref></persName>. When you have been the sole Rabbi in a small town before, the <ref source="https://www.parlament.gv.at/dokument/XXIV/ME/199/fname_197101.pdf">decree of <date when="1890-03-21">March 21st 1890</date></ref> 
                has been released - you were also the Rabbi in a bigger city. - that men were allowed to graduate by law. 
             </p>
             <p>
@@ -554,12 +554,12 @@
             <div type="ad" n="1">
                <head>Fine tea</head>
                <p>
-               If you want to drink pure, unadulterated tea, write to the address below,
-               <lb/>1 kg fine, pure tea only 6 crowns.
-               <lb/>There is also tea costing 3 to 10 crowns per kg.
-               <lb/>Sample for free and prepaid.
-               <lb/><rs type="person"><ref source="person053">L. Aperman</ref></rs>, <rs type="place"><ref source="place135">Brody</ref></rs> <rs type="place"><ref source="place006">Galicia</ref></rs>.
-               <lb/>Thee &amp; Caffe Lager.
+                  If you want to drink pure, unadulterated tea, write to the address below,
+                  <lb/>1 kg fine, pure tea only 6 crowns.
+                  <lb/>There is also tea costing 3 to 10 crowns per kg.
+                  <lb/>Sample for free and prepaid.
+                  <lb/><persName><ref source="person053">L. Aperman</ref></persName>, <placeName><ref source="place135">Brody</ref></placeName> <placeName><ref source="place006">Galicia</ref></placeName>.
+                  <lb/>Thee &amp; Caffe Lager.
                </p>
             </div>
             <div type="ad" n="2">
@@ -567,7 +567,7 @@
                <p>
                Is in the eating.
                <lb/>If you want a natural, working remedy for coughing, sore throats, congestion, against  digestive problems, lack of appetite or similar problems, you should try the remedy from the first 
-               Austrian malt extract brewery of the brothers Bittman in <rs type="place"><ref source="place133">Razová</ref></rs> in <rs type="place"><ref source="place134">Silesia</ref></rs>:
+               Austrian malt extract brewery of the brothers Bittman in <placeName><ref source="place133">Razová</ref></placeName> in <placeName><ref source="place134">Silesia</ref></placeName>:
                <lb/>Healthy Malt-Extract
                <lb/>Which healing-powers have been proven and recommended by numerous thank yous and appreciation letters. Just one teaspoon concentrated malt-extract dissolved in a cup of hot milk sweetened 
                with some pieces of malt or sugar is not only an exquisite expectorant remedy for a cold or the flu, but also works as a 
@@ -581,9 +581,9 @@
             <div type="ad" n="3">
                <head>Stable employment</head>
                <p>
-               <lb/>Fixed salary and provision after a trial period for every person who dedicates themselves to an agency in the countryside. Part-time employment possible. Expertise is not needed, reliability needed.
-               <lb/>Application to:
-               <lb/><rs type="person"><ref source="person055">A. Hübscher</ref></rs>, <rs type="place"><ref source="place135">Prague</ref></rs>.
+                  Fixed salary and provision after a trial period for every person who dedicates themselves to an agency in the countryside. Part-time employment possible. Expertise is not needed, reliability needed.
+                  <lb/>Application to:
+                  <lb/><persName><ref source="person055">A. Hübscher</ref></persName>, <placeName><ref source="place135">Prague</ref></placeName>.
                </p>
             </div>
             <div type="ad" n="4">
@@ -598,30 +598,30 @@
                </p>
                <table rows="3" cols="2">
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place054">Santos</ref></rs> Coffee á 1,20 guilders</cell>
-                     <cell role="data"><rs type="place"><ref source="place055">Puerto Rico</ref></rs> Pearl á 1,23 guilders</cell>
+                     <cell role="data"><placeName><ref source="place054">Santos</ref></placeName> Coffee á 1,20 guilders</cell>
+                     <cell role="data"><placeName><ref source="place055">Puerto Rico</ref></placeName> Pearl á 1,23 guilders</cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place056">Cuba</ref></rs>     "    "  1,46 "</cell>
-                     <cell role="data"><rs type="place"><ref source="place057">Ceylon</ref></rs>     "     "  1,68 "  </cell>
+                     <cell role="data"><placeName><ref source="place056">Cuba</ref></placeName>     "    "  1,46 "</cell>
+                     <cell role="data"><placeName><ref source="place057">Ceylon</ref></placeName>     "     "  1,68 "  </cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place057">Ceylon</ref></rs>  "   "    1,62  "</cell>
-                     <cell role="data">Gold <rs type="place"><ref source="place058">Java</ref></rs>   "   "   1,45 "</cell>
+                     <cell role="data"><placeName><ref source="place057">Ceylon</ref></placeName>  "   "    1,62  "</cell>
+                     <cell role="data">Gold <placeName><ref source="place058">Java</ref></placeName>   "   "   1,45 "</cell>
                   </row>
                </table>
                <p>
                   Free samle and payment on delivery
                </p>
                <p>
-                  <rs type="person"><ref source="person029">Berger Ernö</ref></rs>, <rs type="place"><ref source="place059">Fuime</ref></rs>.
+                  <persName><ref source="person029">Berger Ernö</ref></persName>, <placeName><ref source="place059">Fuime</ref></placeName>.
                </p>
             </div>
          </div>
          <fw type="footer">
                <foreign xml:lang="de">
-                  Herausgeber und verantwortlicher Redact. <rs type="person"><ref source="person031">OSIAS H. WILF</ref></rs> recte Weinstock
-                  <lb/>Druck von <rs type="person"><ref source="person032">E. Salat</ref></rs> Witwe des <rs type="person"><ref source="person033">U.W. Salat</ref></rs>, <rs type="place"><ref source="place002">Lemberg</ref></rs> <rs type="place"><ref source="place065">Kasimirgasse</ref> 35</rs>
+                  Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte <persName><ref source="person139">Weinstock</ref></persName>
+                  <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse</ref> 35</placeName>
                </foreign>
          </fw>
          <pb/>

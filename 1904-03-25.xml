@@ -105,7 +105,7 @@
             <table rows="4" cols="2">
                <head>The Geniune Jew costs</head>
                <row role="data">
-                  <cell role="data">In <rs type="place"><ref source="place001">Austria-Hungary</ref></rs></cell>
+                  <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
                   <cell role="data">Abroad</cell>
                </row>
                <row role="data">
@@ -121,40 +121,40 @@
                   <cell role="data">For a quarter year - 5.50 "</cell>
                </row>
             </table>
-            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-03-25"> March 25th 1904</date></p>
+            <p><placeName><ref source="place002">Lviv</ref></placeName>, <date calendar="Hebrew" when-custom="5664-01-09"><foreign xml:lang="he">Yom Shishi, <ref source="https://www.wikidata.org/wiki/Q166986">Tzav</ref></foreign> 5664</date></p>
             <cb/>
             <p>
-               <lb/>Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place">Sonnengasse 27</rs></foreign>
-               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign xml:lang="de"><rs type="place">Lemberg</rs>, <date when-iso="1904-03-25">den 25.März 1904</date></foreign>.</p>
+               <lb/>Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName>Sonnengasse 27</placeName></foreign>
+               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign xml:lang="de"><placeName>Lemberg</placeName>, <date when-iso="1904-03-25">den 25.März 1904</date></foreign>.</p>
          </div>
          <div n="2">
-            <head><hi rend="bold">The Jewish emigration from <rs type="place"><ref source="place006">Galicia</ref></rs></hi></head>
+            <head><hi rend="bold">The Jewish emigration from <placeName><ref source="place006">Galicia</ref></placeName></hi></head>
             <p>
-               According to a recently published report about Galician emigration, 104,758 Jews have emigrated from <rs type="place"><ref source="place006">Galicia</ref></rs> in the last ten years (1890-1900). Jews form 12 % of the population, but more than a third of the emigrants are Jews. 
+               According to a recently published report about Galician emigration, 104,758 Jews have emigrated from <placeName><ref source="place006">Galicia</ref></placeName> in the last ten years (1890-1900). Jews form 12 % of the population, but more than a third of the emigrants are Jews. 
             </p>
             <p>
-               The great number of emigrants. Exclude those who didn’t move abroad but went to a bigger city in <rs type="place"><ref source="place025">Austria</ref></rs> - they go to <rs type="place"><ref source="place008">America</ref></rs> and other countries. It proves the great poverty in 
-               <rs type="place"><ref source="place006">Galicia</ref></rs>. As it is known, Jewish people don’t want to leave their home and their family, if there is still a possibility to survive. In reality, <rs type="place"><ref source="place006">Galicia</ref></rs>’s poverty in general and the 
-               Jewish one in particular is very great. <rs type="place"><ref source="place006">Galicia</ref></rs> is a poor country with an inability to create new livelihoods, new sources of income. The competition is strong, one rips the bite almost out of the other's mouth - and those who cannot 
+               The great number of emigrants. Exclude those who didn’t move abroad but went to a bigger city in <placeName><ref source="place025">Austria</ref></placeName> - they go to <placeName><ref source="place008">America</ref></placeName> and other countries. It proves the great poverty in 
+               <placeName><ref source="place006">Galicia</ref></placeName>. As it is known, Jewish people don’t want to leave their home and their family, if there is still a possibility to survive. In reality, <placeName><ref source="place006">Galicia</ref></placeName>’s poverty in general and the 
+               Jewish one in particular is very great. <placeName><ref source="place006">Galicia</ref></placeName> is a poor country with an inability to create new livelihoods, new sources of income. The competition is strong, one rips the bite almost out of the other's mouth - and those who cannot 
                withstand it, need to look for their bread out in the world. 
             </p>
             <p>
-               In regards to this, it must be highlighted that too many Jews are emigrating from <rs type="place"><ref source="place006">Galicia</ref></rs>. This means, too many people who could work and sustain themselves, who have initiative and the means to live here, to safeguard their<cb/> future - 
-               they emigrate to <rs type="place"><ref source="place008">America</ref></rs> or <rs type="place"><ref source="place137">Africa</ref></rs> because they can earn their money more easily there; many emigrate because others who have done so, write “nice letters”, send presents to their families 
+               In regards to this, it must be highlighted that too many Jews are emigrating from <placeName><ref source="place006">Galicia</ref></placeName>. This means, too many people who could work and sustain themselves, who have initiative and the means to live here, to safeguard their<cb/> future - 
+               they emigrate to <placeName><ref source="place008">America</ref></placeName> or <placeName><ref source="place137">Africa</ref></placeName> because they can earn their money more easily there; many emigrate because others who have done so, write “nice letters”, send presents to their families 
                and one might think they live happily ever after. 
             </p>
             <p>
-               But not all of that is correct. Those who read the descriptions of the factories and workhouses in <rs type="place"><ref source="place094">America</ref></rs>, know how hard and bitter one must work there. There is not Sabbath, no holidays, no day nor night. If people here would only work half as hard, 
-               nobody would have to go to <rs type="place"><ref source="place094">America</ref></rs>, away from home, away from the family, away from the Jewry.
+               But not all of that is correct. Those who read the descriptions of the factories and workhouses in <placeName><ref source="place094">America</ref></placeName>, know how hard and bitter one must work there. There is not Sabbath, no holidays, no day nor night. If people here would only work half as hard, 
+               nobody would have to go to <placeName><ref source="place094">America</ref></placeName>, away from home, away from the family, away from the Jewry.
             </p>
             <p>
-               It is true that there aren’t as many possibilities to work in <rs type="place"><ref source="place006">Galicia</ref></rs> compared to other countries. But exactly that is the advantage, because here, everyone wants to earn their living with fictitious transactions and in <rs type="place"><ref source="place094">America</ref></rs> 
+               It is true that there aren’t as many possibilities to work in <placeName><ref source="place006">Galicia</ref></placeName> compared to other countries. But exactly that is the advantage, because here, everyone wants to earn their living with fictitious transactions and in <placeName><ref source="place094">America</ref></placeName> 
                one has to do taxing work. We should also strive to create new sources of income (as explained in The Genuine Jew no. 1 in the article “New livelihoods”), to open up possibilities to work here and no one needs to go out into the world - Praiseworthy are those who sit in at home is a well-known Jewish idiom in which the truth lies.
             </p>
          </div>
          <div type="information" style="one column">
             <p>We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the voice of the upholders of religion) to send every letter and money to this address:</p>
-            <p>OSIAS H. WILF, <rs type="place"><ref source="place002">LEMBERG</ref></rs> <ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.</p>
+            <p>OSIAS H. WILF, <placeName><ref source="place002">LEMBERG</ref></placeName> <ref source="place003"><placeName>Sonnengasse 27</placeName></ref>.</p>
             <p style="text-align:center">[1]</p>
          </div>
          <pb/>
@@ -167,7 +167,7 @@
                Praise the lord!
             </p>
             <p>
-               Holy Jews, the descendents of <rs type="person"><ref source="person146">Abraham</ref></rs>, <rs type="person"><ref source="person147">Isaac</ref></rs>, and <rs type="person"><ref source="person148">Jacob</ref></rs>! For thousands of years, the holy people of <rs type="place"><ref source="place034">Israel</ref></rs> sacrificed their 
+               Holy Jews, the descendents of <persName><ref source="person146">Abraham</ref></persName>, <persName><ref source="person147">Isaac</ref></persName>, and <persName><ref source="person148">Jacob</ref></persName>! For thousands of years, the holy people of <placeName><ref source="place034">Israel</ref></placeName> sacrificed their 
                lives for our holy Torah, which is the Jewish soul. Like the soul dies when it separates from the body, the same happens when Jews would, God forbid, separate from and leave the Holy Torah. This would mean the end of the Jewish people. This is why we always have sacrificed our whole life for our Torah, for our religious faith. It is 
                to be implanted in our children, generation after generation and we have always raised our children in a Jewish manner as the Lord wanted us to,  the Torah in reverence, and the observance of the Mitzvos in practice. As this is a mitzvah from the Talmud of the Torah, it is in the image of the Almighty God, that every Jew is obliged 
                to teach his children the Holy Torah. And you will teach your sons, you as a Jew should teach your children the Torah and its commands so that your sons may speak among them. You should teach your children the Torah and its commands so they might always talk about the Torah, on Sabbath in your home and when walking alone, when lying, 
@@ -175,12 +175,12 @@
                three times per day.
             </p>
             <p>
-               The Holy <ref source="https://www.wikidata.org/wiki/Q930585">Gemara</ref> says: As soon as the child can talk, the father is obligated to teach him the Torah: "The Torah that <rs type="person"><ref source="person065">Moses</ref></rs> commanded us is the inheritance of the congregation of <rs type="person"><ref source="person148">Jacob</ref></rs>" 
-               and  <ref source="https://www.wikidata.org/wiki/Q207607">Shema Yisrael</ref>, the child has to know the principles of faith and the foundations of religion since childhood which <rs type="person"><ref source="person065">Moses</ref></rs>, may he rest in peace, has brought us the Torah from the Lord. By learning the Torah he must know the meaning 
+               The Holy <ref source="https://www.wikidata.org/wiki/Q930585">Gemara</ref> says: As soon as the child can talk, the father is obligated to teach him the Torah: "The Torah that <persName><ref source="person065">Moses</ref></persName> commanded us is the inheritance of the congregation of <persName><ref source="person148">Jacob</ref></persName>" 
+                  and  <ref source="https://www.wikidata.org/wiki/Q207607">Shema Yisrael</ref>, the child has to know the principles of faith and the foundations of religion since childhood which <persName><ref source="person065">Moses</ref></persName>, may he rest in peace, has brought us the Torah from the Lord. By learning the Torah he must know the meaning 
                of the Shema, the Lord our God, the Lord is one, dedicating himself to the Lord and to the Holy Torah, fulfilling the commandments, doing good deeds, and being good and pious for the Lord and the people.
             </p>
             <p>
-               When teaching the child the Torah, the Pentateuch, Prophets, Scriptures, and Gemara, one should also explain the holy declaration of the commentators which come from the Sages of the Mishnah and Talmud and the holy Midrashim which have been recorded by oral tradition until <rs type="person"><ref source="person065">Moses</ref></rs> our teacher, 
+               When teaching the child the Torah, the Pentateuch, Prophets, Scriptures, and Gemara, one should also explain the holy declaration of the commentators which come from the Sages of the Mishnah and Talmud and the holy Midrashim which have been recorded by oral tradition until <persName><ref source="person065">Moses</ref></persName> our teacher, 
                peace be upon him, received it from Sinai. Therefore, the child should be taught in faith until he gets to learn the Holy Gemara which is the real holy declaration of Holy Torah. It teaches us how to fulfill the commandments in practise and what the situation of the Jewish foundation and existence is and saying our prayers early in the morning: 
                And furthermore, we place in our hearts to understand and comprehend, to hear, to learn, and to teach, to observe, to do, and to fulfill all the words of the teaching of Your Torah. It shall give us the judgement to comment, to be able to teach yourself and others, to observe and to fulfill the holy words of Your Torah, meaning the Gemara and the decrees. 
             </p>
@@ -198,7 +198,7 @@
             <p>
                Now there are some teachers and tutors who teach some of the Pentateuch, Prophets, and Scriptures, but for them these religious books are also just a means to learn, to know the Hebrew language, but they do not teach the students the sanctity of the Torah and how to carry out their holy deeds. Instead they fabricate, condemn, and make the 
                Torah into a theory work or history book to learn the Hebrew language. They throw out the <ref source="https://www.wikidata.org/wiki/Q1643870">Parashah</ref> and the <ref source="https://www.wikidata.org/wiki/Q471894">Siddur</ref> from the Torah and sort it however they want, how they would wear unsuitable garments - because of trends. Against 
-               the truth that there is not a letter in the Torah that is excessive and every letter as well as vowel is holy as we were given by <rs type="place"><ref source="place158">Sinai</ref></rs>: Hundreds of people before have translated it into hundreds of languages and no word has ever been missing. However, our newly fangled teachers and tutors with 
+               the truth that there is not a letter in the Torah that is excessive and every letter as well as vowel is holy as we were given by <placeName><ref source="place158">Sinai</ref></placeName>: Hundreds of people before have translated it into hundreds of languages and no word has ever been missing. However, our newly fangled teachers and tutors with 
                their new schools and methods have become ashamed of the Torah and now dare to utilise the Torah like a nefarious piece of merchandise which teaches the children horrible comprehension that there are foul things in the Torah which the children take with them and they stay uneducated by the Torah, without fearing the Lord, without morals and 
                good manners hating everything that is holy, God help us. And except how studying the Torah has been utilized to learn the language, which is only a secondary matter, there are more dangerous methods to learn the language. Tainted books full of heresy, making fun of the Torah and the sages of the Mishnah and Gemara, idle things and frivolity, 
                novels which poison the child with dangerous influences, non-observant opinions, and bad morals. And because of this new education and its newfangled school can raise a generation of children who can under no circumstances know that there is an Almighty God who has gifted us the Torah, that we are obligated to believe in the Lord, to study, 
@@ -238,51 +238,51 @@
             </p>
             <p>
                Following people have signed the appeal:
-               <lb/>Rabbi <rs type="person"><ref source="person150">Eliyahu Feinstein</ref></rs>, Head of the Rabbinical Court of <rs type="place"><ref source="place267">Pruzhany</ref></rs>.
-               <lb/>Rabbi <rs type="person"><ref source="person151">Eliyahu Gardán</ref></rs>, Head of the Rabbinical Court of <rs type="place"><ref source="place268">Teli</ref></rs>.
-               <lb/>Rabbi <rs type="person"><ref source="person152">Eliyahu Rabinovitz</ref></rs> of <rs type="place"><ref source="place269">Minsk</ref></rs>.
-               <lb/><rs type="person"><ref source="person153">Efraim Shlomo Zalman</ref></rs>, head of the rabbinical court in <rs type="place"><ref source="place270">Lipno</ref></rs>.
-               <lb/>Rabbi <rs type="person"><ref source="person154">Bentsyon</ref></rs>, Head of the Rabbinical Court of <rs type="place"><ref source="place271">Bilsk</ref></rs>.
-               <lb/>The Gaonim of <rs type="place"><ref source="place272">Grodno</ref></rs>, the rabbinic geniuses who were the crushers and judges.
-               <lb/>Rabbi <rs type="person"><ref source="person155">Solomon Shapira</ref></rs>, from <rs type="place"><ref source="place272">Grodno</ref></rs>.
-               <lb/>Rabbi <rs type="person"><ref source="person156">Avraham</ref></rs>, son of Rabbi <rs type="person"><ref source="person157">Moshe</ref></rs>, of blessed memory, from the aforementioned town.
-               <lb/>Rabbi <rs type="person"><ref source="person158">Gavriel Zev Margolis</ref></rs>, from the aforementioned town.
-               <lb/><rs type="person"><ref source="person159">Zerah</ref></rs>, son of the great Rabbi <ref source="person160">Morenu Binyamin</ref>, of blessed memory.<cb/>
-               <lb/>Rabbi <rs type="person"><ref source="person161">Chaim Berlin</ref></rs> of <rs type="place"><ref source="place274">Yelisavetgrad</ref></rs> and the surrounding region.
-               <lb/>Rabbi <rs type="person"><ref source="person162">Chaim Meir Noach Levin</ref></rs>, highly respected rabbi and financial administrator of the <rs type="place"><ref source="place273">Vilnius</ref></rs> community.
-               <lb/>Rabbi <rs type="person"><ref source="person163">Yechiel Michel Epstein</ref></rs>, the Levite of <rs type="place"><ref source="place275">Navardek</ref></rs>.
-               <lb/>Rabbi <rs type="person"><ref source="person164">Yitzhak Blazer</ref></rs>, former rabbi of the Holy Land and <rs type="place"><ref source="place275">Navardek</ref></rs>.
-               <lb/>Rabbi <rs type="person"><ref source="person165">Yehoshua</ref></rs> of <rs type="place"><ref source="place276">Zaritsk</ref></rs>.
-               <lb/>Rabbi <rs type="person"><ref source="person166">Yitzhak Yaakov</ref></rs>, son of Rabbi <rs type="person"><ref source="person167">Shmuel Levi Rabinowitz</ref></rs>, of <rs type="place"><ref source="place277">Panevėžys</ref></rs>.
-               <lb/>Rabbi <rs type="person"><ref source="person168">Yehuda Leib Riff</ref></rs> of <rs type="place"><ref source="place278">Zagier Chadash</ref></rs>.
-               <lb/>Rabbi <rs type="person"><ref source="person169">Moshe Danishevsky</ref></rs> of <rs type="place"><ref source="place279">Slabodka</ref></rs>.
-               <lb/>Rabbi <rs type="person"><ref source="person170">Moshe</ref></rs>, son of the great and true Rabbi <rs type="person"><ref source="person171">Yehoshua Eizik</ref></rs> of <rs type="place"><ref source="place279">Slabodka</ref></rs>.
-               <lb/>Rabbi <rs type="person"><ref source="person172">Meir Amlers</ref></rs> of <rs type="place"><ref source="place280">Kavrin</ref></rs>.
-               <lb/>Rabbi <rs type="person"><ref source="person173">Meshach Shmuel</ref></rs>, son of the great Rabbi <rs type="person"><ref source="person185">Eliyahu Leib Shapira</ref></rs>, of blessed memory, of <rs type="place"><ref source="place281">Babruysk</ref></rs>.
-               <lb/>Rabbi <rs type="person"><ref source="person174">Zvi Hirsch Broyda</ref></rs> of <rs type="place"><ref source="place278">Zagier Yeshen</ref></rs>.
-               <lb/><rs type="person"><ref source="person175">Raphael Shapira</ref></rs> of <rs type="place"><ref source="place283">Volozhin</ref></rs>.
-               <lb/>Rabbi <rs type="person"><ref source="person176">Shimon Dov Ber An-Olnik</ref></rs> of <rs type="place"><ref source="place284">Shedlitz</ref></rs>.
-               <lb/>Rabbi <rs type="person"><ref source="person177">Eliyahu Chaim Meisel</ref></rs> of <rs type="place"><ref source="place188">Lodz</ref></rs>.
-               <lb/>Rabbi <rs type="person"><ref source="person178">David Friedman</ref></rs> of <rs type="place"><ref source="place285">Karlin</ref></rs>.
-               <lb/><rs type="person"><ref source="person179">Hirsh Rabinovitch</ref></rs>, Rabbi of the Jewish community of <rs type="place"><ref source="place215">Kaunas</ref></rs>.
-               <lb/><rs type="person"><ref source="person180">Hillel Aryey Libshitz</ref></rs>, Rabbi of the Jewish community of <rs type="place"><ref source="place286">Lublin</ref></rs>.
-               <lb/><rs type="person"><ref source="person181">Chaim HaLevi Soloveitchik</ref></rs> of <rs type="place"><ref source="place287">Brisk-Dlitta</ref></rs>.
-               <lb/><rs type="person"><ref source="person182">Chaim Ozer Grodzinski</ref></rs> of <rs type="place275">Vilnius</rs>.
-               <lb/><rs type="person"><ref source="person183">Yosef Shlopfer</ref></rs>, Rabbi of the <rs type="place"><ref source="place288">Slonim</ref></rs> community.
-               <lb/><rs type="person"><ref source="person184">Yosef Razin</ref></rs>, Rabbi of the <rs type="place"><ref source="place289">Dvinsk</ref></rs> community 
+               <lb/>Rabbi <persName><ref source="person150">Eliyahu Feinstein</ref></persName>, Head of the Rabbinical Court of <placeName><ref source="place267">Pruzhany</ref></placeName>.
+               <lb/>Rabbi <persName><ref source="person151">Eliyahu Gardán</ref></persName>, Head of the Rabbinical Court of <placeName><ref source="place268">Teli</ref></placeName>.
+               <lb/>Rabbi <persName><ref source="person152">Eliyahu Rabinovitz</ref></persName> of <placeName><ref source="place269">Minsk</ref></placeName>.
+               <lb/><persName><ref source="person153">Efraim Shlomo Zalman</ref></persName>, head of the rabbinical court in <placeName><ref source="place270">Lipno</ref></placeName>.
+               <lb/>Rabbi <persName><ref source="person154">Bentsyon</ref></persName>, Head of the Rabbinical Court of <placeName><ref source="place271">Bilsk</ref></placeName>.
+               <lb/>The Gaonim of <placeName><ref source="place272">Grodno</ref></placeName>, the rabbinic geniuses who were the crushers and judges.
+               <lb/>Rabbi <persName><ref source="person155">Solomon Shapira</ref></persName>, from <placeName><ref source="place272">Grodno</ref></placeName>.
+               <lb/>Rabbi <persName><ref source="person156">Avraham</ref></persName>, son of Rabbi <persName><ref source="person157">Moshe</ref></persName>, of blessed memory, from the aforementioned town.
+               <lb/>Rabbi <persName><ref source="person158">Gavriel Zev Margolis</ref></persName>, from the aforementioned town.
+               <lb/><persName><ref source="person159">Zerah</ref></persName>, son of the great Rabbi <ref source="person160">Morenu Binyamin</ref>, of blessed memory.<cb/>
+               <lb/>Rabbi <persName><ref source="person161">Chaim Berlin</ref></persName> of <placeName><ref source="place274">Yelisavetgrad</ref></placeName> and the surrounding region.
+               <lb/>Rabbi <persName><ref source="person162">Chaim Meir Noach Levin</ref></persName>, highly respected rabbi and financial administrator of the <placeName><ref source="place273">Vilnius</ref></placeName> community.
+               <lb/>Rabbi <persName><ref source="person163">Yechiel Michel Epstein</ref></persName>, the Levite of <placeName><ref source="place275">Navardek</ref></placeName>.
+               <lb/>Rabbi <persName><ref source="person164">Yitzhak Blazer</ref></persName>, former rabbi of the Holy Land and <placeName><ref source="place275">Navardek</ref></placeName>.
+               <lb/>Rabbi <persName><ref source="person165">Yehoshua</ref></persName> of <placeName><ref source="place276">Zaritsk</ref></placeName>.
+               <lb/>Rabbi <persName><ref source="person166">Yitzhak Yaakov</ref></persName>, son of Rabbi <persName><ref source="person167">Shmuel Levi Rabinowitz</ref></persName>, of <placeName><ref source="place277">Panevėžys</ref></placeName>.
+               <lb/>Rabbi <persName><ref source="person168">Yehuda Leib Riff</ref></persName> of <placeName><ref source="place278">Zagier Chadash</ref></placeName>.
+               <lb/>Rabbi <persName><ref source="person169">Moshe Danishevsky</ref></persName> of <placeName><ref source="place279">Slabodka</ref></placeName>.
+               <lb/>Rabbi <persName><ref source="person170">Moshe</ref></persName>, son of the great and true Rabbi <persName><ref source="person171">Yehoshua Eizik</ref></persName> of <placeName><ref source="place279">Slabodka</ref></placeName>.
+               <lb/>Rabbi <persName><ref source="person172">Meir Amlers</ref></persName> of <placeName><ref source="place280">Kavrin</ref></placeName>.
+               <lb/>Rabbi <persName><ref source="person173">Meshach Shmuel</ref></persName>, son of the great Rabbi <persName><ref source="person185">Eliyahu Leib Shapira</ref></persName>, of blessed memory, of <placeName><ref source="place281">Babruysk</ref></placeName>.
+               <lb/>Rabbi <persName><ref source="person174">Zvi Hirsch Broyda</ref></persName> of <placeName><ref source="place278">Zagier Yeshen</ref></placeName>.
+               <lb/><persName><ref source="person175">Raphael Shapira</ref></persName> of <placeName><ref source="place283">Volozhin</ref></placeName>.
+               <lb/>Rabbi <persName><ref source="person176">Shimon Dov Ber An-Olnik</ref></persName> of <placeName><ref source="place284">Shedlitz</ref></placeName>.
+               <lb/>Rabbi <persName><ref source="person177">Eliyahu Chaim Meisel</ref></persName> of <placeName><ref source="place188">Lodz</ref></placeName>.
+               <lb/>Rabbi <persName><ref source="person178">David Friedman</ref></persName> of <placeName><ref source="place285">Karlin</ref></placeName>.
+               <lb/><persName><ref source="person179">Hirsh Rabinovitch</ref></persName>, Rabbi of the Jewish community of <placeName><ref source="place215">Kaunas</ref></placeName>.
+               <lb/><persName><ref source="person180">Hillel Aryey Libshitz</ref></persName>, Rabbi of the Jewish community of <placeName><ref source="place286">Lublin</ref></placeName>.
+               <lb/><persName><ref source="person181">Chaim HaLevi Soloveitchik</ref></persName> of <placeName><ref source="place287">Brisk-Dlitta</ref></placeName>.
+               <lb/><persName><ref source="person182">Chaim Ozer Grodzinski</ref></persName> of <placeName><ref type="place275">Vilnius</ref></placeName>.
+               <lb/><persName><ref source="person183">Yosef Shlopfer</ref></persName>, Rabbi of the <placeName><ref source="place288">Slonim</ref></placeName> community.
+               <lb/><persName><ref source="person184">Yosef Razin</ref></persName>, Rabbi of the <placeName><ref source="place289">Dvinsk</ref></placeName> community 
             </p>
          </div>
          <div n="4">
             <head><hi rend="bold">A new tax!</hi></head>            
             <p>
-               The local cultus board called a meeting last week which several citizens were attending. The chair <rs type="person"><ref source="person186">H. Sholem Grosskopf</ref></rs> announced that the district authority asked him whether he would agree to double the register fees. This means: paying for birth and death costs two crowns 
+               The local cultus board called a meeting last week which several citizens were attending. The chair <persName><ref source="person186">H. Sholem Grosskopf</ref></persName> announced that the district authority asked him whether he would agree to double the register fees. This means: paying for birth and death costs two crowns 
                instead of the current one crown and for a legal marriage four crowns instead of the current two crowns. 
             </p>
             <p>
-               The chair <rs type="person"><ref source="person186">H. Sholem Grosskopf</ref></rs> did not agree for which we tell him “well done!” as he could have done whatever he wanted without an assembly. The assembly unanimously voted against raising the fees.
+               The chair <persName><ref source="person186">H. Sholem Grosskopf</ref></persName> did not agree for which we tell him “well done!” as he could have done whatever he wanted without an assembly. The assembly unanimously voted against raising the fees.
             </p>
             <p>
-               But this doesn’t just concern our brothers, children of <rs type="place"><ref source="place034">Israel</ref></rs> in <rs type="place"><ref source="place006">Galicia</ref></rs>. Last year, the Galician Jewish registry office in Lviv consulted each other and decided to ask the ministry to raise the taxes. The ministry ordered 
+               But this doesn’t just concern our brothers, children of <placeName><ref source="place034">Israel</ref></placeName> in <placeName><ref source="place006">Galicia</ref></placeName>. Last year, the Galician Jewish registry office in Lviv consulted each other and decided to ask the ministry to raise the taxes. The ministry ordered 
                all district authorities by government decree, from <date when="1903-12-17">December 17th 1903</date>, number 54820, to request every cultus board to agree to raising taxes. -
             </p>
             <p>
@@ -293,11 +293,11 @@
                Hence, we want to call this to the attention of every Jewish community of Galicia to not see this become reality. 
             </p>
             <p>
-               <rs type="place"><ref source="place290">Rava-Ruska</ref></rs>, <date when="1904-04-17"><ref source="https://www.wikidata.org/wiki/Q913852">Rosh Chodesh</ref> <ref source="https://www.wikidata.org/wiki/Q208192">Nisan</ref> 5664</date>, an honest man. 
+               <placeName><ref source="place290">Rava-Ruska</ref></placeName>, <date when="1904-04-17"><ref source="https://www.wikidata.org/wiki/Q913852">Rosh Chodesh</ref> <ref source="https://www.wikidata.org/wiki/Q208192">Nisan</ref> 5664</date>, an honest man. 
             </p>
          </div>
          <div n="5">
-            <head><hi rend="bold">The political state of <rs type="place"><ref source="place025">Austria</ref></rs>.</hi></head>
+            <head><hi rend="bold">The political state of <placeName><ref source="place025">Austria</ref></placeName>.</hi></head>
             <p>
                Peace and quiet has set completely in the Hungarian parliament. The recruitment act for <date when="1903">1903</date> and <date when="1904">1904</date> as well as the budget for <date when="1903">1903</date> and a temporary six month budget for <date when="1904">1904</date> have been finished in only a few days. 
                The government has overcome all hurdles and can send the parliament home for the holidays. After the holidays, the parliament can focus on new tasks and pass important laws for the people.
@@ -307,19 +307,19 @@
                The parliament didn’t do anything for either the state and the country or the people.
             </p>
             <p>
-               The minister president <rs type="person"><ref source="person004">Dr Koerber</ref></rs>, who was known for motivating the parliament to at least settle the most important issues, was not able to move anyone this time. As nothing was done the whole sitting, he at least wanted to elect the delegation needed for settling 
+               The minister president <persName><ref source="person004">Dr Koerber</ref></persName>, who was known for motivating the parliament to at least settle the most important issues, was not able to move anyone this time. As nothing was done the whole sitting, he at least wanted to elect the delegation needed for settling 
                the joint budget for <date when="1905">1905</date>. But the Czechs didn’t even want to do that for his sake. Whatever he did, nothing worked. He turned to the Polish for help to mediate and vote for a delegation. The Polish, who usually support every government, positioned themselves as the opposition this time. 
                They didn’t want to relent and claimed they fear that if the delegation is elected now, the government would call the Imperial Assembly after the holidays. When the minister president urged them to give in and told them that the Polish situation needed them to elect the delegation at once, they went to the minister 
-               of foreign affairs <rs type="person"><ref source="person060">Gołuchowski</ref></rs> to ask him whether the political situation is really that serious and whether electing a delegation is actually needed right now. The minister answered that it isn’t essential for him as the delegation will only convene in May anyways. 
+               of foreign affairs <persName><ref source="person060">Gołuchowski</ref></persName> to ask him whether the political situation is really that serious and whether electing a delegation is actually needed right now. The minister answered that it isn’t essential for him as the delegation will only convene in May anyways. 
                Whether it is elected now or after the holidays doesn’t make a difference. On the contrary, if they should be elected in a hurry now, it will reflect negatively on the parliament. Everyone would assume that they are preparing for political enmeshment. After this reply, the minister president 
-               <rs type="person"><ref source="person004">Dr Koerber</ref></rs> couldn’t say anything else and gave his demand a miss. 
+               <persName><ref source="person004">Dr Koerber</ref></persName> couldn’t say anything else and gave his demand a miss. 
             </p>
             <p>
                Meanwhile, the days in parliament were passed in obstruction. Several scandals also occurred; until Tuesday when the president read a letter written by the minister president according to which the session would be postponed.<cb/> The recruitment act will have to pass with § 14.
             </p>
             <p>
-               In the meantime, the Czechs and Germans debate peace. The Polish are the mediators. The Czechs have abated from their position a bit, although they still demand a lot. A university should still be constructed in <rs type="place"><ref source="place027">Moravia</ref></rs>, but they do not insist on the capital 
-               <rs type="place"><ref source="place234">Brno</ref></rs> anymore, but another city would be acceptable as well. It also doesn’t have to happen right now, but at a later point as well. Regarding the official language in <rs type="place"><ref source="place026">Bohemia</ref></rs>, they would be satisfied with everything 
+               In the meantime, the Czechs and Germans debate peace. The Polish are the mediators. The Czechs have abated from their position a bit, although they still demand a lot. A university should still be constructed in <placeName><ref source="place027">Moravia</ref></placeName>, but they do not insist on the capital 
+               <placeName><ref source="place234">Brno</ref></placeName> anymore, but another city would be acceptable as well. It also doesn’t have to happen right now, but at a later point as well. Regarding the official language in <placeName><ref source="place026">Bohemia</ref></placeName>, they would be satisfied with everything 
                remaining as it is right now and the court language doesn’t have to be changed. The Germans only have to agree to it now and not complain later on. The Germans have new demands responding to the claims, but hope persists that an agreement can be made, if both countries want to. 
             </p>
             <p>
@@ -329,29 +329,29 @@
          <div n="6">
             <head><hi rend="bold">Jewish News.</hi></head>
             <p>
-               (<rs type="place"><ref source="place001">Lviv</ref></rs>). The Rabbi, great man, Gaon, etc. <rs type="person"><ref source="person067">Yitzhak Leib Shmelkes</ref></rs>, Shlita of <rs type="place"><ref source="place001">Lviv</ref></rs> will hold a sermon on the <ref source="https://www.wikidata.org/wiki/Q107427">Halakha</ref> in the small local school on the day of Sabbath.
+               (<placeName><ref source="place001">Lviv</ref></placeName>). The Rabbi, great man, Gaon, etc. <persName><ref source="person067">Yitzhak Leib Shmelkes</ref></persName>, Shlita of <placeName><ref source="place001">Lviv</ref></placeName> will hold a sermon on the <ref source="https://www.wikidata.org/wiki/Q107427">Halakha</ref> in the small local school on the day of Sabbath.
             </p>
             <p>
-               (<rs type="place"><ref source="place291">Sasiv</ref></rs>). Close to our city in the forest two murdered Jews were found. Their identity is not known, they seem to be foreign, impoverished people. The murderer didn’t leave any traces. 
+               (<placeName><ref source="place291">Sasiv</ref></placeName>). Close to our city in the forest two murdered Jews were found. Their identity is not known, they seem to be foreign, impoverished people. The murderer didn’t leave any traces. 
             </p>
             <p>
-               (<rs type="place"><ref source="place007">Vienna</ref></rs>). The local university offers 4,000 crowns to a professor who should go to the land of <rs type="place"><ref source="place034">Israel</ref></rs> to research the country.
+               (<placeName><ref source="place007">Vienna</ref></placeName>). The local university offers 4,000 crowns to a professor who should go to the land of <placeName><ref source="place034">Israel</ref></placeName> to research the country.
             </p>
             <p>
-               (<rs type="place"><ref source="place095">Paris</ref></rs>). The criminal division of the supreme court dealt with the Dreyfus-trial on Wednesday. <rs type="person">General <ref source="person187">Gonse</ref></rs>, an enemy of <rs type="person"><ref source="person082">Dreyfus</ref></rs>, 
+               (<placeName><ref source="place095">Paris</ref></placeName>). The criminal division of the supreme court dealt with the Dreyfus-trial on Wednesday. <persName>General <ref source="person187">Gonse</ref></persName>, an enemy of <persName><ref source="person082">Dreyfus</ref></persName>, 
                was interrogated for five hours. He answered every question evasively. 
             </p>
             <p>
-               (<rs type="place"><ref source="place018">St Petersburg</ref></rs>). The antisemites chevy Jews again by claiming that they sell horses for the Japanese. 
+               (<placeName><ref source="place018">St Petersburg</ref></placeName>). The antisemites chevy Jews again by claiming that they sell horses for the Japanese. 
             </p>
             <p>
-               (<rs type="place"><ref source="place231">Odessa</ref></rs>). According to a report by the <ref source="https://www.wikidata.org/wiki/Q12411074">Kimcha De Phischa</ref> society, there are 45,000 impoverished Jews in <rs type="place"><ref source="place231">Odessa</ref></rs> who have to be supported during Passover. The poverty is horrible.
+               (<placeName><ref source="place231">Odessa</ref></placeName>). According to a report by the <ref source="https://www.wikidata.org/wiki/Q12411074">Kimcha De Phischa</ref> society, there are 45,000 impoverished Jews in <placeName><ref source="place231">Odessa</ref></placeName> who have to be supported during Passover. The poverty is horrible.
             </p>
             <p>
-               (<rs type="place"><ref source="place273">Vilnius</ref></rs>). The military administration forbade military bands to play at Jewish weddings. 
+               (<placeName><ref source="place273">Vilnius</ref></placeName>). The military administration forbade military bands to play at Jewish weddings. 
             </p>
             <p>
-               (<rs type="place"><ref source="place220">Holland</ref></rs>). A new law concerning Sunday rest has been passed in <rs type="place"><ref source="place220">Holland</ref></rs>. It determines that every workshop and every factory has to close on Sunday. Only those workers resting on
+               (<placeName><ref source="place220">Holland</ref></placeName>). A new law concerning Sunday rest has been passed in <placeName><ref source="place220">Holland</ref></placeName>. It determines that every workshop and every factory has to close on Sunday. Only those workers resting on
             </p>
             <p style="text-align:center">[4]</p><cb/>
             <p>
@@ -359,65 +359,65 @@
             </p>
          </div>
          <div n="7">
-            <head><hi rend="bold">Telegrams<lb/>The war<lb/>between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place019">Russia</ref></rs>.</hi></head>
+            <head><hi rend="bold">Telegrams<lb/>The war<lb/>between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place019">Russia</ref></placeName>.</hi></head>
             <p>
-               <rs type="place"><ref source="place018">St Petersburg</ref></rs>. <rs type="place"><ref source="place019">Japan</ref></rs> bombarded <rs type="place"><ref source="place083">Port Arthur</ref></rs> again on Tuesday. 18 Japanese battleships battered the harbour and the fortress for over four hours. They fired over 200 missiles and did damage. 
+               <placeName><ref source="place018">St Petersburg</ref></placeName>. <placeName><ref source="place019">Japan</ref></placeName> bombarded <placeName><ref source="place083">Port Arthur</ref></placeName> again on Tuesday. 18 Japanese battleships battered the harbour and the fortress for over four hours. They fired over 200 missiles and did damage. 
                The Russian battleship and the fortress returned fire. Afterwards, the Japanese sailed away.
             </p>
             <p>
-               <rs type="place"><ref source="place156">London</ref></rs>. The Japanese who bombarded <rs type="place"><ref source="place083">Port Arthur</ref></rs> on Tuesday wanted to make sure whether the Russian battleships were in the harbour or somewhere else. The Japanese reached their goal. As the Russians returned the fire it is certain that they are back in the harbour. 
+               <placeName><ref source="place156">London</ref></placeName>. The Japanese who bombarded <placeName><ref source="place083">Port Arthur</ref></placeName> on Tuesday wanted to make sure whether the Russian battleships were in the harbour or somewhere else. The Japanese reached their goal. As the Russians returned the fire it is certain that they are back in the harbour. 
             </p>
             <p>
-               <rs type="place"><ref source="place086">Tokyo</ref></rs>. The news that 1,800 Japanese were captured during a clash between the Russian and Japanese military is not true.
+               <placeName><ref source="place086">Tokyo</ref></placeName>. The news that 1,800 Japanese were captured during a clash between the Russian and Japanese military is not true.
             </p>
             <p>
-               <rs type="place"><ref source="place156">London</ref></rs>. The transport of the Russian military in <rs type="place"><ref source="place136">East Asia</ref></rs> by <rs type="place"><ref source="place176">Lake Baikal</ref></rs> is very difficult now. The ice has melted a bit hence why it cannot be crossed by sleds anymore. However, 
+               <placeName><ref source="place156">London</ref></placeName>. The transport of the Russian military in <placeName><ref source="place136">East Asia</ref></placeName> by <placeName><ref source="place176">Lake Baikal</ref></placeName> is very difficult now. The ice has melted a bit hence why it cannot be crossed by sleds anymore. However, 
                the ice in the middle is still thick as to why it cannot be crossed by ship. Therefore, the military has to travel around the whole lake on the other side.
             </p>
             <p>
-               <rs type="place"><ref source="place018">St Petersburg</ref></rs>. As crossing <rs type="place"><ref source="place176">Lake Baikal</ref></rs> has turned out to be very difficult the government has been prompted to quickly build tracks around the lake. The train will be completed in May and will be the most expensive one in the world. 
+               <placeName><ref source="place018">St Petersburg</ref></placeName>. As crossing <placeName><ref source="place176">Lake Baikal</ref></placeName> has turned out to be very difficult the government has been prompted to quickly build tracks around the lake. The train will be completed in May and will be the most expensive one in the world. 
                One kilometer costs over 200,000 roubles. The whole track costs over 60 million roubles. On the short route of 244 verst 19 tunnels have to be broken through, 189 bridges have to be built. Only the railroad minister alone knows how all of this should be finished by May. It is almost impossible. 
             </p>
             <p>
-               <rs type="place"><ref source="place193">Beijing</ref></rs>. The Chinese are ready for battle and are prepared to attack the Russians at the first possibility. The imperial court wants to go away from the capital <rs type="place"><ref source="place193">Beijing</ref></rs> and go deep into the country. The powers discourage this as new 
-               persecutions of foreigners in <rs type="place"><ref source="place193">Beijing</ref></rs> could break out and the powers would have to intervene. 
+               <placeName><ref source="place193">Beijing</ref></placeName>. The Chinese are ready for battle and are prepared to attack the Russians at the first possibility. The imperial court wants to go away from the capital <placeName><ref source="place193">Beijing</ref></placeName> and go deep into the country. The powers discourage this as new 
+               persecutions of foreigners in <placeName><ref source="place193">Beijing</ref></placeName> could break out and the powers would have to intervene. 
             </p>
             <p>
-               <rs type="place"><ref source="place018">St Petersburg</ref></rs>. The military staff discovered that the cavalry captain <rs type="person"><ref source="person188">Ivkov</ref></rs> was a Japanese spy. He had already sold the Russian battle plan to <rs type="place"><ref source="place019">Japan</ref></rs> for 16,000 roubles. He had already 
+               <placeName><ref source="place018">St Petersburg</ref></placeName>. The military staff discovered that the cavalry captain <persName><ref source="person188">Ivkov</ref></persName> was a Japanese spy. He had already sold the Russian battle plan to <placeName><ref source="place019">Japan</ref></placeName> for 16,000 roubles. He had already 
                received 600 roubles, but was hung now. 
             </p>
             <p>
-               <rs type="place"><ref source="place273">Vilnius</ref></rs>. The revolutionaries are starting. There is a small church in <rs type="place"><ref source="place273">Vilnius</ref></rs> which was built in memory of repression of the <ref source="https://www.wikidata.org/wiki/Q473670">January Uprising</ref> of <date when="1863">1863</date>. The<cb/> 
+               <placeName><ref source="place273">Vilnius</ref></placeName>. The revolutionaries are starting. There is a small church in <placeName><ref source="place273">Vilnius</ref></placeName> which was built in memory of repression of the <ref source="https://www.wikidata.org/wiki/Q473670">January Uprising</ref> of <date when="1863">1863</date>. The<cb/> 
                Polish have always looked at the church with hostility. These days, the church was bombed with a dynamite bomb.
             </p>
             <p>
-               <rs type="place"><ref source="place018">St Petersburg</ref></rs>. As the government fears dynamite assassinations on their military trains, it has introduced an armoured train in <rs type="place"><ref source="place028">Manchuria</ref></rs>. Similar to what <rs type="place"><ref source="place011">England</ref></rs> had in the <ref source="https://www.wikidata.org/wiki/Q215112">Second Boer War</ref>. 
+               <placeName><ref source="place018">St Petersburg</ref></placeName>. As the government fears dynamite assassinations on their military trains, it has introduced an armoured train in <placeName><ref source="place028">Manchuria</ref></placeName>. Similar to what <placeName><ref source="place011">England</ref></placeName> had in the <ref source="https://www.wikidata.org/wiki/Q215112">Second Boer War</ref>. 
             </p>
             <p>
-               <rs type="place"><ref source="place083">Port Arthur</ref></rs>. The Russians made all preparations in case the city fell in Japanese hands. Everything should be burnt down completely like the Russians burnt down <rs type="place"><ref source="place151">Moscow</ref></rs> in <date when="1812">1812</date> during the war with <rs type="person"><ref source="person066">Napoleon</ref></rs>. 
+               <placeName><ref source="place083">Port Arthur</ref></placeName>. The Russians made all preparations in case the city fell in Japanese hands. Everything should be burnt down completely like the Russians burnt down <placeName><ref source="place151">Moscow</ref></placeName> in <date when="1812">1812</date> during the war with <persName><ref source="person066">Napoleon</ref></persName>. 
             </p>
             <p>
-               <rs type="place"><ref source="place018">St Petersburg</ref></rs>. The people are dissatisfied that the <rs type="person"><ref source="person">tsar</ref></rs> sits at home and doesn’t go to the battlefield in <rs type="place"><ref source="place136">East Asia</ref></rs>.
+               <placeName><ref source="place018">St Petersburg</ref></placeName>. The people are dissatisfied that the <persName><ref source="person">tsar</ref></persName> sits at home and doesn’t go to the battlefield in <placeName><ref source="place136">East Asia</ref></placeName>.
             </p>
          </div>
          <div n="8">
-            <head><hi rend="bold">German defeat in <rs type="place"><ref source="place237">East Africa</ref></rs>.</hi></head>
+            <head><hi rend="bold">German defeat in <placeName><ref source="place237">East Africa</ref></placeName>.</hi></head>
             <p>
-               <rs type="place"><ref source="place031">Berlin</ref></rs>. A revolution by the natives in <rs type="place"><ref source="place237">German East Africa</ref></rs> started a fight between the revolutionaries and the German military. The military lost greatly. Some officers and a lot of soldiers were killed, even more were wounded.
+               <placeName><ref source="place031">Berlin</ref></placeName>. A revolution by the natives in <placeName><ref source="place237">German East Africa</ref></placeName> started a fight between the revolutionaries and the German military. The military lost greatly. Some officers and a lot of soldiers were killed, even more were wounded.
             </p>
          </div>
          <div n="9">
             <head><hi rend="bold">The war and the finances.</hi></head>
             <p>
-               Why do <rs type="place"><ref source="place045">France</ref></rs>, <rs type="place"><ref source="place010">Germany</ref></rs>, <rs type="place"><ref source="place042">Belgium</ref></rs> and generally <rs type="place"><ref source="place100">Europe</ref></rs> ally with Russians in the current war and <rs type="place"><ref source="place011">England</ref></rs> 
-               and <rs type="place"><ref source="place094">America</ref></rs> with <rs type="place"><ref source="place019">Japan</ref></rs>? The writer of the last “Weekly economy report” in the Berlin newspaper “<ref source="https://www.wikidata.org/wiki/Q467800">Vorwärts</ref>" reveals an interesting cause for this division. According to them, French capitalists 
-               invested almost 7,000 million francs in <rs type="place"><ref source="place014">Russia</ref></rs> - 6,000 million of that in Russian state bonds, this means simply lended it. Comparing it to the French investment in <rs type="place"><ref source="place019">Japan</ref></rs>, which is not more than 12 million. <rs type="place"><ref source="place010">Germany</ref></rs> 
-               similarly so. It has invested at least 3,000 million mark in Russian commerce while Japanese investments are barely 80 - 90 million. Trade between these two countries and <rs type="place"><ref source="place019">Japan</ref></rs> is also quite insignificant. <rs type="place"><ref source="place010">Germany</ref></rs> exports 50 million mark in total worth 
-               of merchandise per year, and <rs type="place"><ref source="place045">France</ref></rs> merely 10 million. This accounts to not even 1.5 % of the Japanese import. By contrast, <rs type="place"><ref source="place011">England</ref></rs> exports 9.5 million pound sterling of merchandise per year and America - even 13 million pound sterling. Unsurprisingly, 
-               the former stick with <rs type="place"><ref source="place014">Russia</ref></rs> and the latter - with <rs type="place"><ref source="place019">Japan</ref></rs>. All the solidarity is built on hard cash.
+               Why do <placeName><ref source="place045">France</ref></placeName>, <placeName><ref source="place010">Germany</ref></placeName>, <placeName><ref source="place042">Belgium</ref></placeName> and generally <placeName><ref source="place100">Europe</ref></placeName> ally with Russians in the current war and <placeName><ref source="place011">England</ref></placeName> 
+               and <placeName><ref source="place094">America</ref></placeName> with <placeName><ref source="place019">Japan</ref></placeName>? The writer of the last “Weekly economy report” in the Berlin newspaper “<ref source="https://www.wikidata.org/wiki/Q467800">Vorwärts</ref>" reveals an interesting cause for this division. According to them, French capitalists 
+               invested almost 7,000 million francs in <placeName><ref source="place014">Russia</ref></placeName> - 6,000 million of that in Russian state bonds, this means simply lended it. Comparing it to the French investment in <placeName><ref source="place019">Japan</ref></placeName>, which is not more than 12 million. <placeName><ref source="place010">Germany</ref></placeName> 
+               similarly so. It has invested at least 3,000 million mark in Russian commerce while Japanese investments are barely 80 - 90 million. Trade between these two countries and <placeName><ref source="place019">Japan</ref></placeName> is also quite insignificant. <placeName><ref source="place010">Germany</ref></placeName> exports 50 million mark in total worth 
+               of merchandise per year, and <placeName><ref source="place045">France</ref></placeName> merely 10 million. This accounts to not even 1.5 % of the Japanese import. By contrast, <placeName><ref source="place011">England</ref></placeName> exports 9.5 million pound sterling of merchandise per year and America - even 13 million pound sterling. Unsurprisingly, 
+               the former stick with <placeName><ref source="place014">Russia</ref></placeName> and the latter - with <placeName><ref source="place019">Japan</ref></placeName>. All the solidarity is built on hard cash.
             </p>
             <p>
-               What impact the Russian defeat can have on foreign capitalists, is not apparent on the <rs type="place"><ref source="place095">Paris</ref></rs> stock market last week. The total loss of the stock market capitalists has been calculated to 84 million pounds.
+               What impact the Russian defeat can have on foreign capitalists, is not apparent on the <placeName><ref source="place095">Paris</ref></placeName> stock market last week. The total loss of the stock market capitalists has been calculated to 84 million pounds.
             </p>
          </div>
          <div n="10">
@@ -434,40 +434,40 @@
                world is slowly but surely marching towards its tomb.
             </p>
             <p>
-               This academic has not found out anything new. His hypothesis has, as one says, had a long life already. Like the heroes of the Roman poet <rs type="person"><ref source="person200">Virgil</ref></rs> who lived 1900 years ago, were tortured with the thought that they are unearthing giant bones of their great-great-grandparents. 
+               This academic has not found out anything new. His hypothesis has, as one says, had a long life already. Like the heroes of the Roman poet <persName><ref source="person200">Virgil</ref></persName> who lived 1900 years ago, were tortured with the thought that they are unearthing giant bones of their great-great-grandparents. 
             </p>
             <p>
                But is this opinion correct? The oldest sentiment is not always the correct one. We want to make our readers familiar with the views of various academics who thought about this question. 
             </p>
             <p>
-               The latest research proves with certainty that early, prehistoric tribes and oldest civilisations were not taller than us. Mummies, that is embalmed bodies, in <rs type="place"><ref source="place013">Egypt</ref></rs> which date back 5,000 years, convinced researchers that the old Egypts were not a particularly strongly built people. Moreover, <rs type="person"><ref source="person201">Pettenkofer</ref></rs> 
-               proved that the people living at the time of the Greek poet (some 2,000 years ago) were even smaller and weaker than we are. <rs type="person"><ref source="person189">Hippe</ref></rs> also proves that the bodies at that time were not taller than ours are. 
+               The latest research proves with certainty that early, prehistoric tribes and oldest civilisations were not taller than us. Mummies, that is embalmed bodies, in <placeName><ref source="place013">Egypt</ref></placeName> which date back 5,000 years, convinced researchers that the old Egypts were not a particularly strongly built people. Moreover, <persName><ref source="person201">Pettenkofer</ref></persName> 
+               proved that the people living at the time of the Greek poet (some 2,000 years ago) were even smaller and weaker than we are. <persName><ref source="person189">Hippe</ref></persName> also proves that the bodies at that time were not taller than ours are. 
             </p>
             <p>
-               According to the works of ancient writers we know that the old Romans were 1,725 metres tall which we cannot see as particularly small because up until this day 10 % of the Italian population is not smaller than that. The scholars <rs type="person"><ref source="person190">Kohn</ref></rs>, <rs type="person"><ref source="person191">Lindemann</ref></rs>, and <rs type="person"><ref source="person192">Krause</ref></rs> 
-               proved that in the past 1,000 years the growth of the German population has not really changed. <rs type="person"><ref source="person202">Topinard</ref></rs> and other French scholars did the same in regards to the French. 
+               According to the works of ancient writers we know that the old Romans were 1,725 metres tall which we cannot see as particularly small because up until this day 10 % of the Italian population is not smaller than that. The scholars <persName><ref source="person190">Kohn</ref></persName>, <persName><ref source="person191">Lindemann</ref></persName>, and <persName><ref source="person192">Krause</ref></persName> 
+               proved that in the past 1,000 years the growth of the German population has not really changed. <persName><ref source="person202">Topinard</ref></persName> and other French scholars did the same in regards to the French. 
             </p>
             <p>
                Truly - going into the armoury and witnessing the iron weapons, armour, and clothes of the heroes back then, one might think at first glance that those who wore these weapons and clothes were giants. Twice as tall and twice as strong as we are.
             </p>
             <p>
-               However, in reality, as Dr <rs type="person"><ref source="person193">Waitz</ref></rs> rightfully declared, these clothes fit a mediocre German man today. Everyone is also aware that if Queen <rs type="person"><ref source="person204">Victoria</ref></rs> of <rs type="place"><ref source="place011">England</ref></rs> went on her honeymoon, the Scottish aristocracy wanted to welcome her in their National knight garments. 
+               However, in reality, as Dr <persName><ref source="person193">Waitz</ref></persName> rightfully declared, these clothes fit a mediocre German man today. Everyone is also aware that if Queen <persName><ref source="person204">Victoria</ref></persName> of <placeName><ref source="place011">England</ref></placeName> went on her honeymoon, the Scottish aristocracy wanted to welcome her in their National knight garments. 
                It turned out that the clothes from previous knights were too tight for them and they had to acquire new ones. 
             </p>
             <p>
-               The best proof of people having been the same height is the statistic of recruits, although it is only<cb/> viable for a short time, but at least it’s useful to have a vision of the last millennial. Numbers and facts prove that neither height nor strength of the body became smaller. This means that the number of soldiers being rejected thanks to their weakness did not increase. The academics <rs type="person"><ref source="person194">Bretano</ref></rs>, 
-               <rs type="person"><ref source="person195">Bindewald</ref></rs>, <rs type="person"><ref source="person196">Blum</ref></rs>, and others found out that the citizens in the countryside are stronger than the citizens living in the city and that the healthy people from the villages leave their home and move to the city to work in the factories. 
+               The best proof of people having been the same height is the statistic of recruits, although it is only<cb/> viable for a short time, but at least it’s useful to have a vision of the last millennial. Numbers and facts prove that neither height nor strength of the body became smaller. This means that the number of soldiers being rejected thanks to their weakness did not increase. The academics <persName><ref source="person194">Bretano</ref></persName>, 
+               <persName><ref source="person195">Bindewald</ref></persName>, <persName><ref source="person196">Blum</ref></persName>, and others found out that the citizens in the countryside are stronger than the citizens living in the city and that the healthy people from the villages leave their home and move to the city to work in the factories. 
             </p>
             <p>
-               In any case, we cannot ignore the sad truth that a person lives on average shorter than before. But this stems from the usual calculations being skewed by child and infant mortality which increased massively. The cause of that of course lies in the sad fact that living in these times became harder. According to <rs type="person"><ref source="person197">Bollinger</ref></rs>, the child mortality is caused by a part 
-               of women suffering from a lack of milk. For example, in <rs type="place"><ref source="place010">Germany</ref></rs> 23 % of women suffer from this illness. Every year, the sickness spreads more and more, the newborns are being artificially fed resulting in, for example, in <rs type="place"><ref source="place010">Germany</ref></rs>, for example, 25 of 100 children die before their first birthday. 
+               In any case, we cannot ignore the sad truth that a person lives on average shorter than before. But this stems from the usual calculations being skewed by child and infant mortality which increased massively. The cause of that of course lies in the sad fact that living in these times became harder. According to <persName><ref source="person197">Bollinger</ref></persName>, the child mortality is caused by a part 
+               of women suffering from a lack of milk. For example, in <placeName><ref source="place010">Germany</ref></placeName> 23 % of women suffer from this illness. Every year, the sickness spreads more and more, the newborns are being artificially fed resulting in, for example, in <placeName><ref source="place010">Germany</ref></placeName>, for example, 25 of 100 children die before their first birthday. 
             </p>
             <p>
                In previous times, this illness wasn’t even known. The old writers don’t write about artificial food even once. Therefore, we can certainly say that the Persians, Egyptians, Greeks, and Romans did not know about that, just like Arabs, Turks, and Armenians in our times. 
             </p>
             <p>
-               Child mortality is of course not the only cause of the decreasing average lifespan. One of the main reasons for Professor <rs type="person"><ref source="person198">Ballard</ref></rs> are the different “industrial diseases” which multiply severely. However, these only constitute exceptions and the statistics prove that these reasons do not influence the general result. At large, the life span has changed little 
-               and today’s people live almost longer than the generations before. Indeed, as <rs type="person"><ref source="person199">Mayrhofer</ref></rs> proves, the birth rate in bigger cities has decreased. Hence we have in <rs type="place"><ref source="place031">Berlin</ref></rs>, for example, the following numbers: 
+               Child mortality is of course not the only cause of the decreasing average lifespan. One of the main reasons for Professor <persName><ref source="person198">Ballard</ref></persName> are the different “industrial diseases” which multiply severely. However, these only constitute exceptions and the statistics prove that these reasons do not influence the general result. At large, the life span has changed little 
+               and today’s people live almost longer than the generations before. Indeed, as <persName><ref source="person199">Mayrhofer</ref></persName> proves, the birth rate in bigger cities has decreased. Hence we have in <placeName><ref source="place031">Berlin</ref></placeName>, for example, the following numbers: 
                <lb/>In <date when="1886">1886</date>, out of 1,000 women, 230 gave birth.
                <lb/>-”- <date when="1891">1891</date> - 220
                <lb/>-”- <date when="1896">1896</date> - 188
@@ -487,19 +487,19 @@
          </div>
          <div n="11">
             <head><hi rend="bold">Feutellion 
-               <lb/><rs type="person"><ref source="person046">Rabbi Meir</ref></rs> of <rs type="place"><ref source="place099">Rothenburg</ref></rs>
+               <lb/><persName><ref source="person046">Rabbi Meir</ref></persName> of <placeName><ref source="place099">Rothenburg</ref></placeName>
                <lb/>(A historical retelling)
                <lb/>(Continuation)</hi></head>
             <p>
                “Daughter! I have to discuss something urgent with you. You are my last solace and hope. Out of everything you alone are what’s left. My duty does not allow me to have a conversation with you, but today is the most important time during which I can talk to you. When your late mother was still alive, I passed this on to your mother. Unfortunately, now I alone have to cover 
-               for her. By chance, I heard what happened to you with <rs type="person"><ref source="person054">Kneppe</ref></rs> when you went to your aunt. I know that you are very distressed and I am astonished that you did not tell me anything about it.”
+               for her. By chance, I heard what happened to you with <persName><ref source="person054">Kneppe</ref></persName> when you went to your aunt. I know that you are very distressed and I am astonished that you did not tell me anything about it.”
             </p>
             <p>
-               “Ah! Dear father, my grievances with what the <rs type="person"><ref source="person076">prince</ref></rs> threatened you with are greater than my grievances about what <rs type="person"><ref source="person054">Kneppe</ref></rs> said to me. Because I see the danger looming over you. The <rs type="person"><ref source="person076">prince</ref></rs> will not let go of his desires 
+               “Ah! Dear father, my grievances with what the <persName><ref source="person076">prince</ref></persName> threatened you with are greater than my grievances about what <persName><ref source="person054">Kneppe</ref></persName> said to me. Because I see the danger looming over you. The <persName><ref source="person076">prince</ref></persName> will not let go of his desires 
                until everything is fulfilled. How then, shall I think about myself in times like these?”
             </p>
             <p>
-               “We are both well aware what the <rs type="person"><ref source="person076">prince</ref></rs> is and the danger looming over all Jews and especially over me. But why should we be afraid while we are guided under God’s principles and He will without a doubt protect us from everything that’s bad, because without God’s will, nobody can do anything.”
+               “We are both well aware what the <persName><ref source="person076">prince</ref></persName> is and the danger looming over all Jews and especially over me. But why should we be afraid while we are guided under God’s principles and He will without a doubt protect us from everything that’s bad, because without God’s will, nobody can do anything.”
             </p>
             <p>
                “I am aware of that, dear father, that the Holy Creator leads the world and if a man already has a knife on his throat he shall still not renounce God’s help and that He is willing to cure the plague. However, I am asking whether He is indeed ready for the solution that you survive the danger with every Jew while I fall into the apostate’s hands. I think it is a holy duty to 
@@ -512,30 +512,30 @@
                I have indeed calculated all of that, dear father, I know very well that my whole life will be resentful. As long as I live I shall cry and moan because of my misery and shame. But there is no other option as the life of every Jew is on the line. I have to relinquish my life and my honour. You alone, dear father, taught me that every human has the duty to sacrifice their life for the Jewish people…”
             </p>
             <p>
-               The <rs type="person"><ref source="person046">rabbi</ref></rs> was very satisfied with what he heard from his <rs type="person"><ref source="person134">daughter</ref></rs>. He was now convinced of the love she has for her people that she would sacrifice her own life and happiness for them. After a short break he said to her:<cb/> “You know very well that God said to <rs type="person"><ref source="person146">Abraham</ref></rs> he shall sacrifice his only 
-               son <rs type="person"><ref source="person147">Isaac</ref></rs> and <rs type="person"><ref source="person146">Abraham</ref></rs> was ready to do so. Then, an angel said to him: You shall not touch your son as I am convinced that you are god-fearing, because you were ready to do so. Our scholars learned from that, that everybody who plans to do a good deed, even if he has not done it yet, is a good with 
+               The <persName><ref source="person046">rabbi</ref></persName> was very satisfied with what he heard from his daughter. He was now convinced of the love she has for her people that she would sacrifice her own life and happiness for them. After a short break he said to her:<cb/> “You know very well that God said to <persName><ref source="person146">Abraham</ref></persName> he shall sacrifice his only 
+               son <persName><ref source="person147">Isaac</ref></persName> and <persName><ref source="person146">Abraham</ref></persName> was ready to do so. Then, an angel said to him: You shall not touch your son as I am convinced that you are god-fearing, because you were ready to do so. Our scholars learned from that, that everybody who plans to do a good deed, even if he has not done it yet, is a good with 
                God as he had done it already. The same applies to you as well, my dear daughter. For you, it is already a done deal that you will sacrifice yourself for the Yiddish people, but I can not approve of that. I have sworn your dying mother to look for people according to your values. And I am doing this to honour your mother in her grave who shall find peace. Leave these horrible thoughts behind, my dear child…”
             </p>
             <p>
-               “But my dear father, what shall we do?” - trust me - the <rs type="person"><ref source="person046">rabbi</ref></rs> answered - "you can know that this terrible <rs type="person"><ref source="person054">Kneppe</ref></rs> has done to us once before is lost - he can not do like he is saying. The emperor demands this huge sum of money from us which <rs type="person"><ref source="person054">Kneppe</ref></rs> 
+               “But my dear father, what shall we do?” - trust me - the rabbi answered - "you can know that this terrible <persName><ref source="person054">Kneppe</ref></persName> has done to us once before is lost - he can not do like he is saying. The emperor demands this huge sum of money from us which <persName><ref source="person054">Kneppe</ref></persName> 
                cannot pay out of his own pockets since he doesn’t have that kind of wealth. And his mere words will not change anything. The only thing he can do is run away with you and help you escape like that - Is it possible then to leave my brothers in danger and let them see how to escape on their own? I know for certain that you will not advise me to do so, but if I want to escape, I can do that without 
-               <rs type="person"><ref source="person054">Kneppe</ref></rs> as well. But what utility do these empty words have? I need to look for a plan how I can save you from the danger put onto you by the apostate <rs type="person"><ref source="person054">Kneppe</ref></rs>. However, I am too old and weak and my duty does not allow me to watch over you at all times. 
+               <persName><ref source="person054">Kneppe</ref></persName> as well. But what utility do these empty words have? I need to look for a plan how I can save you from the danger put onto you by the apostate <persName><ref source="person054">Kneppe</ref></persName>. However, I am too old and weak and my duty does not allow me to watch over you at all times. 
             </p>
             <p>
-               I found a way to protect you from the danger. I know that you are in debt to my student <rs type="person"><ref source="person059">Asher</ref></rs>. He risked his own life to save you from peril. This shall be a sign of God, that he saved you for his sake. Now, my dear child, imagine your blessed mother standing in front of you and asking you to be wed to Asher. He truly is a precious child. What 
+               I found a way to protect you from the danger. I know that you are in debt to my student <persName><ref source="person059">Asher</ref></persName>. He risked his own life to save you from peril. This shall be a sign of God, that he saved you for his sake. Now, my dear child, imagine your blessed mother standing in front of you and asking you to be wed to Asher. He truly is a precious child. What 
                would you say? I, for one, cannot force you to agree to this engagement, but I truly want to know your answer, whether your heart is drawn to him?”
             </p>
             <p>
-               With a soft, but composed voice, <rs type="person"><ref source="person134">Sarah</ref></rs> answered: “I accept.”
+               With a soft, but composed voice, <persName><ref source="person134">Sarah</ref></persName> answered: “I accept.”
             </p>
             <p>
-               After <rs type="person"><ref source="person134">Sarah</ref></rs>’s words, the <rs type="person"><ref source="person046">rabbi</ref></rs> stood up from his chair and put both his hands on <rs type="person"><ref source="person134">Sarah</ref></rs>’s head and blessed her to leave a happy life. On the very same day, the <rs type="person"><ref source="person046">rabbi</ref></rs> talked to 
-               <rs type="person"><ref source="person059">Asher</ref></rs> and told him about his resolution to take him as a son-in-law with <rs type="person"><ref source="person059">Asher</ref></rs>’s consent and they shook hands as a sign of agreement. However, the <rs type="person"><ref source="person046">rabbi</ref></rs> ordered to keep it a secret and the wedding as well, so the scoundrel 
-               <rs type="person"><ref source="person054">Kneppe</ref></rs> will not get wind of it and bring <rs type="person"><ref source="person134">Sarah</ref></rs> in danger.
+               After <persName><ref source="person134">Sarah</ref></persName>’s words, the rabbi stood up from his chair and put both his hands on <persName><ref source="person134">Sarah</ref></persName>’s head and blessed her to leave a happy life. On the very same day, the rabbi talked to 
+               <persName><ref source="person059">Asher</ref></persName> and told him about his resolution to take him as a son-in-law with <persName><ref source="person059">Asher</ref></persName>’s consent and they shook hands as a sign of agreement. However, the rabbi ordered to keep it a secret and the wedding as well, so the scoundrel 
+               <persName><ref source="person054">Kneppe</ref></persName> will not get wind of it and bring <persName><ref source="person134">Sarah</ref></persName> in danger.
             </p>
             <p>
-               After the wedding, the <rs type="person"><ref source="person046">rabbi</ref></rs> said to his children: my dear children! You know very well of our current hardship and who knows what can still happen. Now it is my wish for you to go to <rs type="place"><ref source="place292">Barcelona</ref></rs> (<rs type="place"><ref source="place43">Spain</ref></rs>) to the local rabbi. He is my best friend and I 
-               am certain he will welcome you although he doesn’t know <rs type="person"><ref source="person059">Asher</ref></rs> personally. However, I have written about you several times and he already knows your handwriting because of the <ref source="https://www.wikidata.org/wiki/Q3427762">responsa</ref>  which you have sent him. Moreover, I will give you a letter to know when you have arrived there and the 
+               After the wedding, the rabbi said to his children: my dear children! You know very well of our current hardship and who knows what can still happen. Now it is my wish for you to go to <placeName><ref source="place292">Barcelona</ref></placeName> (<placeName><ref source="place43">Spain</ref></placeName>) to the local rabbi. He is my best friend and I 
+                  am certain he will welcome you although he doesn’t know <persName><ref source="person059">Asher</ref></persName> personally. However, I have written about you several times and he already knows your handwriting because of the <ref source="https://www.wikidata.org/wiki/Q3427762">responsa</ref>  which you have sent him. Moreover, I will give you a letter to know when you have arrived there and the 
                Lord will help you as well and you will be able to make a living there.
             </p>
             <p>
@@ -548,7 +548,7 @@
             <div style="text-align:center">
                <p>Bank and exchange business
                   <lb/>ROHAYTN &amp; ULAM
-                  <lb/><foreign xml:lang="de"><rs type="place"><ref source="place002">Lemberg</ref></rs>, <rs type="place"><ref source="place186">Syxtuskagasse</ref></rs> 8.</foreign>
+                  <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <placeName><ref source="place186">Syxtuskagasse</ref></placeName> 8.</foreign>
                   <lb/>Buying and selling all kinds of
                   <lb/>Effects, lotteries, and coins.
                   <lb/>Lottery available in cheap installments.
@@ -566,42 +566,42 @@
                </p>
                <table rows="7" cols="2">
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place054">Santos</ref></rs> Coffee á 1.15 guilder / kg</cell>
+                     <cell role="data"><placeName><ref source="place054">Santos</ref></placeName> Coffee á 1.15 guilder / kg</cell>
                      <cell role="data">Passover Coffee</cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="palce"><ref source="place062">Salvador</ref></rs> 1.30 " "</cell>
+                     <cell role="data"><placeName><ref source="place062">Salvador</ref></placeName> 1.30 " "</cell>
                      <cell role="data">Lightly roasted  1.45 guilder, medium</cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place055">Puerto Rico</ref></rs>1.55 " "</cell>
+                     <cell role="data"><placeName><ref source="place055">Puerto Rico</ref></placeName>1.55 " "</cell>
                      <cell role="data">roast  1.65 guilder, dark roast 1.55</cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place056">Cuba</ref></rs> 1.60 " "</cell>
+                     <cell role="data"><placeName><ref source="place056">Cuba</ref></placeName> 1.60 " "</cell>
                      <cell role="data">guilder. Price per kg. Price list for free.</cell>
                   </row>
                   <row role="data">
-                     <cell role="data">Gold <rs type="place"><ref source="place058">Java</ref></rs> 1.60 " "</cell>
+                     <cell role="data">Gold <placeName><ref source="place058">Java</ref></placeName> 1.60 " "</cell>
                      <cell role="data">If more than 30 kg are bought, a</cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place054">Santos</ref></rs> 1.40 " "</cell>
+                     <cell role="data"><placeName><ref source="place054">Santos</ref></placeName> 1.40 " "</cell>
                      <cell role="data">discount of 20 heller is applied.</cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place055">Puerto Rico</ref></rs> 1.60 " "</cell>
+                     <cell role="data"><placeName><ref source="place055">Puerto Rico</ref></placeName> 1.60 " "</cell>
                      <cell role="data"></cell>
                   </row>
                </table>
                <p>
-                  <rs type="person">Berger Ernö</rs>, <rs type="place"><ref source="place058">Fuime</ref></rs>.
+                  <persName>Berger Ernö</persName>, <placeName><ref source="place058">Fuime</ref></placeName>.
                </p>
             <div>
                <head>Announcement</head>
                <p>          
                   Our “Talmud association” Delatyn seeks to buy a Menskish Talmud, finely bound. That is why we ask those who want to sell it to send something to the address below and name the price.
-                  Schebsl Blei, <rs type="place"><ref source="place251">Delatyn</ref></rs>.
+                  Schebsl Blei, <placeName><ref source="place251">Delatyn</ref></placeName>.
                </p>
             </div>
             <div>
@@ -611,7 +611,7 @@
                   <lb/>1 kg fine, pure tea only 6 crowns.
                   <lb/>There is also tea costing 3 to 10 crowns per kg.
                   <lb/>Sample for free and prepaid.
-                  <lb/><rs type="person"><ref source="person053">L. Aperman</ref></rs>, <rs type="place"><ref source="place132">Brody</ref></rs> <rs type="place"><ref source="place006">Galicia</ref></rs>.
+                  <lb/><persName><ref source="person053">L. Aperman</ref></persName>, <placeName><ref source="place132">Brody</ref></placeName> <placeName><ref source="place006">Galicia</ref></placeName>.
                   <lb/>Thee &amp; Caffe Lager.
                </p>
             </div>
@@ -619,8 +619,8 @@
                <head>Coffee for Passover</head>
                <p>
                   As 99 % of coffee is aromated they are not to be used during Passover. Therefore I ordered high quality  coffee in bulk and will sell it for 1,80 francs to every postal station. 
-                  <rs type="person"><ref source="person138">M. Labiner</ref></rs>
-                  Delicatessen, <rs type="place"><ref source="place252">Ternopil</ref></rs>
+                  <persName><ref source="person138">M. Labiner</ref></persName>
+                  Delicatessen, <placeName><ref source="place252">Ternopil</ref></placeName>
                </p>
             </div>
             <cb/>
@@ -632,9 +632,9 @@
                   The delivery will make customers satisfied and accomplished to the max.
                </p> 
             <div>
-                  <p><rs type="person"><ref source="person106">NATHAN SPRECHER</ref></rs>
+               <p><persName><ref source="person106">NATHAN SPRECHER</ref></persName>
                   <lb/>Artificial fertilizer, seeds &amp; machinery
-                  <lb/><rs type="place"><ref source="place223">Podgórze</ref></rs> - <rs type="place"><ref source="place149">Kraków</ref></rs>
+                  <lb/><placeName><ref source="place223">Podgórze</ref></placeName> - <placeName><ref source="place149">Kraków</ref></placeName>
                </p>
             </div>               
             <div>
@@ -648,30 +648,27 @@
                   <lb/>ENTERTAIN and EDUCATE
                   <lb/>two thrilling novels daily, one SUBSTANTIALLY tasteful family insert
                   <lb/>The SUBSCRIPTION COSTS amount to:
-                  <lb/>For one daily, postpaid shipment in <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> and <rs type="place"><ref source="place142">Bosnia</ref></rs>; 2.70 K. monthly, 7.90 K quarterly. For twice weekly shipments of the 
+                  <lb/>For one daily, postpaid shipment in <placeName><ref source="place001">Austria-Hungary</ref></placeName> and <placeName><ref source="place142">Bosnia</ref></placeName>; 2.70 K. monthly, 7.90 K quarterly. For twice weekly shipments of the 
                   <lb/>SATURDAY- and THURSDAY-EDITIONS
                   <lb/>(with novel- and family-insert [in book form], extensive newsreel etc.); 2.64 K. quarterly, 5.20 K. for six months. For weekly shipments of the rich SATURDAY-EDITION (with novel- and family-insert [in book form], extensive newsreel etc.); 1.70 K quarterly, 3.30 K every six months.
                   <lb/>Daily subscriptions can start at any point, weekly subscriptions can only be started at the beginning of the month.
                   <lb/>FREE TRIALS
                   <lb/>The editorial office of the “Oesterreichische 
-                  <lb/>Volkszeitung”, <rs type="place"><ref source="place007">Vienna</ref>, 1010</rs>, <rs type="place"><ref source="place222">Schulerstraße</ref> 16</rs>.
+                  <lb/>Volkszeitung”, <placeName><ref source="place007">Vienna</ref>, 1010</placeName>, <placeName><ref source="place222">Schulerstraße</ref> 16</placeName>.
                   <lb/>All new subscribers receive the current, highly interesting novels and novellas for free.</p></div> 
             </div>
          </div>
             <div>
                <p>
                   You can get various useful instructions for register handlers, head of cultural affairs, private individuals, etc. at different prices.
-                  <lb/><rs type="person"><ref source="person139">S. Weinstock</ref></rs>, in <rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place"><ref source="place185">Rzeznika</ref></rs> 5.
+                  <lb/><persName><ref source="person139">S. Weinstock</ref></persName>, in <placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place185">Rzeznika</ref></placeName> 5.
                </p>
             </div>
          <div type="footer" style="one columns" n="1">
             <p>
                <foreign xml:lang="de">
-                  <lb/>Herausgeber und verantwortlicher Redact. <rs type="person"><ref source="person031">OSIAS H. WILF</ref></rs>
-                  recte Weinstock <lb/>Druck von <rs type="person"><ref source="person032">E. Salat</ref></rs> Witwe des <rs
-                     type="person"><ref source="person033">U.W. Salat</ref></rs>, <rs type="place"><ref source="place002"
-                        >Lemberg</ref></rs>
-                  <rs type="place"><ref source="place065">Kasimirgasse 35</ref></rs>
+                  Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName>recte <persName><ref source="person139">Weinstock</ref></persName> 
+                  <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName type="person"><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse 35</ref></placeName>
                </foreign>
             </p>
             <p style="text-align:center">[8]</p>

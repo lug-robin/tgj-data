@@ -47,7 +47,7 @@
                     </place> 
                     <place xml:id="place003">
                         <placeName>Panteleimona Kulisha St</placeName>
-                        <location type="coords"><geo>49.84777348999111 24.024325540895227</geo>
+                        <location type="coords"><geo> 49,8452834 24,0240398</geo>
                     </location>
                     <location type="located_in_place">
                         <placeName key="place002">Lviv</placeName>
@@ -602,6 +602,26 @@
                         <idno type="Geonames">https://www.geonames.org/2510769/kingdom-of-spain.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q29</idno>
                     </place>
+                    <place xml:id="place044">
+                        <placeName>Yana Zhyzhky</placeName>
+                        <location type="d"><geo>49.84419 24.02900</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place002">Lviv</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                    </place>
                     <place xml:id="place045">
                         <placeName>France</placeName>
                         <location type="coords">
@@ -882,6 +902,26 @@
                             <placeName key="place100">Europe</placeName>
                         </location>
                         <note>Named Kasimirgasse in 1904.</note>
+                    </place>
+                    <place xml:id="place066">
+                        <placeName>Krakivska vulytsia</placeName>
+                        <location type="coords"><geo>49.84454 24.02949</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place002">Lviv</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place061">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
                     </place>
                     <place xml:id="place067">
                         <placeName>Poland</placeName>
@@ -2677,7 +2717,7 @@
                     <place xml:id="place185">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Nalyvaika St</placeName>
                         <location type="coords">
-                            <geo>49.84298011237862 24.024792502932716</geo>
+                            <geo> 49,8432966 24,0229758</geo>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place002">Lviv</placeName>
@@ -2695,13 +2735,11 @@
                             <placeName key="place100">Europe</placeName>
                         </location>
                         <note>Was called Rzeznicka from 1871-1941</note>
-                        <idno type="Geonames">https://www.geonames.org/4347778/baltimore.html</idno>
-                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q5092</idno>
                     </place>
                     <place xml:id="place186">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Petra Doroshenka St</placeName>
                         <location type="coords">
-                            <geo>49.83828264278652 24.023342621845593</geo>
+                            <geo>49,3318567 23,4949797</geo>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place002">Lviv</placeName>
@@ -2751,7 +2789,7 @@
                     <place xml:id="place189">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Kiev St</placeName>
                         <location type="coords">
-                            <geo>47.041565812463006 28.86033882435911</geo>
+                            <geo>47,0428592 28,8607631</geo>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place015">Chișinău</placeName>
@@ -2762,8 +2800,6 @@
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
                         </location>
-                        <idno type="Geonames">https://www.geonames.org/3093133/lodz.html</idno>
-                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q580</idno>
                     </place>
                     <place xml:id="place190">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Taedong River</placeName>
@@ -4164,6 +4200,26 @@
                         <idno type="Geonames">https://www.geonames.org/630468/bobruysk.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q207294</idno>
                     </place>
+                    <place xml:id="place282">
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Ternova</placeName>
+                        <location type="coords">
+                            <geo>49.01374 26.77192</geo>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place006">Galicia</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place001">Austria-Hungary</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place067">Ukraine</placeName>
+                        </location>
+                        <location type="located_in_place">
+                            <placeName key="place100">Europe</placeName>
+                        </location>
+                        <idno type="Geonames">https://www.geonames.org/691646/ternova.html</idno>
+                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q4455999</idno>
+                    </place>     
                     <place xml:id="place283">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Valožyn</placeName>
                         <location type="coords">
@@ -4685,66 +4741,6 @@
                         </location>
                         <idno type="Geonames">https://www.geonames.org/3090436/nysa.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q815721</idno>
-                    </place>
-                    <place xml:id="place315">
-                        <placeName type="person_namesvariente_nachname-komma-vorname">Ternova</placeName>
-                        <location type="coords">
-                            <geo>49.01374 26.77192</geo>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place006">Galicia</placeName>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place001">Austria-Hungary</placeName>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place067">Ukraine</placeName>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place100">Europe</placeName>
-                        </location>
-                        <idno type="Geonames">https://www.geonames.org/691646/ternova.html</idno>
-                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q4455999</idno>
-                    </place>
-                    <place xml:id="place316">
-                        <placeName>Krakivska vulytsia</placeName>
-                        <location type="coords"><geo>49.84454 24.02949</geo>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place002">Lviv</placeName>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place006">Galicia</placeName>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place001">Austria-Hungary</placeName>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place061">Ukraine</placeName>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place100">Europe</placeName>
-                        </location>
-                    </place>
-                    <place xml:id="place317">
-                        <placeName>Yana Zhyzhky</placeName>
-                        <location type="coords"><geo>49.84419 24.02900</geo>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place002">Lviv</placeName>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place006">Galicia</placeName>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place001">Austria-Hungary</placeName>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place061">Ukraine</placeName>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place100">Europe</placeName>
-                        </location>
                     </place>
                 </listPlace>
             </div>

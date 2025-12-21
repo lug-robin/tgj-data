@@ -103,7 +103,7 @@
             <table rows="4" cols="2" style="text-align:center;width:50%">
                <head>The Geniune Jew costs</head>
                <row role="data">
-                  <cell role="data">In <rs type="place"><ref source="place001">Austria-Hungary</ref></rs></cell>
+                  <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
                   <cell role="data">Abroad</cell>
                </row>
                <row role="data">
@@ -119,30 +119,30 @@
                   <cell role="data">For a quarter year - 3.50 "</cell>
                </row>
             </table>
-            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date when-iso="1904-02-19"> February 19th 1904</date></p><cb/>
+            <p><placeName><ref source="place002">Lviv</ref></placeName>, <date calendar="Hebrew" when-custom="5664-12-03"><foreign xml:lang="he">Yom Shlishi <ref source="https://www.wikidata.org/wiki/Q1860936">Terumah</ref> 5664</foreign></date></p><cb/>
             <p>
                Adverts are cheaply calculated
                <lb/>All letters and money send to:
-               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place"><ref source="place003">Sonnengasse 27</ref></rs></foreign>
+               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse 27</ref></placeName></foreign>
                <lb/>The Genuine Jew is published every Friday
-               <lb/><foreign xml:lang="de"><rs type="place"><ref source="place002">Lemberg</ref></rs>, <date when-iso="1904-02-19">den 19. Februar 1904</date></foreign>.
+               <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <date when-iso="1904-02-19">den 19. Februar 1904</date></foreign>.
             </p>
          </div>
          <div n="3">
-            <head>The Rabbinical question in <rs type="place"><ref source="place006">Galicia</ref></rs></head>
+            <head>The Rabbinical question in <placeName><ref source="place006">Galicia</ref></placeName></head>
             <p>
                In almost no other country is the rabbinical question as important as it is here. In more developed countries the rabbinical question has long lost importance already. Nobody cares what a rabbi should be, 
                finishing the <ref source="https://www.wikidata.org/wiki/Q1739398">Jewish seminary</ref>, having gained the title “Doctor” and being able to preach a good sermon - that already is sufficient. Nobody 
                cares whether he is a real scholar. First, the Jewish communities would not be able to know that, as very few in control could study, and secondly they rely on the diploma which the “Rabbi” brought back from 
-               the seminary. Nobody questions whether he is actually pious as this is not the main thing… The rabbinical question, hence, is not prevalent there. - In <rs type="place"><hi rend="italic"><ref source="place009">Hungary</ref></hi></rs>, pious communities 
-               separated themselves from the progressive ones, they have created their own organisations and nobody tampers with the rabbinical question; in <rs type="palce"><hi rend="italic"><ref source="place014">Russia</ref></hi></rs>, two Rabbis exist in every community. 
+               the seminary. Nobody questions whether he is actually pious as this is not the main thing… The rabbinical question, hence, is not prevalent there. - In <placeName><hi rend="italic"><ref source="place009">Hungary</ref></hi></placeName>, pious communities 
+               separated themselves from the progressive ones, they have created their own organisations and nobody tampers with the rabbinical question; in <placeName><hi rend="italic"><ref source="place014">Russia</ref></hi></placeName>, two Rabbis exist in every community. 
                One is called “Kazyone-Rabbi”, which means the administrative rabbi. He is responsible for the matricula, he is the governmental rabbi. Often, he does not speak a single word Hebrew or Yiddish, mostly he is a 
                lawyer, a pharmacist, an engineer or similar. He only administers money and does not interfere with any Jewish matters. A second rabbi- called “Dukhovner Rabbi”, which means he is the real rabbi, a scholar, a 
                gaon, a pious Jew, who works with the Torah all day. However, the government only cares about the administrative rabbi. The government <cb/> does not care about the Dukhovner rabbi and every community chooses a rabbi 
                however they want it.
             </p>
             <p>
-               Only here in <rs type="place"><ref source="place006">Galicia</ref></rs>, the rabbinical question exists and finding a solution does not seem to work. Most communities need an old-style rabbi, a great scholar, a gaon, a genuine pious Jews, who 
+               Only here in <placeName><ref source="place006">Galicia</ref></placeName>, the rabbinical question exists and finding a solution does not seem to work. Most communities need an old-style rabbi, a great scholar, a gaon, a genuine pious Jews, who 
                should devote himself to the Jewry and should be a shepherd, loyal to his religion. The law needs rabbis in bigger cities to have graduated and even in the smaller cities he needs to be educated to a certain point. 
                But where does one get a rabbi who is a true scholar and has a diploma as well? As this law was created on <date when="1890-03-21">March 21st 1890</date>, nobody was asking that question. Our leaders in the big cities, our representatives in the 
                imperial council are progressive Jews. They only wanted rabbis who can hold beautiful “sermons”, who are dressed in the latest fashion and should be able to “convene with people”, as they are calling it. They do not 
@@ -160,7 +160,7 @@
             <p>
                But the question prevails: Will it always be like this? How long can this situation still last? The transitional period has long gone by and the rabbis who have already been rabbis before this law will become less and 
                less as time goes on. And if we want to make sure that the government will listen and fulfil the request of the Jewish communities they need to incorporate pious rabbis who do not have diplomas. Who knows if the 
-               progressive Jews who are superintendents in most communities, will allow another petition - against the will of pious Jews - a “doctrine” for rabbis as it had already happened in big communities like <rs type="place"><ref source="place106">Drohobytsch</ref></rs>. 
+               progressive Jews who are superintendents in most communities, will allow another petition - against the will of pious Jews - a “doctrine” for rabbis as it had already happened in big communities like <placeName><ref source="place106">Drohobytsch</ref></placeName>. 
                We will write about this in the following papers. We do not need to describe the damage this causes against the genuine Jewry and the dignity of the Torah. Every pious Jew knows and senses that the Jewish rabbis lose 
                their reputation. They are considered to be invited guests who are tolerated out of pity. The pious Jews are the ones who mostly care about the communities, they provide the money for the ritual slaughters, the tax on 
                kosher meat, the money for bath houses for ritual immersion and the like (which progressive Jews do not use nor need), now have to watch on how the money is not being given to the rabbi. Out of mercy he gets to be an 
@@ -183,19 +183,19 @@
          <div n="4">
             <head>Political News.</head>
             <p>
-               The war between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place019">Russia</ref></rs> has taken up everyone’s attention around the world as it seems that all other 
+               The war between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place019">Russia</ref></placeName> has taken up everyone’s attention around the world as it seems that all other 
                political issues, which have happened, are being forgotten about. Not that anything particularly important has happened in the world, but it is well known that non-important things can become very important. Furthermore, 
                we think it is only right to inform our readers about political news which happened in the last few days.
             </p>
             <p>
-               <rs type="place"><ref source="place001">Austria-Hungary</ref></rs>. The political conditions in <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> have not changed a lot. The parliament is closed, the 
+               <placeName><ref source="place001">Austria-Hungary</ref></placeName>. The political conditions in <placeName><ref source="place001">Austria-Hungary</ref></placeName> have not changed a lot. The parliament is closed, the 
                delegation is still consulting about the issues concerning both countries. Nothing important results from the delegations’ consultation. Both the Austrian and the Hungarian delegation mostly talk about domestic politics 
-               and barely touch upon foreign politics. Even when consulting about the military, military questions are barely tended to. However, in <rs type="place"><ref source="place025">Austria</ref></rs> it is discussed whether the 
+               and barely touch upon foreign politics. Even when consulting about the military, military questions are barely tended to. However, in <placeName><ref source="place025">Austria</ref></placeName> it is discussed whether the 
                minister of war is in the right: He gave the order that all officers and sergeants need to know the regiment language. Meaning that if a German officer in a regiment mostly of Poles, Ruthenians, Czech, Italians and suchlike, 
                he has to know Polish or Czech or Italian. Of course, the Poles, Italians, of course are very satisfied with this edict. The Germans, on the other hand, are against it because this impedes the chance of becoming an officer. 
-               Not every German wants to learn another language. The Hungarian delegation also mostly talks about which concessions the minister of war of <rs type="place"><ref source="place009">Hungary</ref></rs> is allowed to make. 
+               Not every German wants to learn another language. The Hungarian delegation also mostly talks about which concessions the minister of war of <placeName><ref source="place009">Hungary</ref></placeName> is allowed to make. 
                He prematurely promises, how one says, heaven and earth. He is talking about new military academies, new schools with Hungarian as the language of instruction, Hungarian officers would only serve in Hungarian regiments 
-               to nurture the Hungarian national pride and suchlike. - But the opposition in <rs type="place"><ref source="place025">Austria</ref></rs> and in <rs type="place"><ref source="place009">Hungary</ref></rs>
+               to nurture the Hungarian national pride and suchlike. - But the opposition in <placeName><ref source="place025">Austria</ref></placeName> and in <placeName><ref source="place009">Hungary</ref></placeName>
             </p><pb/>
             <fw>- 3 -</fw>
             <p>
@@ -208,112 +208,112 @@
                the day is over. Therefore, the delegates do not get to consult about the actual subjects which are on the agenda. This is done constantly. However, if the majority wants to pressure the opposition forcefully to end 
                the filibuster in order to accept a resolution or deal with emergency motions at the end of the session or to use roll-call votes only for important queries, the obstructionists moves on to “vociferous blockage”. They 
                start to scream, to make noise, to rattle with the lectern, to throw books and bottles, bring fiddles and whistles, play and pipe and squeal until the president has to close the session. Indeed there are parliaments 
-               where there is a way to cope with the obstructionists like in <rs type="place"><ref source="place010">Germany</ref></rs> or in <rs type="place"><ref source="place045">France</ref></rs>. There is a paragraph in the 
-               rules of proceedings by which the president has the right to exclude those who disrupt the meeting for one or more sessions from the parliament. However, in <rs type="place"><ref source="place025">Austria</ref></rs> 
-               and in <rs type="place"><ref source="place009">Hungary</ref></rs> a paragraph like this does not exist and the president cannot work out a solution with the obstructionists. Moreover, the obstructions in these 
+               where there is a way to cope with the obstructionists like in <placeName><ref source="place010">Germany</ref></placeName> or in <placeName><ref source="place045">France</ref></placeName>. There is a paragraph in the 
+               rules of proceedings by which the president has the right to exclude those who disrupt the meeting for one or more sessions from the parliament. However, in <placeName><ref source="place025">Austria</ref></placeName> 
+               and in <placeName><ref source="place009">Hungary</ref></placeName> a paragraph like this does not exist and the president cannot work out a solution with the obstructionists. Moreover, the obstructions in these 
                countries have endured for a few years already and nobody knows how to solve it.  The parties do not want the president to finally exclude the yellers and noise-makers, every party is anxious to someday obstruct 
                something. Therefore, they do not want to block themselves already.
             </p>
             <p>
-               It is unknown how this all will end. In <rs type="place"><ref source="place009">Hungary</ref></rs>, it might come to an end soon as the government gives the obstructionists everything they want. If it is not resolved 
-               soon, the government will be dissolved. However in <rs type="place"><ref source="place025">Austria</ref></rs>, it is not possible to indulge with the Czech as the German do not want to. It is also not possible to 
+               It is unknown how this all will end. In <placeName><ref source="place009">Hungary</ref></placeName>, it might come to an end soon as the government gives the obstructionists everything they want. If it is not resolved 
+               soon, the government will be dissolved. However in <placeName><ref source="place025">Austria</ref></placeName>, it is not possible to indulge with the Czech as the German do not want to. It is also not possible to 
                dissolve the government as the end of the filibuster is not known. 
             </p>
             <p>
-               <rs type="place"><ref source="place040">Italy</ref></rs>. An alliance has been existing between <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> and <rs type="place"><ref source="place040">Italy</ref></rs> 
+               <placeName><ref source="place040">Italy</ref></placeName>. An alliance has been existing between <placeName><ref source="place001">Austria-Hungary</ref></placeName> and <placeName><ref source="place040">Italy</ref></placeName> 
                for over 20 years. This means that both governments agreed to support each other in case another regiment wages war with one of<cb/> them. If two countries are allied they are meant to be able to live in peace with each 
-               other. This is not the case here. The Italian government conducts itself correctly against <rs type="place"><ref source="place001">Austria-Hungary</ref></rs>, but they are constantly on bad terms, because Emperor 
-               <rs type="person"><ref source="person003">Franz Joseph</ref></rs> did not return the <rs type="person"><ref source="person047">Italian king</ref></rs>’s visit to <rs type="place007"><ref source="place">Vienna</ref></rs> 
-               20 years ago. However, Emperor <rs type="person"><ref source="place003">Franz Joseph</ref></rs> cannot visit the <rs type="person"><ref source="person047">Italian king</ref></rs> in the capital <rs type="place">Rome</rs> 
-               because the <rs type="person"><ref source="person035">pope</ref></rs> lives there as well who does not live peacefully next to the Italian government because they have taken his state! The pope excommunicated 
-               the <rs type="person"><ref source="person047">Italian king</ref></rs> and will not welcome a catholic emperor like Emperor <rs type="person"><ref source="person003">Franz Joseph</ref></rs> if he visits the 
-               <rs type="person"><ref source="person047">Italian king</ref></rs> in <rs type="place"><ref source="place107">Rome</ref></rs>. However, he proposed meeting the <rs type="person"><ref source="person047">Italian king</ref></rs> in another 
-               city apart from <rs type="place"><ref source="place107">Rome</ref></rs>. But the <rs type="person"><ref source="person047">Italian king</ref></rs> does not want that as he does not want to give in to the 
-               <rs type="person"><ref source="person035">pope</ref></rs>. Moreover, the relationship between both governments is strained. The current Italian King, <rs type="person"><ref source="person047">Viktor Emanuel</ref></rs>, has visited all monarchs, 
-               like the German and Russian emperors, the <rs type="person"><ref source="person105">English king</ref></rs> or the <rs type="person"><ref source="person089">French president</ref></rs> - just not the 
-               <rs type="person"><ref source="person003">Austrian emperor</ref></rs>. The Italian people show their hostility against <rs type="place"><ref source="place025">Austria</ref></rs> openly. The Italians insist on 
-               claiming <rs type="place"><ref source="place064">Trieste</ref></rs>, <rs type="place"><ref source="place108">South Tyrol</ref></rs>, <rs type="place"><ref source="place109">Dalmatia</ref></rs>, and other countries 
-               where Italians reside and unite them with <rs type="place"><ref source="place040">Italy</ref></rs>. Regularly, Italians demonstrate in <rs type="place"><ref source="place025">Austria</ref></rs>, Austrian flags are 
-               burnt in the street and the Italian government is just watching. First of all, it is anxious to act against their citizens; secondly, it also agrees with their people a bit, because they desire <rs type="place"><ref source="place064">Trieste</ref></rs> 
-               and <rs type="place"><ref source="place109">Dalmatia</ref></rs>. Only if the demonstrations become too intense will the government intervene as they should not act like that against a friend and ally. - The Austrian 
+               other. This is not the case here. The Italian government conducts itself correctly against <placeName><ref source="place001">Austria-Hungary</ref></placeName>, but they are constantly on bad terms, because Emperor 
+               <persName><ref source="person003">Franz Joseph</ref></persName> did not return the <persName><ref source="person047">Italian king</ref></persName>’s visit to <placeName><ref source="place007">Vienna</ref></placeName> 
+               20 years ago. However, Emperor <persName><ref source="place003">Franz Joseph</ref></persName> cannot visit the <persName><ref source="person047">Italian king</ref></persName> in the capital <placeName>Rome</placeName> 
+               because the <persName><ref source="person035">pope</ref></persName> lives there as well who does not live peacefully next to the Italian government because they have taken his state! The pope excommunicated 
+               the <persName><ref source="person047">Italian king</ref></persName> and will not welcome a catholic emperor like Emperor <persName><ref source="person003">Franz Joseph</ref></persName> if he visits the 
+               <persName><ref source="person047">Italian king</ref></persName> in <placeName><ref source="place107">Rome</ref></placeName>. However, he proposed meeting the <persName><ref source="person047">Italian king</ref></persName> in another 
+               city apart from <placeName><ref source="place107">Rome</ref></placeName>. But the <persName><ref source="person047">Italian king</ref></persName> does not want that as he does not want to give in to the 
+               <persName><ref source="person035">pope</ref></persName>. Moreover, the relationship between both governments is strained. The current Italian King, <persName><ref source="person047">Viktor Emanuel</ref></persName>, has visited all monarchs, 
+               like the German and Russian emperors, the <persName><ref source="person105">English king</ref></persName> or the <persName><ref source="person089">French president</ref></persName> - just not the 
+               <persName><ref source="person003">Austrian emperor</ref></persName>. The Italian people show their hostility against <placeName><ref source="place025">Austria</ref></placeName> openly. The Italians insist on 
+               claiming <placeName><ref source="place064">Trieste</ref></placeName>, <placeName><ref source="place108">South Tyrol</ref></placeName>, <placeName><ref source="place109">Dalmatia</ref></placeName>, and other countries 
+               where Italians reside and unite them with <placeName><ref source="place040">Italy</ref></placeName>. Regularly, Italians demonstrate in <placeName><ref source="place025">Austria</ref></placeName>, Austrian flags are 
+               burnt in the street and the Italian government is just watching. First of all, it is anxious to act against their citizens; secondly, it also agrees with their people a bit, because they desire <placeName><ref source="place064">Trieste</ref></placeName> 
+               and <placeName><ref source="place109">Dalmatia</ref></placeName>. Only if the demonstrations become too intense will the government intervene as they should not act like that against a friend and ally. - The Austrian 
                government watches the demonstrations calmly but cautiously. Nobody knows how this will evolve. 
             </p>
             <p>
-               And indeed, important occurrences seem to be developing in <rs type="place"><ref source="place040">Italy</ref></rs>. As it has been told the last few days, <hi rend="italic"><rs type="person"><ref source="person048">Garibaldi</ref></rs></hi> - 
-               son of the well-known general <rs type="person"><ref source="person049">Garibaldi</ref></rs>, who helped uniting the small Italian countries to a big Italian country - is summing up voluntary states in order to potentially 
-               invade <hi rend="italic"><rs type="place"><ref source="place025">Austria</ref></rs></hi> and to take away <rs type="place"><ref source="place064">Trieste</ref></rs> . He has already bought 10,000 rifles and guns. Volunteers 
-               from all sides are gathering who want to join this national-”holy” war. - The Italian government remains silent, <rs type="place"><ref source="place025">Austria</ref></rs> as well. What can a few thousand volunteers accomplish 
-               against the Austrian military? However, if we take into consideration that a war between <rs type="place"><ref source="place112">Bulgaria</ref></rs> and <rs type="place"><ref source="place075">Turkey</ref></rs> - which 
-               <rs type="place"><ref source="place025">Austria</ref></rs> will be involved in - can break out any time, we have to admit that revolutionists can do great harm when invading <rs type="place"><ref source="place025">Austria</ref></rs>. 
-               <rs type="place"><ref source="place025">Austria</ref></rs> needs to brace itself early enough. - Trivialities can easily evolve into vital matters. 
+               And indeed, important occurrences seem to be developing in <placeName><ref source="place040">Italy</ref></placeName>. As it has been told the last few days, <hi rend="italic"><persName><ref source="person048">Garibaldi</ref></persName></hi> - 
+               son of the well-known general <persName><ref source="person049">Garibaldi</ref></persName>, who helped uniting the small Italian countries to a big Italian country - is summing up voluntary states in order to potentially 
+               invade <hi rend="italic"><placeName><ref source="place025">Austria</ref></placeName></hi> and to take away <placeName><ref source="place064">Trieste</ref></placeName> . He has already bought 10,000 rifles and guns. Volunteers 
+               from all sides are gathering who want to join this national-”holy” war. - The Italian government remains silent, <placeName><ref source="place025">Austria</ref></placeName> as well. What can a few thousand volunteers accomplish 
+               against the Austrian military? However, if we take into consideration that a war between <placeName><ref source="place112">Bulgaria</ref></placeName> and <placeName><ref source="place075">Turkey</ref></placeName> - which 
+               <placeName><ref source="place025">Austria</ref></placeName> will be involved in - can break out any time, we have to admit that revolutionists can do great harm when invading <placeName><ref source="place025">Austria</ref></placeName>. 
+               <placeName><ref source="place025">Austria</ref></placeName> needs to brace itself early enough. - Trivialities can easily evolve into vital matters. 
             </p><pb/>
             <fw>- 4 -</fw>
             <p>
-               <rs type="place"><ref source="place075">Turkey</ref></rs>. The war between <rs type="place"><ref source="place014">Russia</ref></rs> and <rs type="place"><ref source="place019">Japan</ref></rs> affects <rs type="place"><ref source="place075">Turkey</ref></rs> 
-               and its small neighbours <rs type="place"><ref source="place112">Bulgaria</ref></rs>, <rs type="place"><ref source="place111">Serbia</ref></rs>, <rs type="place"><ref source="place080">Montenegro</ref></rs> and <rs type="place"><ref source="place089">Greece</ref></rs>. 
-               <rs type="place"><ref source="place075">Turkey</ref></rs> only accepted the reforms <rs type="place"><ref source="place025">Austria</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs> wanted <rs type="place"><ref source="place075">Turkey</ref></rs> 
-               to introduce in <rs type="place"><ref source="place081">Macedonia</ref></rs> out of fear <rs type="place"><ref source="place025">Austria</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs> would coerce <rs type="place"><ref source="place075">Turkey</ref></rs> 
-               with violence. Now <rs type="place"><ref source="place075">Turkey</ref></rs> started to raise trouble against the reformations. Even the smaller countries on the <rs type="place"><ref source="place077">Balkans</ref></rs>, like <rs type="place"><ref source="place112">Bulgaria</ref></rs>, 
-               <rs type="place"><ref source="place111">Serbia</ref></rs>, or <rs type="place"><ref source="place080">Montenegro</ref></rs>, start to mingle from all directions and ready themselves for <hi rend="italic">war</hi>. As the news is reporting, 
-               <rs type="place"><ref source="place075">Turkey</ref></rs> is starting to hire massive military forces from <rs type="place"><ref source="place113">Syria</ref></rs> and <rs type="place"><ref source="place114">Asia Minor</ref></rs> to bring them to 
-               <rs type="place"><ref source="place081">Macedonia</ref></rs>. <rs type="place"><ref source="place112">Bulgaria</ref></rs> is eagerly preparing for war and also <rs type="place"><ref source="place111">Serbia</ref></rs> is starting to move and rumour 
-               has it that even <rs type="place"><ref source="place124">Romania</ref></rs> is mobilising a military corps. <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> wants to mobilise the military corps of <rs type="place"><ref source="place115">Timișoara</ref></rs> 
-               and <rs type="place"><ref source="place116">Cluj-Napoca</ref></rs>. If a war is to break out in <rs type="place"><ref source="place075">Turkey</ref></rs>, <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> will have to intervene, which 
-               <rs type="place"><ref source="place014">Russia</ref></rs> is already fearing in the case if <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> will derive benefits from it. In any case, it is to be expected that a Bulgarian-Turkish war will be breaking out soon.
+               <placeName><ref source="place075">Turkey</ref></placeName>. The war between <placeName><ref source="place014">Russia</ref></placeName> and <placeName><ref source="place019">Japan</ref></placeName> affects <placeName><ref source="place075">Turkey</ref></placeName> 
+               and its small neighbours <placeName><ref source="place112">Bulgaria</ref></placeName>, <placeName><ref source="place111">Serbia</ref></placeName>, <placeName><ref source="place080">Montenegro</ref></placeName> and <placeName><ref source="place089">Greece</ref></placeName>. 
+               <placeName><ref source="place075">Turkey</ref></placeName> only accepted the reforms <placeName><ref source="place025">Austria</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName> wanted <placeName><ref source="place075">Turkey</ref></placeName> 
+               to introduce in <placeName><ref source="place081">Macedonia</ref></placeName> out of fear <placeName><ref source="place025">Austria</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName> would coerce <placeName><ref source="place075">Turkey</ref></placeName> 
+               with violence. Now <placeName><ref source="place075">Turkey</ref></placeName> started to raise trouble against the reformations. Even the smaller countries on the <placeName><ref source="place077">Balkans</ref></placeName>, like <placeName><ref source="place112">Bulgaria</ref></placeName>, 
+               <placeName><ref source="place111">Serbia</ref></placeName>, or <placeName><ref source="place080">Montenegro</ref></placeName>, start to mingle from all directions and ready themselves for <hi rend="italic">war</hi>. As the news is reporting, 
+               <placeName><ref source="place075">Turkey</ref></placeName> is starting to hire massive military forces from <placeName><ref source="place113">Syria</ref></placeName> and <placeName><ref source="place114">Asia Minor</ref></placeName> to bring them to 
+               <placeName><ref source="place081">Macedonia</ref></placeName>. <placeName><ref source="place112">Bulgaria</ref></placeName> is eagerly preparing for war and also <placeName><ref source="place111">Serbia</ref></placeName> is starting to move and rumour 
+               has it that even <placeName><ref source="place124">Romania</ref></placeName> is mobilising a military corps. <placeName><ref source="place001">Austria-Hungary</ref></placeName> wants to mobilise the military corps of <placeName><ref source="place115">Timișoara</ref></placeName> 
+               and <placeName><ref source="place116">Cluj-Napoca</ref></placeName>. If a war is to break out in <placeName><ref source="place075">Turkey</ref></placeName>, <placeName><ref source="place001">Austria-Hungary</ref></placeName> will have to intervene, which 
+               <placeName><ref source="place014">Russia</ref></placeName> is already fearing in the case if <placeName><ref source="place001">Austria-Hungary</ref></placeName> will derive benefits from it. In any case, it is to be expected that a Bulgarian-Turkish war will be breaking out soon.
             </p>
          </div>
          <div n="5">
             <head>The War</head>
-            <head type="h2">Between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs>.</head>
+            <head type="h2">Between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName>.</head>
             <p>
-               After the first news about the Russian losses at sea, more messages arrived according to which <rs type="place"><ref source="place014">Russia</ref></rs> has lost some more. Over half of its battleships have been destroyed, the military’s courage has been broken, 
+               After the first news about the Russian losses at sea, more messages arrived according to which <placeName><ref source="place014">Russia</ref></placeName> has lost some more. Over half of its battleships have been destroyed, the military’s courage has been broken, 
                they have lost their desire for war and everything seems like torture. The police in the country force the people to organise patriotic demonstrations, to yell “Hurray”, and are reporting on various misinformation about Russian victories although nobody believes 
-               those. The <rs type="person"><ref source="person">Russian Tsar</ref></rs> has fallen ill because of the humiliation, he is angry with his ministers for what they allowed to happen in the war. He has weeped severely a couple of times. 
+               those. The <persName><ref source="person">Russian Tsar</ref></persName> has fallen ill because of the humiliation, he is angry with his ministers for what they allowed to happen in the war. He has weeped severely a couple of times. 
             </p>
             <p>
-               The whole world’s sentiment is against <rs type="place"><ref source="place014">Russia</ref></rs>, citizens in every country are happy about the Russian losses. Merely the Slavic peoples, like Czechs, Bulgarians, Serbs and Greeks are aggravated about the Russian 
-               defeat. They are organising liturgies and pray to God to help the Russian military. But you can tell they are only doing it as a formality. Secretly, they are delighted that the <rs type="place"><ref source="place151">Moscow</ref></rs> chiefs receive a beating.
+               The whole world’s sentiment is against <placeName><ref source="place014">Russia</ref></placeName>, citizens in every country are happy about the Russian losses. Merely the Slavic peoples, like Czechs, Bulgarians, Serbs and Greeks are aggravated about the Russian 
+               defeat. They are organising liturgies and pray to God to help the Russian military. But you can tell they are only doing it as a formality. Secretly, they are delighted that the <placeName><ref source="place151">Moscow</ref></placeName> chiefs receive a beating.
             </p>
             <p>
-               <rs type="place"><ref source="place014">Russia</ref></rs> is trying everything for the whole world to take interest in <rs type="place"><ref source="place014">Russia</ref></rs>; it is urging the papers to write that the whole world is supporting 
-               <rs type="place"><ref source="place014">Russia</ref></rs>, how <rs type="place"><ref source="place014">Russia</ref></rs> is fighting for European civilization against Asian savages, they are telling horrible stories about how <rs type="place"><ref source="place019">Japan</ref></rs> 
-               with the help of <rs type="place"><ref source="place021">China</ref></rs> will raid <rs type="place"><ref source="place100">Europe</ref></rs> and destroy everything, like the <ref source="https://www.wikidata.org/wiki/Q35565">Tartars</ref> 
-               once did. However, everyone is laughing at these tails; nobody is afraid of the Tartars anymore. A little calamity will not harm <rs type="place"><ref source="place014">Russia</ref></rs> but perhaps improve it instead. 
+               <placeName><ref source="place014">Russia</ref></placeName> is trying everything for the whole world to take interest in <placeName><ref source="place014">Russia</ref></placeName>; it is urging the papers to write that the whole world is supporting 
+               <placeName><ref source="place014">Russia</ref></placeName>, how <placeName><ref source="place014">Russia</ref></placeName> is fighting for European civilization against Asian savages, they are telling horrible stories about how <placeName><ref source="place019">Japan</ref></placeName> 
+               with the help of <placeName><ref source="place021">China</ref></placeName> will raid <placeName><ref source="place100">Europe</ref></placeName> and destroy everything, like the <ref source="https://www.wikidata.org/wiki/Q35565">Tartars</ref> 
+               once did. However, everyone is laughing at these tails; nobody is afraid of the Tartars anymore. A little calamity will not harm <placeName><ref source="place014">Russia</ref></placeName> but perhaps improve it instead. 
             </p>
             <p>
-               Particularly the <rs type="place"><ref source="place095">USA</ref></rs> is supporting <rs type="place"><ref source="place019">Japan</ref></rs>. They are collecting donations for <rs type="place"><ref source="place019">Japan</ref></rs> and are claiming to have 
-               already amassed over 25 million crowns. American <hi rend="italic">Jews</hi> are  buying a battleship at their own expense, equipping it with a military troop and cannons and then gift it to <rs type="place"><ref source="place019">Japan</ref></rs>. Money has already 
-               been collected previously; Russian stock has plummeted immensely. Even the Russian citizens are constantly anxious. The money from bank accounts are being withdrawn as the fear that <rs type="place"><ref source="place014">Russia</ref></rs> will empty the banks if 
-               needed predominates. They do not want to lend money to <rs type="place"><ref source="place014">Russia</ref></rs>. 
+               Particularly the <placeName><ref source="place095">USA</ref></placeName> is supporting <placeName><ref source="place019">Japan</ref></placeName>. They are collecting donations for <placeName><ref source="place019">Japan</ref></placeName> and are claiming to have 
+               already amassed over 25 million crowns. American <hi rend="italic">Jews</hi> are  buying a battleship at their own expense, equipping it with a military troop and cannons and then gift it to <placeName><ref source="place019">Japan</ref></placeName>. Money has already 
+               been collected previously; Russian stock has plummeted immensely. Even the Russian citizens are constantly anxious. The money from bank accounts are being withdrawn as the fear that <placeName><ref source="place014">Russia</ref></placeName> will empty the banks if 
+               needed predominates. They do not want to lend money to <placeName><ref source="place014">Russia</ref></placeName>. 
             </p>
             <p>
                Following news stories are being reported about the war’s process:
             </p>
             <p>
-               After the first defeat at sea, <rs type="place"><ref source="place014">Russia</ref></rs> experienced further significant losses. Particularly pivotal was the battle by the harbour of <rs type="place"><ref source="place085">Chemulpo</ref></rs>. 
-               <rs type="place"><ref source="place019">Japan</ref></rs> annihilated the entire Russian armament in the harbour there and sent over 20,000 soldiers on land.  As <rs type="place"><ref source="place085">Chemulpo</ref></rs> is only a few hours 
-               from the Korean capital <rs type="place"><hi rend="italic"><ref source="place071">Seoul</ref></hi></rs> away, <rs type="place"><ref source="place019">Japan</ref></rs> has already occupied it as well. <rs type="place"><ref source="place019">Japan</ref></rs> 
-               is already in control of all of <rs type="place"><ref source="place022">Korea</ref></rs>. 
+               After the first defeat at sea, <placeName><ref source="place014">Russia</ref></placeName> experienced further significant losses. Particularly pivotal was the battle by the harbour of <placeName><ref source="place085">Chemulpo</ref></placeName>. 
+               <placeName><ref source="place019">Japan</ref></placeName> annihilated the entire Russian armament in the harbour there and sent over 20,000 soldiers on land.  As <placeName><ref source="place085">Chemulpo</ref></placeName> is only a few hours 
+               from the Korean capital <placeName><hi rend="italic"><ref source="place071">Seoul</ref></hi></placeName> away, <placeName><ref source="place019">Japan</ref></placeName> has already occupied it as well. <placeName><ref source="place019">Japan</ref></placeName> 
+               is already in control of all of <placeName><ref source="place022">Korea</ref></placeName>. 
             </p>
             <p>
-               As <rs type="place"><ref source="place019">Japan</ref></rs> has already occupied <rs type="place"><ref source="place085">Chempulo</ref></rs>, they have fully opened the way through <rs type="place"><ref source="place022">Korea</ref></rs> 
+               As <placeName><ref source="place019">Japan</ref></placeName> has already occupied <placeName><ref source="place085">Chempulo</ref></placeName>, they have fully opened the way through <placeName><ref source="place022">Korea</ref></placeName> 
                and are able to deposit all of their military there. In a short space of time, they have already 100,000 men there and are able to go into battle with the Russian army on land.
             </p>
             <p>
-               In the meantime, <rs type="place"><ref source="place019">Japan</ref></rs> has also attacked the Russian battleships in <rs type="place"><ref source="place082">Vladivostok</ref></rs> and destroyed most of them. They have fired at the most important harbour - 
-               <rs type="place"><ref source="place083">Port Arthur</ref></rs> - as well and damaged the stronghold as well as wrecked most of the city. Various news outlets claim that the Japanese have also settled an army there leading to <rs type="place"><ref source="place019">Japan</ref></rs> 
-               having occupied most of <rs type="place"><ref source="place028">Manchuria</ref></rs> and want to attack the Russian military from both sides.  
+               In the meantime, <placeName><ref source="place019">Japan</ref></placeName> has also attacked the Russian battleships in <placeName><ref source="place082">Vladivostok</ref></placeName> and destroyed most of them. They have fired at the most important harbour - 
+               <placeName><ref source="place083">Port Arthur</ref></placeName> - as well and damaged the stronghold as well as wrecked most of the city. Various news outlets claim that the Japanese have also settled an army there leading to <placeName><ref source="place019">Japan</ref></placeName> 
+               having occupied most of <placeName><ref source="place028">Manchuria</ref></placeName> and want to attack the Russian military from both sides.  
             </p>
             <p>
                The most important Japanese victory is the destruction of the Manchurian train tracks. The connection between the Russian military is therefore cut off. One part has no idea what is happening with another fraction which is hugely important in a war. - Whether the Japanese military, 
-               Japanese spies or the Chinese destroyed it is not known. In any case, these reports show how nifty <rs type="place"><ref source="place019">Japan</ref></rs> is doing and planning their actions and know what they want.
+               Japanese spies or the Chinese destroyed it is not known. In any case, these reports show how nifty <placeName><ref source="place019">Japan</ref></placeName> is doing and planning their actions and know what they want.
             </p>
             <p>
-               An important query is how <hi rend="italic"><rs type="place"><ref source="place021">China</ref></rs></hi> is reacting to the war. <hi rend="italic"><rs type="place"><ref source="place022">Korea</ref></rs></hi> has completely switched over to 
-               <rs type="place"><ref source="place019">Japan</ref></rs>. If <rs type="place"><ref source="place021">China</ref></rs> will also support <rs type="place"><ref source="place019">Japan</ref></rs>, <rs type="place"><ref source="place014">Russia</ref></rs> 
-               will not have any chance. The forces want <rs type="place"><ref source="place021">China</ref></rs> to be “neutral”, as impartial - meaning no one should involve <rs type="place"><ref source="place021">China</ref></rs> in this war as a World War could 
-               break out then because every state has claims in <rs type="place"><ref source="place021">China</ref></rs>. However, it seems that <rs type="place"><ref source="place021">China</ref></rs> will be supporting <rs type="place"><ref source="place019">Japan</ref></rs> 
-               if <rs type="place"><ref source="place019">Japan</ref></rs> emerges victorious. They want to get even with <rs type="place"><ref source="place014">Russia</ref></rs> that way as <rs type="place"><ref source="place014">Russia</ref></rs> has intensely persecuted the Chinese. 
+               An important query is how <hi rend="italic"><placeName><ref source="place021">China</ref></placeName></hi> is reacting to the war. <hi rend="italic"><placeName><ref source="place022">Korea</ref></placeName></hi> has completely switched over to 
+               <placeName><ref source="place019">Japan</ref></placeName>. If <placeName><ref source="place021">China</ref></placeName> will also support <placeName><ref source="place019">Japan</ref></placeName>, <placeName><ref source="place014">Russia</ref></placeName> 
+               will not have any chance. The forces want <placeName><ref source="place021">China</ref></placeName> to be “neutral”, as impartial - meaning no one should involve <placeName><ref source="place021">China</ref></placeName> in this war as a World War could 
+               break out then because every state has claims in <placeName><ref source="place021">China</ref></placeName>. However, it seems that <placeName><ref source="place021">China</ref></placeName> will be supporting <placeName><ref source="place019">Japan</ref></placeName> 
+               if <placeName><ref source="place019">Japan</ref></placeName> emerges victorious. They want to get even with <placeName><ref source="place014">Russia</ref></placeName> that way as <placeName><ref source="place014">Russia</ref></placeName> has intensely persecuted the Chinese. 
             </p><pb/>
             <fw>- 5 -</fw>
             <p>
@@ -323,62 +323,62 @@
                Russian papers are spreading the news that the Japanese military had encountered the Russian one a couple of times already. The Cossacks would have demolished the Japanese each time. But as everyone knows, the Russian reports are lying; nobody believes them.
             </p>
             <p>
-               Meanwhile, <rs type="place"><ref source="place014">Russia</ref></rs> is mobilising their army in its entirety. Every third soldier of every regiment is being sent to the battle zone. Russian citizens living abroad who are liable to military service are being called back. 
-               Of course, most do not want to go. Several soldiers have also deserted the military and fled over the borders because they do not want to participate in the war. It is understood that <rs type="place"><ref source="place014">Russia</ref></rs> can lose their corps as they 
+               Meanwhile, <placeName><ref source="place014">Russia</ref></placeName> is mobilising their army in its entirety. Every third soldier of every regiment is being sent to the battle zone. Russian citizens living abroad who are liable to military service are being called back. 
+               Of course, most do not want to go. Several soldiers have also deserted the military and fled over the borders because they do not want to participate in the war. It is understood that <placeName><ref source="place014">Russia</ref></placeName> can lose their corps as they 
                are losing their will to fight.
             </p>
             <p>
-               On the contrary, the Japanese enthusiasm for the war is high. Every imperial prince was on the battleships which bombed <ref source="place083"><rs type="place">Port Arthur</rs></ref> and nobody was harmed. Even the <rs type="person"><ref source="person052">Japanese emperor</ref></rs> wants to 
+               On the contrary, the Japanese enthusiasm for the war is high. Every imperial prince was on the battleships which bombed <ref source="place083"><placeName>Port Arthur</placeName></ref> and nobody was harmed. Even the <persName><ref source="person052">Japanese emperor</ref></persName> wants to 
                join the battle which no emperor before has done.
             </p>
          </div>
          <div n="6">
-            <head>Threat of war on the <rs type="place"><ref source="place077">Balkans</ref></rs>.</head> 
+            <head>Threat of war on the <placeName><ref source="place077">Balkans</ref></placeName>.</head> 
             <p>
-               According to the latest reports from <rs type="place"><ref source="place007">Vienna</ref></rs> and <rs type="place"><ref source="place117">Constantinople</ref></rs>, the war between <rs type="place"><ref source="place075">Turkey</ref></rs> and 
-               <rs type="place"><ref source="place112">Bulgaria</ref></rs> can break out any moment. Rumours originating from the Viennese stock market say that <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> has already started mobilising the 
-               military to occupy <rs type="place"><ref source="place081">Macedonia</ref></rs>. In <rs type="place"><ref source="place107">Rome</ref></rs> and <rs type="place"><ref source="place011">England</ref></rs> as well, people are also talking about a war 
+               According to the latest reports from <placeName><ref source="place007">Vienna</ref></placeName> and <placeName><ref source="place117">Constantinople</ref></placeName>, the war between <placeName><ref source="place075">Turkey</ref></placeName> and 
+               <placeName><ref source="place112">Bulgaria</ref></placeName> can break out any moment. Rumours originating from the Viennese stock market say that <placeName><ref source="place001">Austria-Hungary</ref></placeName> has already started mobilising the 
+               military to occupy <placeName><ref source="place081">Macedonia</ref></placeName>. In <placeName><ref source="place107">Rome</ref></placeName> and <placeName><ref source="place011">England</ref></placeName> as well, people are also talking about a war 
                breaking out soon.
             </p>
             <p>
-               Whether or not these reports are sincere cannot be answered yet. Fact is, the reforms which were hoped to be introduced in <rs type="place"><ref source="place081">Macedonia</ref></rs> were not introduced. Macedonians are not happy with those reformation, 
-               the improvements are <hi rend="italic">not enough</hi>. For Albanians (a savage Turkish tribe living in <rs type="place"><ref source="place081">Macedonia</ref></rs>) the reforms are too <hi rend="italic">much</hi>. They claim that the Turkish government 
-               indulges the revolutionaries way too much. And because they are aware that <rs type="place"><ref source="place075">Turkey</ref></rs> has to give in because of the forces who demand the reforms they want take matters into their own hands. They are attacking 
-               the Macedonians; they steal, murder, and plunder as much as they are able to. The whole winter it has been silent. But now as it is becoming warmer in <rs type="place"><ref source="place081">Macedonia</ref></rs> and the snow is starting to melt, Albanians 
-               are also getting started again. Several places report pillaging against Macedonians. Of course, they also do not want to keep silent. <rs type="place"><ref source="place112">Bulgaria</ref></rs> wants to intervene and <rs type="place"><ref source="place075">Turkey</ref></rs>, 
-               which is not afraid of <rs type="place"><ref source="place014">Russia</ref></rs> anymore as they are entangled in the war with <rs type="place"><ref source="place019">Japan</ref></rs>, wants to utilise this opportunity: They want to attack 
-               <rs type="place"><ref source="place112">Bulgaria</ref></rs> and teach them a lesson not to start wars. Via a war which <rs type="place"><ref source="place075">Turkey</ref></rs> would likely win they would be able to <cb/>get the Macedonian question off 
-               their mind. Bulgarians are aware of their dark end and want to stop scampering. The war perils in <rs type="place"><ref source="place075">Turkey</ref></rs> are high and <rs type="place"><ref source="place025">Austria</ref></rs> will be involved in the 
-               war without a doubt. <rs type="place"><ref source="place025">Austria</ref></rs> will not be able to just watch from afar what happens on the <rs type="place"><ref source="place077">Balkans</ref></rs> - being significantly interested there - and the 
+               Whether or not these reports are sincere cannot be answered yet. Fact is, the reforms which were hoped to be introduced in <placeName><ref source="place081">Macedonia</ref></placeName> were not introduced. Macedonians are not happy with those reformation, 
+               the improvements are <hi rend="italic">not enough</hi>. For Albanians (a savage Turkish tribe living in <placeName><ref source="place081">Macedonia</ref></placeName>) the reforms are too <hi rend="italic">much</hi>. They claim that the Turkish government 
+               indulges the revolutionaries way too much. And because they are aware that <placeName><ref source="place075">Turkey</ref></placeName> has to give in because of the forces who demand the reforms they want take matters into their own hands. They are attacking 
+               the Macedonians; they steal, murder, and plunder as much as they are able to. The whole winter it has been silent. But now as it is becoming warmer in <placeName><ref source="place081">Macedonia</ref></placeName> and the snow is starting to melt, Albanians 
+               are also getting started again. Several places report pillaging against Macedonians. Of course, they also do not want to keep silent. <placeName><ref source="place112">Bulgaria</ref></placeName> wants to intervene and <placeName><ref source="place075">Turkey</ref></placeName>, 
+               which is not afraid of <placeName><ref source="place014">Russia</ref></placeName> anymore as they are entangled in the war with <placeName><ref source="place019">Japan</ref></placeName>, wants to utilise this opportunity: They want to attack 
+               <placeName><ref source="place112">Bulgaria</ref></placeName> and teach them a lesson not to start wars. Via a war which <placeName><ref source="place075">Turkey</ref></placeName> would likely win they would be able to <cb/>get the Macedonian question off 
+               their mind. Bulgarians are aware of their dark end and want to stop scampering. The war perils in <placeName><ref source="place075">Turkey</ref></placeName> are high and <placeName><ref source="place025">Austria</ref></placeName> will be involved in the 
+               war without a doubt. <placeName><ref source="place025">Austria</ref></placeName> will not be able to just watch from afar what happens on the <placeName><ref source="place077">Balkans</ref></placeName> - being significantly interested there - and the 
                circumstances being changed because of war. 
             </p> 
          </div>
          <div n="7">
-            <head>Perils of war between <rs type="place"><ref source="place014">Russia</ref></rs> and <rs type="place"><ref source="place011">England</ref></rs>.</head>
+            <head>Perils of war between <placeName><ref source="place014">Russia</ref></placeName> and <placeName><ref source="place011">England</ref></placeName>.</head>
             <p>
-               Since the start of the war between <rs type="place"><ref source="place014">Russia</ref></rs> and <rs type="place"><ref source="place019">Japan</ref></rs> it has been an open secret that <rs type="place"><ref source="place019">Japan</ref></rs> is supported by 
-               <rs type="place"><ref source="place011">England</ref></rs> and the <rs type="place"><ref source="place094">USA</ref></rs>. <rs type="place"><ref source="place014">Russia</ref></rs> gnashed their teeth, but had to keep silent. Once they win the war against 
-               <rs type="place"><ref source="place019">Japan</ref></rs>, they will settle the score with <rs type="place"><ref source="place011">England</ref></rs> and the <rs type="place"><ref source="place094">USA</ref></rs>. This hope has been crushed. 
-               <rs type="place"><ref source="place014">Russia</ref></rs> has been demolished at sea and there is no real chance to win on land. Therefore, a dangerous scheme was contrived. They realised that <rs type="place"><ref source="place019">Japan</ref></rs> is more 
-               powerful and therefore <rs type="place"><ref source="place014">Russia</ref></rs> wants to take revenge on <rs type="place"><ref source="place011">England</ref></rs> now, which is not that strong in <rs type="place"><ref source="place024">Asia</ref></rs>.
+               Since the start of the war between <placeName><ref source="place014">Russia</ref></placeName> and <placeName><ref source="place019">Japan</ref></placeName> it has been an open secret that <placeName><ref source="place019">Japan</ref></placeName> is supported by 
+               <placeName><ref source="place011">England</ref></placeName> and the <placeName><ref source="place094">USA</ref></placeName>. <placeName><ref source="place014">Russia</ref></placeName> gnashed their teeth, but had to keep silent. Once they win the war against 
+               <placeName><ref source="place019">Japan</ref></placeName>, they will settle the score with <placeName><ref source="place011">England</ref></placeName> and the <placeName><ref source="place094">USA</ref></placeName>. This hope has been crushed. 
+               <placeName><ref source="place014">Russia</ref></placeName> has been demolished at sea and there is no real chance to win on land. Therefore, a dangerous scheme was contrived. They realised that <placeName><ref source="place019">Japan</ref></placeName> is more 
+               powerful and therefore <placeName><ref source="place014">Russia</ref></placeName> wants to take revenge on <placeName><ref source="place011">England</ref></placeName> now, which is not that strong in <placeName><ref source="place024">Asia</ref></placeName>.
             </p>
             <p>
-               The newest telegrams report that the <rs type="person"><ref source="person042">Tsar</ref></rs> ordered to <hi rend="italic">mobilise the military in <rs type="place"><ref source="place103">Turkestan</ref></rs> in <rs type="place"><ref source="place024">Asia</ref></rs> 
-                  which is bordering the English in <rs type="place"><ref source="place119">India</ref></rs></hi>. Between <rs type="place"><ref source="place014">Russia</ref></rs> and <rs type="place"><ref source="place120">British-India</ref></rs> is a small country called 
-               <rs type="place"><hi rend="italic"><ref source="place121">Afghanistan</ref></hi></rs> which plays the same role as <rs type="place"><ref source="place022">Korea</ref></rs> between <rs type="place"><ref source="place019">Japan</ref></rs> and 
-               <rs type="place"><ref source="place014">Russia</ref></rs>. The <rs type="person"><ref source="person225">Afghan ruler</ref></rs> is weak and lazy. He is supposed to shape politics on his own, but is at some times reigned by 
-               <rs type="place"><ref source="place014">Russia</ref></rs> and at other times reigned by <rs type="place"><ref source="place011">England</ref></rs>. Lately, <rs type="place"><ref source="place011">England</ref></rs> let their military march into 
-               <rs type="place"><hi rend="italic"><ref source="place122">Tibet</ref></hi></rs> which is also situated between <rs type="place"><ref source="place014">Russia</ref></rs> and <rs type="place"><ref source="place120">British India</ref></rs> and 
-               <rs type="place"><ref source="place014">Russia</ref></rs> is not at all happy about that. <rs type="place"><ref source="place014">Russia</ref></rs> is using this opportunity to demand <rs type="place"><ref source="place011">England</ref></rs> 
-               to withdraw from <rs type="place"><ref source="place122">Tibet</ref></rs>. If that does not happen, <rs type="place"><ref source="place014">Russia</ref></rs> will march into <rs type="place"><ref source="place119">India</ref></rs> via 
-               <rs type="place"><ref source="place121">Afghanistan</ref></rs>. <rs type="place"><ref source="place014">Russia</ref></rs> hopes <rs type="place"><ref source="place011">England</ref></rs> will recoil from this threat because little military is 
-               stationed in <rs type="place"><ref source="place119">India</ref></rs> and withdraw from <rs type="place"><ref source="place122">Tibet</ref></rs>. If that does not happen, <rs type="place"><ref source="place014">Russia</ref></rs> will start a 
-               war and will win it and therefore erase the shame resulting from the war with <rs type="place"><ref source="place019">Japan</ref></rs>.
+               The newest telegrams report that the <persName><ref source="person042">Tsar</ref></persName> ordered to <hi rend="italic">mobilise the military in <placeName><ref source="place103">Turkestan</ref></placeName> in <placeName><ref source="place024">Asia</ref></placeName> 
+                  which is bordering the English in <placeName><ref source="place119">India</ref></placeName></hi>. Between <placeName><ref source="place014">Russia</ref></placeName> and <placeName><ref source="place120">British-India</ref></placeName> is a small country called 
+               <placeName><hi rend="italic"><ref source="place121">Afghanistan</ref></hi></placeName> which plays the same role as <placeName><ref source="place022">Korea</ref></placeName> between <placeName><ref source="place019">Japan</ref></placeName> and 
+               <placeName><ref source="place014">Russia</ref></placeName>. The <persName><ref source="person225">Afghan ruler</ref></persName> is weak and lazy. He is supposed to shape politics on his own, but is at some times reigned by 
+               <placeName><ref source="place014">Russia</ref></placeName> and at other times reigned by <placeName><ref source="place011">England</ref></placeName>. Lately, <placeName><ref source="place011">England</ref></placeName> let their military march into 
+               <placeName><hi rend="italic"><ref source="place122">Tibet</ref></hi></placeName> which is also situated between <placeName><ref source="place014">Russia</ref></placeName> and <placeName><ref source="place120">British India</ref></placeName> and 
+               <placeName><ref source="place014">Russia</ref></placeName> is not at all happy about that. <placeName><ref source="place014">Russia</ref></placeName> is using this opportunity to demand <placeName><ref source="place011">England</ref></placeName> 
+               to withdraw from <placeName><ref source="place122">Tibet</ref></placeName>. If that does not happen, <placeName><ref source="place014">Russia</ref></placeName> will march into <placeName><ref source="place119">India</ref></placeName> via 
+               <placeName><ref source="place121">Afghanistan</ref></placeName>. <placeName><ref source="place014">Russia</ref></placeName> hopes <placeName><ref source="place011">England</ref></placeName> will recoil from this threat because little military is 
+               stationed in <placeName><ref source="place119">India</ref></placeName> and withdraw from <placeName><ref source="place122">Tibet</ref></placeName>. If that does not happen, <placeName><ref source="place014">Russia</ref></placeName> will start a 
+               war and will win it and therefore erase the shame resulting from the war with <placeName><ref source="place019">Japan</ref></placeName>.
             </p>
             <p>
-               However, it seems <rs type="place"><ref source="place014">Russia</ref></rs> is making a big mistake. It might be true that <rs type="place"><ref source="place011">England</ref></rs> is weaker than <rs type="place"><ref source="place014">Russia</ref></rs> 
-               on land, but how realistic is it that the war will only be waged on land? <rs type="place"><ref source="place011">England</ref></rs> will surely retaliate on water and will destroy the Russian battleships in other Russian harbours who have survived 
-               the Japanese attacks. “If God wants to ruin someone, he takes away his mind”. - This idiom seems to materialise in <rs type="place"><ref source="place014">Russia</ref></rs>. This is the beginning of the end for <rs type="place"><ref source="place014">Russia</ref></rs>. 
+               However, it seems <placeName><ref source="place014">Russia</ref></placeName> is making a big mistake. It might be true that <placeName><ref source="place011">England</ref></placeName> is weaker than <placeName><ref source="place014">Russia</ref></placeName> 
+               on land, but how realistic is it that the war will only be waged on land? <placeName><ref source="place011">England</ref></placeName> will surely retaliate on water and will destroy the Russian battleships in other Russian harbours who have survived 
+               the Japanese attacks. “If God wants to ruin someone, he takes away his mind”. - This idiom seems to materialise in <placeName><ref source="place014">Russia</ref></placeName>. This is the beginning of the end for <placeName><ref source="place014">Russia</ref></placeName>. 
                "His hand is in everything and everyone's hand is in Him".
             </p>
          </div><pb/>
@@ -391,75 +391,75 @@
                Jewish News.
             </head>
             <p>
-               (<rs type="place"><ref source="place019">Japan</ref></rs>). Because of the war <rs type="place"><ref source="place019">Japan</ref></rs> is waging with <rs type="place"><ref source="place014">Russia</ref></rs>, the whole world is interested in 
-               <rs type="place"><ref source="place019">Japan</ref></rs> and whether Jews are living there. According to the latest reports around 100 Jews are living there. Twenty Jewish families live in the capital <rs type="place"><ref source="place086">Tokyo</ref></rs>. Several foreign 
-               merchants live in the capital of <rs type="place"><ref source="place092">Yokohama</ref></rs>, including some from <rs type="place"><hi rend="italic"><ref source="place002">Galicia</ref></hi></rs>. Only 60 years ago Jewish people immigrated to 
-               <rs type="place"><ref source="place019">Japan</ref></rs> because before then they were not allowed to. In <rs type="place"><ref source="place019">Japan</ref></rs>, there is freedom of religion and Jews are equal with every citizen in the country. - 
-               Few Jews live in <rs type="place"><ref source="place022">Korea</ref></rs>, the country <rs type="place"><ref source="place019">Japan</ref></rs> is waging war against <rs type="place"><ref source="place014">Russia</ref></rs> for. A few years ago a 
-               Jew operated a European restaurant in the capital <rs type="place"><ref source="place071">Seoul</ref></rs>; it is not known whether he still lives there. 
+               (<placeName><ref source="place019">Japan</ref></placeName>). Because of the war <placeName><ref source="place019">Japan</ref></placeName> is waging with <placeName><ref source="place014">Russia</ref></placeName>, the whole world is interested in 
+               <placeName><ref source="place019">Japan</ref></placeName> and whether Jews are living there. According to the latest reports around 100 Jews are living there. Twenty Jewish families live in the capital <placeName><ref source="place086">Tokyo</ref></placeName>. Several foreign 
+               merchants live in the capital of <placeName><ref source="place092">Yokohama</ref></placeName>, including some from <placeName><hi rend="italic"><ref source="place002">Galicia</ref></hi></placeName>. Only 60 years ago Jewish people immigrated to 
+               <placeName><ref source="place019">Japan</ref></placeName> because before then they were not allowed to. In <placeName><ref source="place019">Japan</ref></placeName>, there is freedom of religion and Jews are equal with every citizen in the country. - 
+               Few Jews live in <placeName><ref source="place022">Korea</ref></placeName>, the country <placeName><ref source="place019">Japan</ref></placeName> is waging war against <placeName><ref source="place014">Russia</ref></placeName> for. A few years ago a 
+               Jew operated a European restaurant in the capital <placeName><ref source="place071">Seoul</ref></placeName>; it is not known whether he still lives there. 
             </p>
             <p>
-               (<rs type="place"><ref source="place030">Budapest</ref></rs>). In <date when="1903-12">December 1903</date>, 453 interfaith marriages (meaning a marriage between a Jewish groom and a Christian bride or the other way around) took place. Those mixed 
+               (<placeName><ref source="place030">Budapest</ref></placeName>). In <date when="1903-12">December 1903</date>, 453 interfaith marriages (meaning a marriage between a Jewish groom and a Christian bride or the other way around) took place. Those mixed 
                marriages increase constantly and the children who result from them are mostly raised Christian, those are the results of the assimilation (adapting to Christian customs and culture). -
-               <lb/>The Jew <rs type="person"><ref source="person058">Elijah Hift</ref></rs> in <rs type="place"><ref source="place123">Berehove</ref></rs> inherited 300 million. His relative <rs type="person"><ref source="person057">William Leidesdorff</ref></rs> 
-               immigrated to the <rs type="place"><ref source="place094">USA</ref></rs> 80 years ago and died in <date when="1848">1848</date> in <rs type="place"><ref source="place125">San Francisco</ref></rs>. He left a fortune of 700,000 dollars which was 
+               <lb/>The Jew <persName><ref source="person058">Elijah Hift</ref></persName> in <placeName><ref source="place123">Berehove</ref></placeName> inherited 300 million. His relative <persName><ref source="person057">William Leidesdorff</ref></persName> 
+               immigrated to the <placeName><ref source="place094">USA</ref></placeName> 80 years ago and died in <date when="1848">1848</date> in <placeName><ref source="place125">San Francisco</ref></placeName>. He left a fortune of 700,000 dollars which was 
                deposited in the treasury until now and amassed to 300 million. Now an heir has been found who is receiving the money.
             </p>
             <p>
-               (<rs type="place"><ref source="place018">St Petersburg</ref></rs>). While consulting whether Jewish people should be allowed to live everywhere in <rs type="place"><ref source="place014">Russia</ref></rs> (which we have reported on in No. 1), three 
+               (<placeName><ref source="place018">St Petersburg</ref></placeName>). While consulting whether Jewish people should be allowed to live everywhere in <placeName><ref source="place014">Russia</ref></placeName> (which we have reported on in No. 1), three 
                provincial governments were <hi rend="tialic">against</hi> it and four agreed to it. Because of the current war, this topic will be postponed, who knows how long.
             </p>
             <p>
-               (<rs type="place"><ref source="place033">Warsaw</ref></rs>). In a small town in the <rs type="place"><ref source="place126">Płock</ref></rs> province, farmers wanted to destroy the <ref source="https://www.wikidata.org/wiki/Q1362588">Eruv</ref> 
+               (<placeName><ref source="place033">Warsaw</ref></placeName>). In a small town in the <placeName><ref source="place126">Płock</ref></placeName> province, farmers wanted to destroy the <ref source="https://www.wikidata.org/wiki/Q1362588">Eruv</ref> 
                which Jewish people built to spend Shabbat there. Jewish people there stood in the farmers’ way and some were beaten. Therefore, the Jews filed a suit but the judges wanted to release the farmers which led to a protest. Nobody was invited to speak 
                and in the end the farmers were exculpated. The Jewish lawyer wanted to object, but the court told him to wait until the verdict was sent to him. After some weeks the lawyer still has not received the verdict and turned to the court. The court told him that the 
                verdict has long been spoken already and filed and it is therefore too late to appeal. The lawyer then handed in an appeal to the senate. We are very curious whether we can count on a Russian court but currently duplicity and 
                antisemitism dominates the courts. 
             </p>
             <p>
-               (<rs type="place"><ref source="place035">Bucharest</ref></rs>). The Jewish emigration from <rs type="place"><ref source="place124">Romania</ref></rs> increased in the past year. Two to three years ago <cb/>emigration was very high. One year ago it subsided a bit. Then <date when="1903">1903</date>, 
-               again 8011 Jews emigrated from <rs type="place"><ref source="place068">Romania</ref></rs>. 
+               (<placeName><ref source="place035">Bucharest</ref></placeName>). The Jewish emigration from <placeName><ref source="place124">Romania</ref></placeName> increased in the past year. Two to three years ago <cb/>emigration was very high. One year ago it subsided a bit. Then <date when="1903">1903</date>, 
+               again 8011 Jews emigrated from <placeName><ref source="place068">Romania</ref></placeName>. 
             </p>
             <p>
-               (<rs type="place"><ref source="place011">England</ref></rs>). Antisemitism in <rs type="place"><ref source="place011">England</ref></rs> is rising again. From all sides persecution is reported on. But not only workers or mobs bear grudges against Jews, but 
-               higher classes now as well. For a long time already, people have appealed to the government to create a law against immigration which would hamper Jewish people to immigrate to <rs type="place"><ref source="place011">England</ref></rs>. The government did not 
-               want to introduce such a law, because a free country like <rs type="place"><ref source="place011">England</ref></rs> does not want to exhibit antisemitism. - However, the government gave in now. A law was presented in parliament according to which every foreigner 
-               who wants to settle in <rs type="place"><ref source="place011">England</ref></rs> needs to possess a passport and a <hi rend="italic"><foreign xml:lang="de">Moralitätszeugnis</foreign></hi> - a testimonial for moral behaviour. The following three years they are then under supervision of the 
+               (<placeName><ref source="place011">England</ref></placeName>). Antisemitism in <placeName><ref source="place011">England</ref></placeName> is rising again. From all sides persecution is reported on. But not only workers or mobs bear grudges against Jews, but 
+               higher classes now as well. For a long time already, people have appealed to the government to create a law against immigration which would hamper Jewish people to immigrate to <placeName><ref source="place011">England</ref></placeName>. The government did not 
+               want to introduce such a law, because a free country like <placeName><ref source="place011">England</ref></placeName> does not want to exhibit antisemitism. - However, the government gave in now. A law was presented in parliament according to which every foreigner 
+               who wants to settle in <placeName><ref source="place011">England</ref></placeName> needs to possess a passport and a <hi rend="italic"><foreign xml:lang="de">Moralitätszeugnis</foreign></hi> - a testimonial for moral behaviour. The following three years they are then under supervision of the 
                police which should immediately deport if any wrongdoings take place. Only after five years are they able to become a citizen. The government can also decide on one place where immigrants should live together. - All of these clauses are directed 
                against Jewish people. Unfortunate Jews are persecuted like this in the whole world.
             </p>
             <p>
-               (<rs type="place"><ref source="place127">Chernivtsi</ref></rs>). The delegates from every Jewish community assembled last week in <rs type="place"><ref source="place128">Bukovina</ref></rs>. They decided to form a Jewish <hi rend="italic">Community Association</hi>, which should 
+               (<placeName><ref source="place127">Chernivtsi</ref></placeName>). The delegates from every Jewish community assembled last week in <placeName><ref source="place128">Bukovina</ref></placeName>. They decided to form a Jewish <hi rend="italic">Community Association</hi>, which should 
                <hi rend="italic">not</hi> care about matters regarding religion and faith, such as rabbis, ritual slaughters, sleeping houses and such. 
             </p>
          </div>
          <div n="9">
-            <head>Jewish persecution in <rs type="place"><ref source="place129">Morocco</ref></rs></head>
+            <head>Jewish persecution in <placeName><ref source="place129">Morocco</ref></placeName></head>
             <p>
-               New details to the horrible persecution against Jews in <rs type="place"><ref source="place129">Morocco</ref></rs>, which we have reported on in No. 2 have been reported on. On <date when="1904-12-17">December 17th</date>, a horrible disaster befell the Jewish 
-               community in <rs type="place"><ref source="place098">Settat</ref></rs>. The Jewish community, about 7,500 souls, mostly artisans and peddlers fell into misery after a sudden attack. The Jewish people were praying in the synagogue when a heap of 
+               New details to the horrible persecution against Jews in <placeName><ref source="place129">Morocco</ref></placeName>, which we have reported on in No. 2 have been reported on. On <date when="1904-12-17">December 17th</date>, a horrible disaster befell the Jewish 
+               community in <placeName><ref source="place098">Settat</ref></placeName>. The Jewish community, about 7,500 souls, mostly artisans and peddlers fell into misery after a sudden attack. The Jewish people were praying in the synagogue when a heap of 
                “<ref source="https://www.wikidata.org/wiki/Q648255">Kabyle people</ref>” (wild Arabs) came riding on horses and destroyed the Jewish quarters. They plundered and demolished whatever they could and took several women and children captive. Two Jews have been trampled 
                to death, children and women have been horribly beaten and tormented. Caretakers and their children have been ripped out of their beds and been thrown onto the streets. Over 200 houses have been destroyed. Bread and other foods have been stolen almost everywhere. 
                The unlucky Jews have fled into all directions; nobody knew where the other one was. Some families found each other only after weeks. The Arabs demand huge ransom for their prisoners. The Arab-family “Oled Harim” showed themselves to be benevolent. They 
-               took in many eloping Jews in their homes. One of them rode out with several families to bring back to the city those who were wandering around. - A big part of the fleeing ones, 700 individuals, fled to <rs type="place"><ref source="place130">Casablanca</ref></rs>. -
+               took in many eloping Jews in their homes. One of them rode out with several families to bring back to the city those who were wandering around. - A big part of the fleeing ones, 700 individuals, fled to <placeName><ref source="place130">Casablanca</ref></placeName>. -
             </p><pb/>
             <fw>- 7 -</fw>
             <p>
-               In the city <rs type="place"><ref source="place131">Marrakech</ref></rs>, where 14,000 Jews reside, persecution has been reported as well.
+               In the city <placeName><ref source="place131">Marrakech</ref></placeName>, where 14,000 Jews reside, persecution has been reported as well.
             </p>
          </div>
          <div n="10">
             <head>Feuilleton</head>
             <head type="h2">
-               <rs type="person"><ref source="person046">Rabbi Meir</ref></rs> of <rs type="place"><ref source="place099">Rothenburg</ref></rs>.
+               <persName><ref source="person046">Rabbi Meir</ref></persName> of <placeName><ref source="place099">Rothenburg</ref></placeName>.
             </head>
             <head type="h3">
                (A historical retelling).
                <lb/>b.
             </head>
             <p>
-               <rs type="person"><ref source="person046">Rabbi Meir</ref></rs> and his student <rs type="person"><ref source="person059">Asher</ref></rs> went out of the room and into the guest room where several of the rabbi’s students and homeowners were waiting, because 
-               <rs type="person"><ref source="person046">Rabbi Meir</ref></rs> usually does not stroll through the city alone, but his student and homeowners accompany him.
+               <persName><ref source="person046">Rabbi Meir</ref></persName> and his student <persName><ref source="person059">Asher</ref></persName> went out of the room and into the guest room where several of the rabbi’s students and homeowners were waiting, because 
+               <persName><ref source="person046">Rabbi Meir</ref></persName> usually does not stroll through the city alone, but his student and homeowners accompany him.
             </p>
             <p>
                Back then, the rabbi used to have a lot of power and influence on their communities, the governments supporting them. Not only Jews, but also Christians used to come and whatever the rabbi’s judgement was, it was accepted. The rabbi could 
@@ -467,12 +467,12 @@
             </p>
             <p>
                Whenever the rabbi went through the city, he always had an attendant in uniform with a stick going in front of him. Behind him the rabbi and two students, one on each side, followed the attendant - on holidays, two assistants accompanied 
-               him as well - and at the back homeowners followed with big sticks as well as knives and spears under their clothes. In case they were to be attacked by a mob they could defend themselves. During the ruling of <rs type="person"><ref source="person076">Albert</ref></rs> 
-               it has been quiet in the country and there was no need to be afraid of the rubble, but it has been custom for his students to accompany the rabbi and it stayed like this. And so also this time, <rs type="person"><ref source="person042">Rabbi Meir</ref></rs> went to the monarch with company.
+               him as well - and at the back homeowners followed with big sticks as well as knives and spears under their clothes. In case they were to be attacked by a mob they could defend themselves. During the ruling of <persName><ref source="person076">Albert</ref></persName> 
+               it has been quiet in the country and there was no need to be afraid of the rubble, but it has been custom for his students to accompany the rabbi and it stayed like this. And so also this time, <persName><ref source="person042">Rabbi Meir</ref></persName> went to the monarch with company.
             </p>
             <p>
-               A courtier was waiting at the palace’s gate who had waited for <rs type="person"><ref source="person042">Meir</ref></rs> and greeted him with great respect. He led the entourage into an anteroom and the rabbi in a huge hall. 
-               <rs type="person"><ref source="person042">Meir</ref></rs> noticed immediately that the man led him another way than usual. As soon as they entered the room, the court official quickly left the rabbi alone. Suddenly, a door opened 
+               A courtier was waiting at the palace’s gate who had waited for <persName><ref source="person042">Meir</ref></persName> and greeted him with great respect. He led the entourage into an anteroom and the rabbi in a huge hall. 
+               <persName><ref source="person042">Meir</ref></persName> noticed immediately that the man led him another way than usual. As soon as they entered the room, the court official quickly left the rabbi alone. Suddenly, a door opened 
                and an unfamiliar man rapidly approached the rabbi asking him “Do you still remember me?”
             </p>   
             <p>
@@ -484,43 +484,43 @@
                the tables have turned for you to know what I can do”.
             </p>
             <p>
-               <rs type="person"><ref source="person054">Kneppe</ref></rs>’s words dug into <rs type="person"><ref source="person042">Meir</ref></rs>’s heart like arrows. But he kept calm and said “For God I may kneel and bow, God can do with me whatever He 
+               <persName><ref source="person054">Kneppe</ref></persName>’s words dug into <persName><ref source="person042">Meir</ref></persName>’s heart like arrows. But he kept calm and said “For God I may kneel and bow, God can do with me whatever He 
                wants. I stand before His judgement and <cb/>I receive His love. - But you? You who left me, your people, and your faith; I will neither bow nor kneel in front of you, even if you kill me. I am not afraid of you. Do you think I do not know how 
                you want to harm me and my people? I know exactly how you have risen like <ref source="https://www.wikidata.org/wiki/Q650680">Haman</ref> to destroy me and my people. But you should know that you are not the first one who has done so and has 
                become enemies with their father and mother, their brothers and the end of the villain was also their end. The world will erase you; your legacy will forever be lost. - I do not seek to curse you, only you and your depravity cause your curse, 
                which will follow you as long as your life".
             </p>
             <p>
-               <rs type="person"><ref source="person054">Kneppe</ref></rs> grinds his teeth angrily. His eyes turned red like fire and his appearance turned oddly wild. He yelled: “Just you wait, I will take vengeance on you and your people. I will drink your 
+               <persName><ref source="person054">Kneppe</ref></persName> grinds his teeth angrily. His eyes turned red like fire and his appearance turned oddly wild. He yelled: “Just you wait, I will take vengeance on you and your people. I will drink your 
                blood and will take out all of my evil heart on you. Now go wherever you want to. Your path leads you to death.”
             </p>
             <p>
-               <rs type="person"><ref source="person054">Kneppe</ref></rs> yelled and cursed a lot. The rabbi was ashamed to hear all of that, but he let him, and knocked on a door which led to the princely hall. The door opened, the clerk came in and Kempe quickly vanished.
+               <persName><ref source="person054">Kneppe</ref></persName> yelled and cursed a lot. The rabbi was ashamed to hear all of that, but he let him, and knocked on a door which led to the princely hall. The door opened, the clerk came in and Kempe quickly vanished.
             </p>
          </div>
          <div  n="11">
             <head>Statistical Reports.</head>
             <head type="h2">
-               Salt, beer and spirits - production in <rs type="place"><ref source="place006">Galicia</ref></rs>.
+               Salt, beer and spirits - production in <placeName><ref source="place006">Galicia</ref></placeName>.
             </head>
             <p>
-               In <rs type="place"><ref source="place006">Galicia</ref></rs>, in <date when="1903-12">December 1903</date>, 754 spirit distilleries produced 9,790,861 degrees. Namely, in the <rs type="place"><ref source="place132">Brody</ref></rs> oblast are 86 distilleries 
-               (production of 1,237,455 degrees), in the <rs type="place"><ref source="place169">Berezhany</ref></rs> oblast: 77 (1,006,600), <rs type="place"><ref source="place129">Chortkiv</ref></rs> oblast: 64 (1,006,500), <rs type="place"><ref source="place308">Jarosław</ref></rs> 
-               oblast: 30 (410,375), <rs type="place"><ref source="place149">Krakow</ref></rs> oblast: 49 (703,420), <rs type="place"><ref source="place002">Lviv</ref></rs> oblast: 37 (318,850), <rs type="place"><ref source="place029">Rzeszów</ref></rs> oblast: 48 (435,636), 
-               <rs type="place"><ref source="place309">Sambir</ref></rs> oblast: 27 (326,150), <rs type="place"><ref source="place310">Sanok</ref></rs> oblast: 28 (251,900), <rs type="place"><ref source="place311">Stanisławów</ref></rs> oblast: 43 (620,315), 
-               <rs type="place"><ref source="place312">Wadowice</ref></rs> oblast: 20 (143,740), <rs type="place"><ref source="place313">Gmina Żółkiewka</ref></rs>: 88 (1,180,520).
+               In <placeName><ref source="place006">Galicia</ref></placeName>, in <date when="1903-12">December 1903</date>, 754 spirit distilleries produced 9,790,861 degrees. Namely, in the <placeName><ref source="place132">Brody</ref></placeName> oblast are 86 distilleries 
+               (production of 1,237,455 degrees), in the <placeName><ref source="place169">Berezhany</ref></placeName> oblast: 77 (1,006,600), <placeName><ref source="place129">Chortkiv</ref></placeName> oblast: 64 (1,006,500), <placeName><ref source="place308">Jarosław</ref></placeName> 
+               oblast: 30 (410,375), <placeName><ref source="place149">Krakow</ref></placeName> oblast: 49 (703,420), <placeName><ref source="place002">Lviv</ref></placeName> oblast: 37 (318,850), <placeName><ref source="place029">Rzeszów</ref></placeName> oblast: 48 (435,636), 
+               <placeName><ref source="place309">Sambir</ref></placeName> oblast: 27 (326,150), <placeName><ref source="place310">Sanok</ref></placeName> oblast: 28 (251,900), <placeName><ref source="place311">Stanisławów</ref></placeName> oblast: 43 (620,315), 
+               <placeName><ref source="place312">Wadowice</ref></placeName> oblast: 20 (143,740), <placeName><ref source="place313">Gmina Żółkiewka</ref></placeName>: 88 (1,180,520).
             </p>
             <p>
-               In <rs type="place"><ref source="place006">Galicia</ref></rs>, in December 1903, 89 breweries produced 81,707 hectolitres of (beer). Namely, in the <rs type="place"><ref source="place132">Brody</ref></rs> oblast are 10 breweries (production of 6569), in the 
-               <rs type="place"><ref source="place169">Berezhany</ref></rs> oblast: 4 (1823), <rs type="place"><ref source="place129">Chortkiv</ref></rs> oblast: 3 (1087), <rs type="place"><ref source="place308">Jarosław</ref></rs> oblast: 30 (410,375), 
-               <rs type="place"><ref source="place148">Kolomyia</ref></rs> oblast: 4 (4348), <rs type="place"><ref source="place149">Krakow</ref></rs> oblast: 4 (1800), <rs type="place"><ref source="place002">Lviv</ref></rs> oblast: 5 (4672), 
-               <rs type="place"><ref source="place314">Nysa</ref></rs> oblast: 6 (3700), <rs type="place"><ref source="place168">Przemyśl</ref></rs> oblast: 3 (4272), <rs type="place"><ref source="place029">Rzeszów</ref></rs> oblast: 9 (4363), 
-               <rs type="place"><ref source="place309">Sambir</ref></rs> oblast: 5 (2296), <rs type="place"><ref source="place310">Sanok</ref></rs> oblast: 4 (4165), <rs type="place"><ref source="place311">Stanisławów</ref></rs> oblast: 7 (7196), 
-               <rs type="place"><ref source="place252">Ternopil</ref></rs> oblast: 10 (5083), <rs type="place"><ref source="place315">Ternova</ref></rs> oblast: 3 20,407) [sic; (2040)] <rs type="place"><ref source="place312">Wadowice</ref></rs> 
-               oblast: 7 (7196), <rs type="place"><ref source="place313">Gmina Żółkiewka</ref></rs> oblast: 2 (540), in the city <rs type="place"><ref source="place149">Krakow</ref></rs>: 2 (3040), in <rs type="place"><ref source="place002">Lviv</ref></rs>: 1 (9100).
+               In <placeName><ref source="place006">Galicia</ref></placeName>, in December 1903, 89 breweries produced 81,707 hectolitres of (beer). Namely, in the <placeName><ref source="place132">Brody</ref></placeName> oblast are 10 breweries (production of 6569), in the 
+               <placeName><ref source="place169">Berezhany</ref></placeName> oblast: 4 (1823), <placeName><ref source="place129">Chortkiv</ref></placeName> oblast: 3 (1087), <placeName><ref source="place308">Jarosław</ref></placeName> oblast: 30 (410,375), 
+               <placeName><ref source="place148">Kolomyia</ref></placeName> oblast: 4 (4348), <placeName><ref source="place149">Krakow</ref></placeName> oblast: 4 (1800), <placeName><ref source="place002">Lviv</ref></placeName> oblast: 5 (4672), 
+               <placeName><ref source="place314">Nysa</ref></placeName> oblast: 6 (3700), <placeName><ref source="place168">Przemyśl</ref></placeName> oblast: 3 (4272), <placeName><ref source="place029">Rzeszów</ref></placeName> oblast: 9 (4363), 
+               <placeName><ref source="place309">Sambir</ref></placeName> oblast: 5 (2296), <placeName><ref source="place310">Sanok</ref></placeName> oblast: 4 (4165), <placeName><ref source="place311">Stanisławów</ref></placeName> oblast: 7 (7196), 
+               <placeName><ref source="place252">Ternopil</ref></placeName> oblast: 10 (5083), <placeName><ref source="place315">Ternova</ref></placeName> oblast: 3 20,407) [sic; (2040)] <placeName><ref source="place312">Wadowice</ref></placeName> 
+               oblast: 7 (7196), <placeName><ref source="place313">Gmina Żółkiewka</ref></placeName> oblast: 2 (540), in the city <placeName><ref source="place149">Krakow</ref></placeName>: 2 (3040), in <placeName><ref source="place002">Lviv</ref></placeName>: 1 (9100).
             </p>
             <p>
-               The <hi rend="italic">salt production</hi> in <rs type="place"><ref source="place006">Galicia</ref></rs> of <date when="1904-12">December 1901</date> was 190,910 quintals. In the same month in 1902 it was merely 99,445 quintals. Therefore, last year 91,479 more quintals were produced.
+               The <hi rend="italic">salt production</hi> in <placeName><ref source="place006">Galicia</ref></placeName> of <date when="1904-12">December 1901</date> was 190,910 quintals. In the same month in 1902 it was merely 99,445 quintals. Therefore, last year 91,479 more quintals were produced.
             </p><pb/>
             <fw>- 8 -</fw>
          </div>
@@ -533,7 +533,7 @@
                   <lb/>1 kg fine, pure tea only 6 crowns.
                   <lb/>There is also tea costing 3 to 10 crowns per kg.
                   <lb/>Sample for free and prepaid.
-                  <lb/><rs type="person"><ref source="person053">L. Aperman</ref></rs>, <rs type="place"><ref source="place132">Brody</ref></rs> <rs type="place"><ref source="place006">Galicia</ref></rs>.
+                  <lb/><persName><ref source="person053">L. Aperman</ref></persName>, <placeName><ref source="place132">Brody</ref></placeName> <placeName><ref source="place006">Galicia</ref></placeName>.
                   <lb/>Thee &amp; Caffe Lager.
                </p>
             </div>
@@ -542,7 +542,7 @@
                <p>
                   Is in the eating.
                   <lb/>If you want a natural, working remedy for coughing, sore throats, congestion, against  digestive problems, lack of appetite or similar problems, you should try the remedy from the first 
-                  Austrian malt extract brewery of the brothers Bittman in <rs type="place"><ref source="place133">Razová</ref></rs> in <rs type="place"><ref source="place108">Schlesien</ref></rs>:
+                  Austrian malt extract brewery of the brothers Bittman in <placeName><ref source="place133">Razová</ref></placeName> in <placeName><ref source="place108">Schlesien</ref></placeName>:
                   <lb/>Healthy Malt-Extract
                   <lb/>Which healing-powers have been proven and recommended by numerous thank yous and appreciation letters. Just one teaspoon concentrated malt-extract dissolved in a cup of hot milk sweetened 
                   with some pieces of malt or sugar is not only an exquisite expectorant remedy for a cold or the flu, but also works as a 
@@ -553,23 +553,23 @@
                </p>               
             </div>
             <div type="ad" n="3">
-               <head>The sugar refinery of <rs type="place"><ref source="place060">Przeworsk</ref></rs></head>
+               <head>The sugar refinery of <placeName><ref source="place060">Przeworsk</ref></placeName></head>
                <p>
                   Has immensely scaled up its sugar production for 1904 and recommends every variety to extremely low prices.
                   <lb/>You can get various useful instructions for register handlers, head of cultural affairs, private individuals, etc. at different prices.
-                  <lb/><rs type="person"><ref source="person139">S. Weinstock</ref></rs>, in <rs type="place"><ref source="place002">Lviv</ref></rs>,<rs type="place"><ref source="place185">Rzeznicka</ref> 5</rs>
+                  <lb/><persName><ref source="person139">S. Weinstock</ref></persName>, in <placeName><ref source="place002">Lviv</ref></placeName>,<placeName><ref source="place185">Rzeznicka</ref> 5</placeName>
                </p>
             </div>
             <cb/>
             <div type="ad" n="4">
                <head>Coffee</head>
-               <p>The best varieties are sent in 5 kilogram packages prepaid against sending details, the rest payment on delivery, sending to all towns of <rs type="place"><ref source="place001">Austria-Hungary</ref></rs>.
+               <p>The best varieties are sent in 5 kilogram packages prepaid against sending details, the rest payment on delivery, sending to all towns of <placeName><ref source="place001">Austria-Hungary</ref></placeName>.
                <lb/>Everything duty-free
-               <lb/>5 kg  <rs type="place"><ref source="place054">Santos</ref></rs> fine 6 guildes - 5 kg <ref source="place054"><rs type="place">Santos</rs></ref> prima 6.20 guildes. - 5kg <rs type="place"><ref source="place056">Cuba</ref></rs> 
-                  fine 7.50 guildes - 5kg <ref source="place"><rs type="place056">Cuba</rs></ref> prima 7.90 guildes - 5 kg Gold-Menados 7.60 guildes - 5 kg Gold-<rs type="place"><ref source="place058">Java</ref></rs> 7.60 
-                  guildes - 5 kg <rs type="place"><ref source="place057">Ceylon</ref></rs> super fine 9 guildes - 5 kg <rs type="place"><ref source="place062">San Salvador</ref></rs> 7 guildes - 5 kg 
-                  <rs type="place"><ref source="place055">Puerto Rico</ref></rs> very strong 7.50 guildes - 5 kg Mokka super fine 9.20 guildes</p>
-               <p><rs type="person"><ref source="place030">IGNATZ RATH</ref></rs>, <rs type="place"><ref source="place064">TRIESTE</ref></rs> <rs type="place"><ref source="place040">I</ref></rs>.
+               <lb/>5 kg  <placeName><ref source="place054">Santos</ref></placeName> fine 6 guildes - 5 kg <ref source="place054"><placeName>Santos</placeName></ref> prima 6.20 guildes. - 5kg <placeName><ref source="place056">Cuba</ref></placeName> 
+                  fine 7.50 guildes - 5kg <ref source="place056"><placeName>Cuba</placeName></ref> prima 7.90 guildes - 5 kg Gold-Menados 7.60 guildes - 5 kg Gold-<placeName><ref source="place058">Java</ref></placeName> 7.60 
+                  guildes - 5 kg <placeName><ref source="place057">Ceylon</ref></placeName> super fine 9 guildes - 5 kg <placeName><ref source="place062">San Salvador</ref></placeName> 7 guildes - 5 kg 
+                  <placeName><ref source="place055">Puerto Rico</ref></placeName> very strong 7.50 guildes - 5 kg Mokka super fine 9.20 guildes</p>
+               <p><persName><ref source="place030">IGNATZ RATH</ref></persName>, <placeName><ref source="place064">TRIESTE</ref></placeName> <placeName><ref source="place040">I</ref></placeName>.
                <lb/>Südfrüchten Versandt en gros &amp; en detail.
               </p>
             </div>
@@ -578,7 +578,7 @@
                <p>
                   Fixed salary and provision after a trial period for every person who dedicates themselves to an agency in the countryside. Part-time employment possible. Expertise is not needed, reliability needed.
                   <lb/>Application to:
-                  <lb/><rs type="person"><ref source="person055">A. Hübscher</ref></rs>, <rs type="place"><ref source="place135">Prague</ref></rs>.
+                  <lb/><persName><ref source="person055">A. Hübscher</ref></persName>, <placeName><ref source="place135">Prague</ref></placeName>.
                </p>
             </div>
             <div type="ad" n="5">
@@ -593,31 +593,31 @@
                </p>
                <table rows="3" cols="2" style="text-align:center;width:50%">
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place054">Santos</ref></rs> Coffee á 1,20 guilders</cell>
-                     <cell role="data"><rs type="place"><ref source="place055">Puerto Rico</ref></rs> Pearl á 1,23 guilders</cell>
+                     <cell role="data"><placeName><ref source="place054">Santos</ref></placeName> Coffee á 1,20 guilders</cell>
+                     <cell role="data"><placeName><ref source="place055">Puerto Rico</ref></placeName> Pearl á 1,23 guilders</cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place056">Cuba</ref></rs>     "    "  1,46 "</cell>
-                     <cell role="data"><rs type="place"><ref source="place057">Ceylon</ref></rs>     "     "  1,68 "  </cell>
+                     <cell role="data"><placeName><ref source="place056">Cuba</ref></placeName>     "    "  1,46 "</cell>
+                     <cell role="data"><placeName><ref source="place057">Ceylon</ref></placeName>     "     "  1,68 "  </cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place057">Ceylon</ref></rs>  "   "    1,62  "</cell>
-                     <cell role="data">Gold <rs type="place"><ref source="place058">Java</ref></rs>   "   "   1,45 "</cell>
+                     <cell role="data"><placeName><ref source="place057">Ceylon</ref></placeName>  "   "    1,62  "</cell>
+                     <cell role="data">Gold <placeName><ref source="place058">Java</ref></placeName>   "   "   1,45 "</cell>
                   </row>
                </table>
                <p>
                   Free samle and payment on delivery
                </p>
                <p>
-                  <rs type="person"><ref source="person059">Berger Ernö</ref></rs>, <rs type="place"><ref source="place059">Fuime</ref></rs>.
+                  <persName><ref source="person059">Berger Ernö</ref></persName>, <placeName><ref source="place059">Fuime</ref></placeName>.
                </p>
          </div>
             <div type="ad" n="6">
             <head>
-               <rs type="person"><ref source="person056">Joel Weinreb</ref></rs> <rs type="place"><ref source="place002">Lviv</ref></rs>
+               <persName><ref source="person056">Joel Weinreb</ref></persName> <placeName><ref source="place002">Lviv</ref></placeName>
             </head>
             <head type="h2">
-               <rs type="place"><ref source="place318">Krakowska St</ref> 32, Corner <rs type="place"><ref source="place317">Yana Zhyzhky</ref></rs> 2</rs>
+               <placeName><ref source="place318">Krakowska St</ref> 32, Corner <placeName><ref source="place317">Yana Zhyzhky</ref></placeName> 2</placeName>
             </head>
             <p>
                Recommends the biggest special for fabric shopping, a magazine of the latest silk and wool. Fur and velvet for clothes, French linen, English carpets, slates, canvases, weaving and garnishes.
@@ -628,8 +628,7 @@
       </div>
       <fw type="footer">
             <foreign xml:lang="de">
-               Herausgeber und verantwortlicher Redact. <rs type="person"><ref source="person031">OSIAS H. WILF</ref></rs> recte Weinstock
-               <lb/>Druck von <rs type="person"><ref source="person032">E. Salat</ref></rs> Witwe des <rs type="person"><ref source="person033">U.W. Salat</ref></rs>, <rs type="place"><ref source="place002">Lemberg</ref></rs> <rs type="place"><ref source="place065">Kasimirgasse</ref> 35</rs>
+               Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte <persName><ref source="person139">Weinstock</ref></persName>
             </foreign>
         </fw>
       </body>
