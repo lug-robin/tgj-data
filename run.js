@@ -59,7 +59,7 @@ var editor = new LoadEditor({
           css_class: "org",
           chg_citation: "citation-url",
           hide: {
-            hidden: true,
+            hidden: false,
             class: "org .entity",
           },
           features: {
@@ -93,7 +93,7 @@ var editor = new LoadEditor({
           },
           paragraph: ".yes-index",
           p_class: "",
-          css_class: "font-family",
+          css_class: "",
         },
       ],
       active_class: "active",
