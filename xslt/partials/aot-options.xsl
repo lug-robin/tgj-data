@@ -5,7 +5,6 @@
     <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
         <desc>
             <h1>Widget annotation options.</h1>
-            <p>Contact person: robin.luger@tutanota.com</p>
             <p>Applied with call-templates in html:body.</p>
             <p>Custom template to create interactive options for text annoations.</p>
         </desc>    
@@ -18,9 +17,6 @@
                 <i class="bi bi-gear" title="Menü zur Anpassung der Anzeige"></i>
             </a>                  
             <ul class="dropdown-menu">
-                <!--li class="dropdown-item">
-                    <full-size opt="fls"></full-size>
-                </li-->
                 <li class="dropdown-item">
                     <image-switch opt="es"></image-switch>
                 </li>
