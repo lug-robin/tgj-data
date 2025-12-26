@@ -17,6 +17,9 @@
                 <i class="bi bi-gear" title="Menü zur Anpassung der Anzeige"></i>
             </a>                  
             <ul class="dropdown-menu">
+                <!--li class="dropdown-item">
+                    <full-size opt="fls"></full-size>
+                </li-->
                 <li class="dropdown-item">
                     <image-switch opt="es"></image-switch>
                 </li>
