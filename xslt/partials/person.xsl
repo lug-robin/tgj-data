@@ -49,7 +49,7 @@
                         </td>
                     </tr>
                 </xsl:if>
-                <xsl:if test="./tei:idno[@type='GEONAMES']/text()">
+                <!--xsl:if test="./tei:idno[@type='GEONAMES']/text()">
                     <tr>
                         <th>
                             Geonames ID
@@ -78,7 +78,7 @@
                         </ul>
                     </td>
                 </tr>
-                </xsl:if>
+                </xsl:if-->
             </tbody>
         </table>
     </xsl:template>

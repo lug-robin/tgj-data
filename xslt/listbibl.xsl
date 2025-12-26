@@ -13,7 +13,7 @@
     <xsl:import href="./partials/html_footer.xsl"/>
     <xsl:import href="partials/tabulator_dl_buttons.xsl"/>
     <xsl:import href="partials/tabulator_js.xsl"/>
-    <xsl:import href="./partials/bibl.xsl"/>
+    <!--xsl:import href="./partials/bibl.xsl"/-->
 
     <xsl:template match="/">
         <xsl:variable name="doc_title">
@@ -94,7 +94,7 @@
                     </xsl:call-template>
                     </head>
 
-                    <body class="d-flex flex-column h-100">
+                    <!--body class="d-flex flex-column h-100">
                         <xsl:call-template name="nav_bar"/>
                         <main>
                             <div class="container">
@@ -105,7 +105,7 @@
                             </div>
                         </main>
                         <xsl:call-template name="html_footer"/>
-                    </body>
+                    </body-->
                 </html>
             </xsl:result-document>
             
