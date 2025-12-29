@@ -31,7 +31,7 @@ var editor = new LoadEditor({
           },
           chg_citation: "citation-url",
           features: {
-            all: false,
+            all: true,
             class: "features-1",
           },
         },
@@ -47,7 +47,7 @@ var editor = new LoadEditor({
           },
           chg_citation: "citation-url",
           features: {
-            all: false,
+            all: true,
             class: "features-1",
           },
         },
@@ -58,7 +58,7 @@ var editor = new LoadEditor({
           html_class: "orgs",
           css_class: "org",
           hide: {
-            hidden: false,
+            hidden: true,
             class: "orgs .entity",
           },
           chg_citation: "citation-url",
@@ -149,7 +149,7 @@ var editor = new LoadEditor({
           },
           paragraph: ".yes-index",
           p_class: "",
-          css_class: "font-size-",
+          css_class: "font-size",
         },
       ],
       active_class: "active",
