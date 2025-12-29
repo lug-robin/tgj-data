@@ -31,7 +31,7 @@ var editor = new LoadEditor({
           },
           chg_citation: "citation-url",
           features: {
-            all: true,
+            all: false,
             class: "features-1",
           },
         },
@@ -47,7 +47,7 @@ var editor = new LoadEditor({
           },
           chg_citation: "citation-url",
           features: {
-            all: true,
+            all: false,
             class: "features-1",
           },
         },
