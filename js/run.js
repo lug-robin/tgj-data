@@ -75,7 +75,7 @@ var editor = new LoadEditor({
           css_class: "wrk",
           chg_citation: "citation-url",
           hide: {
-            hidden: false,
+            hidden: true,
             class: "wrk .entity",
           },
           features: {
