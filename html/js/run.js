@@ -109,7 +109,7 @@ var editor = new LoadEditor({
           },
           paragraph: ".yes-index",
           p_class: "",
-          css_class: "",
+          css_class: "font-family",
         },
       ],
       active_class: "active",
