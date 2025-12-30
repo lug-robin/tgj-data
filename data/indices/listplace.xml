@@ -47,7 +47,7 @@
                     </place> 
                     <place xml:id="place003">
                         <placeName>Panteleimona Kulisha St</placeName>
-                        <location type="coords"><geo>49.8452834 24.0240398</geo>
+                        <location type="coords"><geo>49,8452834 24,0240398</geo>
                     </location>
                     <location type="located_in_place">
                         <placeName key="place002">Lviv</placeName>
