@@ -152,6 +152,12 @@
         </span>
     </xsl:template>
     
+    <xsl:template match="tei:placeName">
+        <span class="places entity {substring-after(@rendition, '#')}" id="{@xml:id}" data-bs-toggle="modal" data-bs-target="{@ref}">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    
     <xsl:template match="tei:rs">
         <xsl:choose>
             <xsl:when test="count(tokenize(@ref, ' ')) > 1">
