@@ -20,10 +20,10 @@
             <ul class="dropdown-menu">
                 <!--li class="dropdown-item">
                     <full-size opt="fls"></full-size>
-                </li-->
+                </li>
                 <li class="dropdown-item">
                     <image-switch opt="es"></image-switch>
-                </li>
+                </li-->
                 <li class="dropdown-item">
                     <font-size opt="fs"></font-size>
                 </li>
