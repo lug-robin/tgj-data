@@ -117,12 +117,7 @@
         <h3 style="font-size:16px;text-align:center"><xsl:apply-templates/></h3>
     </xsl:template>
     
-    <xsl:template match="tei:table[@style='text-align:center']">
-        <table align="center"><xsl:apply-templates/></table>
-    </xsl:template>
-    <xsl:template match="tei:table[@style='width:50%']">
-        <table style="width:50%"><xsl:apply-templates/></table>
-    </xsl:template>
+    
     
     <xsl:template match="tei:table">
         <xsl:element name="table">
@@ -144,6 +139,19 @@
             <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>
+    <xsl:template match="tei:table[@style='text-align:center']">
+        <table align="center"><xsl:apply-templates/></table>
+    </xsl:template>
+    <xsl:template match="tei:table[@style='width:50%']">
+        <table style="width:50%"><xsl:apply-templates/></table>
+    </xsl:template>
+    
+    <xsl:template match="tei:persName">
+        <span class="persons entity {substring-after(@rendition, '#')}" id="{@xml:id}" data-bs-toggle="modal" data-bs-target="{@ref}">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    
     <xsl:template match="tei:rs">
         <xsl:choose>
             <xsl:when test="count(tokenize(@ref, ' ')) > 1">
