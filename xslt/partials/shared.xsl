@@ -158,7 +158,7 @@
         </span>
     </xsl:template>
     
-    <xsl:template match="tei:rs">
+    <!--xsl:template match="tei:rs">
         <xsl:choose>
             <xsl:when test="count(tokenize(@ref, ' ')) > 1">
                 <xsl:choose>
@@ -241,7 +241,7 @@
                 </xsl:choose>
             </xsl:otherwise>
         </xsl:choose>
-    </xsl:template>
+    </xsl:template-->
 
     <xsl:template match="tei:listPerson">
         <xsl:apply-templates/>
@@ -262,18 +262,7 @@
                     <div class="modal-body">
                         <table class="table">
                             <tbody>
-                                <xsl:if test="./tei:idno[@type='GEONAMES']">
-                                <tr>
-                                    <th>
-                                        Geonames ID
-                                    </th>
-                                    <td>
-                                        <a href="{./tei:idno[@type='GEONAMES']}" target="_blank">
-                                            <xsl:value-of select="tokenize(./tei:idno[@type='GEONAMES'], '/')[4]"/>
-                                        </a>
-                                    </td>
-                                </tr>
-                                </xsl:if>
+                                
                                 <xsl:if test="./tei:idno[@type='WIKIDATA']">
                                 <tr>
                                     <th>
@@ -285,6 +274,18 @@
                                         </a>
                                     </td>
                                 </tr>
+                                </xsl:if>
+                                <!--xsl:if test="./tei:idno[@type='GEONAMES']">
+                                    <tr>
+                                        <th>
+                                            Geonames ID
+                                        </th>
+                                        <td>
+                                            <a href="{./tei:idno[@type='GEONAMES']}" target="_blank">
+                                                <xsl:value-of select="tokenize(./tei:idno[@type='GEONAMES'], '/')[4]"/>
+                                            </a>
+                                        </td>
+                                    </tr>
                                 </xsl:if>
                                 <xsl:if test="./tei:idno[@type='GND']">
                                 <tr>
@@ -323,13 +324,13 @@
                                         </ul>
                                     </td>
                                 </tr>
-                                </xsl:if>
+                                </xsl:if->
                                 <tr>
                                     <th></th>
                                     <td>
                                         Anzahl der Erwähnungen limitiert, klicke <a href="{$selfLink}">hier</a> für eine vollständige Auflistung
                                     </td>
-                                </tr>
+                                </tr-->
                             </tbody>
                         </table>
                     </div>
@@ -350,17 +351,17 @@
         <xsl:variable name="selfLink">
             <xsl:value-of select="concat(data(@xml:id), '.html')"/>
         </xsl:variable>
-        <div class="modal fade" id="{@xml:id}" data-bs-keyboard="false" tabindex="-1" aria-labelledby="{if(./tei:settlement) then(./tei:settlement/tei:placeName) else (./tei:placeName)}" aria-hidden="true">
+        <div class="modal fade" id="{@xml:id}" data-bs-keyboard="false" tabindex="-1" aria-labelledby="{(./tei:placeName)}" aria-hidden="true">
             <div class="modal-dialog modal-dialog-centered">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h1 class="modal-title fs-5" id="staticBackdropLabel"><xsl:value-of select="if(./tei:settlement) then(./tei:settlement/tei:placeName) else (./tei:placeName)"/></h1>
+                        <h1 class="modal-title fs-5" id="staticBackdropLabel"><xsl:value-of select="(./tei:placeName)"/></h1>
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
                     <div class="modal-body">
                         <table>
                             <tbody>
-                                <xsl:if test="./tei:country">
+                                <!--xsl:if test="./tei:country">
                                 <tr>
                                     <th>
                                         Country
@@ -369,19 +370,7 @@
                                         <xsl:value-of select="./tei:country"/>
                                     </td>
                                 </tr>
-                                </xsl:if>
-                                <xsl:if test="./tei:idno[@type='GND']/text()">
-                                    <tr>
-                                        <th>
-                                            GND
-                                        </th>
-                                        <td>
-                                            <a href="{./tei:idno[@type='GND']}" target="_blank">
-                                                <xsl:value-of select="tokenize(./tei:idno[@type='GND'], '/')[last()]"/>
-                                            </a>
-                                        </td>
-                                    </tr>
-                                </xsl:if>
+                                </xsl:if-->
                                 <xsl:if test="./tei:idno[@type='WIKIDATA']/text()">
                                     <tr>
                                         <th>
@@ -402,6 +391,18 @@
                                         <td>
                                             <a href="{./tei:idno[@type='GEONAMES']}" target="_blank">
                                                 <xsl:value-of select="tokenize(./tei:idno[@type='GEONAMES'], '/')[4]"/>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </xsl:if>
+                                <!--xsl:if test="./tei:idno[@type='GND']/text()">
+                                    <tr>
+                                        <th>
+                                            GND
+                                        </th>
+                                        <td>
+                                            <a href="{./tei:idno[@type='GND']}" target="_blank">
+                                                <xsl:value-of select="tokenize(./tei:idno[@type='GND'], '/')[last()]"/>
                                             </a>
                                         </td>
                                     </tr>
@@ -437,7 +438,7 @@
                                     <td>
                                         Anzahl der Erwähnungen limitiert, klicke <a href="{$selfLink}">hier</a> für eine vollständige Auflistung
                                     </td>
-                                </tr>
+                                </tr-->
                             </tbody>
                         </table>
                     </div>
