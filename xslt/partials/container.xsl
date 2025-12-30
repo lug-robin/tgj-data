@@ -17,6 +17,7 @@
             <div id="non-OSD-images">
                 <!-- #non-OSD-images is removed with openSeaDragon script -->
                 <!-- if no script is available it holds the images from tei/xml -->
+                <xsl:apply-templates select="//tei:facsimile"/>                                  
             </div>                                
         </div>
     </xsl:template>

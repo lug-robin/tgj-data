@@ -17,6 +17,8 @@
         <totalKwicLength>15</totalKwicLength>
         <kwicTruncateString>...</kwicTruncateString>
         <verbose>false</verbose>
+        <stopwordsFile>stopwords.txt</stopwordsFile>
+        <dictionaryFile>words.txt</dictionaryFile>
         <indentJSON>false</indentJSON>
         <outputFolder>static-search</outputFolder>
     </params>
