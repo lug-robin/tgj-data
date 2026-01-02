@@ -110,9 +110,6 @@
                         <div data-index="true">
                             <div class="flex-shrink-0">
                                 <div class="row" style="display:flex;">
-                                    <!--div class="wrapper" style="flex-grow:1;height:auto">
-                                    <xsl:apply-templates select=".//tei:facsimile"></xsl:apply-templates>
-                                    </div-->
                                     <div class="col-md-8 col-md-8 col-md-10 text" style="flex-grow:1;text-align:left;">
                                 <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                                 </div>
