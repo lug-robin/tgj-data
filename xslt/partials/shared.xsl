@@ -73,7 +73,7 @@
         <a class="ref {@type}" href="{@target}"><xsl:apply-templates/></a>
     </xsl:template>
     <xsl:template match="tei:p">
-       <p><xsl:apply-templates/></p>
+       <p/>
     </xsl:template>
     <xsl:template match="tei:head">
         <h1 style="font-size:20px;strong;text-align:center"><xsl:apply-templates/></h1>
