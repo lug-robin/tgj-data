@@ -105,12 +105,12 @@
         </xsl:element>
     </xsl:template>
     <xsl:template match="tei:persName">
-        <span class="persons entity {substring-after(@rendition, '#')}" id="{@xml:id}" data-bs-toggle="modal" data-bs-target="{@ref}">
+        <span class="persons entity {substring-after(@rendition, '#')}" id="{@xml:id}" data-bs-toggle="modal">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
     <xsl:template match="tei:placeName">
-        <span class="places entity {substring-after(@rendition, '#')}" id="{@xml:id}" data-bs-toggle="modal" data-bs-target="{@ref}">
+        <span class="places entity {substring-after(@rendition, '#')}" id="{@xml:id}" data-bs-toggle="modal">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
