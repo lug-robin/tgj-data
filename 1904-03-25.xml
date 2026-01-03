@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-11.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-25.xml" next="1904-03-29.xml" prev="1904-03-22.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -94,7 +94,7 @@
          <fw><foreign xml:lang="de">1.Jahrgang Nr. 12 </foreign> 1st year</fw>
          <div type="title" n="1">
             <head>
-               <hi rend="bold">The Geniune Jew</hi>
+               <hi rend="bold">The Genuine Jew</hi>
             </head>
             <p>Organ for Yiddish matters</p>
             <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
