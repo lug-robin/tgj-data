@@ -129,7 +129,7 @@
                         </head>
 
                         <p align="left;">
-                            <xsl:for-each select=".//tei:note[not(./tei:p)]">
+                            <xsl:for-each select=".//tei:note">
                                 <div class="footnotes" id="{local:makeId(.)}">
                                     <xsl:element name="a">
                                         <xsl:attribute name="name">
@@ -150,6 +150,7 @@
                                 </div>
                             </xsl:for-each>
                         </p>
+                        
 
                     </div>
                     <xsl:for-each select="//tei:back">
