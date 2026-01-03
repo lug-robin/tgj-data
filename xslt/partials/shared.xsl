@@ -20,9 +20,9 @@
     <xsl:template match="tei:date">
         <span class="date"><xsl:apply-templates/></span>
     </xsl:template>
-    <xsl:template match="tei:lb">
+    <!--xsl:template match="tei:lb">
         <br/>
-    </xsl:template>
+    </xsl:template-->
     <xsl:template match="tei:div">
         <div style="margin-top: 20px;"><xsl:apply-templates/></div>
     </xsl:template>
