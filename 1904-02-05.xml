@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-02-05.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-02-05.xml" next="1904-02-12.xml">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,7 +97,7 @@
             <head>The Geniune Jew</head>
             <p style="text-align:center">Organ for Yiddish Matters
             <lb/><foreign xml:lang="de">DER WAHRE JUDE</foreign>
-            <foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+            <lb/><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
          <div n="1">
             <table rows="4" cols="2" style="text-align:center;width:50%">
@@ -129,9 +129,9 @@
             </p>
          </div>
          <div n="2">      
-            <head>The Geniune Jew</head>
+            <head>The Genuine Jew</head>
             <p>As of today we’re publishing a new weekly newspaper called</p>
-            <p>"The Geniune Jew"</p>
+            <p style="text-align:center">"The Genuine Jew"</p>
             <p>
                Our Newspaper is made for the Jewish people as a whole, for everything who finds interest in important articles about all matters concerning our brothers
                in the whole world; in every issue we want to give detailed reports about all polictical occurances and want to deliver all important news as well as those that belong
