@@ -23,7 +23,7 @@
         <xsl:value-of select="replace(tokenize(data(tei:TEI/@next), '/')[last()], '.xml', '.html')"/>
     </xsl:variable>
     <xsl:variable name="teiSource">
-        <xsl:value-of select="data(tei:TEI/@source)"/>
+        <xsl:value-of select="replace(tokenize(data(tei:TEI/@source), '/')[last()], '.xml', '.html')"/>
     </xsl:variable>
     <xsl:variable name="downloadLink">
         <a href="{$teiSource}" download="{$teiSource, '.xml', '.html'}" target="blank">Download HTML</a>

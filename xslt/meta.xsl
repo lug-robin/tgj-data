@@ -41,22 +41,12 @@
             </body>
         </html>
     </xsl:template>
-
     <xsl:template match="tei:p">
         <p id="{generate-id()}"><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:div">
         <div id="{generate-id()}" style="margin-top: 20px;"><xsl:apply-templates/></div>
     </xsl:template>
-    <xsl:template match="tei:lb">
-        <br/>
-    </xsl:template>
-    <xsl:template match="tei:unclear">
-        <abbr title="unclear"><xsl:apply-templates/></abbr>
-    </xsl:template>
-    <xsl:template match="tei:del">
-        <del><xsl:apply-templates/></del>
-    </xsl:template>  
     <xsl:template match="tei:ref">
         <xsl:variable name="source">
             <xsl:value-of select="./@source"/>
@@ -65,8 +55,5 @@
         <a href="{$source}" target="_blank">
             <xsl:apply-templates/>
         </a>
-    </xsl:template>
-    <xsl:template match="tei:*[@style='text-align:center']">
-        <tei align="center"><xsl:apply-templates/></tei>
     </xsl:template>
 </xsl:stylesheet>
