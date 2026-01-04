@@ -85,7 +85,7 @@
                                     <a href="{$teiFacsimile}" target="blank">Facsimile</a>
                                 </h2>
                                 <h3 align="center">
-                                    <a href="{$teiSource}" target="blank" download="edition">
+                                    <a href="{$teiSource}" target="blank" download="{$doc_title}">
                                         <i class="bi bi-download" title="TEI/XML"/>
                                     </a>
                                 </h3>
