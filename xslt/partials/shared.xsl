@@ -42,33 +42,6 @@
             </xsl:when>
         </xsl:choose>
     </xsl:template>
-    <xsl:template match="tei:hi">
-        <span>
-            <xsl:choose>
-                <xsl:when test="@rendition = '#em'">
-                    <xsl:attribute name="class">
-                        <xsl:text>italic</xsl:text>
-                    </xsl:attribute>
-                </xsl:when>
-                <xsl:when test="@rendition = '#italic'">
-                    <xsl:attribute name="class">
-                        <xsl:text>italic</xsl:text>
-                    </xsl:attribute>
-                </xsl:when>
-                <xsl:when test="@rendition = '#smallcaps'">
-                    <xsl:attribute name="class">
-                        <xsl:text>smallcaps</xsl:text>
-                    </xsl:attribute>
-                </xsl:when>
-                <xsl:when test="@rendition = '#bold'">
-                    <xsl:attribute name="class">
-                        <xsl:text>bold</xsl:text>
-                    </xsl:attribute>
-                </xsl:when>
-            </xsl:choose>
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
     <xsl:template match="tei:ref">
         <a class="ref {@type}" href="{@target}"><xsl:apply-templates/></a>
     </xsl:template>
