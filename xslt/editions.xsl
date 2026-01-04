@@ -36,22 +36,17 @@
     <xsl:template match="/">
         <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
         <html xmlns="http://www.w3.org/1999/xhtml" class="h-100">
-    
             <head>
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
-                    
                 </xsl:call-template>
-                
                 <style>
                     .navBarNavDropdown ul li:nth-child(2) {
                         display: none !important;
                     }
- 
                 </style>
             </head>
             <body class="d-flex flex-column h-100">
-                
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0">
                     <div class="container">
@@ -59,8 +54,6 @@
                             <div class="col-md-8 col-lg-8 col-sm-12">   
                             </div>
                         </div>
-
-
                         <div class="row">
                             <div class="col-md-2 col-lg-2 col-sm-12">
                                 <xsl:if test="ends-with($prev,'.html')">
