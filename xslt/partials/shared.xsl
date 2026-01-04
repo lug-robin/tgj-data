@@ -49,7 +49,7 @@
        <p/>
     </xsl:template>
     <xsl:template match="tei:head">
-        <h1 style="font-size:20px;strong;text-align:right"><xsl:apply-templates/></h1>
+        <h1 style="font-size:20px;strong;text-align:center"><xsl:apply-templates/></h1>
     </xsl:template>
     <xsl:template match="tei:head[@type='h2']">
         <h2 style="font-size:18px;text-align:center"><xsl:apply-templates/></h2>

@@ -616,15 +616,13 @@
                   <lb/>All new subscribers receive the current, highly interesting novels and novellas for free.</p></div> 
             </div>
          </div>
-         <div type="footer" n="1">
-            <p>
+         <fw>
+            
                <foreign xml:lang="de">
                   <lb/>Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte Weinstock 
                   <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse 35</ref></placeName>
                </foreign>
-            </p>
-            <p style="text-align:center">[8]</p>
-         </div>
+         </fw>
       </body>
    </text>
 </TEI>
