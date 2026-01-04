@@ -192,7 +192,7 @@
     </xsl:template>  
 
     <xsl:template match="tei:hi[@rend='italic']">
-        <em/>
+        <em><xsl:apply-templates/></em>
     </xsl:template>
     
     <xsl:template match="tei:hi[@rend='bold']">
@@ -208,18 +208,14 @@
     </xsl:template>
     
     <xsl:template match="tei:p[@style='text-align:center']">
-        <p align="center"><xsl:apply-templates/></p>
+        <p style="text-align:center"><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:p[@style='text-align:right']">
-        <p align="right"><xsl:apply-templates/></p>
+        <p style="text-align:right"><xsl:apply-templates/></p>
     </xsl:template>
     
     <xsl:template match="tei:fw">
         <p align="center"><xsl:apply-templates/></p>
-    </xsl:template>
-
-    <xsl:template match="tei:head[@style='text-align:center']">
-        <h1 align="center"><xsl:apply-templates/></h1>
     </xsl:template>
 
     <xsl:template match="tei:table[@style='width:50%']">
