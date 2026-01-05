@@ -14,7 +14,6 @@
         <xsl:value-of select="concat(name($currentNode), '__', $nodeCurrNr)"/>
     </xsl:function>  
     <xsl:template match="tei:pb">
-        <span class="anchor-pb"></span>
         <span class="pb" source="{@facs}"><xsl:value-of select="./@n"/></span>
     </xsl:template>
     <xsl:template match="tei:date">
@@ -78,7 +77,7 @@
         </xsl:element>
     </xsl:template>
     <xsl:template match="tei:persName">
-        <span class="persons entity {substring-after(@rendition, '#')}" id="{@xml:id}" data-bs-toggle="modal">
+        <span class="persons entity" data-bs-toggle="modal">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
