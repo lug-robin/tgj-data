@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title level="s">The Genuine Jew</title>
+            <title level="s">The Genuine Jew - 1904-03-29</title>
             <title level="a">1904-03-29</title>
             <author>Multiple Authors</author>
             <editor>
@@ -101,9 +101,8 @@
             <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
          <div type="editorial" n="1" style="two columns">
-            <cb n="1"/>
             <table rows="4" cols="2">
-               <head>The Geniune Jew costs</head>
+               <head>The Genuine Jew costs</head>
                <row role="data">
                   <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
                   <cell role="data">Abroad</cell>
@@ -124,8 +123,10 @@
             <p><placeName><ref source="place002">Lviv</ref></placeName>, <date calendar="Hebrew" when-custom="5664-01-13"><foreign xml:lang="he">Yom Shlishi, <ref source="https://www.wikidata.org/wiki/Q1586449">Shemini</ref></foreign> 5664</date></p>
             <cb/>
             <p>
-               <lb/>Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName>Sonnengasse 27</placeName></foreign>
-               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign xml:lang="de"><placeName>Lemberg</placeName>, <date when-iso="1904-03-29">den 29.März 1904</date></foreign>.</p>
+               Adverts are cheaply calculated <lb/>All letters and money send to: 
+               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName>Sonnengasse 27</placeName></foreign>
+               <lb/>The Genuine Jew is published every Tuesday and Friday 
+               <lb/><foreign xml:lang="de"><placeName>Lemberg</placeName>, den<date when-iso="1904-03-29"> 29.März 1904</date></foreign>.</p>
          </div>
          <div n="2">
             <head><hi rend="bold">To our readers.</hi></head>
