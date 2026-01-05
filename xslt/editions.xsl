@@ -151,7 +151,7 @@
             <xsl:apply-templates/>
         </a>
     </xsl:template>
-    <!--xsl:template match="tei:p">
+    <xsl:template match="tei:p">
         <p id="{local:makeId(.)}" class="yes-index">
             <xsl:apply-templates/>
         </p>
@@ -160,7 +160,7 @@
         <div id="{local:makeId(.)}">
             <xsl:apply-templates/>
         </div>
-    </xsl:template-->  
+    </xsl:template>  
 
     <xsl:template match="tei:hi[@rend='italic']">
         <em><xsl:apply-templates/></em>
