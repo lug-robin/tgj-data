@@ -537,46 +537,59 @@
             </p>
          </div>
          <div n="12">
-            <head style="text-align:center">Post box.
-               <lb/><hi rend="italic">To several subscribers</hi></head>
+            <head>Post box.</head>
+            <head type="h2"><hi rend="italic">To several subscribers</hi></head>
             <p>
                The advertised booklet about <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Asian Russia</ref></placeName> as well as the prayer book, the bonus for our half year subscribers, will be sent out next week.
             </p>
-            
          </div>
          <div n="13">
              <div type="ad">
-                  <head style="text-align:center"><hi rend="bold">Fine tea</hi></head>
-                  <p>
-                     <lb/>If you want to drink pure, unadulterated tea, write to the address below,
-                     <lb/>1 kg fine, pure tea only 6 crowns.
-                     <lb/>There is also tea costing 3 to 10 crowns per kg.
-                     <lb/>Sample for free and prepaid.
-                     <lb/><persName>L. Aperman</persName>, <placeName><ref source="place132">Brody</ref></placeName> <placeName><ref source="place006">Galicia</ref></placeName>.
-                     <lb/>Thee &amp; Caffe Lager.
-                  </p>
-                  <p style="text-align:center">[7]</p><pb/>
-               </div>
-            </div>
-            <div n="14">
-               <head style="text-align:center"><hi rend="bold">Last News.</hi></head>
-               <div><head style="text-align:center">A great win for <placeName><ref source="place014">Japan</ref></placeName>.</head>
-                  <p><placeName><ref source="place031">Berlin</ref></placeName>. The local paper “<ref source="https://www.wikidata.org/wiki/Q821625">Berliner Lokal-Anzeiger</ref>" received a telegram in the last hour. In <placeName><ref source="place022">Korea</ref></placeName>, 
-                     80 kilometres away from the city <placeName><ref source="place221">Pyongyang</ref></placeName> where the Japanese main battalions were stationed, the Russians and Japanese erupted into a great battle. <placeName><ref source="place014">Japan</ref></placeName> won gloriously.</p></div>
-               <div><head style="text-align:center"><placeName><ref source="place019">Russia</ref></placeName> wants to withdraw.</head>
-                  <p><placeName><ref source="place156">London</ref></placeName>. The Russian ambassador in <placeName><ref source="place156">London</ref></placeName>, Count <persName><ref source="person104">Benckendorff</ref></persName> went to <placeName><ref source="place018">St Petersburg</ref></placeName> 
-                     at the start of the war already where he stayed for a few days before he went back to <placeName><ref source="place156">London</ref></placeName>. Since his return, he went to King <persName><ref source="person105">Edward</ref></persName> and, as it is rumoured in political circles, 
-                     wants him to take care of the peace mediation between <placeName><ref source="place014">Russia</ref></placeName> and <placeName><ref source="place019">Japan</ref></placeName>. <placeName><ref source="place014">Russia</ref></placeName> wants to retreat from <placeName><ref source="place028">Manchuria</ref></placeName> 
-                     and hand <placeName><ref source="place083">Port Arthur</ref></placeName> over to <placeName><ref source="place019">Japan</ref></placeName>. That is why it should conclude peace.</p></div>
-               <div><head style="text-align:center">Victory of the government in <placeName><ref source="place009">Hungary</ref></placeName>.</head>
-               <p><placeName><ref source="place030">Budapest</ref></placeName>. The Hungarian government achieved a massive goal in the parliament. As the opposition noticed that the government was serious with changing its rules of order and was also ready to enforce this change with violence in order to 
-                  render the obstruction impossible, the opposition conceded. The minister president <persName><ref source="person005">Tisza</ref></persName> retracted his motion to change the rules, but the opposition obliged to sign off the recruitment act and other important laws. (Read the article 
-                  “<placeName><ref source="place009">Hungary</ref></placeName>’s situation” in the Tuesday feature.)</p></div>
+                <head>Fine tea</head>
+                <p>
+                   If you want to drink pure, unadulterated tea, write to the address below,
+                   <lb/>1 kg fine, pure tea only 6 crowns.
+                   <lb/>There is also tea costing 3 to 10 crowns per kg.
+                   <lb/>Sample for free and prepaid.
+                   <lb/><persName>L. Aperman</persName>, <placeName><ref source="place132">Brody</ref></placeName> <placeName><ref source="place006">Galicia</ref></placeName>.
+                   <lb/>Thee &amp; Caffe Lager.
+                </p>
+             </div>
          </div>
-         <div>
+         <pb/>
+         <fw type="pageNum">- 8 -</fw>               
+         <div n="14">
+            <head>Last News.</head>
+            <div>
+               <head type="h2">A great win for <placeName><ref source="place014">Japan</ref></placeName>.</head>
+               <p>
+                  <placeName><ref source="place031">Berlin</ref></placeName>. The local paper “<ref source="https://www.wikidata.org/wiki/Q821625">Berliner Lokal-Anzeiger</ref>" received a telegram in the last hour. In <placeName><ref source="place022">Korea</ref></placeName>, 
+                  80 kilometres away from the city <placeName><ref source="place221">Pyongyang</ref></placeName> where the Japanese main battalions were stationed, the Russians and Japanese erupted into a great battle. <placeName><ref source="place014">Japan</ref></placeName> won gloriously.
+               </p>
+            </div>
+            <div>
+               <head type="h2"><placeName><ref source="place019">Russia</ref></placeName> wants to withdraw.</head>
+               <p>
+                  <placeName><ref source="place156">London</ref></placeName>. The Russian ambassador in <placeName><ref source="place156">London</ref></placeName>, Count <persName><ref source="person104">Benckendorff</ref></persName> went to <placeName><ref source="place018">St Petersburg</ref></placeName> 
+                  at the start of the war already where he stayed for a few days before he went back to <placeName><ref source="place156">London</ref></placeName>. Since his return, he went to King <persName><ref source="person105">Edward</ref></persName> and, as it is rumoured in political circles, 
+                  wants him to take care of the peace mediation between <placeName><ref source="place014">Russia</ref></placeName> and <placeName><ref source="place019">Japan</ref></placeName>. <placeName><ref source="place014">Russia</ref></placeName> wants to retreat from <placeName><ref source="place028">Manchuria</ref></placeName> 
+                  and hand <placeName><ref source="place083">Port Arthur</ref></placeName> over to <placeName><ref source="place019">Japan</ref></placeName>. That is why it should conclude peace.
+               </p>
+            </div>
+            <div>
+               <head type="h2">Victory of the government in <placeName><ref source="place009">Hungary</ref></placeName>.</head>
+               <p>
+                  <placeName><ref source="place030">Budapest</ref></placeName>. The Hungarian government achieved a massive goal in the parliament. As the opposition noticed that the government was serious with changing its rules of order and was also ready to enforce this change with violence in order to 
+                  render the obstruction impossible, the opposition conceded. The minister president <persName><ref source="person005">Tisza</ref></persName> retracted his motion to change the rules, but the opposition obliged to sign off the recruitment act and other important laws. (Read the article 
+                  “<placeName><ref source="place009">Hungary</ref></placeName>’s situation” in the Tuesday feature.)
+               </p>
+            </div>
+         </div>
+         <div n="15">
             <p>The editor does not take responsibility for the advertisements in this paper.</p>
-            <div style="text-align:center">
-               <p>Bank and exchange business
+            <div style="text-align:center" type="ad">
+               <p>
+                  Bank and exchange business
                   <lb/>ROHAYTN &amp; ULAM
                   <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <placeName><ref source="place186">Syxtuskagasse</ref></placeName> 8.</foreign>
                   <lb/>Buying and selling all kinds of
@@ -584,19 +597,25 @@
                   <lb/>Lottery available in cheap installments.
                   <lb/>At request, a lottery calendar for 1904
                   <lb/>can be given for free.
-                  <lb/>Easy, low-interest loans available.</p>
-            </div><cb/>
-            <div><p>Important for farmers
-               On occasion of the upcoming spring season, we suggest the following enterprise for buying bonemeal, clay slag, phosphates, and so on. Any and all grasses, clover seeds and agricultural machines by the most prestigious factories, domestic and abroad. 
-               Illustrated price lists can be sent for free and without shipping costs on request. 
-               The delivery will make customers satisfied and accomplished to the max.</p> 
-               
-               <div><p><persName><ref source="person106">NATHAN SPRECHER</ref></persName>
-               Artificial fertilizer, seeds &amp; machinery
-               <placeName><ref source="place223">Podgórze</ref></placeName> - <placeName><ref source="place149">Kraków</ref></placeName>
-</p></div>               
-               
-               <div><p><ref source="https://www.wikidata.org/wiki/Q17590684">The Oesterreichische 
+                  <lb/>Easy, low-interest loans available.
+               </p>
+            </div>
+            <cb/>
+            <div type="ad">
+               <p>
+                  Important for farmers
+                  On occasion of the upcoming spring season, we suggest the following enterprise for buying bonemeal, clay slag, phosphates, and so on. Any and all grasses, clover seeds and agricultural machines by the most prestigious factories, domestic and abroad. 
+                  Illustrated price lists can be sent for free and without shipping costs on request. 
+                  The delivery will make customers satisfied and accomplished to the max.
+               </p> 
+               <p>
+                  <persName><ref source="person106">NATHAN SPRECHER</ref></persName>
+                  Artificial fertilizer, seeds &amp; machinery <placeName><ref source="place223">Podgórze</ref></placeName> - <placeName><ref source="place149">Kraków</ref></placeName>
+               </p>
+            </div>               
+            <div type="ad">
+               <p>
+                  <ref source="https://www.wikidata.org/wiki/Q17590684">The Oesterreichische 
                   <lb/>Volkszeitung</ref>
                   <lb/>Which is published with 82,000 copies publishes important
                   <lb/>news 
@@ -613,15 +632,13 @@
                   <lb/>FREE TRIALS
                   <lb/>The editorial office of the “Oesterreichische 
                   <lb/>Volkszeitung”, <placeName><ref source="place007">Vienna</ref>, 1010</placeName>, <placeName><ref source="place222">Schulerstraße</ref> 16</placeName>.
-                  <lb/>All new subscribers receive the current, highly interesting novels and novellas for free.</p></div> 
-            </div>
+                  <lb/>All new subscribers receive the current, highly interesting novels and novellas for free.</p>
+            </div> 
          </div>
          <fw>
-            
-               <foreign xml:lang="de">
-                  <lb/>Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte Weinstock 
-                  <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse 35</ref></placeName>
-               </foreign>
+            <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte <persName><ref source="person039">Weinstock</ref></persName> 
+               <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse</ref> 35</placeName>
+            </foreign>
          </fw>
       </body>
    </text>

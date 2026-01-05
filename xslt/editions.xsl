@@ -117,31 +117,7 @@
                                 </h2>
                             </xsl:for-each>     
                         </head>
-
-                        <p align="left;">
-                            <!--xsl:for-each select=".//tei:note">
-                                <div class="footnotes" id="{local:makeId(.)}">
-                                    <xsl:element name="a">
-                                        <xsl:attribute name="name">
-                                            <xsl:text>fn</xsl:text>
-                                            <xsl:number level="any" format="1" count="tei:note"/>
-                                        </xsl:attribute>
-                                        <a>
-                                            <xsl:attribute name="href">
-                                                <xsl:text>#fna_</xsl:text>
-                                                <xsl:number level="any" format="1" count="tei:note"/>
-                                            </xsl:attribute>
-                                            <span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">
-                                                <xsl:number level="any" format="1" count="tei:note"/>
-                                            </span>
-                                        </a>
-                                    </xsl:element>
-                                    <xsl:apply-templates/>
-                                </div>
-                            </xsl:for-each-->
-                        </p>
-                        
-
+                        <p align="left;"/>
                     </div>
                     <xsl:for-each select="//tei:back">
                         <div class="tei-back">
