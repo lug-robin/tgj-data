@@ -117,7 +117,12 @@
                                 </h2>
                             </xsl:for-each>     
                         </head>
-                        <p align="left;"/>
+
+                        <p align="left;">
+
+                        </p>
+                        
+
                     </div>
                     <xsl:for-each select="//tei:back">
                         <div class="tei-back">
@@ -146,7 +151,7 @@
             <xsl:apply-templates/>
         </a>
     </xsl:template>
-    <xsl:template match="tei:p">
+    <!--xsl:template match="tei:p">
         <p id="{local:makeId(.)}" class="yes-index">
             <xsl:apply-templates/>
         </p>
@@ -155,7 +160,7 @@
         <div id="{local:makeId(.)}">
             <xsl:apply-templates/>
         </div>
-    </xsl:template>  
+    </xsl:template-->  
 
     <xsl:template match="tei:hi[@rend='italic']">
         <em><xsl:apply-templates/></em>
