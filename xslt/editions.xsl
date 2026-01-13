@@ -62,7 +62,7 @@
                                             <xsl:attribute name="href">
                                                 <xsl:value-of select="$prev"/>
                                             </xsl:attribute>
-                                            <i class="bi bi-chevron-left" title="zurück"/>
+                                            <i class="bi bi-chevron-left" title="previous"/>
                                         </a>
                                     </h1>
                                 </xsl:if>
@@ -87,7 +87,7 @@
                                             <xsl:attribute name="href">
                                                 <xsl:value-of select="$next"/>
                                             </xsl:attribute>
-                                            <i class="bi bi-chevron-right" title="weiter"/>
+                                            <i class="bi bi-chevron-right" title="next"/>
                                         </a>
                                     </h1>
                                 </xsl:if>
@@ -96,33 +96,21 @@
                                 <xsl:call-template name="annotation-options"></xsl:call-template>
                             </div>
                         </div>
-                            
                         <div data-index="true">
                             <div class="flex-shrink-0">
                                 <div class="row" style="display:flex;">
                                     <div class="col-md-8 col-md-8 col-md-10 text" style="flex-grow:1;text-align:left;">
-                                <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
-                                </div>
+                                        <xsl:apply-templates select=".//tei:body"/>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                      
                         <head align="center">
                             <xsl:for-each select="tei:head">
-                                <h2>  <xsl:value-of select="text()"/>
-                                    <style>
-                                        h2 {  font-size: 20pt;  /* Adjust as needed */
-                                        }
-                                    </style>
-                                </h2>
+                                <xsl:value-of select="text()"/>
                             </xsl:for-each>     
                         </head>
-
-                        <p align="left;">
-
-                        </p>
-                        
-
+                        <p align="left;"/>
                     </div>
                     <xsl:for-each select="//tei:back">
                         <div class="tei-back">

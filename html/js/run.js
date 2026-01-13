@@ -51,38 +51,6 @@ var editor = new LoadEditor({
             class: "features-1",
           },
         },
-        {
-          opt: "org",
-          color: "yellow",
-          title: "Organizations",
-          html_class: "orgs",
-          css_class: "org",
-          hide: {
-            hidden: true,
-            class: "orgs .entity",
-          },
-          chg_citation: "citation-url",
-          features: {
-            all: false,
-            class: "features-1",
-          },
-        },
-        {
-          opt: "wrk",
-          color: "lila",
-          title: "Works",
-          html_class: "works",
-          css_class: "wrk",
-          chg_citation: "citation-url",
-          hide: {
-            hidden: true,
-            class: "wrk .entity",
-          },
-          features: {
-            all: false,
-            class: "features-1",
-          },
-        }
       ],
       span_element: {
         css_class: "badge-item",
