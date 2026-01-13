@@ -38,7 +38,7 @@
                         <table class="table" id="myTable">
                             <thead>
                                 <tr>
-                                    <th scope="col" tabulator-headerFilter="input">Surname</th>
+                                    <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">Surname</th>
                                     <th scope="col" tabulator-headerFilter="input">Name</th>
                                     <th scope="col" tabulator-headerFilter="input">Notes</th>
                                 </tr>
