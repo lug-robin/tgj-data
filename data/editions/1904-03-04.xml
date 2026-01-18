@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-01.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-04.xml" prev="1904-03-01.xml" next="1904-03-08.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -25,7 +25,7 @@
                <name>Luger, Robin</name>
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2025">2025</date>
+            <date when-iso="2025">2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
@@ -79,19 +79,19 @@
       </surface>
    </facsimile>
    <text>
-      <body>
-         <fw type="head" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 6 - </foreign>1st year</fw>
+      <body xml:lang="en">
+         <fw type="header" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 6 - </foreign>1st year</fw>
          <div n="1">
-            <head>The Geniune Jew</head>
+            <head>The Genuine Jew</head>
             <p style="text-align:center">Organ for Yiddish Matters
-               <lb/><foreign xml:lang="de">DER WAHRE JUDE</foreign>
-               <foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+               <lb/><foreign xml:lang="de">DER WAHRE JUDE
+               <lb/>Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
-         <div n="1">
-            <table rows="4" cols="2" style="text-align:center;width:50%">
-               <head>The Geniune Jew costs</head>
+         <div n="2">
+            <table rows="4" cols="2">
+               <head>The Genuine Jew costs</head>
                <row role="data">
-                  <cell role="data">In <rs type="place"><ref source="place001">Austria-Hungary</ref></rs></cell>
+                  <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
                   <cell role="data">Abroad</cell>
                </row>
                <row role="data">
@@ -107,13 +107,13 @@
                   <cell role="data">For a quarter year - 5.50 "</cell>
                </row>
             </table>
-            <p><rs type="place"><ref source="place002">Lviv</ref></rs>,<date calendar="Hebrew" when-custom="5664-12-17"><foreign xml:lang="he">Yom Shlishi <ref source="https://www.wikidata.org/wiki/Q1586443">Ki Tisa</ref> 5664</foreign></date></p><cb/>
+            <p><placeName><ref source="place002">Lviv</ref></placeName>,<date calendar="Hebrew" when-custom="5664-12-17"><foreign xml:lang="he">Yom Shlishi <ref source="https://www.wikidata.org/wiki/Q1586443">Ki Tisa</ref> 5664</foreign></date></p><cb/>
             <p>
                Adverts are cheaply calculated
                <lb/>All letters and money send to:
-               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<rs type="place"><ref source="place002">Lviv</ref></rs>, <rs type="place"><ref source="place003">Sonnengasse 27</ref></rs></foreign>
+               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse</ref> 27</placeName></foreign>
                <lb/>The Genuine Jew is published every Friday
-               <lb/><foreign xml:lang="de"><rs type="place"><ref source="place002">Lemberg</ref></rs>, <date when-iso="1904-03-04">den 4. März 1904</date></foreign>.
+               <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <date when-iso="1904-03-04">den 4. März 1904</date></foreign>.
             </p>
          </div>
          <div n="3">
@@ -127,7 +127,7 @@
             <head><ref source="https://en.wiktionary.org/wiki/%D7%AA%D6%BC%D7%9C%D7%9E%D7%95%D7%93%D6%BE%D7%AA%D6%BC%D7%95%D7%A8%D7%94">Talmetoyre</ref></head>
             <p style="text-align:center">The study of Torah is equivalent to all other commandments combined.</p>
             <p>
-               It is sad to recount, our hearts hurt and we want to cry when we look around all the corners of Jewish life in <rs type="place"><ref source="place006">Galicia</ref></rs>. We do not find one thing we are happy about. 
+               It is sad to recount, our hearts hurt and we want to cry when we look around all the corners of Jewish life in <placeName><ref source="place006">Galicia</ref></placeName>. We do not find one thing we are happy about. 
                No matter where we look, there is neglect, dereliction, and chaos - it is shocking!
             </p>
             <p>
@@ -135,7 +135,7 @@
                Our talme-toyre are <hi rend="italic">more than anything else, heavily neglected</hi>. The more important a commandment is, the bigger we neglect them. The bigger the benefit, the less it is badly administered.
             </p>
             <p>
-               We do not need to tell you how important the Talme-Toyre is, every Jew understands that on their own. We are not only referring to learning the <ref source="https://www.wikidata.org/wiki/Q930585">Gemara</ref> and <ref source="place">Pirush Hamishnayot</ref> 
+               We do not need to tell you how important the Talme-Toyre is, every Jew understands that on their own. We are not only referring to learning the <ref source="https://www.wikidata.org/wiki/Q930585">Gemara</ref> and <ref source="https://www.wikidata.org/wiki/Q6124976">Pirush Hamishnayot</ref> 
                - we are also referring to simply learning the (Hebrew) alphabet, to the reading of Hebrew, about the Torah, how to pray, to understand the meaning of all of that. All the things we cannot imagine a child not knowing about without being very sad, dark, and bitter. 
                The number of children not knowing how to read and write, not knowing the alphabet, who do not know the prayers and lore in the Torah is increasing. The children of rich parents who can afford a tutor, do not suffer as badly, they are still learning something. 
                However, the children of the lower class, the children of which our scholars, may their memory be a blessing, have said: “Beware of the poor, for from them Torah will come.” These children are neglected completely. 
@@ -144,8 +144,8 @@
                Those who visit school, do not know about the Torah at all. They are being taught religion at school, but do not ask how. However, those children who do not visit a school, do not have a great knowledge. Their parents cannot 
                afford a tutor and without money, they cannot learn a lot.
             </p>
-            <fw type="footer">We ask the subscribers of <foreign xml:lang="he">מחזיקי הדת</foreign> and <foreign xml:lang="he">קול מחזיקי הדת</foreign> to send every letter and money to this address: 
-               <lb/><rs type="person"><ref source="person031">OSIAS H. WILF</ref>,</rs> <rs type="place"><ref source="place002">LEMBERG</ref></rs> <ref source="place003"><rs type="place">Sonnengasse 27</rs></ref>.
+            <fw type="footer" n="1">We ask the subscribers of <foreign xml:lang="he">מחזיקי הדת</foreign> and <foreign xml:lang="he">קול מחזיקי הדת</foreign> to send every letter and money to this address: 
+               <lb/><persName><ref source="person031">OSIAS H. WILF</ref>,</persName> <placeName><ref source="place002">LEMBERG</ref></placeName> <placeName><ref source="place003">Sonnengasse</ref> 27</placeName>.
             </fw><pb/>
             <fw type="pageNum">- 2 -</fw>
             <p>
@@ -170,105 +170,105 @@
             <head>The Russo-Japanese war and the Russian Jews</head>
             <p style="text-align:right">The Lord will fight for you, and you shall hold your peace!</p>
             <p>
-               The war between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs> has grabbed the attention of the whole world and is of huge interest for us as we have 
-               written in earlier editions. <rs type="place"><ref source="place014">Russia</ref></rs> is our biggest enemy and if calamity befalls it, it shall only give us pleasure. Furthermore it is believed that after the war, when 
-               <rs type="place"><ref source="place014">Russia</ref></rs> has been defeated, it will have to improve the country’s inner organisation. It will have to grant more liberty and stop oppressing the Jews. The small antisemitic 
-               countries like <rs type="place"><ref source="place124">Romania</ref></rs> or <rs type="place"><ref source="place097">Morocco</ref></rs> can not refer to <rs type="place"><ref source="place014">Russia</ref></rs> to excuse 
-               their antisemitism. Until now, the powers did not know about <rs type="place"><ref source="place124">Romania</ref></rs> because it has always pointed out that Jews are being treated badly in big <rs type="place"><ref source="place014">Russia</ref></rs> 
-               and maybe even worse. If big <rs type="place"><ref source="place014">Russia</ref></rs> is allowed to it, small <rs type="place"><ref source="place124">Romania</ref></rs> should also be allowed. After the defeat 
-               <rs type="place"><ref source="place014">Russia</ref></rs> will firstly<cb/> stop playing a big part and secondly the Jews will be treated better.
+               The war between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName> has grabbed the attention of the whole world and is of huge interest for us as we have 
+               written in earlier editions. <placeName><ref source="place014">Russia</ref></placeName> is our biggest enemy and if calamity befalls it, it shall only give us pleasure. Furthermore it is believed that after the war, when 
+               <placeName><ref source="place014">Russia</ref></placeName> has been defeated, it will have to improve the country’s inner organisation. It will have to grant more liberty and stop oppressing the Jews. The small antisemitic 
+               countries like <placeName><ref source="place124">Romania</ref></placeName> or <placeName><ref source="place097">Morocco</ref></placeName> can not refer to <placeName><ref source="place014">Russia</ref></placeName> to excuse 
+               their antisemitism. Until now, the powers did not know about <placeName><ref source="place124">Romania</ref></placeName> because it has always pointed out that Jews are being treated badly in big <placeName><ref source="place014">Russia</ref></placeName> 
+               and maybe even worse. If big <placeName><ref source="place014">Russia</ref></placeName> is allowed to it, small <placeName><ref source="place124">Romania</ref></placeName> should also be allowed. After the defeat 
+               <placeName><ref source="place014">Russia</ref></placeName> will firstly<cb/> stop playing a big part and secondly the Jews will be treated better.
             </p>
             <p>
-               All of this is only said about the foreign Jews. The foreign should want and should express their joy once <rs type="place"><ref source="place014">Russia</ref></rs> <hi rend="italic">fails</hi>. The Austrian antisemites would 
-               gather in an assembly and pronounce publicly that those who are antisemitic should pray for <rs type="place"><ref source="place014">Russia</ref></rs> to win because <rs type="place"><ref source="place014">Russia</ref></rs> 
-               is the only antisemitic government in <rs type="place"><ref source="place100">Europe</ref></rs>. They send the Russian ambassador in <rs type="place"><ref source="place007">Vienna</ref></rs> a felicitation and ask him to 
-               inform the tsar that he still has friends in the world, the antisemites. Therefore, also the Jewish people should announce to the world that they pray to God, asking for <rs type="place"><ref source="place014">Russia</ref></rs>’s 
+               All of this is only said about the foreign Jews. The foreign should want and should express their joy once <placeName><ref source="place014">Russia</ref></placeName> <hi rend="italic">fails</hi>. The Austrian antisemites would 
+               gather in an assembly and pronounce publicly that those who are antisemitic should pray for <placeName><ref source="place014">Russia</ref></placeName> to win because <placeName><ref source="place014">Russia</ref></placeName> 
+               is the only antisemitic government in <placeName><ref source="place100">Europe</ref></placeName>. They send the Russian ambassador in <placeName><ref source="place007">Vienna</ref></placeName> a felicitation and ask him to 
+               inform the tsar that he still has friends in the world, the antisemites. Therefore, also the Jewish people should announce to the world that they pray to God, asking for <placeName><ref source="place014">Russia</ref></placeName>’s 
                downfall. The tsar should know that Jews all over the world are not his friend and do not wish him kindness. 
             </p>
             <p>
-               For the Jews living in <rs type="place"><ref source="place014">Russia</ref></rs> it is different. As it is, they are still subjects of the tsar and had to adhere to the laws, the tsar’s orders and his ministers. For them these 
+               For the Jews living in <placeName><ref source="place014">Russia</ref></placeName> it is different. As it is, they are still subjects of the tsar and had to adhere to the laws, the tsar’s orders and his ministers. For them these 
                times are difficult, they are indecisive and do now know what to do.
             </p>
             <p>
-               <rs type="place"><ref source="place014">Russia</ref></rs>’s people are agitated and concerned. The Polish, the Finnish, the Armenians, the socialists and all the friends of freedom who have suffered under the Russian burden 
-               and were not able to lift their heads, are beginning to move strongly. Until now, there has not been a revolution, it is still too early for this because <rs type="place"><ref source="place014">Russia</ref></rs> is still too 
+               <placeName><ref source="place014">Russia</ref></placeName>’s people are agitated and concerned. The Polish, the Finnish, the Armenians, the socialists and all the friends of freedom who have suffered under the Russian burden 
+               and were not able to lift their heads, are beginning to move strongly. Until now, there has not been a revolution, it is still too early for this because <placeName><ref source="place014">Russia</ref></placeName> is still too 
                strong and could squash every revolution. However, the preparations have already begun. All parties have released calls and proclamations which announce that the present situation is very important. Finally, scores can be 
                settled and the tsar will be forced to provide the country with more freedom. However, the proclamations warn the people to not organise demonstrations or revolutions because this will not lead to victory. But those who are 
                able to read between the lines understand that the opposite is meant. They are yelling: “No revolutions!” but they mean: “Prepare for the day the revolution will start. The Russian government is also deeply troubled. At the 
                beginning of the war, the government organised patriotic demonstrations in every bigger city during which the imperial was celebrated and “Hurray” was being yelled. By now, the demonstrations have stopped. The government is 
-               afraid that between the patriotic demonstrations there will also be non-patriotic ones. Between those who yell: “Hurray” will be mingled with those who yell “Down with <rs type="place"><ref source="place014">Russia</ref></rs>!” 
+               afraid that between the patriotic demonstrations there will also be non-patriotic ones. Between those who yell: “Hurray” will be mingled with those who yell “Down with <placeName><ref source="place014">Russia</ref></placeName>!” 
                Furthermore, every and any gathering and demonstrations are suppressed. 
             </p>
             <p>
-               The Jewish people are confronted with the question: how should we behave in case a revolution breaks out? There are a lot of hot-headed Russian Jews who cannot wait to see <rs type="place"><ref source="place014">Russia</ref></rs> 
+               The Jewish people are confronted with the question: how should we behave in case a revolution breaks out? There are a lot of hot-headed Russian Jews who cannot wait to see <placeName><ref source="place014">Russia</ref></placeName> 
                fall. It is very likely that they will participate in a revolutionary movement. Generally, Jews are provoked by the government. They will be forced to donate huge sums of money for the means of war. Several big Jewish 
-               communities had to donate thousands of rubles. Furthermore, the Jews have not forgotten the <rs type="place"><ref source="place015">Kishinev</ref></rs> trials which is taking place 
+               communities had to donate thousands of rubles. Furthermore, the Jews have not forgotten the <placeName><ref source="place015">Kishinev</ref></placeName> trials which is taking place 
             </p><pb/>
             <fw type="pageNum">- 3 -</fw>
             <p>
                every day at the moment. As this leads to dereliction and them doing whatever they want, some Russian newspapers have the audacity to demand the Jews to forgive and forget everything and instead be Russian patriots who want to 
-               sacrifice themselves and their wealth for the fatherland. We found a letter in the <rs type="place"><ref source="place015">Chișinău</ref></rs> paper “Otkliki” in which a “Jew” feels free to write to Russian Jews: “Our brothers, 
-               the children of <rs type="place"><ref source="place035">Israel</ref></rs>! We are living in horrible times, sad hours - it is like Yom Kippur! We have to forget everything, we should only have one thing in mind: <rs type="place"><ref source="place014">Russia</ref></rs> 
+               sacrifice themselves and their wealth for the fatherland. We found a letter in the <placeName><ref source="place015">Chișinău</ref></placeName> paper “Otkliki” in which a “Jew” feels free to write to Russian Jews: “Our brothers, 
+               the children of <placeName><ref source="place035">Israel</ref></placeName>! We are living in horrible times, sad hours - it is like Yom Kippur! We have to forget everything, we should only have one thing in mind: <placeName><ref source="place014">Russia</ref></placeName> 
                is in danger! We need to prove ourselves as true children of our fatherland, as true followers of the morality of our holy Torah. A severe calamity has befallen our fatherland, a horrible war! Should we not march together with 
                our Russian brothers? Should we not share all of the war’s consequences with our Russian brothers? Every one of us should donate to their possibilities for war purposes. Let us show them that we are worth being seen and treated 
                as brothers of the big Russian people!”
             </p>
             <p>
-               Of course, effronteries like this irritates the Jewish people even more, especially when the government treats us so cruelly. Only in the last couple of days, Jews have been banished from <rs type="place"><ref source="place178">Siberia</ref></rs>, 
-               driven out of <rs type="place"><ref source="place151">Moscow</ref></rs>; several Jews have been arrested in <rs type="place"><ref source="place187">Kyiv</ref></rs>, <rs type="place"><ref source="place033">Warsaw</ref></rs>, and 
-               <rs type="place"><ref source="place188">Łódź</ref></rs>, some Jews have been hanged in the <rs type="place"><ref source="place033">Warsaw</ref></rs> citadel because they wanted to desert the military. Treating Jewish people as 
+               Of course, effronteries like this irritates the Jewish people even more, especially when the government treats us so cruelly. Only in the last couple of days, Jews have been banished from <placeName><ref source="place178">Siberia</ref></placeName>, 
+               driven out of <placeName><ref source="place151">Moscow</ref></placeName>; several Jews have been arrested in <placeName><ref source="place187">Kyiv</ref></placeName>, <placeName><ref source="place033">Warsaw</ref></placeName>, and 
+               <placeName><ref source="place188">Łódź</ref></placeName>, some Jews have been hanged in the <placeName><ref source="place033">Warsaw</ref></placeName> citadel because they wanted to desert the military. Treating Jewish people as 
                horrible and cruel and simultaneously demand patriotism and sacrifices - this already oversteps every possible mark for the calmest person to lose their temper. 
             </p>
             <p>
                But despite it all, the Russian Jews need to stay calm and not be tempted to revolt. Jewish people alone will not accomplish anything, because they are too weak and dispersed over various districts. They do not form one uniformly 
                organised mass and can not win themselves alone. However, if they join other revolutionaries, they will throw the baby out with the bathwater. Whatever way the revolution will end, there will be no benefit for the Jewish people. 
                History has taught us that everyone who utilises Jewish support and therefore comes to power and influence will sooner or later forget the Jews once they are not needed anymore. We already saw that in <date when-iso="1848">1848</date> and on other occasions 
-               as well. The only right thing for Jewish people to do is to keep calm, to not be goaded or upset. They do not need to be patriotic because <rs type="place"><ref source="place014">Russia</ref></rs> does not deserve that, they do 
-               not need to overexert themselves and donate money if they are not being forced to do so. On the other hand, they also do not need to be revolutionaries. “What’s lost is lost!” <rs type="place"><ref source="place014">Russia</ref></rs> 
+               as well. The only right thing for Jewish people to do is to keep calm, to not be goaded or upset. They do not need to be patriotic because <placeName><ref source="place014">Russia</ref></placeName> does not deserve that, they do 
+               not need to overexert themselves and donate money if they are not being forced to do so. On the other hand, they also do not need to be revolutionaries. “What’s lost is lost!” <placeName><ref source="place014">Russia</ref></placeName> 
                will fall into other hands, the war will end it, it will fall down and down until the lowest level. God will wage war for you and you should remain silent!
             </p>
             <p style="text-align:right">
-               <rs type="person"><ref source="person221">Ben Solomon</ref></rs>.
+               <persName><ref source="person221">Ben Solomon</ref></persName>.
             </p>
             <cb/>
          </div>
          <div n="6">
-            <head>Letter from <rs type="place"><ref source="place068">Romania</ref></rs>.</head>
+            <head>Letter from <placeName><ref source="place068">Romania</ref></placeName>.</head>
             <p>   
-               Apart from <rs type="place"><ref source="place014">Russia</ref></rs>, <rs type="place"><ref source="place068">Romania</ref></rs> is the only other country where Jews suffer from laws of exceptional character, which means they are not 
-               equal to any other citizen, but those laws have been issued especially for Jewish people who suffer greatly. In some cases the situation for Romanian Jews is worse than for Russian Jews. <rs type="place"><ref source="place014">Russia</ref></rs> 
+               Apart from <placeName><ref source="place014">Russia</ref></placeName>, <placeName><ref source="place068">Romania</ref></placeName> is the only other country where Jews suffer from laws of exceptional character, which means they are not 
+               equal to any other citizen, but those laws have been issued especially for Jewish people who suffer greatly. In some cases the situation for Romanian Jews is worse than for Russian Jews. <placeName><ref source="place014">Russia</ref></placeName> 
                is an illiberal ruled country, which oppresses its whole citizenship, Jew or not. The Polish, the Armenians, the Finish are being particularly persecuted. If Jewish people suffer more than everyone else, but if the government improves, 
                the situation for Jews will as well. 
             </p>
             <p>
-               However, <rs type="place"><ref source="place068">Romania</ref></rs> is a free country with a constitution; the level of freedom is great, as Romanians proclaim proudly; the French of the <rs type="place"><ref source="place077">Balkan</ref></rs>. 
+               However, <placeName><ref source="place068">Romania</ref></placeName> is a free country with a constitution; the level of freedom is great, as Romanians proclaim proudly; the French of the <placeName><ref source="place077">Balkan</ref></placeName>. 
                They have a parliament, free press, freedom of thought and similar laws as in every European country. However, the 350,000 Jews living there are being oppressed and persecuted. Every citizen lives freely and unrestricted, only the Jewish 
                people live in fear and fright. Their situation is bitter and the hatred towards them great.
             </p>
             <p>
-               Still, one should not assume that exceptional laws exist in the free country of <rs type="place"><ref source="place068">Romania</ref></rs>. No! That does not match with a civilised land. Furthermore, the <ref source="https://www.wikidata.org/wiki/Q1048169">Berlin congress in 1848</ref> 
-               only allowed <rs type="place"><ref source="place068">Romania</ref></rs> to be an independent country if the Jewish people were given the same laws as all citizens of the country. The Romanian laws do not mention the word “Jew”. The smart 
-               Romanians speculated by putting in the word “foreign” instead of “Jew”. Every citizen in <rs type="place"><ref source="place068">Romania</ref></rs> abides by the same laws, except for “foreigners” - and “foreigners” translate to “Jews”. 
+               Still, one should not assume that exceptional laws exist in the free country of <placeName><ref source="place068">Romania</ref></placeName>. No! That does not match with a civilised land. Furthermore, the <ref source="https://www.wikidata.org/wiki/Q1048169">Berlin congress in <date when-iso="1848">1848</date></ref> 
+               only allowed <placeName><ref source="place068">Romania</ref></placeName> to be an independent country if the Jewish people were given the same laws as all citizens of the country. The Romanian laws do not mention the word “Jew”. The smart 
+               Romanians speculated by putting in the word “foreign” instead of “Jew”. Every citizen in <placeName><ref source="place068">Romania</ref></placeName> abides by the same laws, except for “foreigners” - and “foreigners” translate to “Jews”. 
                Although they are born in the country like their parents and grandparents, served in the military, bear the weight of the country as everyone else - but they are still “foreigners” - and “foreigners” do not have any rights in 
-               <rs type="place"><ref source="place068">Romania</ref></rs>. Foreigners are not allowed to live in villages, foreigners are not allowed to supply the government, foreigners are not allowed to be lawyers, pharmacists, or labourers 
-               because whoever owns a bigger factory has to employ primarily domestic workers and not “foreigners”. The Romanian Jews are “foreigners” in <rs type="place"><ref source="place068">Romania</ref></rs>, but they do not have another 
-               home as they are indeed Romanians. Nobody attends to them, nobody cares about them. The great powers who signed the Treaty of <rs type="place"><ref source="place031">Berlin</ref></rs> protested a few times against this poor treatment 
-               of Jews, but <rs type="place"><ref source="place068">Romania</ref></rs> ignored that and remained silent. The powers on their side do not bother intermingling with the country’s “inner” affairs because of the Jewish people - they are 
+               <placeName><ref source="place068">Romania</ref></placeName>. Foreigners are not allowed to live in villages, foreigners are not allowed to supply the government, foreigners are not allowed to be lawyers, pharmacists, or labourers 
+               because whoever owns a bigger factory has to employ primarily domestic workers and not “foreigners”. The Romanian Jews are “foreigners” in <placeName><ref source="place068">Romania</ref></placeName>, but they do not have another 
+               home as they are indeed Romanians. Nobody attends to them, nobody cares about them. The great powers who signed the Treaty of <placeName><ref source="place031">Berlin</ref></placeName> protested a few times against this poor treatment 
+               of Jews, but <placeName><ref source="place068">Romania</ref></placeName> ignored that and remained silent. The powers on their side do not bother intermingling with the country’s “inner” affairs because of the Jewish people - they are 
                still only <hi rend="italic">Jews</hi> after all. 
             </p>
             <p>
-               The reason why Jewish people are being treated so poorly in <rs type="place"><ref source="place068">Romania</ref></rs> - a country being governed so freely and liberally - is the following: the Romanian people consist mostly of farmers 
+               The reason why Jewish people are being treated so poorly in <placeName><ref source="place068">Romania</ref></placeName> - a country being governed so freely and liberally - is the following: the Romanian people consist mostly of farmers 
                and are not very intelligent. The ministers, the generals, the high officials and the deputies
             </p><pb/>
             <fw type="pageNum">- 4 -</fw>
             <p>
                of parliament are mostly immigrated Greeks and Bulgarians who exploits the Romanian people and control it however they want because they are afraid that the Romanian people should not wake up and let themselves be exploited by other 
-               external forces as they want to keep <rs type="place"><ref source="place068">Romania</ref></rs> in darkness and fear as it always is with the <hi rend="italic">Jews</hi>. The Jew is an exploiter, a fraud, he does not work and lives 
+               external forces as they want to keep <placeName><ref source="place068">Romania</ref></placeName> in darkness and fear as it always is with the <hi rend="italic">Jews</hi>. The Jew is an exploiter, a fraud, he does not work and lives 
                off the hard work of the Romanian people - that is what they yell regularly so the people do not notice they are being skinned by their own representatives. - The Romanian people are naturally indulgent and lived well alongside the 
                Jews, only the foreign exploiters set the people against the Jewish people. 
             </p>
             <p>   
-               Moreover, there are two parties in <rs type="place"><ref source="place068">Romania</ref></rs> after all: liberal and conservative. Both fight each other and every now and then another party comes into power. Every party wants to show the 
+               Moreover, there are two parties in <placeName><ref source="place068">Romania</ref></placeName> after all: liberal and conservative. Both fight each other and every now and then another party comes into power. Every party wants to show the 
                people that they are better and as the country is poor and it is hardly possible to create something new, they all want to pass more laws against the Jewish people. With that it can show the nation: “Look! We protect you against the Jewish 
                exploiters!” They talk the farmers into believing that if they take the piece of bread away from the Jew, the farmer will be better off. 
             </p>
@@ -280,24 +280,24 @@
                as well. As the Jewish people there are viewed as “foreigners” the government does not recognise their municipalities and communities. The rabbis have no say and no influence, schools have also been closed down on multiple occasions as 
                “foreigners” are not allowed to operate schools… The government has promised several times to improve the situation and to introduce an organisation for the community - but as usual, it does not keep its word.
             </p>
-            <p style="text-align:right"><ref source="person244"><rs type="person">Solomo Fridman</rs></ref></p>
+            <p style="text-align:right"><ref source="person244"><persName>Solomo Fridman</persName></ref></p>
          </div>
          <div n="7">
-            <head>The second <rs type="place"><ref source="place015">Kishinev</ref></rs> trials</head>
+            <head>The second <placeName><ref source="place015">Kishinev</ref></placeName> trials</head>
             <p>
-               The second trial regarding the cruel pogrom which happened last year started these days in <rs type="place"><ref source="place015">Chișinău</ref></rs>. Like last time, the process was a sheer comedy. Out of 59 defendants who have been accused of 
-               killing Jews, 56 have been acquitted and only three have been charged namely one of them to one<cb/> year and two to four and a half years of penal servitude. In <rs type="place"><ref source="place014">Russia</ref></rs>, where the smallest crime 
+               The second trial regarding the cruel pogrom which happened last year started these days in <placeName><ref source="place015">Chișinău</ref></placeName>. Like last time, the process was a sheer comedy. Out of 59 defendants who have been accused of 
+               killing Jews, 56 have been acquitted and only three have been charged namely one of them to one<cb/> year and two to four and a half years of penal servitude. In <placeName><ref source="place014">Russia</ref></placeName>, where the smallest crime 
                is punished harshly, murdering a Jew gets punished by one year of detention…
             </p>
             <p>
-               The whole trial played out the way the <rs type="place"><ref type="place018">St Petersburg</ref></rs> government dictated the chief justice <hi rend="italic"><rs type="person"><ref source="person251">Davidov</ref></rs></hi> to do. The judge attempts to cover up the truth with great effort. Under no 
+               The whole trial played out the way the <placeName><ref type="place018">St Petersburg</ref></placeName> government dictated the chief justice <hi rend="italic"><persName><ref source="person251">Davidov</ref></persName></hi> to do. The judge attempts to cover up the truth with great effort. Under no 
                circumstances should be revealed who the instigator was. The government and officials suppress and persecute Jews severely to the degree of wanting to gloss over the whole affair and not wanting to be bothered by it anymore. 
             </p>
             <p>
-               One of the exonerees, a certain <rs type="person"><ref source="person252">Korkhov</ref></rs>, has been accused by multiple witnesses who saw him alone murder the Jew <rs type="person"><ref source="person253">Ulman</ref></rs> and desecrate the body afterwards. He still got acquitted. 
+               One of the exonerees, a certain <persName><ref source="person252">Korkhov</ref></persName>, has been accused by multiple witnesses who saw him alone murder the Jew <persName><ref source="person253">Ulman</ref></persName> and desecrate the body afterwards. He still got acquitted. 
             </p>
             <p>
-               On <date when-iso="1904-02-25">February 25th</date>, the trial against the brothers <rs type="person"><ref source="person253">Petersko</ref></rs>, who murdered two Jews and battered one to put him into hospital for three months on April 20th in the middle of the day in the <rs type="place"><ref source="place188">Kiever Gasse</ref></rs>, 
+               On <date when-iso="1904-02-25">February 25th</date>, the trial against the brothers <persName><ref source="person253">Petersko</ref></persName>, who murdered two Jews and battered one to put him into hospital for three months on April 20th in the middle of the day in the <placeName><ref source="place188">Kiever Gasse</ref></placeName>, 
                took place. Fifteen witnesses swore to have seen it all. Still, they were sentenced to only four years of penal servitude. 
             </p>
             <p>
@@ -310,104 +310,104 @@
                The war.
             </head>
             <head type="3">
-               Between <rs type="place"><ref source="place019">Japan</ref></rs> and <rs type="place"><ref source="place014">Russia</ref></rs>.
+               Between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName>.
             </head>
             <p>
-               <rs type="place"><ref source="place156">London</ref></rs>. News from <rs type="place"><ref source="place022">Korea</ref></rs> reports that the Japanese managed to position the military close to the <rs type="place"><ref source="place190">Taedong River</ref></rs>. 
+               <placeName><ref source="place156">London</ref></placeName>. News from <placeName><ref source="place022">Korea</ref></placeName> reports that the Japanese managed to position the military close to the <placeName><ref source="place190">Taedong River</ref></placeName>. 
                The Japanese have already stationed a large number of infantry there which is exemplarily organised and armed. 
             </p>
             <p>
-               <rs type="place"><ref source="place156">London</ref></rs>. While <rs type="place"><ref source="place014">Russia</ref></rs> claims that <rs type="place"><ref source="place022">Korea</ref></rs> sticks with <rs type="place"><ref source="place019">Japan</ref></rs> 
-               and that the Korean citizens support <rs type="place"><ref source="place019">Japan</ref></rs> at every turn, <rs type="place"><ref source="place019">Japan</ref></rs> claims the opposite, that the people stick with <rs type="place"><ref source="place014">Russia</ref></rs> 
+               <placeName><ref source="place156">London</ref></placeName>. While <placeName><ref source="place014">Russia</ref></placeName> claims that <placeName><ref source="place022">Korea</ref></placeName> sticks with <placeName><ref source="place019">Japan</ref></placeName> 
+               and that the Korean citizens support <placeName><ref source="place019">Japan</ref></placeName> at every turn, <placeName><ref source="place019">Japan</ref></placeName> claims the opposite, that the people stick with <placeName><ref source="place014">Russia</ref></placeName> 
                and support the Russians.
             </p>
             <p>
-               <rs type="place"><ref source="place031">Berlin</ref></rs>. The Japanese government bought three new battleships from the government of <rs type="place"><ref source="place191">Chile</ref></rs> (<rs type="place"><ref source="place192">America</ref></rs>) 
-               which have already been shipped to <rs type="place"><ref source="place019">Japan</ref></rs>. 
+               <placeName><ref source="place031">Berlin</ref></placeName>. The Japanese government bought three new battleships from the government of <placeName><ref source="place191">Chile</ref></placeName> (<placeName><ref source="place192">America</ref></placeName>) 
+               which have already been shipped to <placeName><ref source="place019">Japan</ref></placeName>. 
             </p>
             <p>
-               <rs type="place"><ref source="place018">St Petersburg</ref></rs>. People are being reminded that the well-known counsellor <rs type="pesson"><ref source="person070">Jan Bloch</ref></rs>, who wrote a book about the upcoming war, calculated that if the war between 
-               <rs type="place"><ref source="place014">Russia</ref></rs> and <rs type="place"><ref source="place019">Japan</ref></rs> lasts one year it would cost <rs type="place"><ref source="place014">Russia</ref></rs> 11,756,000,000 roubles. However, if the war lasts two years, 
-               it will drain the monetary resources enough to ruin <rs type="place"><ref source="place014">Russia</ref></rs> completely. 
+               <placeName><ref source="place018">St Petersburg</ref></placeName>. People are being reminded that the well-known counsellor <persName><ref source="person070">Jan Bloch</ref></persName>, who wrote a book about the upcoming war, calculated that if the war between 
+               <placeName><ref source="place014">Russia</ref></placeName> and <placeName><ref source="place019">Japan</ref></placeName> lasts one year it would cost <placeName><ref source="place014">Russia</ref></placeName> 11,756,000,000 roubles. However, if the war lasts two years, 
+               it will drain the monetary resources enough to ruin <placeName><ref source="place014">Russia</ref></placeName> completely. 
             </p>
             <p>
-               <rs type="place"><ref source="place086">Tokyo</ref></rs>. The Japanese stormed the stronghold of <rs type="place"><ref source="place083">Port Arthur</ref></rs> again in the past few days and caused severe damage. Some Russian ships left the harbour to 
+               <placeName><ref source="place086">Tokyo</ref></placeName>. The Japanese stormed the stronghold of <placeName><ref source="place083">Port Arthur</ref></placeName> again in the past few days and caused severe damage. Some Russian ships left the harbour to 
             </p><pb/>
             <fw type="pageNum">- 5 -</fw>
             <p>
                bombard the Japanese fleet, but they needed to retreat right away. Two ships sank.
             </p>
             <p>
-               <rs type="place"><ref source="place083">Port Arthur</ref></rs>. The Russians reckon already that the Japanese will soon surround <rs type="place"><ref source="place083">Port Arthur</ref></rs>. The Japanese try with all their might to obtain the fortress as it 
+               <placeName><ref source="place083">Port Arthur</ref></placeName>. The Russians reckon already that the Japanese will soon surround <placeName><ref source="place083">Port Arthur</ref></placeName>. The Japanese try with all their might to obtain the fortress as it 
                is very important. However, the Russians claim that the fortress can sustain over a year. 
             </p>
             <p>
-               <rs type="place"><ref source="place082">Vladivostok</ref></rs>. Japanese battleships are blocking the harbour and will soon occupy the city on land as well. The city will have to be subordinate.
+               <placeName><ref source="place082">Vladivostok</ref></placeName>. Japanese battleships are blocking the harbour and will soon occupy the city on land as well. The city will have to be subordinate.
             </p>
             <p>
-               <rs type="place"><ref type="place018">St Petersburg</ref></rs>. After the accident that happened on the <rs type="place"><ref source="place176">Lake Baikal</ref></rs> where railroads were built on the ice, but it broke and a lot of soldiers drowned, the minister 
+               <placeName><ref type="place018">St Petersburg</ref></placeName>. After the accident that happened on the <placeName><ref source="place176">Lake Baikal</ref></placeName> where railroads were built on the ice, but it broke and a lot of soldiers drowned, the minister 
                of railroads wants to give it another try. The train passed over the ice, but over 1,000 soldiers froze to death - that is how cold it is there. A whole train with clothes and food broke through the ice and disappeared in the water. 
             </p>
             <p>
-               <rs type="place"><ref source="place156">London</ref></rs>. According to Japanese and Russian calculations, <rs type="place"><ref source="place019">Japan</ref></rs> has more military stationed in the battle zone. Only at the end of April 
-               <rs type="place"><ref source="place014">Russia</ref></rs> will have the same amount of military as <rs type="place"><ref source="place019">Japan</ref></rs> if it can send nine trains with soldiers daily. As this is not easy to do it will 
-               take even longer until <rs type="place"><ref source="place014">Russia</ref></rs> is as strong as <rs type="place"><ref source="place019">Japan</ref></rs>. <rs type="place"><ref source="place019">Japan</ref></rs> will use the time to 
+               <placeName><ref source="place156">London</ref></placeName>. According to Japanese and Russian calculations, <placeName><ref source="place019">Japan</ref></placeName> has more military stationed in the battle zone. Only at the end of April 
+               <placeName><ref source="place014">Russia</ref></placeName> will have the same amount of military as <placeName><ref source="place019">Japan</ref></placeName> if it can send nine trains with soldiers daily. As this is not easy to do it will 
+               take even longer until <placeName><ref source="place014">Russia</ref></placeName> is as strong as <placeName><ref source="place019">Japan</ref></placeName>. <placeName><ref source="place019">Japan</ref></placeName> will use the time to 
                strengthen its position. Maybe it will also be able to destroy the Russian military a bit. 
             </p>
             <p>
-               <rs type="place"><ref type="place018">St Petersburg</ref></rs>. <rs type="place"><ref source="place014">Russia</ref></rs> has always built the widest train tracks in the world. So in case of war, the enemy should not be able to transport its military 
-               on Russian tracks when invading <rs type="place"><ref source="place014">Russia</ref></rs>. Turns out, <rs type="place"><ref source="place014">Russia</ref></rs> only hurt itself the most because it is missing waggons for military transport, but cannot 
+               <placeName><ref type="place018">St Petersburg</ref></placeName>. <placeName><ref source="place014">Russia</ref></placeName> has always built the widest train tracks in the world. So in case of war, the enemy should not be able to transport its military 
+               on Russian tracks when invading <placeName><ref source="place014">Russia</ref></placeName>. Turns out, <placeName><ref source="place014">Russia</ref></placeName> only hurt itself the most because it is missing waggons for military transport, but cannot 
                get them anywhere because they are all too slender. It will be a while until new ones are constructed.
             </p>
             <p>
-               <rs type="place"><ref source="place193">Peking</ref></rs>. <rs type="place"><ref source="place021">China</ref></rs> is starting to bustle and has brought a lot of military to their borders preparing for war. Although the Chinese want to aid 
-               <rs type="place"><ref source="place019">Japan</ref></rs>, <rs type="place"><ref source="place019">Japan</ref></rs> would not be satisfied and waive their help. In that case, <rs type="place"><ref source="place045">France</ref></rs> would have to come to 
-               <rs type="place"><ref source="place014">Russia</ref></rs>’s help as they have a treaty that one has to help the other if it is being attacked by two forces. <rs type="place"><ref source="place019">Japan</ref></rs> would rather wage war alone and pass on 
+               <placeName><ref source="place193">Peking</ref></placeName>. <placeName><ref source="place021">China</ref></placeName> is starting to bustle and has brought a lot of military to their borders preparing for war. Although the Chinese want to aid 
+               <placeName><ref source="place019">Japan</ref></placeName>, <placeName><ref source="place019">Japan</ref></placeName> would not be satisfied and waive their help. In that case, <placeName><ref source="place045">France</ref></placeName> would have to come to 
+               <placeName><ref source="place014">Russia</ref></placeName>’s help as they have a treaty that one has to help the other if it is being attacked by two forces. <placeName><ref source="place019">Japan</ref></placeName> would rather wage war alone and pass on 
                any foreign help. (Lovely war preparations!)
             </p>
             <p>
-               <rs type="place"><ref type="place018">St Petersburg</ref></rs>. The minister of war <rs type="person"><ref source="person068">Kuropatkin</ref></rs> drags out leaving for the war zone daily. He claims that there is still little military and there is nothing 
+               <placeName><ref type="place018">St Petersburg</ref></placeName>. The minister of war <persName><ref source="person068">Kuropatkin</ref></persName> drags out leaving for the war zone daily. He claims that there is still little military and there is nothing 
                to do there. 
             </p>
             <p>
-               <rs type="place"><ref type="place018">St Petersburg</ref></rs>. The <rs type="person"><ref source="person042">tsar</ref></rs> is quite infuriated by the minister of foreign affairs <rs type="person"><ref source="person071">Lamsdorf</ref></rs> on how he let the 
-               war happen, but soon, <rs type="place"><ref source="place014">Russia</ref></rs> will be prepared enough. He will be discharged and replaced by the Roman ambassador <rs type="person"><ref source="person072">Izvolsky</ref></rs>. - The <rs type="person"><ref source="person076">minister of finances</ref></rs> 
-               will also receive his resignation and the previous <rs type="person"><ref source="person074">minister of war</ref></rs> was asked to assume the position. But he does not want to. 
+               <placeName><ref type="place018">St Petersburg</ref></placeName>. The <persName><ref source="person042">tsar</ref></persName> is quite infuriated by the minister of foreign affairs <persName><ref source="person071">Lamsdorf</ref></persName> on how he let the 
+               war happen, but soon, <placeName><ref source="place014">Russia</ref></placeName> will be prepared enough. He will be discharged and replaced by the Roman ambassador <persName><ref source="person072">Izvolsky</ref></persName>. - The <persName><ref source="person076">minister of finances</ref></persName> 
+               will also receive his resignation and the previous <persName><ref source="person074">minister of war</ref></persName> was asked to assume the position. But he does not want to. 
             </p>
             <p>
-               <rs type="place"><ref source="place156">London</ref></rs>. News from <rs type="place"><ref source="place019">Japan</ref></rs> report that Japanese spies managed to destroy the Siberian railway in multiple places and disrupt the telegraph lines. 
+               <placeName><ref source="place156">London</ref></placeName>. News from <placeName><ref source="place019">Japan</ref></placeName> report that Japanese spies managed to destroy the Siberian railway in multiple places and disrupt the telegraph lines. 
             </p><cb/>
             <p>
-               <rs type="place"><ref type="place018">St Petersburg</ref></rs>. There have been small engagements between Russian and Japanese outposts in <rs type="place"><ref source="place022">Korea</ref></rs>, during which they have fired at each other. Important battles will 
+               <placeName><ref type="place018">St Petersburg</ref></placeName>. There have been small engagements between Russian and Japanese outposts in <placeName><ref source="place022">Korea</ref></placeName>, during which they have fired at each other. Important battles will 
                not happen in the near future. 
             </p>
          </div>
          <div n="9">
-            <head>The incidents on the <rs type="place"><ref source="place077">Balkan</ref></rs>.</head>
+            <head>The incidents on the <placeName><ref source="place077">Balkan</ref></placeName>.</head>
             <p>
-               <rs type="place"><ref source="place117">Constantinople</ref></rs>. <rs type="place"><ref source="place112">Bulgaria</ref></rs> and <rs type="place"><ref source="place075">Turkey</ref></rs> have finally come to an agreement. <rs type="place"><ref source="place075">Turkey</ref></rs> 
-               promises to take in the Macedonian refugees again, a general amnesty (refraining from punishments), and to repeal the exception laws. <rs type="place"><ref source="place112">Bulgaria</ref></rs> in turn pledges to suppress the revolutionary movements in 
-               <rs type="place"><ref source="place112">Bulgaria</ref></rs> and to monitor the borders; no revolutionaries should cross into <rs type="place"><ref source="place081">Macedonia</ref></rs>.
+               <placeName><ref source="place117">Constantinople</ref></placeName>. <placeName><ref source="place112">Bulgaria</ref></placeName> and <placeName><ref source="place075">Turkey</ref></placeName> have finally come to an agreement. <placeName><ref source="place075">Turkey</ref></placeName> 
+               promises to take in the Macedonian refugees again, a general amnesty (refraining from punishments), and to repeal the exception laws. <placeName><ref source="place112">Bulgaria</ref></placeName> in turn pledges to suppress the revolutionary movements in 
+               <placeName><ref source="place112">Bulgaria</ref></placeName> and to monitor the borders; no revolutionaries should cross into <placeName><ref source="place081">Macedonia</ref></placeName>.
             </p>
             <p>
-               <rs type="place"><ref source="place007">Vienna</ref></rs>. <ref source="https://www.wikidata.org/wiki/Q697173">The Wiener Zeitung</ref> is not particularly hopeful that <rs type="place"><ref source="place112">Bulgaria</ref></rs> and <rs type="place"><ref source="place075">Turkey</ref></rs> 
-               will come to an agreement. <rs type="place"><ref source="place075">Turkey</ref></rs> stationed more military at the borders of <rs type="place"><ref source="place112">Bulgaria</ref></rs> and <rs type="place"><ref source="place142">Bosnia</ref></rs>. It might just utilise both countries to better prepare for war. 
+               <placeName><ref source="place007">Vienna</ref></placeName>. <ref source="https://www.wikidata.org/wiki/Q697173">The Wiener Zeitung</ref> is not particularly hopeful that <placeName><ref source="place112">Bulgaria</ref></placeName> and <placeName><ref source="place075">Turkey</ref></placeName> 
+               will come to an agreement. <placeName><ref source="place075">Turkey</ref></placeName> stationed more military at the borders of <placeName><ref source="place112">Bulgaria</ref></placeName> and <placeName><ref source="place142">Bosnia</ref></placeName>. It might just utilise both countries to better prepare for war. 
             </p>
             <p>
-               <rs type="place"><ref source="place007">Vienna</ref></rs>. <rs type="place"><ref source="place075">Turkey</ref></rs> found a new excuse against the power’s demands for the chief of police to be foreign. <rs type="place"><ref source="place075">Turkey</ref></rs> demands that those officers speak Turkish.
+               <placeName><ref source="place007">Vienna</ref></placeName>. <placeName><ref source="place075">Turkey</ref></placeName> found a new excuse against the power’s demands for the chief of police to be foreign. <placeName><ref source="place075">Turkey</ref></placeName> demands that those officers speak Turkish.
             </p>
             <p>
-               <rs type="place"><ref source="place107">Rome</ref></rs>. The Italian government agreed to intervene militarily on the <rs type="place"><ref source="place081">Balkan</ref></rs> together with <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> in case a war breaks out. 
-               If <rs type="place"><ref source="place001">Austria-Hungary</ref></rs> does not want to intervene, <rs type="place"><ref source="place040">Italy</ref></rs> will do it themselves.
+               <placeName><ref source="place107">Rome</ref></placeName>. The Italian government agreed to intervene militarily on the <placeName><ref source="place081">Balkan</ref></placeName> together with <placeName><ref source="place001">Austria-Hungary</ref></placeName> in case a war breaks out. 
+               If <placeName><ref source="place001">Austria-Hungary</ref></placeName> does not want to intervene, <placeName><ref source="place040">Italy</ref></placeName> will do it themselves.
             </p>
             <p>
-               <rs type="place"><ref source="place135">Prague</ref></rs>. Several Bohemian cities report on the preparations to mobilise (calling in the reserves and preparing the regiments for war) the military.
+               <placeName><ref source="place135">Prague</ref></placeName>. Several Bohemian cities report on the preparations to mobilise (calling in the reserves and preparing the regiments for war) the military.
             </p>
          </div>
          <div n="10">
-            <head>The <rs type="place"><ref source="place147">Zabolotiv</ref></rs> trials.</head>
+            <head>The <placeName><ref source="place147">Zabolotiv</ref></placeName> trials.</head>
             <p>
-               <rs type="place"><ref source="place148">Kolomyia</ref></rs>. The trials about the <rs type="place"><ref source="place147">Zabolotiv</ref></rs> pogroms have already lasted a whole week. Most witnesses confirm  the accusations. It becomes apparent that the persecutions were not systematically planned, but that the 
+               <placeName><ref source="place148">Kolomyia</ref></placeName>. The trials about the <placeName><ref source="place147">Zabolotiv</ref></placeName> pogroms have already lasted a whole week. Most witnesses confirm  the accusations. It becomes apparent that the persecutions were not systematically planned, but that the 
                people had been intensely incited by antisemites. It had been sufficient that one person started to cry against the Jews that everyone joined and believed what was said. Several more witnesses will be summoned to court and the trial will take another whole week.
             </p>
          </div>
@@ -415,7 +415,7 @@
             <head>News.</head>
             <head type="h2">Jewish news.</head>
             <p>
-               (<rs type="place"><ref source="place194">Pomorjany</ref></rs>). A Jew from <rs type="place"><ref source="place195">Dynów</ref></rs> who has recently passed our city, has asked his waggoner something in Polish in the middle of the central plaza. A Ruthanian farmer who heard 
+               (<placeName><ref source="place194">Pomorjany</ref></placeName>). A Jew from <placeName><ref source="place195">Dynów</ref></placeName> who has recently passed our city, has asked his waggoner something in Polish in the middle of the central plaza. A Ruthanian farmer who heard 
                this by chance attacked the Jew in outrage and yelled: “Cursed Jew! Lives on Ruthanian soil, eats Ruthanian bread, and speaks Polish!” He started to beat the Jew with a big stick, who could barely escape. - The Jews do not know what to do anymore, how they should speak; 
                everything is bad. The Polish yell at them that they are German because they speak Yiddish which is similar to German.
             </p><pb/>
@@ -424,35 +424,35 @@
                If they speak Polish, the Ruthanians fall into rage. Whatever they do, nobody is pleased.
             </p>
             <p>
-               (<rs type="place"><ref source="place030">Budapest</ref></rs>). We found interesting information about Hungarian Jews as estate owners in a Christian book. 2,788 bigger estates (over 100 yoke) which add up to 2,619,300 yoke of fields are in possession of Jews. Minor estates, 
-               which are smaller than 100 yoke and owned by Jews, sum up to 1,000,000 yoke. That is 1/12 of all of <rs type="place"><ref source="place009">Hungary</ref></rs>. Jews own 65 % of all leased estates, over 3,000,000 yoke. In total, Hungarian Jews hold around 8,000,000 yoke. That 
-               is 37 % or more than 1/3 of <rs type="place"><ref source="place009">Hungary</ref></rs>. 
+               (<placeName><ref source="place030">Budapest</ref></placeName>). We found interesting information about Hungarian Jews as estate owners in a Christian book. 2,788 bigger estates (over 100 yoke) which add up to 2,619,300 yoke of fields are in possession of Jews. Minor estates, 
+               which are smaller than 100 yoke and owned by Jews, sum up to 1,000,000 yoke. That is 1/12 of all of <placeName><ref source="place009">Hungary</ref></placeName>. Jews own 65 % of all leased estates, over 3,000,000 yoke. In total, Hungarian Jews hold around 8,000,000 yoke. That 
+               is 37 % or more than 1/3 of <placeName><ref source="place009">Hungary</ref></placeName>. 
             </p>
             <p>
-               (<rs type="place"><ref source="place156">London</ref></rs>). Soon, the new law against immigration will be discussed in parliament. So far, the English Jews keep quiet about the matter as if it does not affect them at all. If the law is passed, Jewish immigration to 
-               <rs type="place"><ref source="place011">England</ref></rs> will be near impossible. 
+               (<placeName><ref source="place156">London</ref></placeName>). Soon, the new law against immigration will be discussed in parliament. So far, the English Jews keep quiet about the matter as if it does not affect them at all. If the law is passed, Jewish immigration to 
+               <placeName><ref source="place011">England</ref></placeName> will be near impossible. 
             </p>
             <p>
-               (<rs type="place"><ref type="place018">St Petersburg</ref></rs>). 500,186 Jewish craftsmen, coachmen, water bearers, lumberjacks, excavators and 99,000 in similar occupations live in <rs type="place"><ref source="place014">Russia</ref></rs>. 10,721 Jewish families or 68,959 
-               souls work in agriculture. The number of factory workers in <rs type="place"><ref source="place014">Russia</ref></rs> (except for <rs type="place"><ref source="place076">Congress Poland</ref></rs> and the <rs type="place"><ref source="place196">Kherson</ref></rs> Governorate) 
-               is 33,133. The number of <rs type="place"><ref source="place014">Russia</ref></rs> and the <rs type="place"><ref source="place196">Kherson</ref></rs> Governorate are not known. 
+               (<placeName><ref type="place018">St Petersburg</ref></placeName>). 500,186 Jewish craftsmen, coachmen, water bearers, lumberjacks, excavators and 99,000 in similar occupations live in <placeName><ref source="place014">Russia</ref></placeName>. 10,721 Jewish families or 68,959 
+               souls work in agriculture. The number of factory workers in <placeName><ref source="place014">Russia</ref></placeName> (except for <placeName><ref source="place076">Congress Poland</ref></placeName> and the <placeName><ref source="place196">Kherson</ref></placeName> Governorate) 
+               is 33,133. The number of <placeName><ref source="place014">Russia</ref></placeName> and the <placeName><ref source="place196">Kherson</ref></placeName> Governorate are not known. 
             </p>
             <p>
-               (<rs type="place"><ref source="place187">Kyiv</ref></rs>). The new general governor of <rs type="place"><ref source="place187">Kyiv</ref></rs>, General <rs type="place"><ref source="person075">Fyodor Trepov</ref></rs> who was the city chief of <rs type="place"><ref type="place018">St Petersburg</ref></rs> 
-               before where he oppressed and persecuted Jews massively, has started to treat Jews rigorously here as well. He tightened the regulations concerned with the Jewish right of residence and ordered police to check if Jews who are not allowed to reside in <rs type="place"><ref source="place187">Kyiv</ref></rs>, 
-               live there. - Once the first news about Russian defeats in the war with <rs type="place"><ref source="place019">Japan</ref></rs>; the general governor called for the provosts of the Jewish community and told them: “I have heard you delight in our defeats. I want to give you a warning that if you do not 
-               participate in patriotism like the Russians do, you should remember what happened in <rs type="place"><ref source="place015">Kishinev</ref></rs>”! - The Jews understood what he meant and prayed for the Russians in schools and donated a huge sum for the matters of war the next day.
+               (<placeName><ref source="place187">Kyiv</ref></placeName>). The new general governor of <placeName><ref source="place187">Kyiv</ref></placeName>, General <placeName><ref source="person075">Fyodor Trepov</ref></placeName> who was the city chief of <placeName><ref type="place018">St Petersburg</ref></placeName> 
+               before where he oppressed and persecuted Jews massively, has started to treat Jews rigorously here as well. He tightened the regulations concerned with the Jewish right of residence and ordered police to check if Jews who are not allowed to reside in <placeName><ref source="place187">Kyiv</ref></placeName>, 
+               live there. - Once the first news about Russian defeats in the war with <placeName><ref source="place019">Japan</ref></placeName>; the general governor called for the provosts of the Jewish community and told them: “I have heard you delight in our defeats. I want to give you a warning that if you do not 
+               participate in patriotism like the Russians do, you should remember what happened in <placeName><ref source="place015">Kishinev</ref></placeName>”! - The Jews understood what he meant and prayed for the Russians in schools and donated a huge sum for the matters of war the next day.
             </p>
          </div>
          <div n="12">
             <head>Feuilleton</head>
-            <head type="h2"><rs type="person"><ref source="person046">Rabbi Meir</ref></rs> of <rs type="place"><ref source="place099">Rothenburg</ref></rs>.</head>
+            <head type="h2"><persName><ref source="person046">Rabbi Meir</ref></persName> of <placeName><ref source="place099">Rothenburg</ref></placeName>.</head>
             <head type="h3">
                (A historical retelling).<lb/>
                Third chapter
             </head>
             <p>
-               <rs type="person"><ref source="person076">Albrecht II, Count of Hohenberg-Rotenburg</ref></rs> was a sovereign, but ugly human. His eyes radiated fear, his gaze filled with anger. He went to the door and called for the rabbi. However, not with a friendly expression as he has<cb/> always been 
+               <persName><ref source="person076">Albrecht II, Count of Hohenberg-Rotenburg</ref></persName> was a sovereign, but ugly human. His eyes radiated fear, his gaze filled with anger. He went to the door and called for the rabbi. However, not with a friendly expression as he has<cb/> always been 
                when he came to him. Only one was able to recognise in this face that he was mad. However, he welcomed the rabbi friendly and offered him a seat.
             </p>
             <p>
@@ -467,8 +467,8 @@
                The prince was engrossed in thought, he acted as if he did not hear what the rabbi said to him, but wanted to state his plan and again said to the rabbi: 
             </p>
             <p>
-               “You have certainly heard that our gracious emperor is preparing for war against Count <rs type="person"><ref source="person044">Eberhard of Württemberg</ref></rs> with the Roman regiment. Other powers follow his example which 
-               want to free themselves from the Roman prevalence and. In order to scotch the revolution, the government needs to publicly oppose the main instigator “Emperor <rs type="person"><ref source="person045">Rudolf of Habsburg</ref></rs>” 
+               “You have certainly heard that our gracious emperor is preparing for war against Count <persName><ref source="person044">Eberhard of Württemberg</ref></persName> with the Roman regiment. Other powers follow his example which 
+               want to free themselves from the Roman prevalence and. In order to scotch the revolution, the government needs to publicly oppose the main instigator “Emperor <persName><ref source="person045">Rudolf of Habsburg</ref></persName>” 
                and destroy him completely”
             </p>
             <p>
@@ -476,7 +476,7 @@
                whole story which the rabbi already knows about and cannot help in any way. 
             </p>
             <p>
-               “I think Emperor <rs type="person"><ref source="person045">Rudolf</ref></rs> to be a strong and brave fighter who will not subordinate any time soon. He promises his fellow combatants honour and prosperity as why they run against 
+               “I think Emperor <persName><ref source="person045">Rudolf</ref></persName> to be a strong and brave fighter who will not subordinate any time soon. He promises his fellow combatants honour and prosperity as why they run against 
                the greatest dangers and will not let themselves be defeated. Thus, venerable rabbi, is the government calling upon the every peoples and every nation in unison who are protected by his power, to prepare and gear up for war in 
                order to prove their loyalty. Your people on the other hand, the Jewish have not prepared to fight in a battle and have not studied any armament to prove their loyalty to the fatherland and their love to our propitious emperor. 
                As they do not support monetarily and instead of picking up weapons to fight against the enemy, they should protect the emperor’s finances.”
@@ -501,84 +501,84 @@
             </p>
          </div>
          <div n="13">
-            <head>Will <rs type="place"><ref source="place014">Russia</ref></rs> lose the war?</head>
+            <head>Will <placeName><ref source="place014">Russia</ref></placeName> lose the war?</head>
             <head type="h2">
-               (A little story of a war where <rs type="person"><ref source="person077">Peter the Great</ref></rs> has been defeated with an army of 80,000 men against a small army with a brave king.)</head>
+               (A little story of a war where <persName><ref source="person077">Peter the Great</ref></persName> has been defeated with an army of 80,000 men against a small army with a brave king.)</head>
             <p>
-               The main talking point these days is the conflict between <rs type="place"><ref source="place014">Russia</ref></rs> and <rs type="place"><ref source="place019">Japan</ref></rs>. Now it would be interesting to turn to a little 
-               bit of history which occurred two hundred years ago. This is a story about how <rs type="person"><ref source="person078">Carl XII</ref></rs>, the young king of <rs type="place"><ref source="place197">Sweden</ref></rs> defeated 
-               <rs type="person"><ref source="person077">Peter the Great</ref></rs>’s army with his allegiant army of 8,000 men. <rs type="person"><ref source="person077">Peter the Great</ref></rs> was then the sovereign of <rs type="place"><ref source="place014">Russia</ref></rs> 
-               and had an army of 80,000 men. With this story, the reader will see that in the matter of war, <rs type="place"><ref source="place019">Japan</ref></rs> is not hopeless against <rs type="place"><ref source="place014">Russia</ref></rs> 
+               The main talking point these days is the conflict between <placeName><ref source="place014">Russia</ref></placeName> and <placeName><ref source="place019">Japan</ref></placeName>. Now it would be interesting to turn to a little 
+               bit of history which occurred two hundred years ago. This is a story about how <persName><ref source="person078">Carl XII</ref></persName>, the young king of <placeName><ref source="place197">Sweden</ref></placeName> defeated 
+               <persName><ref source="person077">Peter the Great</ref></persName>’s army with his allegiant army of 8,000 men. <persName><ref source="person077">Peter the Great</ref></persName> was then the sovereign of <placeName><ref source="place014">Russia</ref></placeName> 
+               and had an army of 80,000 men. With this story, the reader will see that in the matter of war, <placeName><ref source="place019">Japan</ref></placeName> is not hopeless against <placeName><ref source="place014">Russia</ref></placeName> 
                which has considerably more soldiers and battleships than them. 
             </p>
             <p>
                The history in this case shows that those who are stronger in numbers do not automatically come out on top. A successful war stems from the soldiers' supremacy and willingness to sacrifice as well as the skills and expedition of their superiors. 
             </p>
             <p>
-               The founder of the Russian kingdom, <rs type="person"><ref source="person077">Peter the Great</ref></rs>, craved to be a great victor and wanted to have a harbour on the Eastern <rs type="place"><ref source="place198">Baltic Sea</ref></rs> 
-               to carry out his plans. He wanted the province of <rs type="place"><ref source="place199">Ingria</ref></rs>. The Swedes occupied it and he decided to take it away with force. Hence, <rs type="person"><ref source="person077">Peter</ref></rs> 
-               formed an alliance with the <rs type="person"><ref source="person079">king</ref></rs> of <rs type="place"><ref source="place067">Poland</ref></rs> to seize the piece of land he cast an eye on from <rs type="place"><ref source="place197">Sweden</ref></rs>.
+               The founder of the Russian kingdom, <persName><ref source="person077">Peter the Great</ref></persName>, craved to be a great victor and wanted to have a harbour on the Eastern <placeName><ref source="place198">Baltic Sea</ref></placeName> 
+               to carry out his plans. He wanted the province of <placeName><ref source="place199">Ingria</ref></placeName>. The Swedes occupied it and he decided to take it away with force. Hence, <persName><ref source="person077">Peter</ref></persName> 
+               formed an alliance with the <persName><ref source="person079">king</ref></persName> of <placeName><ref source="place067">Poland</ref></placeName> to seize the piece of land he cast an eye on from <placeName><ref source="place197">Sweden</ref></placeName>.
             </p>
             <p>
-               The historian <rs type="person"><ref source="person080">Voltaire</ref></rs> describes the Swedish as strong, strenuous people who can endure harm, hardship, and hunger. They are born with a craving for war and are more virtuous than being capable of acting. 
+               The historian <persName><ref source="person080">Voltaire</ref></persName> describes the Swedish as strong, strenuous people who can endure harm, hardship, and hunger. They are born with a craving for war and are more virtuous than being capable of acting. 
             </p>
             <p>
-               Noticing the danger, <rs type="person"><ref source="person078">King Carl</ref></rs> gave up the debauched he was leading and dressed as a simple soldier from then on. Before he did not meddle in the proceedings of his ministers. But right at the critical 
+               Noticing the danger, <persName><ref source="person078">King Carl</ref></persName> gave up the debauched he was leading and dressed as a simple soldier from then on. Before he did not meddle in the proceedings of his ministers. But right at the critical 
                moment when the ministers deliberated on the upcoming danger. Some proposed to engage and the king surprised everyone with his courageous demeanor. 
             </p>
             <p>
                “Gentleman”, he yelled with a steady voice, “I am determined to never start an unjust war and to never capitulate from a just one, unless the enemy is destroyed. My resolution is firm. I want to attack the first one who wants to start, the rest should be careful not to do it again.
             </p><cb/>
             <p>
-               His old ministers were quite surprised and grasped his declaration of war in admiration. <rs type="person"><ref source="person078">Carl</ref></rs> soon emerged as the initial attacker and sent a fleet to <rs type="place"><ref source="place200">Copenhagen</ref></rs>, 
-               the Danish Capital and defeated <rs type="place"><ref source="place201">Denmark</ref></rs>, who was also in an alliance with <rs type="person"><ref source="person077">Peter the Great</ref></rs>,  in six weeks. <rs type="person"><ref source="person078">Carl</ref></rs> 
-               was only eighteen years back then. At the same time, the <rs type="person"><ref source="person079">Polish king</ref></rs> attacked <rs type="place"><ref source="place202">Riga</ref></rs>, the capital of <rs type="place"><ref source="place204">Livonia</ref></rs> 
-               (Swedish land). And the tsar, <rs type="person"><ref source="person077">Peter the Great</ref></rs>, marched eastward with an army of 160,000 men. <rs type="place"><ref source="place202">Riga</ref></rs> was defended by <rs type="person"><ref source="person081">Graf Dahlberg</ref></rs>, 
-               an eighty year old Swedish general who withheld the enemy with a rare, fiery bravery. The result was that after the <rs type="person"><ref source="person079">Polish king</ref></rs> could not occupy the city under any circumstances, he saw it as justification to besiege the city. 
+               His old ministers were quite surprised and grasped his declaration of war in admiration. <persName><ref source="person078">Carl</ref></persName> soon emerged as the initial attacker and sent a fleet to <placeName><ref source="place200">Copenhagen</ref></placeName>, 
+               the Danish Capital and defeated <placeName><ref source="place201">Denmark</ref></placeName>, who was also in an alliance with <persName><ref source="person077">Peter the Great</ref></persName>,  in six weeks. <persName><ref source="person078">Carl</ref></persName> 
+               was only eighteen years back then. At the same time, the <persName><ref source="person079">Polish king</ref></persName> attacked <placeName><ref source="place202">Riga</ref></placeName>, the capital of <placeName><ref source="place204">Livonia</ref></placeName> 
+               (Swedish land). And the tsar, <persName><ref source="person077">Peter the Great</ref></persName>, marched eastward with an army of 160,000 men. <placeName><ref source="place202">Riga</ref></placeName> was defended by <persName><ref source="person081">Graf Dahlberg</ref></persName>, 
+               an eighty year old Swedish general who withheld the enemy with a rare, fiery bravery. The result was that after the <persName><ref source="person079">Polish king</ref></persName> could not occupy the city under any circumstances, he saw it as justification to besiege the city. 
             </p>
             <p>
-               Back then already, <rs type="place"><ref source="place014">Russia</ref></rs> played its intrigant and bogus politics. While it has already waged war, three Russian envoys were in <rs type="place"><ref source="place181">Stockholm</ref></rs> (<rs type="place"><ref source="place197">Sweden</ref></rs>) 
-               who swore that <rs type="place"><ref source="place014">Russia</ref></rs> only wants peace. Meanwhile in <rs type="place"><ref source="place014">Russia</ref></rs>, <rs type="person"><ref source="person077">Peter the Great</ref></rs> has published a manifesto in which he explains that he 
-               (<rs type="person"><ref source="person077">Peter</ref></rs>) was insulted in <rs type="place"><ref source="place202">Riga</ref></rs> when he was driving recklessly there. He had to take revenge on <rs type="place"><ref source="place197">Sweden</ref></rs> to take away a whole province. 
-               <rs type="person"><ref source="person078">King Carl</ref></rs>, who was an honest man, could not understand why a great ruler like <rs type="person"><ref source="person077">Peter</ref></rs> would act so cruelly and be so two-faced. Just like today’s diplomats found with the Cossacks.
+               Back then already, <placeName><ref source="place014">Russia</ref></placeName> played its intrigant and bogus politics. While it has already waged war, three Russian envoys were in <placeName><ref source="place181">Stockholm</ref></placeName> (<placeName><ref source="place197">Sweden</ref></placeName>) 
+               who swore that <placeName><ref source="place014">Russia</ref></placeName> only wants peace. Meanwhile in <placeName><ref source="place014">Russia</ref></placeName>, <persName><ref source="person077">Peter the Great</ref></persName> has published a manifesto in which he explains that he 
+               (<persName><ref source="person077">Peter</ref></persName>) was insulted in <placeName><ref source="place202">Riga</ref></placeName> when he was driving recklessly there. He had to take revenge on <placeName><ref source="place197">Sweden</ref></placeName> to take away a whole province. 
+               <persName><ref source="person078">King Carl</ref></persName>, who was an honest man, could not understand why a great ruler like <persName><ref source="person077">Peter</ref></persName> would act so cruelly and be so two-faced. Just like today’s diplomats found with the Cossacks.
             </p>
             <p>
-               So, <rs type="person"><ref source="person077">Peter the Great</ref></rs> marched in the lead of his great army until he reached the city of <rs type="place"><ref source="place205">Narva</ref></rs>. <rs type="person"><ref source="person078">King Carl</ref></rs> immediately rushed out 
+               So, <persName><ref source="person077">Peter the Great</ref></persName> marched in the lead of his great army until he reached the city of <placeName><ref source="place205">Narva</ref></placeName>. <persName><ref source="person078">King Carl</ref></persName> immediately rushed out 
                of the city to help. Although the Russians had 150 cannons with them, they were not able to invade the city and were shot down like stars  by the Swedish artillery. The city did not have a stronghold and the defending army numbered only 1,000 men. Still, 
-               <rs type="person"><ref source="person077">Peter the Great</ref></rs>’s army could not come close to the city. 
+               <persName><ref source="person077">Peter the Great</ref></persName>’s army could not come close to the city. 
             </p>
             <p>
-               Later, <rs type="person"><ref source="person077">Peter</ref></rs> found out that <rs type="person"><ref source="person078">Carl</ref></rs> went across the sea with 200 convoys to help the besieged city <rs type="place"><ref source="place205">Narva</ref></rs>. <rs type="person"><ref source="person077">Peter</ref></rs> 
-               brought 30,000 more men and wanted to circle <rs type="person"><ref source="person077">Peter</ref></rs> so that if he went to the city he needed to break through his army. 
+               Later, <persName><ref source="person077">Peter</ref></persName> found out that <persName><ref source="person078">Carl</ref></persName> went across the sea with 200 convoys to help the besieged city <placeName><ref source="place205">Narva</ref></placeName>. <persName><ref source="person077">Peter</ref></persName> 
+               brought 30,000 more men and wanted to circle <persName><ref source="person077">Peter</ref></persName> so that if he went to the city he needed to break through his army. 
             </p>
             <p>
-               <rs type="person"><ref source="person078">King Carl</ref></rs> shipped up to 20,000 over the sea and started his march to <rs type="place"><ref source="place205">Narva</ref></rs>. He rode alone at the top of his army and did not wait for his regiment who were farther behind. That is how he found 
-               himself with 8,000 men (the others were farther behind) against the first partition of <rs type="person"><ref source="person077">Peter the Great</ref></rs>’s army. He soon decided to break the enemy lines although he was aware of the numbers. At that point there were 5,000 soldiers at a passage 
-               between rocky mountains. There, hundred men could repulse a massive army. - The courageous attack of <rs type="person"><ref source="person078">Carl</ref></rs>’s army alarmed the Russians that they wondered about the size of <rs type="person"><ref source="person078">Carl</ref></rs>’s army and ran 
+               <persName><ref source="person078">King Carl</ref></persName> shipped up to 20,000 over the sea and started his march to <placeName><ref source="place205">Narva</ref></placeName>. He rode alone at the top of his army and did not wait for his regiment who were farther behind. That is how he found 
+               himself with 8,000 men (the others were farther behind) against the first partition of <persName><ref source="person077">Peter the Great</ref></persName>’s army. He soon decided to break the enemy lines although he was aware of the numbers. At that point there were 5,000 soldiers at a passage 
+               between rocky mountains. There, hundred men could repulse a massive army. - The courageous attack of <persName><ref source="person078">Carl</ref></persName>’s army alarmed the Russians that they wondered about the size of <persName><ref source="person078">Carl</ref></persName>’s army and ran 
                away after the first meeting. As the 5,000 soldiers
             </p><pb/>
             <fw type="pageNum">- 8 -</fw>
             <p>
-               fled, further 20,000 were awe-struck at a point further down and this distressed a third Russian camp. That is how King <rs type="person"><ref source="person078">Carl</ref></rs> broke through the Russian camps and as he saw that as three particularly massive victories he was undeterred. 
+               fled, further 20,000 were awe-struck at a point further down and this distressed a third Russian camp. That is how King <persName><ref source="person078">Carl</ref></persName> broke through the Russian camps and as he saw that as three particularly massive victories he was undeterred. 
             </p>
             <p>
-               Finally, he and his exhausted army arrive at the strongest Russian camp with 80,000 men. Not letting his soldiers rest, he soon gave the command to attack. One of his generals advised him against it, pointing out the great danger of battle. <rs type="person"><ref source="person078">Carl</ref></rs> 
+               Finally, he and his exhausted army arrive at the strongest Russian camp with 80,000 men. Not letting his soldiers rest, he soon gave the command to attack. One of his generals advised him against it, pointing out the great danger of battle. <persName><ref source="person078">Carl</ref></persName> 
                answered him yelling: “What! Do you doubt that my 8,000 virtuous Swedes can beat those 80,000 Russians!” Later he realised that he had been too harsh to his general and tried to convince him calmly that they would certainly win. 
             </p>
             <p>
-               Thus, marched the small army against the Russians whose numbers outranged them 1:10 on November 30th 1700. During the first attack, the Swedes threw snow they carried with them at the Russians, but the Russians endured that. Then the real battle began. <rs type="person"><ref source="person078">Carl</ref></rs> 
-               charged against the tsar’s quarters, but he did not know that <rs type="person"><ref source="person077">Peter the Great</ref></rs> accumulated 40,000 men. During the enemy’s first hail of bullets, <rs type="person"><ref source="person078">King Carl</ref></rs> was hit by one in the neck, but the bullet got stuck 
-               in his kerchief without hurting him. His horse was shot, but he quickly obtained another horse and threw himself into battle again with even more courage. After a three-hour battle <rs type="person"><ref source="person078">Carl</ref></rs>'s army broke through the enemy’s moat. He continued chasing half of 
-               <rs type="person"><ref source="person077">Peter</ref></rs>’s army - 40,000 men - with half of his own army - 4,000 men. He chased them to the river <rs type="place"><ref source="place207">Narva</ref></rs>. As the enemy was on a bridge, said bridge collapsed and soon the river was full of Russian corpses. 
-               The rest who survived returned to their camp which they defended for a while, but then finally surrendered to <rs type="person"><ref source="person078">Carl</ref></rs> who welcomed the officers with honour and generosity, like on his own court. 
+               Thus, marched the small army against the Russians whose numbers outranged them 1:10 on <date when-iso="1700-11-30">November 30th 1700</date>. During the first attack, the Swedes threw snow they carried with them at the Russians, but the Russians endured that. Then the real battle began. <persName><ref source="person078">Carl</ref></persName> 
+               charged against the tsar’s quarters, but he did not know that <persName><ref source="person077">Peter the Great</ref></persName> accumulated 40,000 men. During the enemy’s first hail of bullets, <persName><ref source="person078">King Carl</ref></persName> was hit by one in the neck, but the bullet got stuck 
+               in his kerchief without hurting him. His horse was shot, but he quickly obtained another horse and threw himself into battle again with even more courage. After a three-hour battle <persName><ref source="person078">Carl</ref></persName>'s army broke through the enemy’s moat. He continued chasing half of 
+               <persName><ref source="person077">Peter</ref></persName>’s army - 40,000 men - with half of his own army - 4,000 men. He chased them to the river <placeName><ref source="place207">Narva</ref></placeName>. As the enemy was on a bridge, said bridge collapsed and soon the river was full of Russian corpses. 
+               The rest who survived returned to their camp which they defended for a while, but then finally surrendered to <persName><ref source="person078">Carl</ref></persName> who welcomed the officers with honour and generosity, like on his own court. 
             </p>
             <p>
                The other half of the Russians stopped attacking. 8,000 Russians were killed and several more drowned, but they still had enough soldiers to not let the second half of the Swedes pass. The Swedish only lost 600 men.
             </p>
             <p>
-               It became night and the battle was paused. King <rs type="person"><ref source="person078">Carl</ref></rs> made plans through the whole night how to rescue the second half of his army but at daybreak, as the Russian general found out about the pleasant accommodation the army’s official experienced, he capitulated. 
-               Soon, the Russian general marched into the Swedish camp with 30,000 men. The soldiers placed down their weapons in front of the king’s feet. As they marched with him shortly after, <rs type="person"><ref source="person078">Carl</ref></rs> marched into <rs type="place"><ref source="place205">Narva</ref></rs>. 
-               He later returned the swords to the Russian officials and helped them out financially. <rs type="person"><ref source="person077">Peter</ref></rs> turned around in <rs type="place"><ref source="place151">Moscow</ref></rs> with his head down.
+               It became night and the battle was paused. King <persName><ref source="person078">Carl</ref></persName> made plans through the whole night how to rescue the second half of his army but at daybreak, as the Russian general found out about the pleasant accommodation the army’s official experienced, he capitulated. 
+               Soon, the Russian general marched into the Swedish camp with 30,000 men. The soldiers placed down their weapons in front of the king’s feet. As they marched with him shortly after, <persName><ref source="person078">Carl</ref></persName> marched into <placeName><ref source="place205">Narva</ref></placeName>. 
+               He later returned the swords to the Russian officials and helped them out financially. <persName><ref source="person077">Peter</ref></persName> turned around in <placeName><ref source="place151">Moscow</ref></placeName> with his head down.
             </p>
          </div><cb/>
          <div n="14">
@@ -588,7 +588,7 @@
                <p>
                   Is in the eating.
                   <lb/>If you want a natural, working remedy for coughing, sore throats, congestion, against  digestive problems, lack of appetite or similar problems, you should try the remedy from the first 
-                  Austrian malt extract brewery of the brothers Bittman in <rs type="place"><ref source="place133">Razová</ref></rs> in <rs type="place"><ref source="place134">Silesia</ref></rs>:
+                  Austrian malt extract brewery of the brothers Bittman in <placeName><ref source="place133">Razová</ref></placeName> in <placeName><ref source="place134">Silesia</ref></placeName>:
                   <lb/>Healthy Malt-Extract
                   <lb/>Which healing-powers have been proven and recommended by numerous thank yous and appreciation letters. Just one teaspoon concentrated malt-extract dissolved in a cup of hot milk sweetened 
                   with some pieces of malt or sugar is not only an exquisite expectorant remedy for a cold or the flu, but also works as a 
@@ -610,42 +610,42 @@
                </p>
                <table rows="7" cols="2">
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place054">Santos</ref></rs> Coffee á 1.15 guilder / kg</cell>
+                     <cell role="data"><placeName><ref source="place054">Santos</ref></placeName> Coffee á 1.15 guilder / kg</cell>
                      <cell role="data">Passover Coffee</cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="palce"><ref source="place062">Salvador</ref></rs> 1.30 " "</cell>
+                     <cell role="data"><placeName><ref source="place062">Salvador</ref></placeName> 1.30 " "</cell>
                      <cell role="data">Lightly roasted  1.45 guilder, medium</cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place055">Puerto Rico</ref></rs>1.55 " "</cell>
+                     <cell role="data"><placeName><ref source="place055">Puerto Rico</ref></placeName>1.55 " "</cell>
                      <cell role="data">roast  1.65 guilder, dark roast 1.55</cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place056">Cuba</ref></rs> 1.60 " "</cell>
+                     <cell role="data"><placeName><ref source="place056">Cuba</ref></placeName> 1.60 " "</cell>
                      <cell role="data">guilder. Price per kg. Price list for free.</cell>
                   </row>
                   <row role="data">
-                     <cell role="data">Gold <rs type="place"><ref source="place058">Java</ref></rs> 1.60 " "</cell>
+                     <cell role="data">Gold <placeName><ref source="place058">Java</ref></placeName> 1.60 " "</cell>
                      <cell role="data">If more than 30 kg are bought, a</cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place054">Santos</ref></rs> 1.40 " "</cell>
+                     <cell role="data"><placeName><ref source="place054">Santos</ref></placeName> 1.40 " "</cell>
                      <cell role="data">discount of 20 heller is applied.</cell>
                   </row>
                   <row role="data">
-                     <cell role="data"><rs type="place"><ref source="place055">Puerto Rico</ref></rs> 1.60 " "</cell>
+                     <cell role="data"><placeName><ref source="place055">Puerto Rico</ref></placeName> 1.60 " "</cell>
                      <cell role="data"></cell>
                   </row>
                </table>
                <p>
-                  <rs type="person"><ref source="person029">Berger Ernö</ref></rs>, <rs type="place"><ref source="place058">Fuime</ref></rs>.
+                  <persName><ref source="person029">Berger Ernö</ref></persName>, <placeName><ref source="place058">Fuime</ref></placeName>.
                </p>
             </div>
             <div type="ad" n="3">
-               <p>Bank and exchange business
-                  <lb/>ROHAYTN &amp; ULAM
-                  <lb/><foreign xml:lang="de"><rs type="place"><ref source="place002">Lemberg</ref></rs>, <rs type="place"><ref source="place186">Syxtuskagasse</ref></rs> 8.</foreign>
+               <head>Bank and exchange business</head>
+               <p>ROHAYTN &amp; ULAM
+                  <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <placeName><ref source="place186">Syxtuskagasse</ref></placeName> 8.</foreign>
                   <lb/>Buying and selling all kinds of
                   <lb/>Effects, lotteries, and coins.
                   <lb/>Lottery available in cheap installments.
@@ -654,12 +654,10 @@
                   <lb/>Easy, low-interest loans available.</p>
             </div>
          </div>
-         <div n="16">
-            <fw type="footer" n="1">
-               <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <rs type="person"><ref source="person031">OSIAS H. WILF</ref></rs> recte Weinstock 
-                  <lb/>Druck von <rs type="person"><ref source="person032">E. Salat</ref></rs> Witwe des <rs type="person"><ref source="person033">U.W. Salat</ref></rs>, <rs type="place"><ref source="place002">Lemberg</ref></rs> <rs type="place"><ref source="place065">Kasimirgasse 35</ref></rs></foreign>
-            </fw>
-         </div>
+         <fw type="footer" n="2">
+            <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte <persName><ref source="person139">Weinstock</ref></persName> 
+            <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse</ref> 35</placeName></foreign>
+         </fw>
       </body>
    </text>
 </TEI>

@@ -25,7 +25,7 @@
                <name>Luger, Robin</name>
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2024">2024</date>
+            <date when-iso="2024">2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -92,16 +92,16 @@
   </facsimile>
   <text>
       <body xml:lang="en">
-         <fw type="head" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 1 - </foreign>1st year</fw>
+         <fw type="header" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 1 - </foreign>1st year</fw>
          <div n="1">
-            <head>The Geniune Jew</head>
+            <head>The Genuine Jew</head>
             <p style="text-align:center">Organ for Yiddish Matters
-            <lb/><foreign xml:lang="de">DER WAHRE JUDE</foreign>
-            <lb/><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+            <lb/><foreign xml:lang="de">DER WAHRE JUDE
+            <lb/>Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
-         <div n="1">
+         <div n="2">
             <table rows="4" cols="2" style="text-align:center;width:50%">
-               <head>The Geniune Jew costs</head>
+               <head>The Genuine Jew costs</head>
                <row role="data">
                   <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
                   <cell role="data">Abroad</cell>
@@ -128,7 +128,7 @@
                <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <date when-iso="1904-02-05">den 5. Februar 1904</date></foreign>.
             </p>
          </div>
-         <div n="2">      
+         <div n="3">      
             <head>The Genuine Jew</head>
             <p>As of today we’re publishing a new weekly newspaper called</p>
             <p style="text-align:center">"The Genuine Jew"</p>
@@ -157,7 +157,7 @@
                   <item n="f">Miscellaneous. Important information about new inventions,  medical articles, statistical news and similar whatever interests people.</item>
                </list>
          </div>
-         <div n="3">
+         <div n="4">
             <p>
                We don’t want to promise our honored readers too much. We want to make an effort to follow the article of our sages: “Say little and do much!” We want to think, that our paper should always be 
                important and interesting and we hope that our Jewish brothers, in general our orthodox brothers want to support us if possible in order that we can pay what we are planning in <placeName><ref source="place005">Gaza</ref></placeName>. 
@@ -181,7 +181,7 @@
                <lb/> <foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse 27</ref></placeName></foreign>
             </p>
          </div>
-         <div n="4">
+         <div n="5">
             <head>A letter to the editor</head>
             <p>
                Dear Editor!
@@ -207,15 +207,16 @@
             <p>
                It might also be that I alone have made a mistake, and you cannot say with certainty that your paper will not have enemies, perhaps it is wrong, there will be many good friends, who want to support 
                your work and furthermore give “gratitude”, the public will finally be convinced that this paper is the right organ that is needed in <placeName><ref source="place006">Galicia</ref></placeName>. - </p>
+            <pb/>
             <fw type="pageNum">- 3 -</fw>
-               <p><pb/>either way, you have to think 
+               <p>either way, you have to think 
                about creating a good paper, and not about upcoming opinion of everyone, you have to turn your hope to the Jewish public, who hopefully will understand the value of the “Geniune Jew”.
             </p>
             <p>
                <placeName><ref source="place002">Lviv</ref></placeName>,</p><p style="text-align:right"><hi rend="italic">Y. L. L.</hi> 
             </p>
          </div>
-         <div n="5">
+         <div n="6">
             <head>Who is at fault?</head>
             <p>
                “You can recognise them by their temple”. If we want to know, which damage the assimilation, the mingling with the other customs - has done to the Jewish peoples, we only need to look at the fruits 
@@ -253,7 +254,7 @@
             </p>
              <p style="text-align:right"><hi rend="italic">A Jew</hi></p>
          </div>
-         <div n="6">
+         <div n="7">
             <head>New livelihoods.</head>
             <p>
                <placeName><ref source="place006">Galicia</ref></placeName> is a poor country, there are no factories here, nothing proper is being produced in the country, there is a shortage of work and earnings, most of the money is 
@@ -292,7 +293,7 @@
             </p>
             <p style="text-align:right"><hi rend="italic">A reader</hi>.</p>
          </div>
-         <div n="7">
+         <div n="8">
             <head>The education of our daughters.</head>
             <p>
                A preacher once said as a joke that the appeal of the Pharao, King of <placeName><ref source="place013">Egypt</ref></placeName> was, that the Jewish boys were tossed into water and 
@@ -343,7 +344,7 @@
                <persName><ref source="person221">Ben-Solomon</ref></persName>
             </p>
          </div>
-         <div n="8">
+         <div n="9">
          <head>Letter from <placeName><ref source="place014">Russia</ref></placeName></head>
          <p>
             After the horrible persecution of <placeName><ref source="place015">Chișinău</ref></placeName> and <placeName><ref source="place016">Gomel</ref></placeName>, after the ridiculous comedy what was the 
@@ -378,7 +379,7 @@
             </p>
             <p style="text-align:right"><persName><ref source="person222">Ben-Zvi</ref></persName></p>
          </div>
-         <div n="9">
+         <div n="10">
             <head><placeName><ref source="place019">Japan</ref></placeName></head>
             <head type="h2">I.</head>
             <p>
@@ -413,7 +414,7 @@
             </p>
             <p style="text-align:center">To be continued.</p>
          </div>
-         <div n="10">
+         <div n="11">
             <head>Political News</head>
             <p>
                <placeName><ref source="place001">Austria-Hungary</ref></placeName>: Despite all efforts of the Austrian and Hungarian govnerments they were not able to reconcile the different parties. In <placeName><ref source="place025">Austria</ref></placeName>, 
@@ -467,7 +468,7 @@
                will come to rescue. - How this will turn out in the near future, maybe even in a few days, we will know if there will be war or if peace will remain.
             </p>
          </div>
-         <div n="11">
+         <div n="12">
             <head>News.</head>
                <head type="h2">Jewish News.</head>
             <p>
@@ -513,7 +514,7 @@
                One is in critical conditions. 
             </p>
          </div>
-         <div n="12">
+         <div n="13">
             <head>
                General News.
             </head>
@@ -538,7 +539,7 @@
               <persName><ref source="person040">mother´s</ref></persName> inheritance, over 20 million francs. 
            </p>
          </div>
-         <div n="13">
+         <div n="14">
             <head>Feuilleton.</head>
             <head type="h2">Rabbi <ref source="person015"><persName>Shlomo Yitzchaki</persName> (<persName>Rashi)</persName></ref></head><head type="h3">(A memoir).</head>
             <p>
@@ -582,7 +583,7 @@
                <persName><ref source="person015">Rashi</ref></persName>`s prophecy came completely true. He immediately went to <persName><ref source="person015">Rashi</ref></persName>, but he had already died and several rabbis carried out the burial rites.
             </p>
             <p>
-               <persName><ref source="person015">Rashi</ref></persName> died in <date>4865</date> (<date when="1105">1105</date>) at the age of 77. He was working on his commentary to the Talmud Torah. His disciple and son in law Rabbi <persName><ref source="person024">Judah ben Nathan</ref></persName> 
+               <persName><ref source="person015">Rashi</ref></persName> died in <date>4865</date> (<date when-iso="1105">1105</date>) at the age of 77. He was working on his commentary to the Talmud Torah. His disciple and son in law Rabbi <persName><ref source="person024">Judah ben Nathan</ref></persName> 
                has completed the commentary of the Torah. Another one of <persName><ref source="person015">Rashi</ref></persName>’s sons in law, Rabbi <persName><ref source="person025">Meir ben Samuel</ref></persName>, had three famous sons: Rabbi 
                <persName><ref source="person026">Samuel ben Meir</ref></persName> (known as <persName><ref source="person026">RaShbaM</ref></persName>),Rabbi <persName><ref source="person027">Isaac ben Meir (RIvaM)</ref></persName>, 
                and Rabbi <persName><ref source="person028">Tam</ref></persName>. These three grandsons of <persName><ref source="person015">Rashi</ref></persName>´s were the authors of the first appendix. 
@@ -594,7 +595,7 @@
                May the memory of the righteous be a blessing!
             </p>
          </div>
-         <div n="14">
+         <div n="15">
             <head>
                Statistical information.
             </head>
@@ -606,10 +607,10 @@
                covers 33 million square kilometres and measures 4840 metres in depth. 
             </p>
          </div>
-         <div n="15">
+         <div n="16">
             <div type="ad" n="1">
                <head>Coffee!</head>
-                 <head type="h2"><hi rend="italic>">All natural!</hi></head>
+               <head type="h2"><hi rend="italic>">All natural!</hi></head>
             <p>
                Also less than 5 kg, payment on delivery, prepaid, postage.
             </p>
@@ -629,16 +630,13 @@
             </table>
             <p>
                Free samle and payment on delivery
-            <lb/>
-               <persName><ref source="person029">Berger Ernö</ref></persName>, <placeName><ref source="place059">Fuime</ref></placeName>.
+            <lb/><persName><ref source="person029">Berger Ernö</ref></persName>, <placeName><ref source="place059">Fuime</ref></placeName>.
             </p>
             </div>
             <div type="ad" n="2">
-               <head>
-                  The sugar refinery of <placeName><ref source="place060">Przeworsk</ref></placeName>
-               </head>
+               <head>The sugar refinery of <placeName><ref source="place060">Przeworsk</ref></placeName></head>
                <p>
-                  Has immensely scaled up its sugar production for <date when="1904">1904</date> and recommends every variety to extremely low prices.
+                  Has immensely scaled up its sugar production for <date when-iso="1904">1904</date> and recommends every variety to extremely low prices.
                </p>
             </div>
             <div type="ad" n="3">
@@ -658,13 +656,11 @@
                      <lb/>Südfrüchten Versandt en gros &amp; en detail</foreign>
                </p>
             </div>
-         </div>
-         <div n="16">
-            <fw type="footer" n="1">
+         </div>       
+         <fw type="footer" n="1">
                <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte <persName><ref source="person139">Weinstock</ref></persName> 
-               <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse 35</ref></placeName></foreign>
+                  <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse</ref> 35</placeName></foreign>
          </fw>
-         </div>
       </body>
   </text>
 </TEI>

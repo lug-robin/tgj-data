@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-02-26.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-02-26.xml" prev="1904-02-19.xml" next="1904-03-01.xml">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -25,7 +25,7 @@
                <name>Luger, Robin</name>
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2025">2025</date>
+            <date when-iso="2025">2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -91,16 +91,16 @@
       </surface>
    </facsimile>
   <text>
-      <body>
-         <fw type="head" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 4 </foreign>- 1st year</fw>
+      <body xml:lang="en">
+         <fw type="header" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 4 </foreign>- 1st year</fw>
          <div n="1">
-            <head>The Geniune Jew</head>
+            <head>The Genuine Jew</head>
             <p style="text-align:center">Organ for Yiddish Matters
                <lb/><foreign xml:lang="de">DER WAHRE JUDE
                <lb/>Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
-         <div n="1">
-            <table rows="4" cols="2" style="text-align:center;width:50%">
+         <div n="2">
+            <table rows="4" cols="2">
                <head>The Genuine Jew costs</head>
                <row role="data">
                   <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
@@ -123,7 +123,7 @@
             <p>
                Adverts are cheaply calculated
                <lb/>All letters and money send to:
-               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse 27</ref></placeName></foreign>
+               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse</ref> 27</placeName></foreign>
                <lb/>The Genuine Jew is published every Friday
                <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <date when-iso="1904-02-26">den 26. Februar 1904</date></foreign>.
             </p>
@@ -144,7 +144,7 @@
             <p>
                The audience is content with us and we are content with the audience. This mutual satisfaction allows us to improve and prosper our paper.
             </p><pb/>
-            <fw>- 2 -</fw>
+            <fw type="pageNum">- 2 -</fw>
             <p>
                Voices from different quarters ask for the paper to be released <hi rend="italic">daily</hi>, but we want to follow what our scholars of blessed memories have said: “If you grasp too much, you will grasp nothing” 
                and not to put too much work on our backs. Therefore, we decided to first  carry out a small test, namely: from next week on 
@@ -194,7 +194,7 @@
             <p>The communities act as  autonomous bodies. This means they have the right to manage all affairs regarding their community on their own
             </p>
             <pb/>
-            <fw>- 3 -</fw>            
+            <fw type="pageNum">- 3 -</fw>            
             <p>
                without anyone intervening. In any other nation an autonomous entity like this would act in favour of its own people. It would use its force and influence to improve the prevailing conditions. Here however, it is 
                different. Our ministry of cultural affairs mainly consists of mere <hi rend="italic">chanceries</hi>. Books are taken care of, they stipulate how things should be running. There is an accountant, a cashier, and a 
@@ -218,13 +218,11 @@
                as they can. For these elections, every vote has an immense value. This time they need to use their voice for the benefit of the true Jewry. If we manage to improve the situation in the ministry of culture and education, 
                everything will gradually improve.
             </p>
-               <p style="text-align:right">- The observer.</p>
+            <p style="text-align:right">- The observer.</p>
          </div>
          <div n="5">
             <head>Our daughter’s education.</head>
-            <head type="h2">
-               II.
-            </head>
+            <head type="h2">II.</head>
             <p>
                I must admit that the impression my first article on pious family has made, was bigger than I anticipated. This shows that I portrayed the situation correctly. The critique, what I have criticised was right therefore. 
                However, it is not as easy to point a way to improve the conditions. The main action is for the parents to care more about their daughter’s education as much as they should stick to the rule: “One who is created needs 
@@ -239,7 +237,7 @@
                They therefore should be planted deep in the young hearts, love, and respect for their people, their religion, to their customs, and their performances. At that time, the honest, pious Jew has not been the target 
                of mockery, at that time they were not looked at like people from past generations, at that time they felt what every pious Jew felt, back then they would know that they are
             </p><pb/>
-            <fw>- 4 -</fw>
+            <fw type="pageNum">- 4 -</fw>
             <p>
                Jewish daughters, that they have Jewish duties. At that time, the old, magnificent Jewish family life could develop and it will be as it was written in the scripture: May peace dwell in your community and tranquillity 
                in your homes!
@@ -257,9 +255,7 @@
          </div>
          <div n="6">
             <head>The luxury</head>
-            <head type="h2">
-               (A letter to the editor.)
-            </head>
+            <head type="h2">(A letter to the editor.)</head>
             <p>
                As I saw your new newspaper “The Genuine Jew” for the first time, I was so delighted that I felt like I had taken a holiday. It is quite something, indeed will a “genuine Jew” tell the truth. Unfortunately, these times 
                are filled with lies and the truth hides in the corner, it is afraid to show itself. Therefore, as you are not afraid to tell the truth, I will make time to talk about the passion of your newspaper. I also want to show 
@@ -290,7 +286,7 @@
                to yell. He swears by his bones that he is incapable of paying taxes of that amount, he was not helped by the woman buying a hat for some 20 guilds if he has to pay massive taxes as well. This case alone already shows 
                what consequences luxury has for us. In another article I want to make an effort to prove with numbers how far luxury pushes the Jew into poverty and how the situation can be improved without luxury. 
             </p>
-            <p style="text-align:right" rend="italic">Shikleh from <placeName><ref source="place159">Tyszmenica</ref></placeName></p>
+            <p style="text-align:right" rend="italic"><persName><ref source="person256">Shikleh</ref></persName> from <placeName><ref source="place159">Tyszmenica</ref></placeName></p>
          </div>
          <div n="7">
             <head>Jewish squires and estate tenants in East <placeName><ref source="place006">Galicia</ref></placeName>.</head>
@@ -302,7 +298,7 @@
                The book’s author, a Ruthenian, mainly addresses 15 East Galician districts where mainly Ruthenians live. He proves that of the 477 farms situated in these districts, 42 % of these are owned
                <pb/> 
             </p>
-               <fw>- 5 -</fw>
+            <fw type="pageNum">- 5 -</fw>
             <p>
                by tenants. This means 
                the owners do not maintain the farms on their own, but leased the harvest to a third person. In the districts of <placeName><ref source="place160">Podolia</ref></placeName>, 57 % are owned by tenants, in the 
@@ -387,8 +383,10 @@
                in which <placeName><ref source="place001">Austria-Hungary</ref></placeName> would be involved. Some even say that <placeName><ref source="place025">Austria</ref></placeName> has already given the order to
                mobilise the military. Officially it is still denied. But it is known that it has to be denied officially as to keep it a secret - it can still be the truth. - <placeName><ref source="place014">Russia</ref></placeName>
                will certainly not be happy that <placeName><ref source="place025">Austria</ref></placeName> is intervening without their approval and will occupy Macedonia. It 
-               <pb/>
-               <fw style="text-align:center">- 6 -</fw>
+            </p>
+            <pb/>
+            <fw type="pageNum">- 6 -</fw>
+            <p>
                has however drawn heavily on its ressources because of the war with <placeName><ref source="place019">Japan</ref></placeName> and cannot be bothered with it. But it has been said that 
                <placeName><ref source="place040">Italy</ref></placeName> will join forces with <placeName><ref source="place014">Russia</ref></placeName> in that case and go against <placeName><ref source="place001">Austria-Hungary</ref></placeName>. 
                In this case we would also have an <hi rend="italic">Austrian-Italian</hi> war as well. <placeName><ref source="place010">Germany</ref></placeName> also does not want to watch from afar but 
@@ -424,9 +422,7 @@
          </div>
          <div n="9">
             <head>The war</head>
-            <head type="h2">
-               between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName>.
-            </head>
+            <head type="h2">between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName>.</head>
             <p>
                The latest news of the battlefield concern mostly the movements of both militaries. The Russians try with all their might to bring as much as possible of their military 
                to the battlefield in <placeName><ref source="place028">Manchuria</ref></placeName>. Admittedly, <placeName><ref source="place014">Russia</ref></placeName> is alone as it 
@@ -486,7 +482,7 @@
                battleships are stationed close to the harbour.
             </p>
             <pb/>
-            <fw>- 7 -</fw>
+            <fw type="pageNum">- 7 -</fw>
             <p>
                A prove how negligent the Russian military is might be this fact: while the Japanese battleship fired at <placeName><ref source="place83">Port Arthur</ref></placeName>, 
                destroying several ships, the Russian marine officers were visiting the circus and were entertained.
@@ -535,13 +531,14 @@
             </p>
          </div>
          <div n="12">
-            <head>News.</head><head type="h2">Jewish News.</head>
+            <head>News.</head>
+            <head type="h2">Jewish News.</head>
             <p>
                (<placeName><ref source="place179">Stanislau</ref></placeName>). <persName><ref source="person069">Rabbi Ari Leib Horowitz of Stryi</ref></persName> has unanimously been elected as the Rabbi of our community.
             </p>
             <p>
-               (<placeName><ref source="place007">Vienna</ref></placeName>). The amount of Jews being baptised grows bigger year after year. In 1897, 453 Jews have been baptised, 265 men and 188 women; 
-               in 1898 - 434, 252 men and 182 women; in 1899 - 482, 280 men and 202 women; in 1900 - 559, 315 men and 244 women; in 1901 - 551, 313 men and 238 women.
+               (<placeName><ref source="place007">Vienna</ref></placeName>). The amount of Jews being baptised grows bigger year after year. In <date when-iso="1897">1897</date>, 453 Jews have been baptised, 265 men and 188 women; 
+               in <date when-iso="1898">1898</date> - 434, 252 men and 182 women; in <date when-iso="1899">1899</date> - 482, 280 men and 202 women; in <date when-iso="1900">1900</date> - 559, 315 men and 244 women; in 1901 - 551, 313 men and 238 women.
             </p>
             <p>   
                (<placeName><ref source="place030">Budapest</ref></placeName>). The emperor gifted <persName><ref source="person227">Almana Stein</ref></persName>, the president of the Jewish orphanage for boys, the Golden Cross of 
@@ -567,8 +564,10 @@
             </p>
             <p>
                (<placeName><ref source="place096">New York</ref></placeName>). With the help of the Jewish yearbook, we found out the number of Jews living in <placeName><ref source="place008">North America</ref></placeName> in all of the
+            </p>
             <pb/>
-            <fw style="text-align:center">- 8 -</fw>
+            <fw type="pageNum">- 8 -</fw>
+            <p>
                52 provinces. 1,127,268 Jews (may their number increase) live in the <placeName><ref source="place094">United States of America</ref></placeName>. Most of them live in <placeName><ref source="place096">New York</ref></placeName>, 
                more than half a million. Other big communities are located in <placeName><ref source="place182">Chicago</ref></placeName>, <placeName><ref source="place183">Philadelphia</ref></placeName>, and 
                <placeName><ref source="place184">Baltimore</ref></placeName>. 
@@ -616,7 +615,7 @@
             <div type="ad" n="1">
                <head>The sugar refinery of <placeName><ref source="place060">Przeworsk</ref></placeName></head>
                <p>
-                  Has immensely scaled up its sugar production for 1904 and recommends every variety to extremely low prices.
+                  Has immensely scaled up its sugar production for <date when-iso="1904">1904</date> and recommends every variety to extremely low prices.
                </p>
             </div>
             <div type="ad" n="2">
@@ -626,9 +625,7 @@
                </p>
             </div>
             <div type="ad" n="3">
-               <head>
-                  Coffee!
-                  </head>
+               <head>Coffee!</head>
                <head type="h2">
                   <hi rend="italic>">All natural!</hi>
                </head>
@@ -668,8 +665,8 @@
                </p>
             </div>
             <div type="ad" style="text-align:center" n="5">
-               <p>Bank and exchange business
-               <lb/>ROHAYTN &amp; ULAM
+               <head>Bank and exchange business</head>
+               <p>ROHAYTN &amp; ULAM
                <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <placeName><ref source="place186">Syxtuskagasse</ref></placeName> 8.</foreign>
                <lb/>Buying and selling all kinds of
                <lb/>Effects, lotteries, and coins.
@@ -680,18 +677,9 @@
             </div>
       </div>
          <fw type="footer">
-            <foreign xml:lang="de">
-               Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte Weinstock
-            </foreign>
+            <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte <persName><ref source="person139">Weinstock</ref></persName>
+            <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse</ref> 35</placeName></foreign>
          </fw>
       </body>
   </text>
 </TEI>
-
-
-
-
-
-
-
-

@@ -25,7 +25,7 @@
                <name>Luger, Robin</name>
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2024">2024</date>
+            <date when-iso="2024">2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -91,16 +91,16 @@
       </surface>
    </facsimile>
   <text>
-      <body>
-         <fw type="head" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 2 - </foreign>1st year</fw>
+      <body xml:lang="en">
+         <fw type="header" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 2 - </foreign>1st year</fw>
          <div n="1">
             <head>The Genuine Jew</head>
             <p style="text-align:center">Organ for Yiddish Matters
-               <lb/><foreign xml:lang="de">DER WAHRE JUDE</foreign>
-               <foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+               <lb/><foreign xml:lang="de">DER WAHRE JUDE
+               <lb/>Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
-         <div n="1">
-            <table rows="4" cols="2" style="text-align:center;width:50%">
+         <div n="2">
+            <table rows="4" cols="2">
                <head>The Genuine Jew costs</head>
                <row role="data">
                   <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
@@ -154,7 +154,7 @@
             <p>
                But if a teacher who wants to take a stance against that and wants to convince the children that the religion he teaches is the true Jewry - then a fight against him rises. He gets reported to the Local 
                Education Administration, an investigation against him gets instigated and he is</p><pb/>
-            <fw style="text-align:center">- 2 -</fw>
+            <fw type="pageNum">- 2 -</fw>
             <p>being assaulted until he shuts up and is quiet.                
             </p>
             <p>
@@ -212,7 +212,7 @@
                This influence also proved useful in the case of the Sunday rest. Many pious Jewish people, especially in <placeName><ref source="place006">Galicia</ref></placeName>, suffer under the law of Sunday Rest. They close their shop on Sabbath 
                and also have to do so on Sunday. Closing their stores two days a week is difficult, especially for the little merchant. The Hungarian Jewish people managed to achieve some relief.
             </p><pb/>
-            <fw style="text-align:center">- 3 -</fw>
+            <fw type="pageNum">- 3 -</fw>
             <p>
                A few months ago, the government issued a decree for every tobacco shop to be open for business on Sabbath. The licence is to be revoked of those who keep it closed on Sabbath. This decree has been a 
                serious “punishment”. Several tobacconists, who didn’t want their licence to be revoked, and have therefore violated Sabbath. However, many pious Jewish people insisted and have not lost their livelihood over 
@@ -233,7 +233,7 @@
             </p>
          </div>
          <div n="5">
-            <head><hi rend="bold">The War</hi></head>         
+            <head>The War</head>         
                <head type="h2">Between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName></head>
             <p>
                After lengthy negotiation going back and forth, the war between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName> has ultimately broken out. Both have hesitated a long time, waiting for the other 
@@ -258,7 +258,7 @@
                No one can say for sure how long the war will last, but it seems like it will end soon. A long war, which will not be cheap for <placeName><ref source="place014">Russia</ref></placeName>, will cause revolutions inside the country. Rumour has it there are preparations 
                for a revolution in <placeName><ref source="place076">Russian Poland</ref></placeName> already. Therefore, <placeName><ref source="place014">Russia</ref></placeName> needs to end the war soon to keep its own country in check. The idiom: “The camel wanted horns, but cut off the ears as well” became 
                true for Russia now. Russia wanted </p><pb/> 
-            <fw style="text-align:center">- 4 -</fw>
+            <fw type="pageNum">- 4 -</fw>
             <p>
                to invade foreign countries, but is now busy with its own land. 
             </p>
@@ -300,7 +300,7 @@
                <placeName><ref source="place014">Russia</ref></placeName> and expect daily news from the warside.
             </p>
          </div><pb/>
-         <fw style="text-align:center">- 5 -</fw>
+         <fw type="pageNum">- 5 -</fw>
          <div n="6">
             <head>The first Russian defeat.</head>
             <p>
@@ -347,7 +347,7 @@
                “On Monday, the Japanese troops, consiting of 15 battle ships, started to bomb the harbour of <placeName><ref source="place083">Port Arthur</ref></placeName>. We shot back from the fortress. After one hour, the Japanese stopped firing arms and left the harbour. Two officers and 54 soldiers are wounded, 
                10 soldiers have been killed. The Russian battle ships “Poltava”, “Diana”, “Askold”, and “Novik” have been
             </p><pb/>
-            <fw style="text-align:center">- 6 -</fw> 
+            <fw type="pageNum">- 6 -</fw> 
             <p>
                damaged. The fortress has not been badly damaged.”
             </p>
@@ -380,7 +380,7 @@
                retreated, except for <placeName><ref source="place014">Russia</ref></placeName>, which stayed in the Chinese province of <placeName><ref source="place028">Manchuria</ref></placeName>. <placeName><ref source="place014">Russia</ref></placeName> occupied this region during the rebellion and refused to retreat. At first, it was looking 
                for different excused, but the other
             </p><pb/>
-            <fw style="text-align:center">- 7 -</fw>
+            <fw type="pageNum">- 7 -</fw>
             <p>
                governments demanded <placeName><ref source="place014">Russia</ref></placeName> to vacate the area - after that <placeName><ref source="place014">Russia</ref></placeName> forced <placeName><ref source="place021">China</ref></placeName> to enter in an agreement after which <placeName><ref source="place014">Russia</ref></placeName> 
                is allowed to keep occupying the province <placeName><ref source="place028">Manchuaria</ref></placeName> as long as it wants to. <placeName><ref source="place028">Manchuria</ref></placeName> should continue to be a Chinese province only by name. Because of the occupation of <placeName><ref source="place028">Manchuria</ref></placeName>, 
@@ -435,14 +435,14 @@
             </p>
             <p>
                (<placeName><ref source="place096">New York</ref></placeName>). According to the Austrian-Hungarian consul in the <placeName><ref source="place095">USA</ref></placeName>, there have been the following immigration from <placeName><ref source="place001">Austria-Hungary</ref></placeName> 
-               to the <placeName><ref source="place095">USA</ref></placeName> in <date when="1902">1902</date>: 37,499 Polish, 34,412 Slovaks, 32,892 Croatians and Slavic people, 27,113 Magyars, 23,597 Germans, 18,759 <hi rend="italic">Jewish people</hi>, 9,819 Ruthenians, 9,577 Czechs, 4,227 
+               to the <placeName><ref source="place095">USA</ref></placeName> in <date when-iso="1902">1902</date>: 37,499 Polish, 34,412 Slovaks, 32,892 Croatians and Slavic people, 27,113 Magyars, 23,597 Germans, 18,759 <hi rend="italic">Jewish people</hi>, 9,819 Ruthenians, 9,577 Czechs, 4,227 
                Bulgarians, Serbs, and Montenegrians, 4,137 Rumanians, 2,170 Italians, and 1,723 Bosnian people.
             </p>
             <p>
                (<placeName><ref source="place097">Morocco</ref></placeName>). In the city of <placeName><ref source="place098">Settat</ref></placeName>, persecutions against Jewish people broke out. While the Jewish people were doing their evening prayer in the Synagogue, Arabs ambushed their wives and 
                children, looted their houses. After they have killed numerous Jewish people, they took their women and children as captives. Over 300 houses were destroyed. The Arabs demand a lot of money to free the captives.
             </p></div><pb/>
-         <fw style="text-align:center">- 8 -</fw>
+         <fw type="pageNum">- 8 -</fw>
          <div n="10">
             <head>
                General news.
@@ -456,7 +456,7 @@
                Council cannot be convened to sign off on the recruit law.
             </p>
             <p>
-               (<placeName><ref source="place063">Stryj</ref></placeName>). A fire broke out on the night of <date when="1904-02-07">February 7th</date>. It was extinguished immediately, but a young man who wanted to save himself, jumped over a fence and fell to his death. - A woman heated her house 
+               (<placeName><ref source="place063">Stryj</ref></placeName>). A fire broke out on the night of <date when-iso="1904-02-07">February 7th</date>. It was extinguished immediately, but a young man who wanted to save himself, jumped over a fence and fell to his death. - A woman heated her house 
                and threw a bottle of petroleum into the fire which started to burn. The petroleum also got on her clothes and she burnt to death.
             </p>
             <p>
@@ -464,12 +464,15 @@
             </p>
          </div>
          <div n="11">
-            <head><hi rend="bold">Feuilleton.</hi><lb/><persName><ref source="person046">Rabbi Meir</ref></persName> of <placeName><ref source="place099">Rothenburg</ref></placeName>. May his memory be a blessing.<lb/>(A historical retelling).<lb/>I</head>
+            <head>Feuilleton.</head>
+             <head type="h2"><persName><ref source="person046">Rabbi Meir</ref></persName> of <placeName><ref source="place099">Rothenburg</ref></placeName>. May his memory be a blessing.</head>
+             <head type="h3">(A historical retelling).
+                <lb/>I</head>
             <p>
                This story we are telling here is historically true and happened in the old city of <placeName><ref source="place099">Rothenburg</ref></placeName> in <placeName><ref source="place010">Germany</ref></placeName>. In the thirteenth century - according to the Gregorian calendar - 
                the principality of <ref source="https://www.wikidata.org/wiki/Q130875">Hohenstauffen</ref> ruled in this city. The city was surrounded with high walls and moats and the royal palace is situated on a beautiful hill.  At this time the principality ruled over 
                the whole land because one prince was the brother in law of the <persName><ref source="person043">Roman emperor</ref></persName> - the ruler of <placeName><ref source="place010">Germany</ref></placeName> at that time. The German peoples were dissatisfied with their sovereign and were said to have 
-               planned a rebellion. In <date when="1285">1285</date>, the <persName><ref source="person044">Count of Württemberg</ref></persName> started a rebellion in order to dispose of Emperor <persName><ref source="person045">Rudolf</ref></persName>, 
+               planned a rebellion. In <date when-iso="1285">1285</date>, the <persName><ref source="person044">Count of Württemberg</ref></persName> started a rebellion in order to dispose of Emperor <persName><ref source="person045">Rudolf</ref></persName>, 
                but <persName><ref source="person045">Rudolf</ref></persName> forcefully suppressed the rebellion with his military.
             </p> 
             <p>
@@ -540,9 +543,9 @@
             <p>(To be continued).</p>
          </div>
          <div n="12">
-            <head><hi rend="bold">Letterbox.</hi></head>
+            <head>Letterbox.</head>
             <p>
-               To <persName>Rabbi <ref source="person226">Moore</ref></persName>. When you have been the sole Rabbi in a small town before, the <ref source="https://www.parlament.gv.at/dokument/XXIV/ME/199/fname_197101.pdf">decree of <date when="1890-03-21">March 21st 1890</date></ref> 
+               To <persName>Rabbi <ref source="person226">Moore</ref></persName>. When you have been the sole Rabbi in a small town before, the <ref source="https://www.parlament.gv.at/dokument/XXIV/ME/199/fname_197101.pdf">decree of <date when-iso="1890-03-21">March 21st 1890</date></ref> 
                has been released - you were also the Rabbi in a bigger city. - that men were allowed to graduate by law. 
             </p>
             <p>
@@ -624,7 +627,6 @@
                   <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse</ref> 35</placeName>
                </foreign>
          </fw>
-         <pb/>
       </body>
   </text>
 </TEI>

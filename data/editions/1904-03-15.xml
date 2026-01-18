@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-15.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-15.xml" prev="1904-03-11.xml" next="1904-03-18.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -25,7 +25,7 @@
                <name>Luger, Robin</name>
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2025">2025</date>
+            <date when-iso="2025">2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
@@ -79,19 +79,19 @@
       </surface>
    </facsimile>
    <text>
-      <body>
-         <fw type="head" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 9 - </foreign>1st year</fw>
+      <body xml:lang="en">
+         <fw type="header" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 9 - </foreign>1st year</fw>
          <div n="1">
             <head>
-               The Geniune Jew
+               The Genuine Jew
             </head>
             <p style="text-align:center">Organ for Yiddish Matters
-               <lb/><foreign xml:lang="de">DER WAHRE JUDE</foreign>
-               <foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+               <lb/><foreign xml:lang="de">DER WAHRE JUDE
+               <lb/>Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
          <div n="2">
             <table rows="4" cols="2">
-               <head>The Geniune Jew costs</head>
+               <head>The Genuine Jew costs</head>
                <row role="data">
                   <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
                   <cell role="data">Abroad</cell>
@@ -111,8 +111,11 @@
             </table>
             <p><placeName><ref source="place002">Lviv</ref></placeName>,<date calendar="Hebrew" when-custom="5664-12-28"> <foreign xml:lang="he">Yom Shlishi <ref source="https://www.wikidata.org/wiki/Q1506424">Vayikra</ref></foreign> 5664</date></p>
             <p>
-               <lb/>Adverts are cheaply calculated <lb/>All letters and money send to:<lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse</ref> 27</placeName></foreign>
-               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <date when-iso="1904-03-15">den 15.März 1904</date></foreign>.</p>
+               Adverts are cheaply calculated 
+               <lb/>All letters and money send to:
+               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse</ref> 27</placeName></foreign>
+               <lb/>The Genuine Jew is published every Tuesday and Friday 
+               <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <date when-iso="1904-03-15">den 15.März 1904</date></foreign>.</p>
          </div>
          <div n="3">
             <head>Germans and Czechs - and <persName>Dr <ref source="person007">Byk</ref></persName></head>
@@ -125,7 +128,7 @@
             <p>
                In the last days a situation occurred which again proved this hypothesis. <persName><ref source="person107">Stein</ref></persName> and <persName><ref source="person108">Herzog</ref></persName>, two antisemites, insulted 
                the Czech people in parliament. The Czechs then demanded to forward this matter to a special committee which had to present a proposal which details the Reichsrat’s disapproval of the said assertions (this committee is named 
-               “committee of disapproval”). By chance, two Jews were in this committee as well: <persName><ref source="person007">Dr. <hi rend="italic">Byk</hi></ref></persName> and <persName><ref source="person109">Dr Rappaport</ref></persName>, 
+               “committee of disapproval”). By chance, two Jews were in this committee as well: <persName>Dr <ref source="person007"><hi rend="italic">Byk</hi></ref></persName> and <persName>Dr <ref source="person109">Rappaport</ref></persName>, 
                both from <placeName><ref source="place006">Galicia</ref></placeName>. Those two explained to the committee that the committee of approval is only used if one delegate insults another personally. The delegates <persName><ref source="person107">Stein</ref></persName> 
                and <persName><ref source="person108">Herzog</ref></persName> did not insult anyone personally, they badmouthed the Czechs as a whole. Furthermore, the<cb/> committee can only commiserate about what has happened, but cannot express 
                disapproval against <persName><ref source="person107">Stein</ref></persName> and <persName><ref source="person108">Herzog</ref></persName>. The delegate <persName><ref source="person109">Merunowicz</ref></persName> agreed 
@@ -140,7 +143,7 @@
                wrongdoings; supporting Germans as a Polish delegate. A huge debate erupted. Luckily, two other Poles voted with <persName>Dr <ref source="person007">Byk</ref></persName> and <persName>Dr <ref source="person109">Rapoport</ref></persName>: 
                <persName><ref source="person110">Merunowicz</ref></persName> and <persName><ref source="person111">Gniewosz</ref></persName>. Otherwise this could have ended in a true anti-semitic tale. Still, in 
             </p>
-            <fw type="footer">We ask the subscribers of <foreign xml:lang="he-Hebr" style="rtl">מחזיקי הדת</foreign> and <foreign xml:lang="he-Hebr" style="rtl">קול מחזיקי הדת</foreign> to send every letter and money to this address:
+            <fw type="footer" n="1">We ask the subscribers of <foreign xml:lang="he-Hebr" style="rtl">מחזיקי הדת</foreign> and <foreign xml:lang="he-Hebr" style="rtl">קול מחזיקי הדת</foreign> to send every letter and money to this address:
                <lb/><persName><ref source="person031">OSIAS H. WILF</ref></persName>, <placeName><ref source="place002">LEMBERG</ref></placeName> <ref source="place003"><placeName>Sonnengasse 27</placeName></ref>.
             </fw>
             <pb/>
@@ -157,7 +160,7 @@
             <p>
                Once upon a time <placeName><ref source="place075">Turkey</ref></placeName> played the most important role in world politics, back when its great army flooded half <placeName><ref source="place100">Europe</ref></placeName>. 
                Every greater power banded together, formed alliances and contracts in order to protect themselves against the Turkish might. - This hasn’t been the case for over 200 years now. Since the Polish king <persName><ref source="person112">John Sobieski</ref></persName> 
-               chased the Turks away in 1683 when they besieged <placeName><ref source="place007">Vienna</ref></placeName>, they haven’t played a big role anymore. Its influence shrank, it stopped conquering other countries. 
+               chased the Turks away in <date when-iso="1683">1683</date> when they besieged <placeName><ref source="place007">Vienna</ref></placeName>, they haven’t played a big role anymore. Its influence shrank, it stopped conquering other countries. 
                <placeName><ref source="place075">Turkey</ref></placeName> was satisfied that everyone got off its back and didn’t take away its remaining countries. 
             </p>
             <p>
@@ -262,10 +265,10 @@
                On the contrary, a lot of Jewish soldiers volunteer enthusiastically for war. - Those same papers claim that what happened in <placeName><ref source="place105">Chișinău</ref></placeName>, the demonstrations against Jews, is not true. Instead peace and quiet prevails there. 
             </p>
             <p>
-               (<placeName><ref source="place112">Bulgaria</ref></placeName>). On <date when="1904-02-26">February 26th</date>, the following case occurred in the Bulgarian harbour city <hi rend="italic"><placeName><ref source="place230">Varna</ref></placeName></hi>: a ship came from 
+               (<placeName><ref source="place112">Bulgaria</ref></placeName>). On <date when-iso="1904-02-26">February 26th</date>, the following case occurred in the Bulgarian harbour city <hi rend="italic"><placeName><ref source="place230">Varna</ref></placeName></hi>: a ship came from 
                <hi rend="italic"><placeName><ref source="place232">Odessa</ref></placeName></hi> with several Jewish families who wanted to settle down in <placeName><ref source="place112">Bulgaria</ref></placeName>. The police did not even let the Jews come onto land and explained that foreign Jews are 
                not allowed to settle in <placeName><ref source="place112">Bulgaria</ref></placeName>. The Jews informed the Russian consulate <persName><ref source="person117"><hi rend="italic">Charykov</hi></ref></persName> [He was envoy in <placeName><ref source="place111">Serbia</ref></placeName> at this time, 
-               <persName><ref source="person118">Bakhmeteff</ref></persName> was the Russian ambassador in <placeName><ref source="place112">Bulgaria</ref></placeName> 1897-1905] who put on his official uniform and swiftly marched to the harbour with consulate officers and military. The military carried 
+               <persName><ref source="person118">Bakhmeteff</ref></persName> was the Russian ambassador in <placeName><ref source="place112">Bulgaria</ref></placeName> <date when-iso="1897">1897</date>-<date when-iso="1905">1905</date> who put on his official uniform and swiftly marched to the harbour with consulate officers and military. The military carried 
                a Russian flag. The consul explained to the police chief: “If the police wants to send the Jews back to <placeName><ref source="place014">Russia</ref></placeName>, it needs to stamp on this Russian flag!” He motioned the Jews to stand between his officers and led them to a hotel. He did 
                not allow the police to interfere and demanded them to return the passports. - <placeName><ref source="place014">Russia</ref></placeName>, which treats its own Jews that badly, looks after them abroad! Or maybe it is just because we are at war?
             </p>
@@ -300,7 +303,7 @@
          <div n="8">
             <head>The peace in <placeName><ref source="place009">Hungary</ref></placeName>.</head>
             <p>
-               (<placeName><ref source="place030">Budapest</ref></placeName>). The parliament passed the recruitment act. The medical examination for the military will start on <date when="1904-03-21">March 21</date> and last until the end of it. On <date when="1904-05-09">May 9</date> the reserves 
+               (<placeName><ref source="place030">Budapest</ref></placeName>). The parliament passed the recruitment act. The medical examination for the military will start on <date when-iso="1904-03-21">March 21</date> and last until the end of it. On <date when-iso="1904-05-09">May 9</date> the reserves 
                will be sent home and the newly appointed military dispersed. - The whole country is satisfied with the conciliation between the opposition and the government. 
             </p>
             <p>
@@ -319,9 +322,9 @@
                <placeName><ref source="place007">Vienna</ref></placeName>. The Czech obstruction continues. Important discussions cannot be led.
             </p>
          </div>
-         <fw type="footer">
+         <fw type="footer" n="2">
             <foreign xml:lang="de">
-               Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte Weinstock
+               Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte <persName><ref source="person139">Weinstock</ref></persName>
                <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse</ref> 35</placeName>
             </foreign>
          </fw>

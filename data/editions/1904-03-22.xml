@@ -2,12 +2,12 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-22.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-22.xml" prev="1904-03-18.xml" next="1904-03-25.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">The Genuine Jew - 1904-03-22</title>
-            <title level="a">1904-03-15</title>
+            <title level="a">1904-03-22</title>
             <author>Multiple Authors</author>
             <editor>
                <name>Luger, Robin</name>
@@ -25,7 +25,7 @@
                <name>Luger, Robin</name>
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2025">2025</date>
+            <date when-iso="2025">2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -63,7 +63,7 @@
          </langUsage>
       </profileDesc>
    </teiHeader>
-   <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040315">
+   <facsimile source="https://anno.onb.ac.at/cgi-content/anno?aid=emj&amp;datum=19040322">
       <surface ulx="0" uly="0" lrx="4257" lry="6222" n="1">
          <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040322|1|100.0|0"/>
       </surface>
@@ -78,22 +78,17 @@
       </surface>
    </facsimile>
    <text>
-      <body>
-         <div type="heading" n="1" style="one column">
-            <p><foreign xml:lang="de">1.Jahrgang Nr. 11</foreign> 1st year</p>
+      <body xml:lang="en">
+         <fw type="header" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 11</foreign>- 1st year</fw>
+         <div n="1">
+            <head>The Genuine Jew</head>
+            <p style="text-align:center">Organ for Yiddish matters
+            <lb/><foreign xml:lang="de">DER WAHRE JUDE
+            <lb/>Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
-         <div type="title" n="1">
-            <head>
-               <hi rend="bold">The Geniune Jew</hi>
-            </head>
-            <p>Organ for Yiddish matters</p>
-            <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
-            <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
-         </div>
-         <div type="editorial" n="1" style="two columns">
-            <cb n="1"/>
+         <div n="2">
             <table rows="4" cols="2">
-               <head>The Geniune Jew costs</head>
+               <head>The Genuine Jew costs</head>
                <row role="data">
                   <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
                   <cell role="data">Abroad</cell>
@@ -112,16 +107,14 @@
                </row>
             </table>
             <p><placeName><ref source="place002">Lviv</ref></placeName>, <date calendar="Hebrew" when-custom="5664-01-06"><foreign xml:lang="he">Yom Shlishi, <ref source="https://www.wikidata.org/wiki/Q166986">Tzav</ref></foreign> 5664</date></p>
-            <cb n="2"/>
+            <cb/>
             <p>
-               <lb/>Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign
-                  xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse</ref> 27</placeName></foreign>
+               Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse</ref> 27</placeName></foreign>
                <lb/>The Genuine Jew is published every Tuesday and Friday 
                <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <date when-iso="1904-03-15">den 22.März 1904</date></foreign>.</p>
          </div>
-         <lb/>
-         <div n="1">
-            <head style="text-align:center"><hi rend="bold"><ref source="https://www.wikidata.org/wiki/Q1061047">Blood libel</ref></hi></head>
+         <div n="3">
+            <head><ref source="https://www.wikidata.org/wiki/Q1061047">Blood libel</ref></head>
             <p>
                Every year for Passover, antisemitic voices start to get louder again. They are pulling stories out of their noses about murders and blaming the Jews. Soon those stories will be told in <placeName><ref type="place026">Bohemia</ref></placeName>, in 
                <placeName><ref source="place027">Moravia</ref></placeName>, in <placeName><ref source="place009">Hungary</ref></placeName>, in <placeName><ref source="place078">Greece</ref></placeName> and even civilised countries like <placeName><ref source="place010">Germany</ref></placeName> 
@@ -137,76 +130,71 @@
                shoot their poisonous arrows against the Jewish people. And these cases are the most unfortunate ones. Admittedly, the civilised world does not believe these blood libels, but the common people do believe what is being told and it plants a deep 
                hatred for Jews into their hearts which shows itself at the earliest opportunity. 
             </p>
-         </div>
-         <div type="information" style="one column">
-            <p>We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the
-               voice of the upholders of religion) to send every letter and money to this
-               address:</p>
-            <p><persName><ref source="person031">OSIAS H. WILF</ref></persName>, <placeName><ref source="place002">LEMBERG</ref></placeName>
-               <ref source="place003"><placeName>Sonnengasse 27</placeName></ref>.</p>
-            <p style="text-align:center">[1]</p>
-         </div>
+         <fw type="footer" n="1">
+            We ask the subscribers of <foreign xml:lang="he">מחזיקי הדת</foreign> and <foreign xml:lang="he">קול מחזיקי הדת</foreign> to send every letter and money to this address:
+            <lb/><persName><ref source="person031">OSIAS H. WILF</ref></persName>, <foreign xml:lang="de"><placeName><ref source="place002">LEMBERG</ref></placeName> <placeName><ref source="place003">Sonnengasse</ref> 27</placeName></foreign>.
+         </fw>
          <pb/>
-         <div n="1">
+         <fw type="pageNum">- 2 -</fw>
             <p>
                "In every generation, they rise against us to destroy us, but the Holy One, blessed be He, saves us from their hand."
             </p>
          </div>
-         <div n="2">
-            <head style="text-align:center"><hi rend="bold"><placeName><ref source="place001">Austria-Hungary</ref></placeName> in the last 20 years.</hi></head>
+         <div n="4">
+            <head><placeName><ref source="place001">Austria-Hungary</ref></placeName> in the last 20 years.</head>
             <p>
-               In an English article, written by  <persName><ref source="person142">Theodor von Taussig</ref></persName>, we can take away the following interesting facts: in 1880, 22,144,244 people lived in <placeName><ref source="place025">Austria</ref></placeName>. In 1900, 
-               there lived 26,150,708 people. The population of <placeName><ref source="place009">Hungary</ref></placeName> amounted to 13,749,603 in 1880 and 16,721,574 souls in 1900. The Austrian population increased by 21 %, the Hungarian by 21 %. While earlier, most were 
+               In an English article, written by <persName><ref source="person142">Theodor von Taussig</ref></persName>, we can take away the following interesting facts: in <date when-iso="1880">1880</date>, 22,144,244 people lived in <placeName><ref source="place025">Austria</ref></placeName>. In <date when-iso="1900">1900</date>, 
+               there lived 26,150,708 people. The population of <placeName><ref source="place009">Hungary</ref></placeName> amounted to 13,749,603 in <date when-iso="1880">1880</date> and 16,721,574 souls in <date when-iso="1900">1900</date>. The Austrian population increased by 21 %, the Hungarian by 21 %. While earlier, most were 
                employed in agriculture, the majority of the population turned to trade and factory work in this timespan.
             </p>
             <p>
-               The development of factory work can best be shown that in 1882 more raw materials were exported than imported. In 1902 on the other hand, a lot less raw materials were exported than imported. However, the export of manufacturing increased. This means that raw materials 
+               The development of factory work can best be shown that in <date when-iso="1882">1882</date> more raw materials were exported than imported. In <date when-iso="1902">1902</date> on the other hand, a lot less raw materials were exported than imported. However, the export of manufacturing increased. This means that raw materials 
                were processed and exported. Wheat, wood, and other agricultural products are being exported less than 20 years ago because it is needed domestically. 
             </p>
             <p>
-               Mining and smelting increased. Mining was worth 85 million crowns in 1880 and 285 million crowns in 1901. The total worth of the Austrian smelting production (iron and steel production) was worth 46 million crowns in 1880 and 96 million crowns in 1901. 
+               Mining and smelting increased. Mining was worth 85 million crowns in <date when-iso="1880">1880</date> and 285 million crowns in <date when-iso="1901">1901</date>. The total worth of the Austrian smelting production (iron and steel production) was worth 46 million crowns in <date when-iso="1880">1880</date> and 96 million crowns in <date when-iso="1901">1901</date>. 
             </p>
             <p>
-               The growth of the mining and smelting production is mainly thanks to coal and earth wax as well as iron production. <placeName><ref source="place009">Hungary</ref></placeName>’s iron production grew from 1,5 million kilograms in 1880 to over 400 million kilograms in 
-               1902. Coal production grew from 2,100 million kilograms in 1882 to 6,400 million kilograms in 1902.
+               The growth of the mining and smelting production is mainly thanks to coal and earth wax as well as iron production. <placeName><ref source="place009">Hungary</ref></placeName>’s iron production grew from 1,5 million kilograms in <date when-iso="1880">1880</date> to over 400 million kilograms in 
+               <date when-iso="1902">1902</date>. Coal production grew from 2,100 million kilograms in <date when-iso="1882">1882</date> to 6,400 million kilograms in <date when-iso="1902">1902</date>.
             </p>
             <p>
-               The industrial stock corporations had capital shares of 730 million crowns and excess points of 99 million crowns in 1880. In 1901 this rose to 1,300 million crowns in capital shares and 133 million crowns in excess points in 1901. 
+               The industrial stock corporations had capital shares of 730 million crowns and excess points of 99 million crowns in <date when-iso="1880">1880</date>. In <date when-iso="1901">1901</date> this rose to 1,300 million crowns in capital shares and 133 million crowns in excess points in <date when-iso="1901">1901</date>. 
             </p>
             <p>
-               <placeName><ref source="place009">Hungary</ref></placeName> had 132 industrial stock corporations and in 1901 340 industrial stock corporations with 481 million crowns in capital shares. 
+               <placeName><ref source="place009">Hungary</ref></placeName> had 132 industrial stock corporations and in <date when-iso="1901">1901</date> 340 industrial stock corporations with 481 million crowns in capital shares. 
             </p>
             <p>
-               Petroleum production amounted to 1,500 million kilograms in <placeName><ref source="place025">Austria</ref></placeName> and 740 million kilograms in <placeName><ref source="place009">Hungary</ref></placeName> in 1902. 
+               Petroleum production amounted to 1,500 million kilograms in <placeName><ref source="place025">Austria</ref></placeName> and 740 million kilograms in <placeName><ref source="place009">Hungary</ref></placeName> in <date when-iso="1902">1902</date>. 
             </p>
             <p>
-               The <hi rend="italic">Hungarian</hi> sugar production process 1,961,995,000 kilograms sugar beets in 1881 and 1901 over 19,000 million kilograms. Hungarian mills increased their flour production from 3,672,600,000 kilograms wheat in 1880 by 2,798,600,000 kilograms<cb/> more wheat. In 1900, 
+               The <hi rend="italic">Hungarian</hi> sugar production process 1,961,995,000 kilograms sugar beets in <date when-iso="1881">1881</date> and <date when-iso="1901">1901</date> over 19,000 million kilograms. Hungarian mills increased their flour production from 3,672,600,000 kilograms wheat in <date when-iso="1880">1880</date> by 2,798,600,000 kilograms<cb/> more wheat. In <date when-iso="1900">1900</date>, 
                5,770,000,000 kilograms of flour were produced from 7,472,000,000 kilograms of wheat. 
             </p>
             <p>
                The number of spindles in the Austrian wool manufactures grew from 100,000 to 350,000 in the last 20 years. Silk production almost doubled in the same timespan and is worth around 100 million crowns nowadays. Paper production grew from 800 million kg to 3,500 million kg.
             </p>
             <p>
-               In 1881, Austrian bank houses possessed over 620 million crowns in deposited capital shares and 322,236,000 crowns in reserve funds. In 1901, the capital shares amounted to 820,445,000 crowns, 820,601,000 crowns in cash checks, deposited money, and documentary credit and 941,164,00 crowns in reserve funds. 
+               In <date when-iso="1881">1881</date>, Austrian bank houses possessed over 620 million crowns in deposited capital shares and 322,236,000 crowns in reserve funds. In <date when-iso="1901">1901</date>, the capital shares amounted to 820,445,000 crowns, 820,601,000 crowns in cash checks, deposited money, and documentary credit and 941,164,00 crowns in reserve funds. 
             </p>
             <p>
-               In 1882, there were 335 penny banks with 587,619,000 crowns deposits in <placeName><ref source="place009">Hungary</ref></placeName>. In 1902: 676 penny banks with deposits amounting to 1,414,865,006 crowns.
+               In <date when-iso="1882">1882</date>, there were 335 penny banks with 587,619,000 crowns deposits in <placeName><ref source="place009">Hungary</ref></placeName>. In <date when-iso="1902">1902</date>: 676 penny banks with deposits amounting to 1,414,865,006 crowns.
             </p>
             <p>
-               In 1880, the savings club had 342,124 members, in 1900: 1,324,531 members. The raw material associations and producer cooperatives counted 3,933 members in 1880, in 1900: 107,807 members with over 32 million crowns in shares.
+               In <date when-iso="1880">1880</date>, the savings club had 342,124 members, in <date when-iso="1900">1900</date>: 1,324,531 members. The raw material associations and producer cooperatives counted 3,933 members in <date when-iso="1880">1880</date>, in <date when-iso="1900">1900</date>: 107,807 members with over 32 million crowns in shares.
             </p>
             <p>
-               The annual income of the whole population amounted to (according to the calculation of personal income tax) 3,225 million crowns in 1902. 256,644,576 crowns in estate, 322,654,938 crowns in buildings, 907,987,788 crowns in independent enterprises, 1,192,280,036 
+               The annual income of the whole population amounted to (according to the calculation of personal income tax) 3,225 million crowns in <date when-iso="1902">1902</date>. 256,644,576 crowns in estate, 322,654,938 crowns in buildings, 907,987,788 crowns in independent enterprises, 1,192,280,036 
                crowns in emoluments, 488,815,731 crowns in capital assets, and 47,118,126 crowns from other sources. 
             </p>
             <p>
                Here it is important to mention that those who earn less than 1,200 crowns don’t pay income tax. Income of the poorer classes are therefore not included in this calculation. 
             </p>
             <p>
-               The Austrian budget in 1882 amounted to: 972,156,728 crowns in revenue, 1,014 million in spendings. In 1901: 1,686,984,503 crowns in revenue, 1,666,810,473 crowns in spendings, a surplus of 19,973,530 crowns.
+               The Austrian budget in <date when-iso="1882">1882</date> amounted to: 972,156,728 crowns in revenue, 1,014 million in spendings. In <date when-iso="1901">1901</date>: 1,686,984,503 crowns in revenue, 1,666,810,473 crowns in spendings, a surplus of 19,973,530 crowns.
             </p>
             <p>
-               The Hungarian budget in 1881 amounted to: 977,176,000 crowns in revenue, 978,044,000 crowns in spending, a deficit of 868,000 crowns. In 1901 the budget amounted to 1,051,460,000 crowns in revenue, 1,031,134,000 crowns in spendings, a surplus of 26,326,000 crowns. 
+               The Hungarian budget in <date when-iso="1881">1881</date> amounted to: 977,176,000 crowns in revenue, 978,044,000 crowns in spending, a deficit of 868,000 crowns. In <date when-iso="1901">1901</date> the budget amounted to 1,051,460,000 crowns in revenue, 1,031,134,000 crowns in spendings, a surplus of 26,326,000 crowns. 
             </p>
             <p>
                The public credit was improved because of the rise in income. The government was therefore able to introduce the <hi rend="italic">gold standard</hi>.
@@ -214,16 +202,17 @@
             <p>
                The switch to the gold standard completely succeeded. Both governments (<placeName><ref source="place025">Austria</ref></placeName> and <placeName><ref source="place009">Hungary</ref></placeName>) have not only delivered the necessary funds to the treasury,
             </p>
-            <p style="text-align:center" rend="bold">[2]</p><pb/>
+            <pb/>
+            <fw type="pageNum">- 3 -</fw>
             <p>
                but also added further 400 million crowns in gold. Therefore, the monarchy could increase their total gold possessions by 1,150 million crowns. 
             </p>
          </div>
-         <div n="3">
-            <head>News.<lb/>
-               Jewish News.</head>
+         <div n="5">
+            <head>News.</head>
+            <head type="h2">Jewish News.</head>
             <p>
-               (<placeName><ref source="place002">Lviv</ref></placeName>). In the town  <placeName><ref source="place256">Melnytsia-Podilska</ref></placeName>, not far from <placeName><ref source="place257">Borshchiv</ref></placeName>, the toll house leaseholder 
+               (<placeName><ref source="place002">Lviv</ref></placeName>). In the town <placeName><ref source="place256">Melnytsia-Podilska</ref></placeName>, not far from <placeName><ref source="place257">Borshchiv</ref></placeName>, the toll house leaseholder 
                <persName><ref source="person143">Simha Hershkovitz</ref></persName> and his wife were attacked by two masked robbers at night. The robbers murdered the woman with an axe and severely hurt the man. Hence, the robbers could steal 40 guilds and flee. 
                The robbers were looked for but no trace of them could be found. Only a few days later, two farmers were fighting in a tavern and one yelled at the other: “Do you want to kill me, like you killed the Jew from the tolls?” The police were immediately 
                notified which arrested both. They both confessed and will soon stand trial.
@@ -244,8 +233,8 @@
                <placeName><ref source="place187">Kyiv</ref></placeName> police. What the result of this charge will be - no one knows. The governor will certainly not step down because of the Jew…
             </p>
          </div><cb/>
-         <div n="4">
-            <head><hi>Elephants as workers.</hi></head>
+         <div n="6">
+            <head>Elephants as workers.</head>
             <p>
                Elephants are being exploited by humans in <placeName><ref source="place120">British India</ref></placeName> for thousands of hours of work, but the smartest and most hardworking of these animals are seen on construction sites in the province 
                <placeName><ref source="place262">Barnāla</ref></placeName>. There are elephants who are working to unload timber. They prove to be very skillful, which is on the same level of longstanding practised human workers.
@@ -271,8 +260,8 @@
             </p>
             <p>
                But as soon as the bell rings, announcing the workers’ break, nothing can keep this female elephant at the site on which she has tediously worked before. No threats and no flattery helps. She is well aware 
-            </p>
-            <p style="text-align:center" rend="bold">[3]</p><pb/>
+            </p><pb/>
+            <fw type="pageNum">- 4 -</fw>
             <p>
                that it’s break time and that she can enjoy some hours of rest. 
             </p>
@@ -300,8 +289,10 @@
                lives of their elephant workers because a loss cannot easily be replaced like the loss of human workers…
             </p>
          </div>
-         <div n="5">
-            <head><hi rend="bold">Telegrams.<lb/>The war<lb/>Between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName>.</hi></head>
+         <div n="7">
+            <head>Telegrams.</head>
+            <head type="h2">The war</head>
+            <head type="h3">Between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName>.</head>
             <p>
                <placeName><ref source="place156">London</ref></placeName>. The first battle on land between the Russian and Japanese military has now happened at the river <placeName><ref source="place266">Yalu</ref></placeName>. It is not known yet how this battle will end. 
                The Russians claim to have taken 1,800 Japanese hostages while the Japanese claim to have won this battle. The truth is unclear.
@@ -331,17 +322,11 @@
                <placeName><ref source="place095">Paris</ref></placeName>. As the papers report, the contract between <placeName><ref source="place011">England</ref></placeName> and <placeName><ref source="place045">France</ref></placeName> has already been signed. According to which both bind themselves to not intervene in the Russo-Japanese war.
             </p>
          </div>
-         <div type="footer" style="one columns" n="1">
-            <p>
-               <foreign xml:lang="de">
-                  <lb/>Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte Weinstock 
-                  <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002"
-                        >Lemberg</ref></placeName>
-                  <placeName><ref source="place065">Kasimirgasse 35</ref></placeName>
-               </foreign>
-            </p>
-            <p style="text-align:center">[4]</p>
-         </div>
+         <fw type="footer" n="2">         
+            <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte <persName><ref source="person139">Weinstock</ref></persName> 
+            <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName>
+               <placeName><ref source="place065">Kasimirgasse</ref> 35</placeName></foreign>
+         </fw>
       </body>
    </text>
 </TEI>

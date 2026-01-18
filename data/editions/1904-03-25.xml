@@ -25,7 +25,7 @@
                <name>Luger, Robin</name>
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2025">2025</date>
+            <date when-iso="2025">2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -76,34 +76,31 @@
       <surface ulx="0" uly="0" lrx="4305" lry="6222" n="4">
          <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040325|4|100.0|0"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4257" lry="6222" n="1">
+      <surface ulx="0" uly="0" lrx="4257" lry="6222" n="5">
          <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040325|5|100.0|0"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="2">
+      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="6">
          <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040325|6|100.0|0"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4257" lry="6222" n="3">
+      <surface ulx="0" uly="0" lrx="4257" lry="6222" n="7">
          <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040325|7|100.0|0"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="4">
+      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="8">
          <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040325|8|100.0|0"/>
       </surface>
    </facsimile>
    <text>
-      <body>
-         <fw><foreign xml:lang="de">1.Jahrgang Nr. 12 </foreign> 1st year</fw>
-         <div type="title" n="1">
-            <head>
-               <hi rend="bold">The Genuine Jew</hi>
-            </head>
-            <p>Organ for Yiddish matters</p>
-            <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
-            <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+      <body xml:lang="en">
+         <fw type="header" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 12 </foreign>- 1st year</fw>
+         <div n="1">
+            <head>The Genuine Jew</head>
+            <p style="text-algin:center">Organ for Yiddish matters
+            <foreign xml:lang="de">DER WAHRE JUDE
+            <lb/>Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
-         <div type="editorial" n="1" style="two columns">
-            <cb n="1"/>
+         <div n="2">
             <table rows="4" cols="2">
-               <head>The Geniune Jew costs</head>
+               <head>The Genuine Jew costs</head>
                <row role="data">
                   <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
                   <cell role="data">Abroad</cell>
@@ -124,13 +121,15 @@
             <p><placeName><ref source="place002">Lviv</ref></placeName>, <date calendar="Hebrew" when-custom="5664-01-09"><foreign xml:lang="he">Yom Shishi, <ref source="https://www.wikidata.org/wiki/Q166986">Tzav</ref></foreign> 5664</date></p>
             <cb/>
             <p>
-               Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName>Sonnengasse 27</placeName></foreign>
-               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign xml:lang="de"><placeName>Lemberg</placeName>, <date when-iso="1904-03-25">den 25.März 1904</date></foreign>.</p>
+               Adverts are cheaply calculated <lb/>All letters and money send to: 
+               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse</ref> 27</placeName></foreign>
+               <lb/>The Genuine Jew is published every Tuesday and Friday 
+               <lb/><foreign xml:lang="de"><placeName>Lemberg</placeName>, <date when-iso="1904-03-25">den 25.März 1904</date></foreign>.</p>
          </div>
-         <div n="2">
-            <head><hi rend="bold">The Jewish emigration from <placeName><ref source="place006">Galicia</ref></placeName></hi></head>
+         <div n="3">
+            <head>The Jewish emigration from <placeName><ref source="place006">Galicia</ref></placeName></head>
             <p>
-               According to a recently published report about Galician emigration, 104,758 Jews have emigrated from <placeName><ref source="place006">Galicia</ref></placeName> in the last ten years (1890-1900). Jews form 12 % of the population, but more than a third of the emigrants are Jews. 
+               According to a recently published report about Galician emigration, 104,758 Jews have emigrated from <placeName><ref source="place006">Galicia</ref></placeName> in the last ten years (<date when-iso="1890">1890</date>-<date when-iso="1900">1900</date>). Jews form 12 % of the population, but more than a third of the emigrants are Jews. 
             </p>
             <p>
                The great number of emigrants. Exclude those who didn’t move abroad but went to a bigger city in <placeName><ref source="place025">Austria</ref></placeName> - they go to <placeName><ref source="place008">America</ref></placeName> and other countries. It proves the great poverty in 
@@ -152,14 +151,14 @@
                one has to do taxing work. We should also strive to create new sources of income (as explained in The Genuine Jew no. 1 in the article “New livelihoods”), to open up possibilities to work here and no one needs to go out into the world - Praiseworthy are those who sit in at home is a well-known Jewish idiom in which the truth lies.
             </p>
          </div>
-         <div type="information" style="one column">
-            <p>We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the voice of the upholders of religion) to send every letter and money to this address:</p>
-            <p>OSIAS H. WILF, <placeName><ref source="place002">LEMBERG</ref></placeName> <ref source="place003"><placeName>Sonnengasse 27</placeName></ref>.</p>
-            <p style="text-align:center">[1]</p>
-         </div>
+         <fw type="footer" n="1">
+            We ask the subscribers of <foreign xml:lang="he">מחזיקי הדת</foreign> and <foreign xml:lang="he">קול מחזיקי הדת</foreign> to send every letter and money to this address:
+            <lb/><persName><ref source="person031">OSIAS H. WILF</ref></persName>, <placeName><ref source="place002">LEMBERG</ref></placeName> <placeName><ref source="place003">Sonnengasse</ref> 27</placeName>.
+         </fw>
          <pb/>
-         <div type="article" n="3">
-            <head><hi rend="bold">Path of the Torah</hi></head>
+         <fw type="pageNum">- 2 -</fw>
+         <div n="4">
+            <head>Path of the Torah</head>
             <p>
                (An appeal of big Rabbis about the education of Jewish children).
             </p>
@@ -176,7 +175,7 @@
             </p>
             <p>
                The Holy <ref source="https://www.wikidata.org/wiki/Q930585">Gemara</ref> says: As soon as the child can talk, the father is obligated to teach him the Torah: "The Torah that <persName><ref source="person065">Moses</ref></persName> commanded us is the inheritance of the congregation of <persName><ref source="person148">Jacob</ref></persName>" 
-                  and  <ref source="https://www.wikidata.org/wiki/Q207607">Shema Yisrael</ref>, the child has to know the principles of faith and the foundations of religion since childhood which <persName><ref source="person065">Moses</ref></persName>, may he rest in peace, has brought us the Torah from the Lord. By learning the Torah he must know the meaning 
+               and  <ref source="https://www.wikidata.org/wiki/Q207607">Shema Yisrael</ref>, the child has to know the principles of faith and the foundations of religion since childhood which <persName><ref source="person065">Moses</ref></persName>, may he rest in peace, has brought us the Torah from the Lord. By learning the Torah he must know the meaning 
                of the Shema, the Lord our God, the Lord is one, dedicating himself to the Lord and to the Holy Torah, fulfilling the commandments, doing good deeds, and being good and pious for the Lord and the people.
             </p>
             <p>
@@ -207,7 +206,8 @@
             <p>
                With one word, it is heartbreaking and bitter to watch the ruins of religion and the diligent extermination of the Holy Torah with which our new good friend seduces and persuades the people to search for the reanimation of our people and completely tear apart the Holy Torah. God, have mercy with us.
             </p>
-            <p style="text-align:center">[2]</p><cb/>
+            <pb/>
+            <fw type="pageNum">- 3 -</fw>
             <p>
                And because the worries of the family and the soul are so great, the people are too busy with earning a living that they do not notice how their children are spoiled in today’s new schools. We are obliged according to Torah law to declare and announce all over the world for every father and mother to be wary of the debauched schools and methods 
                which go against the Holy Torah and the legacy of our ancestors. The commandments of the Talmud Torah for children as our parents have learned them are: 
@@ -272,8 +272,8 @@
                <lb/><persName><ref source="person184">Yosef Razin</ref></persName>, Rabbi of the <placeName><ref source="place289">Dvinsk</ref></placeName> community 
             </p>
          </div>
-         <div n="4">
-            <head><hi rend="bold">A new tax!</hi></head>            
+         <div n="5">
+            <head>A new tax!</head>            
             <p>
                The local cultus board called a meeting last week which several citizens were attending. The chair <persName><ref source="person186">H. Sholem Grosskopf</ref></persName> announced that the district authority asked him whether he would agree to double the register fees. This means: paying for birth and death costs two crowns 
                instead of the current one crown and for a legal marriage four crowns instead of the current two crowns. 
@@ -283,23 +283,23 @@
             </p>
             <p>
                But this doesn’t just concern our brothers, children of <placeName><ref source="place034">Israel</ref></placeName> in <placeName><ref source="place006">Galicia</ref></placeName>. Last year, the Galician Jewish registry office in Lviv consulted each other and decided to ask the ministry to raise the taxes. The ministry ordered 
-               all district authorities by government decree, from <date when="1903-12-17">December 17th 1903</date>, number 54820, to request every cultus board to agree to raising taxes. -
+               all district authorities by government decree, from <date when-iso="1903-12-17">December 17th 1903</date>, number 54820, to request every cultus board to agree to raising taxes. -
             </p>
             <p>
                To answer this question, every board was allowed to answer without calling a meeting. It may be possible that no one knows about it in many cities, but our brothers would have to pay double as time goes on. This would be a new tax for the impoverished population.
-            </p>
-            <p style="text-align:center">[3]</p><cb/>
+            </p><pb/>
+            <fw type="pageNum">- 4 -</fw>
             <p>
                Hence, we want to call this to the attention of every Jewish community of Galicia to not see this become reality. 
             </p>
             <p>
-               <placeName><ref source="place290">Rava-Ruska</ref></placeName>, <date when="1904-04-17"><ref source="https://www.wikidata.org/wiki/Q913852">Rosh Chodesh</ref> <ref source="https://www.wikidata.org/wiki/Q208192">Nisan</ref> 5664</date>, an honest man. 
+               <placeName><ref source="place290">Rava-Ruska</ref></placeName>, <date when-iso="1904-04-17"><ref source="https://www.wikidata.org/wiki/Q913852">Rosh Chodesh</ref> <ref source="https://www.wikidata.org/wiki/Q208192">Nisan</ref> 5664</date>, an honest man. 
             </p>
          </div>
-         <div n="5">
-            <head><hi rend="bold">The political state of <placeName><ref source="place025">Austria</ref></placeName>.</hi></head>
+         <div n="6">
+            <head>The political state of <placeName><ref source="place025">Austria</ref></placeName>.</head>
             <p>
-               Peace and quiet has set completely in the Hungarian parliament. The recruitment act for <date when="1903">1903</date> and <date when="1904">1904</date> as well as the budget for <date when="1903">1903</date> and a temporary six month budget for <date when="1904">1904</date> have been finished in only a few days. 
+               Peace and quiet has set completely in the Hungarian parliament. The recruitment act for <date when-iso="1903">1903</date> and <date when-iso="1904">1904</date> as well as the budget for <date when-iso="1903">1903</date> and a temporary six month budget for <date when-iso="1904">1904</date> have been finished in only a few days. 
                The government has overcome all hurdles and can send the parliament home for the holidays. After the holidays, the parliament can focus on new tasks and pass important laws for the people.
             </p>
             <p>
@@ -308,7 +308,7 @@
             </p>
             <p>
                The minister president <persName><ref source="person004">Dr Koerber</ref></persName>, who was known for motivating the parliament to at least settle the most important issues, was not able to move anyone this time. As nothing was done the whole sitting, he at least wanted to elect the delegation needed for settling 
-               the joint budget for <date when="1905">1905</date>. But the Czechs didn’t even want to do that for his sake. Whatever he did, nothing worked. He turned to the Polish for help to mediate and vote for a delegation. The Polish, who usually support every government, positioned themselves as the opposition this time. 
+               the joint budget for <date when-iso="1905">1905</date>. But the Czechs didn’t even want to do that for his sake. Whatever he did, nothing worked. He turned to the Polish for help to mediate and vote for a delegation. The Polish, who usually support every government, positioned themselves as the opposition this time. 
                They didn’t want to relent and claimed they fear that if the delegation is elected now, the government would call the Imperial Assembly after the holidays. When the minister president urged them to give in and told them that the Polish situation needed them to elect the delegation at once, they went to the minister 
                of foreign affairs <persName><ref source="person060">Gołuchowski</ref></persName> to ask him whether the political situation is really that serious and whether electing a delegation is actually needed right now. The minister answered that it isn’t essential for him as the delegation will only convene in May anyways. 
                Whether it is elected now or after the holidays doesn’t make a difference. On the contrary, if they should be elected in a hurry now, it will reflect negatively on the parliament. Everyone would assume that they are preparing for political enmeshment. After this reply, the minister president 
@@ -326,8 +326,8 @@
                The government is not permitted to be present at the peace negotiations. The Czechs explained that as soon as the minister president intervenes, they will abort the negotiations. If peace is established, the minister will surely have to be exchanged - or the parliament will dissolve. 
             </p>
          </div>
-         <div n="6">
-            <head><hi rend="bold">Jewish News.</hi></head>
+         <div n="7">
+            <head>Jewish News.</head>
             <p>
                (<placeName><ref source="place001">Lviv</ref></placeName>). The Rabbi, great man, Gaon, etc. <persName><ref source="person067">Yitzhak Leib Shmelkes</ref></persName>, Shlita of <placeName><ref source="place001">Lviv</ref></placeName> will hold a sermon on the <ref source="https://www.wikidata.org/wiki/Q107427">Halakha</ref> in the small local school on the day of Sabbath.
             </p>
@@ -352,14 +352,16 @@
             </p>
             <p>
                (<placeName><ref source="place220">Holland</ref></placeName>). A new law concerning Sunday rest has been passed in <placeName><ref source="place220">Holland</ref></placeName>. It determines that every workshop and every factory has to close on Sunday. Only those workers resting on
-            </p>
-            <p style="text-align:center">[4]</p><cb/>
+            </p><pb/>
+            <fw type="pageNum">- 5 -</fw>
             <p>
                another day may work on Sunday. This is a relief for Jewish workers who keep Sabbath. 
             </p>
          </div>
-         <div n="7">
-            <head><hi rend="bold">Telegrams<lb/>The war<lb/>between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place019">Russia</ref></placeName>.</hi></head>
+         <div n="8">
+            <head>Telegrams</head>
+            <head type="h2">The war</head>
+            <head type="h3">between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place019">Russia</ref></placeName>.</head>
             <p>
                <placeName><ref source="place018">St Petersburg</ref></placeName>. <placeName><ref source="place019">Japan</ref></placeName> bombarded <placeName><ref source="place083">Port Arthur</ref></placeName> again on Tuesday. 18 Japanese battleships battered the harbour and the fortress for over four hours. They fired over 200 missiles and did damage. 
                The Russian battleship and the fortress returned fire. Afterwards, the Japanese sailed away.
@@ -387,26 +389,26 @@
                received 600 roubles, but was hung now. 
             </p>
             <p>
-               <placeName><ref source="place273">Vilnius</ref></placeName>. The revolutionaries are starting. There is a small church in <placeName><ref source="place273">Vilnius</ref></placeName> which was built in memory of repression of the <ref source="https://www.wikidata.org/wiki/Q473670">January Uprising</ref> of <date when="1863">1863</date>. The<cb/> 
+               <placeName><ref source="place273">Vilnius</ref></placeName>. The revolutionaries are starting. There is a small church in <placeName><ref source="place273">Vilnius</ref></placeName> which was built in memory of repression of the <ref source="https://www.wikidata.org/wiki/Q473670">January Uprising</ref> of <date when-iso="1863">1863</date>. The<cb/> 
                Polish have always looked at the church with hostility. These days, the church was bombed with a dynamite bomb.
             </p>
             <p>
                <placeName><ref source="place018">St Petersburg</ref></placeName>. As the government fears dynamite assassinations on their military trains, it has introduced an armoured train in <placeName><ref source="place028">Manchuria</ref></placeName>. Similar to what <placeName><ref source="place011">England</ref></placeName> had in the <ref source="https://www.wikidata.org/wiki/Q215112">Second Boer War</ref>. 
             </p>
             <p>
-               <placeName><ref source="place083">Port Arthur</ref></placeName>. The Russians made all preparations in case the city fell in Japanese hands. Everything should be burnt down completely like the Russians burnt down <placeName><ref source="place151">Moscow</ref></placeName> in <date when="1812">1812</date> during the war with <persName><ref source="person066">Napoleon</ref></persName>. 
+               <placeName><ref source="place083">Port Arthur</ref></placeName>. The Russians made all preparations in case the city fell in Japanese hands. Everything should be burnt down completely like the Russians burnt down <placeName><ref source="place151">Moscow</ref></placeName> in <date when-iso="1812">1812</date> during the war with <persName><ref source="person066">Napoleon</ref></persName>. 
             </p>
             <p>
                <placeName><ref source="place018">St Petersburg</ref></placeName>. The people are dissatisfied that the <persName><ref source="person">tsar</ref></persName> sits at home and doesn’t go to the battlefield in <placeName><ref source="place136">East Asia</ref></placeName>.
             </p>
          </div>
-         <div n="8">
-            <head><hi rend="bold">German defeat in <placeName><ref source="place237">East Africa</ref></placeName>.</hi></head>
+         <div n="9">
+            <head>German defeat in <placeName><ref source="place237">East Africa</ref></placeName>.</head>
             <p>
                <placeName><ref source="place031">Berlin</ref></placeName>. A revolution by the natives in <placeName><ref source="place237">German East Africa</ref></placeName> started a fight between the revolutionaries and the German military. The military lost greatly. Some officers and a lot of soldiers were killed, even more were wounded.
             </p>
          </div>
-         <div n="9">
+         <div n="10">
             <head><hi rend="bold">The war and the finances.</hi></head>
             <p>
                Why do <placeName><ref source="place045">France</ref></placeName>, <placeName><ref source="place010">Germany</ref></placeName>, <placeName><ref source="place042">Belgium</ref></placeName> and generally <placeName><ref source="place100">Europe</ref></placeName> ally with Russians in the current war and <placeName><ref source="place011">England</ref></placeName> 
@@ -420,12 +422,12 @@
                What impact the Russian defeat can have on foreign capitalists, is not apparent on the <placeName><ref source="place095">Paris</ref></placeName> stock market last week. The total loss of the stock market capitalists has been calculated to 84 million pounds.
             </p>
          </div>
-         <div n="10">
-            <head><hi rend="bold">The softening of the human race.</hi></head>
+         <div n="11">
+            <head>The softening of the human race.</head>
             <p>
                Mitigation of the world, decline, - these words travel from person to person lately and scare us with an unfortunate outlook of the future. The human - as it is said - are becoming weaker, smaller, their lives become shorter and therefore a time must come when the whole
-            </p>
-            <p style="text-align:center">[5]</p><cb/>
+            </p><pb/>
+            <fw type="pageNum">- 6 -</fw>
             <p>
                world consists of small, weak dwarfs which cannot find a solution in the battle of life and the world has to end. The proof is…?
             </p>
@@ -468,12 +470,12 @@
             <p>
                Child mortality is of course not the only cause of the decreasing average lifespan. One of the main reasons for Professor <persName><ref source="person198">Ballard</ref></persName> are the different “industrial diseases” which multiply severely. However, these only constitute exceptions and the statistics prove that these reasons do not influence the general result. At large, the life span has changed little 
                and today’s people live almost longer than the generations before. Indeed, as <persName><ref source="person199">Mayrhofer</ref></persName> proves, the birth rate in bigger cities has decreased. Hence we have in <placeName><ref source="place031">Berlin</ref></placeName>, for example, the following numbers: 
-               <lb/>In <date when="1886">1886</date>, out of 1,000 women, 230 gave birth.
-               <lb/>-”- <date when="1891">1891</date> - 220
-               <lb/>-”- <date when="1896">1896</date> - 188
+               <lb/>In <date when-iso="1886">1886</date>, out of 1,000 women, 230 gave birth.
+               <lb/>-”- <date when-iso="1891">1891</date> - 220
+               <lb/>-”- <date when-iso="1896">1896</date> - 188
             </p>
             <p>
-               On average, the number of births in <date when="1896">1896</date> were
+               On average, the number of births in <date when-iso="1896">1896</date> were
                <lb/>in the big cities 264 (of 1,000 women)
                <lb/>- medium - 292 -”-
                <lb/>- small - 291 -”-
@@ -481,15 +483,15 @@
             </p>
             <p>
                With these numbers we can see that the birth rate did not change in total. The statisticians, who constantly cry and moan at the world's devastation, make the mistake of only looking at the small number from the city and jump to conclusions. The better academics however prove that distress and hardship bring sad results, but this is no reason to claim devastation and
-            </p>
-            <p style="text-align:center">[6]</p><cb/>
+            </p><pb/>
+            <fw type="pageNum">- 7 -</fw>
             <p>debilitating of humankind, - the devil is not as horrible as he is being described.</p>
          </div>
-         <div n="11">
-            <head><hi rend="bold">Feutellion 
-               <lb/><persName><ref source="person046">Rabbi Meir</ref></persName> of <placeName><ref source="place099">Rothenburg</ref></placeName>
-               <lb/>(A historical retelling)
-               <lb/>(Continuation)</hi></head>
+         <div n="12">
+            <head>Feutellion</head>
+            <head type="h2"><persName><ref source="person046">Rabbi Meir</ref></persName> of <placeName><ref source="place099">Rothenburg</ref></placeName></head>
+            <head type="h3">(A historical retelling)
+               <lb/>(Continuation)</head>
             <p>
                “Daughter! I have to discuss something urgent with you. You are my last solace and hope. Out of everything you alone are what’s left. My duty does not allow me to have a conversation with you, but today is the most important time during which I can talk to you. When your late mother was still alive, I passed this on to your mother. Unfortunately, now I alone have to cover 
                for her. By chance, I heard what happened to you with <persName><ref source="person054">Kneppe</ref></persName> when you went to your aunt. I know that you are very distressed and I am astonished that you did not tell me anything about it.”
@@ -512,7 +514,7 @@
                I have indeed calculated all of that, dear father, I know very well that my whole life will be resentful. As long as I live I shall cry and moan because of my misery and shame. But there is no other option as the life of every Jew is on the line. I have to relinquish my life and my honour. You alone, dear father, taught me that every human has the duty to sacrifice their life for the Jewish people…”
             </p>
             <p>
-               The <persName><ref source="person046">rabbi</ref></persName> was very satisfied with what he heard from his daughter. He was now convinced of the love she has for her people that she would sacrifice her own life and happiness for them. After a short break he said to her:<cb/> “You know very well that God said to <persName><ref source="person146">Abraham</ref></persName> he shall sacrifice his only 
+               The rabbi was very satisfied with what he heard from his daughter. He was now convinced of the love she has for her people that she would sacrifice her own life and happiness for them. After a short break he said to her:<cb/> “You know very well that God said to <persName><ref source="person146">Abraham</ref></persName> he shall sacrifice his only 
                son <persName><ref source="person147">Isaac</ref></persName> and <persName><ref source="person146">Abraham</ref></persName> was ready to do so. Then, an angel said to him: You shall not touch your son as I am convinced that you are god-fearing, because you were ready to do so. Our scholars learned from that, that everybody who plans to do a good deed, even if he has not done it yet, is a good with 
                God as he had done it already. The same applies to you as well, my dear daughter. For you, it is already a done deal that you will sacrifice yourself for the Yiddish people, but I can not approve of that. I have sworn your dying mother to look for people according to your values. And I am doing this to honour your mother in her grave who shall find peace. Leave these horrible thoughts behind, my dear child…”
             </p>
@@ -540,14 +542,14 @@
             </p>
             <p>
                (To be continued).
-            </p>
-            <p style="text-align:center">[7]</p><cb/>
+            </p><pb/>
+            <fw type="pageNum">- 8 -</fw>
          </div>
-         <div n="12">
+         <div n="13">
             <p>The editor does not take responsibility for the advertisements in this paper.</p>
-            <div style="text-align:center">
-               <p>Bank and exchange business
-                  <lb/>ROHAYTN &amp; ULAM
+            <div style="text-align:center" type="ad" n="1">
+               <head>Bank and exchange business</head>
+               <p>ROHAYTN &amp; ULAM
                   <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <placeName><ref source="place186">Syxtuskagasse</ref></placeName> 8.</foreign>
                   <lb/>Buying and selling all kinds of
                   <lb/>Effects, lotteries, and coins.
@@ -556,11 +558,9 @@
                   <lb/>can be given for free.
                   <lb/>Easy, low-interest loans available.</p>
             </div>
-            <div>
-               <head>
-                  <lb/><hi rend="bold">Coffee!</hi>
-                  <lb/><hi rend="italic>">All natural!</hi>
-               </head>
+            <div type="ad" n="2">
+               <head>Coffee!</head>
+               <head type="h2"><hi rend="italic>">All natural!</hi></head>
                <p>
                   Also less than 5 kg, payment on delivery, prepaid, postage.
                </p>
@@ -595,19 +595,20 @@
                   </row>
                </table>
                <p>
-                  <persName>Berger Ernö</persName>, <placeName><ref source="place058">Fuime</ref></placeName>.
+                  <persName><ref source="person029">Berger Ernö</ref></persName>, <placeName><ref source="place058">Fuime</ref></placeName>.
                </p>
-            <div>
+            </div>
+            <div type="ad" n="3">
                <head>Announcement</head>
                <p>          
                   Our “Talmud association” Delatyn seeks to buy a Menskish Talmud, finely bound. That is why we ask those who want to sell it to send something to the address below and name the price.
                   Schebsl Blei, <placeName><ref source="place251">Delatyn</ref></placeName>.
                </p>
             </div>
-            <div>
-               <head><hi rend="bold">Fine tea</hi></head>
+            <div type="ad" n="4">
+               <head>Fine tea</head>
                <p>
-                  <lb/>If you want to drink pure, unadulterated tea, write to the address below,
+                  If you want to drink pure, unadulterated tea, write to the address below,
                   <lb/>1 kg fine, pure tea only 6 crowns.
                   <lb/>There is also tea costing 3 to 10 crowns per kg.
                   <lb/>Sample for free and prepaid.
@@ -615,7 +616,7 @@
                   <lb/>Thee &amp; Caffe Lager.
                </p>
             </div>
-            <div>
+            <div type="ad" n="5">
                <head>Coffee for Passover</head>
                <p>
                   As 99 % of coffee is aromated they are not to be used during Passover. Therefore I ordered high quality  coffee in bulk and will sell it for 1,80 francs to every postal station. 
@@ -624,23 +625,24 @@
                </p>
             </div>
             <cb/>
-            <div>
+            <div type="ad" n="6">
                <p>
                   Important for farmers
                   On occasion of the upcoming spring season, we suggest the following enterprise for buying bonemeal, clay slag, phosphates, and so on. Any and all grasses, clover seeds and agricultural machines by the most prestigious factories, domestic and abroad. 
                   Illustrated price lists can be sent for free and without shipping costs on request. 
                   The delivery will make customers satisfied and accomplished to the max.
                </p> 
-            <div>
+            </div>
+            <div type="ad" n="7">
                <p><persName><ref source="person106">NATHAN SPRECHER</ref></persName>
                   <lb/>Artificial fertilizer, seeds &amp; machinery
                   <lb/><placeName><ref source="place223">Podgórze</ref></placeName> - <placeName><ref source="place149">Kraków</ref></placeName>
                </p>
             </div>               
-            <div>
-               <p><ref source="https://www.wikidata.org/wiki/Q17590684">The Oesterreichische 
-                  <lb/>Volkszeitung</ref>
-                  <lb/>Which is published with 82,000 copies publishes important
+            <div type="ad" n="8">
+               <head><ref source="https://www.wikidata.org/wiki/Q17590684">The Oesterreichische 
+                  <lb/>Volkszeitung</ref></head>
+                  <p>Which is published with 82,000 copies publishes important
                   <lb/>news 
                   <lb/>about the RUSSO-JAPANESE 
                   <lb/>WAR
@@ -655,24 +657,19 @@
                   <lb/>FREE TRIALS
                   <lb/>The editorial office of the “Oesterreichische 
                   <lb/>Volkszeitung”, <placeName><ref source="place007">Vienna</ref>, 1010</placeName>, <placeName><ref source="place222">Schulerstraße</ref> 16</placeName>.
-                  <lb/>All new subscribers receive the current, highly interesting novels and novellas for free.</p></div> 
-            </div>
-         </div>
-            <div>
+                  <lb/>All new subscribers receive the current, highly interesting novels and novellas for free.</p>
+            </div> 
+            <div type="ad" n="9">
                <p>
                   You can get various useful instructions for register handlers, head of cultural affairs, private individuals, etc. at different prices.
                   <lb/><persName><ref source="person139">S. Weinstock</ref></persName>, in <placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place185">Rzeznika</ref></placeName> 5.
                </p>
             </div>
-         <div type="footer" style="one columns" n="1">
-            <p>
-               <foreign xml:lang="de">
-                  Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName>recte <persName><ref source="person139">Weinstock</ref></persName> 
-                  <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName type="person"><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse 35</ref></placeName>
-               </foreign>
-            </p>
          </div>
-         </div>
+         <fw type="footer" n="2">
+            <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName>recte <persName><ref source="person139">Weinstock</ref></persName> 
+            <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName type="person"><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse</ref> 35</placeName></foreign>
+         </fw>
       </body>
    </text>
 </TEI>

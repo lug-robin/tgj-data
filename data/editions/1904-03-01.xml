@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-01.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-01.xml" prev="1904-02-26.xml" next="1904-03-04.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -25,7 +25,7 @@
                <name>Luger, Robin</name>
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2025">2025</date>
+            <date when-iso="2025">2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
@@ -80,16 +80,16 @@
    </facsimile>
    <text>
       <body xml:lang="en">
-         <fw type="head" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 5 - </foreign>1st year</fw>
+         <fw type="header" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 5 - </foreign>1st year</fw>
          <div n="1">
-            <head>The Geniune Jew</head>
+            <head>The Genuine Jew</head>
             <p style="text-align:center">Organ for Yiddish Matters
-               <lb/><foreign xml:lang="de">DER WAHRE JUDE</foreign>
-               <foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+               <lb/><foreign xml:lang="de">DER WAHRE JUDE
+               <lb/>Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
          <div n="2">
-            <table rows="4" cols="2" style="text-align:center;width:50%">
-               <head>The Geniune Jew costs</head>
+            <table rows="4" cols="2">
+               <head>The Genuine Jew costs</head>
                <row role="data">
                   <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
                   <cell role="data">Abroad</cell>
@@ -111,7 +111,7 @@
             <p>
                Adverts are cheaply calculated
                <lb/>All letters and money send to:
-               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse 27</ref></placeName></foreign>
+               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse</ref> 27</placeName></foreign>
                <lb/>The Genuine Jew is published every Friday
                <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <date when-iso="1904-03-01">den 1. März 1904</date></foreign>.
             </p>
@@ -150,17 +150,18 @@
                is like Haman, sad and cowering, then there will be light, and gladness, and joy, and honor for the Jews.
             </p>
          </div>
-         <fw type="footnote">
+         <fw type="footnote" n="1">
             We ask the subscribers of <foreign xml:lang="he">מחזיקי הדת</foreign> and <foreign xml:lang="he">קול מחזיקי הדת</foreign> to send every letter and money to this address:
-            <lb/><ref source="person031">OSIAS H. WILF</ref>, <placeName><ref source="place002">LEMBERG</ref></placeName> <placeName><ref source="place003">Sonnengasse</ref> 27</placeName>.</fw><pb/>
-            <fw type="pageNum">- 2 -</fw>
+            <lb/><ref source="person031">OSIAS H. WILF</ref>, <placeName><ref source="place002">LEMBERG</ref></placeName> <placeName><ref source="place003">Sonnengasse</ref> 27</placeName>.</fw>
+         <pb/>
+         <fw type="pageNum">- 2 -</fw>
          <div n="4">
             <head>The Austrian <placeName><ref source="place077">Balkan</ref></placeName> Politics</head>
             <p>
                Austrian’s <placeName><ref source="place077">Balkan</ref></placeName> Politics have been talked about a lot again lately; about which side <placeName><ref source="place001">Austria-Hungary</ref></placeName> will take in case a war between 
                <placeName><ref source="075">Turkey</ref></placeName> and <placeName><ref source="place112">Bulgaria</ref></placeName> breaks out. That question is not new. This question has been talked and written about for hundreds of years. Earlier, before 
                <placeName><ref source="place010">Germany</ref></placeName> and <placeName><ref source="place040">Italy</ref></placeName> had been one great empire, but several small countries and kingdoms which did not live in peace, the Austrian agenda was 
-               mainly about intervening in their affairs and increasing the Austrian’s influence. From <date when="1866">1866</date> onwards, after the war between <placeName><ref source="place025">Austria</ref></placeName> and <placeName><ref source="place139">Prussia</ref></placeName> 
+               mainly about intervening in their affairs and increasing the Austrian’s influence. From <date when-iso="1866">1866</date> onwards, after the war between <placeName><ref source="place025">Austria</ref></placeName> and <placeName><ref source="place139">Prussia</ref></placeName> 
                with <placeName><ref source="place040">Italy</ref></placeName>, <placeName><ref source="place025">Austria</ref></placeName> had to renounce any influence it could have had in the united <placeName><ref source="place010">Germany</ref></placeName> and 
                <placeName><ref source="place040">Italy</ref></placeName>. From then on, <placeName><ref source="place025">Austria</ref></placeName> had two great, strong neighbours and has to be satisfied with being able to do what it can do alone. But now, 
                <placeName><ref source="place025">Austria</ref></placeName>’s foreign politics can concentrate on <placeName><ref source="place077">Balkan</ref></placeName> politics again like it did in earlier centuries with its empire and <placeName><ref source="place075">Turkey</ref></placeName>. 
@@ -182,7 +183,7 @@
                <placeName><ref source="place025">Austria</ref></placeName> to have any more Slavics (Peoples on the <placeName><ref source="place077">Balkan</ref></placeName> are mostly Slavics), as <placeName><ref source="place025">Austria</ref></placeName> would become a
                Slavic state causing the German influence to weaken. Hungarians are against it for the same reason, because they are scared of the slaves. Hungarians would prefer <placeName><ref source="place025">Austria</ref></placeName> to take 
                <placeName ><ref source="place076">Poland</ref></placeName> away from <placeName><ref source="place014">Russia</ref></placeName>. First, they could take revenge on <placeName><ref source="place014">Russia</ref></placeName> which helped suppress them
-               in <date when="1848">1848</date>. Second, the new Slavs <placeName><ref source="place025">Austria</ref></placeName> would gain come from the Austrian side, not the Hungarian one, like the <placeName><ref source="place077">Balkan</ref></placeName> countries.
+               in <date when-iso="1848">1848</date>. Second, the new Slavs <placeName><ref source="place025">Austria</ref></placeName> would gain come from the Austrian side, not the Hungarian one, like the <placeName><ref source="place077">Balkan</ref></placeName> countries.
             </p>
             <p>
                Having said the truth, Austrian politics might want to desire more of <placeName><ref source="place076">Poland</ref></placeName> - however, <placeName><ref source="place014">Russia</ref></placeName> is big and strong and is not to be messed with and 
@@ -235,8 +236,8 @@
          <div n="5">
             <head>The <placeName><ref source="place147">Zabolotiv</ref></placeName> trials</head>
             <p>
-               Presently, a trial against the antisemite excess taking place in <placeName><ref source="place148">Kolomyia</ref></placeName>. The riot took place on <date when="1903-09-11">September 11th</date> of the previous year during the local fair in <placeName><ref source="place147">Zabolotiv</ref></placeName>. 
-               The accusatorial report reads as follows: On <date when="1903-09-11">September 11th</date> during the fair antisemitic riots started to rise. Several thousand farmers of the area gathered around and suddenly a rumour formed that Jews have murdered a farm woman and robbed 300 guilds. First the farmers 
+               Presently, a trial against the antisemite excess taking place in <placeName><ref source="place148">Kolomyia</ref></placeName>. The riot took place on <date when-iso="1903-09-11">September 11th</date> of the previous year during the local fair in <placeName><ref source="place147">Zabolotiv</ref></placeName>. 
+               The accusatorial report reads as follows: On <date when-iso="1903-09-11">September 11th</date> during the fair antisemitic riots started to rise. Several thousand farmers of the area gathered around and suddenly a rumour formed that Jews have murdered a farm woman and robbed 300 guilds. First the farmers 
                gathered around the house of <persName><ref source="person203">Salomon Dulberg</ref></persName>, who had been threatened by a farmer before. Therefore, it is clear that the rumour has been spread on purpose to persecute Jews. The congregated farmers started to ransack the Jewish homes. But nobody had 
                hurt anyone before, did not kill or rob a woman. The farmers searched the houses of <persName><ref source="person203">Dulberg</ref></persName>, <persName><ref source="person228">Chaim Loker</ref></persName>, <persName><ref source="person229">Dud Jupiter</ref></persName>, 
                <persName><ref source="person230">Layzer Burg</ref></persName>, and <persName><ref source="person231">Feivel Enker</ref></persName>. As nothing of interest could be found, the mob started to become impatient and started to batter the Jewish people there who started to point at God. As the Jewish people 
@@ -260,10 +261,10 @@
             <head>Political news.</head>
             <p>
                <placeName><ref source="place001">Austria-Hungary</ref></placeName>. The delegation finished their consultations and agreed on an imperial decree. The emperor thanked the delegation through the minister count <persName><ref source="person060">Goluchowski</ref></persName> for their zealous 
-               work and approving everything the government demanded for the military: New cannons, new battleships and an augmentation of the military navy. - Rumour has it that the government will convoke the delegation again this year, namely in <date when="1904-05">May</date>. They should also handle the budget 
-               (regulation of revenues and expenses) for <date when="1905">1905</date>. The government wants everything to be finished in case it is necessary to dissolve the Hungarian Reichstag in case no delegation can be elected.
+               work and approving everything the government demanded for the military: New cannons, new battleships and an augmentation of the military navy. - Rumour has it that the government will convoke the delegation again this year, namely in <date when-iso="1904-05">May</date>. They should also handle the budget 
+               (regulation of revenues and expenses) for <date when-iso="1905">1905</date>. The government wants everything to be finished in case it is necessary to dissolve the Hungarian Reichstag in case no delegation can be elected.
             </p>
-            <p>The Austrian imperial assembly will convene on <date when="1904-03-08">March 8th</date> to consulate about the <hi rend="italic">recruit act</hi>, which is about how many soldiers should be drafted this year. The Czechs will obstruct the recruit act again until they sign the law as
+            <p>The Austrian imperial assembly will convene on <date when-iso="1904-03-08">March 8th</date> to consulate about the <hi rend="italic">recruit act</hi>, which is about how many soldiers should be drafted this year. The Czechs will obstruct the recruit act again until they sign the law as
                always. If the government did not implement the law in parliament it has to revert to §14 . Still, the imperial assembly will be adjourned.
             </p>
             <p>
@@ -286,9 +287,7 @@
          <fw type="pageNum">- 4 -</fw>
          <div n="7">
             <head>News.</head>
-            <head type="h2">
-               Jewish news.
-            </head>
+            <head type="h2">Jewish news.</head>
             <p>
                (<placeName><ref source="place149">Krakow</ref></placeName>). Not long ago, a fifteen year old, Jewish girl - <persName><ref source="person250">Gitel Epstein</ref></persName> - went missing from a village. Now she has been found in a monastery in <placeName><ref source="place149">Krakow</ref></placeName>, where she had been baptised. The parents 
                asked the court that the child be brought back to them. But because the parents were not married legally, the court refused their plea. They had lawfully wedded and their attorney demanded now to return their child to them. Until now, the court has not yet responded to the appeal.
@@ -325,7 +324,7 @@
                The Russian civilians are living in fear. Up until now, over 50,000 Japanese men have been dropped in <placeName><ref source="place022">Korea</ref></placeName>.
             </p>
             <p>
-               <placeName><ref source="place083">Port Arthur</ref></placeName>. The Japanese shelled <placeName><ref source="place083">Port Arthur</ref></placeName> during the night of <date when="1904-02-25">February 25th</date> and did damage. However, they have not managed to block the harbour or damage a battleship.
+               <placeName><ref source="place083">Port Arthur</ref></placeName>. The Japanese shelled <placeName><ref source="place083">Port Arthur</ref></placeName> during the night of <date when-iso="1904-02-25">February 25th</date> and did damage. However, they have not managed to block the harbour or damage a battleship.
             </p>
             <p>
                <placeName><ref source="place018">St Petersburg</ref></placeName>. <placeName><ref source="place014">Russia</ref></placeName> is very mad at <placeName><ref source="place022">Korea</ref></placeName> which went into an alliance with <placeName><ref source="place019">Japan</ref></placeName>, according to which 
@@ -352,7 +351,7 @@
                will break out soon. In this case, <placeName><ref source="place010">Germany</ref></placeName> and <placeName><ref source="place045">France</ref></placeName> would ally with <placeName><ref source="place014">Russia</ref></placeName>. Therefore, <hi rend="italic">World War</hi> will break out.
             </p>
             <p>
-               <placeName><ref source="place018">St Petersburg</ref></placeName>. News from <placeName><ref source="place083">Port Arthur</ref></placeName> reports that the Japanese will receive a command to charge <placeName><ref source="place083">Port Arthur</ref></placeName> on <date when="1904-03-01">March 1st</date>.
+               <placeName><ref source="place018">St Petersburg</ref></placeName>. News from <placeName><ref source="place083">Port Arthur</ref></placeName> reports that the Japanese will receive a command to charge <placeName><ref source="place083">Port Arthur</ref></placeName> on <date when-iso="1904-03-01">March 1st</date>.
             </p>
             <p>
                <placeName><ref source="place018">St Petersburg</ref></placeName>. The <persName><ref source="person042">tsar</ref></persName> decided that he will only make his way to the battlefield if his health allows it as is being rumoured in court circles.
@@ -361,10 +360,10 @@
                <placeName><ref source="place083">Port Arthur</ref></placeName>. The Russian admiral <persName><ref source="person064">Stessel</ref></persName> commanded an order of the day, because the Japanese strive to conquer <placeName><ref source="place083">Port Arthur</ref></placeName> with all their might. Furthermore, it is the duty of all Russians to defend the city. We have to fight until we win or fall.
             </p>
          </div>
-         <div n="16">
-            <fw type="footer" n="1">
-               <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte Weinstock 
-                  <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse 35</ref></placeName></foreign>
+         <div n="10">
+            <fw type="footer" n="2">
+               <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte <persName><ref source="person139">Weinstock</ref></persName> 
+                  <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse</ref> 35</placeName></foreign>
             </fw>
          </div>
       </body>

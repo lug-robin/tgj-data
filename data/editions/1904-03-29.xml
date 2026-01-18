@@ -25,7 +25,7 @@
                <name>Luger, Robin</name>
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2025">2025</date>
+            <date when-iso="2025">2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -90,17 +90,15 @@
       </surface>
    </facsimile>
    <text>
-      <body>
-         <div type="heading" n="1" style="one column">
-            <p><foreign xml:lang="de">1.Jahrgang - Nr. 13 </foreign>- 1st year</p>
-         </div>
+      <body xml:lang="en">
+         <fw type="header" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 13 </foreign>- 1st year</fw>
          <div n="1">
             <head>The Genuine Jew</head>
-            <p>Organ for Yiddish matters</p>
-            <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
-            <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+            <p style="text-align:center">Organ for Yiddish matters
+            <foreign xml:lang="de">DER WAHRE JUDE
+            <lb/>Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
-         <div type="editorial" n="1" style="two columns">
+         <div n="2">
             <table rows="4" cols="2">
                <head>The Genuine Jew costs</head>
                <row role="data">
@@ -124,11 +122,11 @@
             <cb/>
             <p>
                Adverts are cheaply calculated <lb/>All letters and money send to: 
-               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName>Sonnengasse 27</placeName></foreign>
+               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse</ref> 27</placeName></foreign>
                <lb/>The Genuine Jew is published every Tuesday and Friday 
                <lb/><foreign xml:lang="de"><placeName>Lemberg</placeName>, den<date when-iso="1904-03-29"> 29.März 1904</date></foreign>.</p>
          </div>
-         <div n="2">
+         <div n="3">
             <head>To our readers.</head>
             <p>
                The massive distribution of our paper in all circles of Galician Jews in the short time of its existence, has put us in the position of improving and extending it. After Passover and Baal we want to increase the paper, we want to publish important articles about everything which is concerning Jews 
@@ -151,9 +149,10 @@
             </p>         
          </div>
          <pb/>
-            <fw>- 2 -</fw>
-         <div type="article" n="3">
-            <head><hi rend="bold">Antisemitic pogroms in <placeName><ref source="place078">Greece</ref></placeName><lb/>(Telegrams)</hi></head>
+            <fw type="pageNum">- 2 -</fw>
+         <div n="4">
+            <head>Antisemitic pogroms in <placeName><ref source="place078">Greece</ref></placeName></head>
+            <head type="h2">(Telegrams)</head>
             <p>
                <placeName><ref source="place232">Athens</ref></placeName>. A Jew and a Greek had a dispute in the port city <placeName><ref source="place233"><hi rend="italic">Kalamata</hi></ref></placeName> which turned into a brawl in which the Greek was 
                killed. Several antisemites immediately started to yell that the Jews killed a Christian to use his blood for matzo. The people gathered in front of the house where the Jew lived and threw stones at it. The Jews lived in great fear, they 
@@ -165,8 +164,8 @@
                Jews. A lot of Jewish lives have been<cb/> destroyed because of that. The Jewish people live in fear and terror. How long still, will the Jews be prosecuted ? !
             </p>
          </div>
-         <div n="4">
-            <head><hi rend="bold">What has changed!</hi></head>
+         <div n="5">
+            <head>What has changed!</head>
             <p>
                Jews are used to answering a question with another question. “What’s new?” asks one Jew another one. - “What shall be new?” he replies. “How are you?”  “How should I be?” - “What are you doing?” “What should I be doing?” This way of answering every question with another question, is so deeply rooted in every Jewish person 
                that it is thought of a Jewish fashion and the humorous papers are making a mockery out of it.
@@ -190,8 +189,8 @@
                to adhere to Jewishness, with the name Jew, not ashamed of our rites, then we will be worthy. We shall be freed from spiritual and physical slavery and we will speak out against it with all our hearts. We <hi rend="italic">were</hi> (We <hi rend="italic">have been</hi> enslaved), but today we are free people!
               </p>
          </div>
-         <div n="5">
-              <head><hi rend="bold"><placeName><ref source="place094">America</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName>.</hi></head>
+         <div n="6">
+              <head><placeName><ref source="place094">America</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName>.</head>
             <p>
                The Russian government and the Russian newspapers are astonished as to why the American people sympathise with <placeName><ref source="place019">Japan</ref></placeName> instead of with <placeName><ref source="place014">Russia</ref></placeName> in the current war. The Russian leaders put up an air of innocence as if they don’t know 
                what all of this is about and then sic their citizens against the Americans. 
@@ -222,8 +221,8 @@
             </p>
             <p>
                It is simply not in the American interests for <placeName><ref source="place014">Russia</ref></placeName> to win the war because they will not fulfill their promises. However, there are reasons why
-            </p>
-            <p style="text-align:center" rend="bold">[2]</p><pb/>
+            </p><pb/>
+            <fw type="pageNum">- 3 -</fw>
             <p>
                the American people are allied with <placeName><ref source="place019">Japan</ref></placeName> and against <placeName><ref source="place014">Russia</ref></placeName> and those are more important. 
             </p>
@@ -256,8 +255,8 @@
                <persName>Jew. G.</persName>
             </p>  
          </div>
-         <div n="6">
-            <head><hi rend="bold">Political News.</hi></head>
+         <div n="7">
+            <head>Political News.</head>
             <p>
                <placeName><ref source="place001">Austria-Hungary</ref></placeName>. The political situation in <placeName><ref source="place025">Austria</ref></placeName> has calmed down again by closing down the Imperial Assembly. Communication between the Germans and the Czechs, which was negotiated the last few days, did not happen, 
                but there is hope that after the holidays, the discussion will continue and a conclusion will be reached. - In the Hungarian parliament meanwhile peace and quiet is kept; several important laws have been passed. It seems like everything has become alright already and obstruction will not happen any time soon. - The 
@@ -281,10 +280,10 @@
                establishment of order in <placeName><ref source="place081">Macedonia</ref></placeName> are still going on and it seems that the sultan is causing more and more trouble to postpone the resolution. 
             </p>
          </div>
-         <div n="7">
-            <head><hi rend="bold">Telegrams.<lb/>
-               The war<lb/>
-               between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName>.</hi></head>
+         <div n="8">
+            <head>Telegrams.</head>
+            <head type="h2">The war</head>
+            <head type="h3">between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName>.</head>
             <p>
                <placeName><ref source="place156">London</ref></placeName>. The Russian government grows more afraid of the Chinese and suspects a secret alliance between them and <placeName><ref source="place019">Japan</ref></placeName>. Admiral <persName><ref source="person041">Alekseyev</ref></persName> demanded of the government to 
                expel the Chinese officials from <placeName><ref source="place028">Manchuria</ref></placeName>. Only then it will be possible to establish order.
@@ -293,8 +292,8 @@
                <placeName><ref source="place156">London</ref></placeName>. The last bombardment on <placeName><ref source="place083">Port Arthur</ref></placeName> was undertaken by the Japanese to supply some merchant ships in the harbour so the Russian ships could not escape to secondly drop off the Japanese military close to 
                <placeName><ref source="place083">Port Arthur</ref></placeName>. The second task was fulfilled while the Russian ships were occupied. While they fought back against the Japanese attacks, a large part of the Japanese military had been dropped off at land. The first task did not succeed because the trading vessels were sunk before 
                the harbour as to why the Russian battleships can move in and out at their will.
-            </p>
-            <p style="text-align:center" rend="bold">[3]</p><pb/>
+            </p><pb/>
+            <fw type="pageNum">- 4 -</fw>
             <p>
                <placeName><ref source="place018">St Petersburg</ref></placeName>. The donations for new Russian battleships amount to almost 3.5 million ruble until now (this is enough for 1/10 of a ship!).
             </p>
@@ -312,11 +311,12 @@
                <placeName><ref source="place095">Paris</ref></placeName>. According to <placeName><ref source="place021">China</ref></placeName>, large gangs of “<ref source="https://www.wikidata.org/wiki/Q1335146">Boxers</ref>” are gathering there which want to invade <placeName><ref source="place028">Manchuria</ref></placeName>. 
             </p>
             <p>
-               <placeName><ref source="place177">Shenyang</ref></placeName>. On <date when="1904-03-23">March 23rd</date> the Cossacks clashed with Japanese cavalry and infantry. The Japanese lost one official and six soldiers. The Cossacks retreated with great losses.
+               <placeName><ref source="place177">Shenyang</ref></placeName>. On <date when-iso="1904-03-23">March 23rd</date> the Cossacks clashed with Japanese cavalry and infantry. The Japanese lost one official and six soldiers. The Cossacks retreated with great losses.
             </p>
          </div>
-         <div n="8">
-            <head><hi rend="bold">News.<lb/>Jewish News.</hi></head>
+         <div n="9">
+            <head>News.</head>
+            <head type="h2">Jewish News.</head>
             <p>
                (<placeName><ref source="place018">St Petersburg</ref></placeName>). The tobacco farmers of <placeName><ref source="place294">Crimea</ref></placeName> sent a petition to the government to allow Jews to come and reside in <placeName><ref source="place294">Crimea</ref></placeName> in March, April, September, and October, 
                because it is necessary for the tobacco trade. The government asked all farmers, planters, and farmers about that and everyone declared to the government to allow it. 
@@ -350,14 +350,17 @@
                <persName><ref source="person205">Rubenstein</ref></persName> asked <persName>Dr <ref source="person206">Garfunkel</ref></persName> to take his place and <persName>Dr <ref source="person205">Rubenstein</ref></persName> sent 4,000 rubles to the hospital on the battlefield in <persName>Dr <ref source="person206">Garfunkel</ref></persName>’s name.
             </p>
          </div>
-         <div n="9">
-            <head><hi rend="bold"><persName><ref source="person207">Rabbi Yom-Tov Lipmann Heller</ref></persName><lb/>(Tosafos Yom Tov)<lb/>(A biography).<lb/>a. </hi></head>
+         <div n="10">
+            <head><persName><ref source="person207">Rabbi Yom-Tov Lipmann Heller</ref></persName></head>
+            <head type="h2">Tosafos Yom Tov)</head>
+            <head type="h3">(A biography).
+            <lb/>a. </head>
             <p>
                Who was rabbi <persName><ref source="person207">Rabbi Yom-Tov Lipmann Heller</ref></persName>? Not many of our common brothers could answer this question. But if we tell them “the Tosafos Yom Tov” - they at once know who we are talking about. <persName><ref source="person207">Rabbi Yom-Tov Lipmann Heller</ref></persName> is the author of the 
                Tosefet Yom-Tov and lived 300 years ago. He is a person who has made his mark with his teachings, niceness, intelligence, profundity, rare morals, and piousness not with a tombstone of granite and marble which would erode by the sharp teeth of time, but with the story of his life…
             </p>
             <p>
-               <persName><ref source="person207">Rabbi Yom-Tov Lipmann Heller</ref></persName> was born in <placeName><ref source="place298">Wallerstein</ref></placeName> (<placeName><ref source="place010">Germany</ref></placeName>) in the year 5339 according to our calendar or <date when="1579">1579</date> according to the European calendar. 
+               <persName><ref source="person207">Rabbi Yom-Tov Lipmann Heller</ref></persName> was born in <placeName><ref source="place298">Wallerstein</ref></placeName> (<placeName><ref source="place010">Germany</ref></placeName>) in the year <date calendar="Hebrew" when-custom="5339">5339</date> according to our calendar or <date when-iso="1579">1579</date> according to the European calendar. 
                He did not know his father as he died when his mother was still carrying him under her heart. He was raised by his grandfather <persName><ref source="person208">Rabbi Moses Ha-Levi Heller</ref></persName> who was the chief rabbi of <placeName><ref source="place010">Germany</ref></placeName>.
             </p>
             <p>
@@ -369,11 +372,11 @@
                comfortably. The community appreciated him and saw that he wanted for nothing. 
             </p>
             <p>
-               In the year 5384 (<date when="1624">1624</date>) he became chief rabbi of <placeName><ref source="place300">Mikulov</ref></placeName> and soon after in the same year he was called by the community 
-            </p>
-            <p style="text-align:center" rend="bold">[4]</p><pb/>
+               In the year <date calendar="Hebrew" when-custom="5384">5384</date> (<date when-iso="1624">1624</date>) he became chief rabbi of <placeName><ref source="place300">Mikulov</ref></placeName> and soon after in the same year he was called by the community 
+            </p><pb/>
+            <fw type="pageNum">- 5 -</fw>
             <p>
-               in <placeName><ref source="place007">Vienna</ref></placeName> to be chief rabbi and leader. He stayed there until Purim in <date when="1627">1627</date>. In his works he wrote about how he tried to reach an agreement with the government to have a Jewish quarter to not live far apart and spread across the big city. The government gave them the quarter 
+               in <placeName><ref source="place007">Vienna</ref></placeName> to be chief rabbi and leader. He stayed there until Purim in <date when-iso="1627">1627</date>. In his works he wrote about how he tried to reach an agreement with the government to have a Jewish quarter to not live far apart and spread across the big city. The government gave them the quarter 
                “<placeName><ref source="place301">Leopoldstadt</ref></placeName>”.
             </p>
             <p>
@@ -381,7 +384,7 @@
                spread around separately. 
             </p>
             <p>
-               In <date when="1627">1627</date>, the community in Prague called him back to be the chief Rabbi. Happy and cheerful he went there, in the city where he had spent his adolescence. With joy and pleasure, he took a seat on the rabbinic chair, but - luck stands on shaky legs, it can disappear very quickly. All of a sudden the light vanished. The 
+               In <date when-iso="1627">1627</date>, the community in Prague called him back to be the chief Rabbi. Happy and cheerful he went there, in the city where he had spent his adolescence. With joy and pleasure, he took a seat on the rabbinic chair, but - luck stands on shaky legs, it can disappear very quickly. All of a sudden the light vanished. The 
                joyful son of Rabbi <persName><ref source="person207">Yom-Tov Lipmann</ref></persName>’s life, his sky is overcast with black, dark clouds and soon hardship and misery came down on him.
             </p>
             <p>
@@ -391,7 +394,7 @@
                insults Christians and their religion. Two “learned” Jews were found who translated several words from these books to prove that the denunciations are correct. 
             </p>
             <p>
-               On <date when="1692-06-25">June 25 1692</date> the government ordered the bringing of <persName><ref source="person208">Yom-Tov Lipmann</ref></persName> to <placeName><ref source="place007">Vienna</ref></placeName> shackled in chains. One can only imagine the horrible impression the chief rabbi in chains like the most dangerous criminal 
+               On <date when-iso="1692-06-25">June 25 1692</date> the government ordered the bringing of <persName><ref source="person208">Yom-Tov Lipmann</ref></persName> to <placeName><ref source="place007">Vienna</ref></placeName> shackled in chains. One can only imagine the horrible impression the chief rabbi in chains like the most dangerous criminal 
                would have on the entire community, the shame on all Jews. This can also easily instigate the people against the Jewish people, to attack them, rob their houses and kill them.
             </p>
             <p>
@@ -399,7 +402,7 @@
                who had known his orderliness, agreed that the Rabbi should travel alone, without a guard and without shackles.
             </p>
             <p>
-               In <placeName><ref source="place007">Vienna</ref></placeName> soon after <persName><ref source="person208">Yom-Tov Lipmann</ref></persName> went to the chancellor (<date when="1629-06-26">five days into Tammuz 5389 / June 26th 1629</date>) who took on him very strictly, accused him furiously of his crime of insulting Christians and put him 
+               In <placeName><ref source="place007">Vienna</ref></placeName> soon after <persName><ref source="person208">Yom-Tov Lipmann</ref></persName> went to the chancellor (<date calendar="Hebrew" when-custom="5389-04-05">five days into Tamuz 5389</date> / <date when-iso="1629-06-26">June 26th 1629</date>) who took on him very strictly, accused him furiously of his crime of insulting Christians and put him 
                in prison between the greatest criminals and bandits.<cb/>
             </p>
             <p>
@@ -416,14 +419,14 @@
                His friends tried to relieve his verdict a bit: he should only pay 10,000 thaler, not at once, but in installments and his books should also not be burnt and he should be allowed to be a rabbi in <placeName><ref source="place025">Austria</ref></placeName> - not in <placeName><ref source="place135">Prague</ref></placeName>. 
             </p>
             <p>
-               He was imprisoned for 40 days. 28 days in the month Av he was freed, but - as it is said - hollow and naked: without money, without rabbinate, without hope. Older, darker, he had to give away all his belongings to the government and even needed to look for a loan because he was not able to pay this huge sum. 
+               He was imprisoned for 40 days. <date calendar="Hebrew" when-custom="5389-05-28">28 days in the month Av</date> he was freed, but - as it is said - hollow and naked: without money, without rabbinate, without hope. Older, darker, he had to give away all his belongings to the government and even needed to look for a loan because he was not able to pay this huge sum. 
             </p>
             <p>
                However, the rich people of <placeName><ref source="place135">Prague</ref></placeName> protected him; soon he was able to pay off his punishment and take on a new position. Three years later he was chief rabbi in <placeName><ref source="place302">Nemirov</ref></placeName> (<placeName><ref source="place019">Russia</ref></placeName>) 
                where <placeName><ref source="place096">Khmelnytsky</ref></placeName> started the well-known revolution with the Cossacks. There was a great and important Jewish community. 
             </p>
             <p>
-               Three years he spent there in peace and was highly esteemed before he was called to the community of <placeName><ref source="place303">Volodymyr</ref></placeName> to be the chief rabbi there. In <date when="1643">1643</date> he became chief rabbi in <placeName><ref source="place149">Krakow</ref></placeName>. There he 
+               Three years he spent there in peace and was highly esteemed before he was called to the community of <placeName><ref source="place303">Volodymyr</ref></placeName> to be the chief rabbi there. In <date when-iso="1643">1643</date> he became chief rabbi in <placeName><ref source="place149">Krakow</ref></placeName>. There he 
                lived his last years until his last day. He died on the 26th day of Elul at 75 years old. His tombstone stands in the Krakow cemetery until today. 
             </p>
             <p>
@@ -431,8 +434,8 @@
                wrote several other books, for example: commentary on the works of the Rosh (these are the books  “Lechem Chamudos” and  “Ma’adanei Melech” which brought him great misery), the work “Malbushe Yom Tov” and others. But the most important, most known of his writings is the “Tosafos Yom Tov” - commentary on the Mishnah. 
                Here we can witness his entire  glorious form: genius in explaining new things, perceptive to ask and answer and balance difficult parts and questions clear in every angle of the great rabbinic literature, studied in maths, geography, astronomy, and an invested researcher. The Tosafos Yom Tov was not well accepted 
                without a reason, the Mishnah is not printed without it anymore. The people know from the innermost part of their hearts that only because of
-            </p>
-            <p style="text-align:center" rend="bold">[5]</p><pb/>
+            </p><pb/>
+            <fw type="pageNum">- 6 -</fw>
             <p>
                the Tosafos Yom Tov was the Mishnah completed like the bible and Talmud because of the commentary of <persName><ref source="person015">Rashi</ref></persName>.
             </p>
@@ -440,7 +443,7 @@
                <persName><ref source="person207">Rabbi Yom-Tov Lipmann</ref></persName> has written in the Jewish language besides his Hebrew works for the common people. He translated into Jewish-German the text “Orchos Chaim”, customs and virtues; how a Jew is supposed to lead his life and he even printed explanations of salt meat. 
             </p>
             <p>
-               Following the horrors the Jews had to suffer in <date when="1648">5408 (1648)</date> in <placeName><ref source="place061">Ukraine</ref></placeName> as the entire community was slaughtered and whole cities were ravaged he wrote dirges which were printed in part in prayer books.
+               Following the horrors the Jews had to suffer in <date calendar="Hebrew" when-custom="5408">5408</date> (<date when-iso="1648">1648</date>) in <placeName><ref source="place061">Ukraine</ref></placeName> as the entire community was slaughtered and whole cities were ravaged he wrote dirges which were printed in part in prayer books.
             </p>
             <p>
                <persName><ref source="person207">Rabbi Yom-Tov Lipmann</ref></persName> left a big, branched family from which great gaon and rabbis descended. 
@@ -449,8 +452,9 @@
                May the memory of the righteous be a blessing!
             </p>
          </div>
-         <div>
-            <head><hi>Feutellion<lb/>A horrible Passover night with the <ref source="https://www.wikidata.org/wiki/Q312214">Marrano</ref> in <placeName><ref source="place043">Spain</ref></placeName>.</hi></head>
+         <div n="11">
+            <head>Feutellion</head>
+            <head type="h2">A horrible Passover night with the <ref source="https://www.wikidata.org/wiki/Q312214">Marrano</ref> in <placeName><ref source="place043">Spain</ref></placeName>.</head>
             <p> 
                The name “Marrano” (Anusim) was given by Christians to Jews who were Christians in pretence, from the outside, but actually deep inside their hearts they continued to be faithful Jews. The glimmer of our belief did not burn out several generations after their parents were baptised. A lot of Jewish blood was spilled 
                until the Jewish people agreed to renounce the faith of our parents, but the new faith was forced upon us with force. All of that caused the Marrano to return to their old faith which has been ripped out of their hearts with a big part of their life, of their souls.
@@ -501,11 +505,11 @@
             </p>
             <p>
                (To be continued).
-            </p>
-            <p style="text-align:center" rend="bold">[6]</p><pb/>
+            </p><pb/>
+            <fw type="pageNum">- 7 -</fw>
          </div>
-         <div>
-            <head><hi rend="bold">The Jews in <placeName><ref source="place013">Egypt</ref></placeName><lb/>According to Egyptian documents.</hi></head>
+         <div n="12">
+            <head>The Jews in <placeName><ref source="place013">Egypt</ref></placeName><lb/>According to Egyptian documents.</head>
             <p>
                For the longest time, we only had one source for the old Jewish history - the Bible. Only in the past 19th century did the discoveries being made in <placeName><ref source="place013">Egypt</ref></placeName> and <placeName><ref source="place012">Babylonia</ref></placeName> open a new world for human research which has also 
                illuminated darker times in the old Jewish history. The many monuments in <placeName><ref source="place013">Egypt</ref></placeName> including their depictions and inscriptions lay buried below the ground for thousands of years. The great pyramids, the numerous stone figures and pillars stood like an enigma and were witnesses 
@@ -551,11 +555,12 @@
             <p>
                The descriptions of the Egyptian period, which is described in the Torah, about the life on the royal court, about the situation of the Egyptian priests - are all aligning with the information acquired about <placeName><ref source="place013">Egypt</ref></placeName> from the monuments and inscriptions in their own language.
             </p>
-            <p style="text-align:center" rend="bold">[7]</p>
+         </div>
+            <fw type="pageNum">- 8 -</fw>
            
-         <div n="11">
+         <div n="13">
             <p>The editor does not take responsibility for the advertisements in this paper.</p>
-            <div>
+            <div type="ad" n="1">
                <p>
                   Important for farmers
                   On occasion of the upcoming spring season, we suggest the following enterprise for buying bonemeal, clay slag, phosphates, and so on. Any and all grasses, clover seeds and agricultural machines by the most prestigious factories, domestic and abroad. 
@@ -567,10 +572,10 @@
                   <lb/><placeName><ref source="place223">Podgórze</ref></placeName> - <placeName><ref source="place149">Kraków</ref></placeName>
                </p>
             </div>
-            <div>
-               <p><ref source="https://www.wikidata.org/wiki/Q17590684">The Oesterreichische 
-                  <lb/>Volkszeitung</ref>
-                  <lb/>Which is published with 82,000 copies publishes important
+            <div type="ad" n="2">
+               <head><ref source="https://www.wikidata.org/wiki/Q17590684">The Oesterreichische 
+                  <lb/>Volkszeitung</ref></head>
+                  <p>Which is published with 82,000 copies publishes important
                   <lb/>news 
                   <lb/>about the RUSSO-JAPANESE 
                   <lb/>WAR
@@ -587,29 +592,27 @@
                   <lb/>Volkszeitung”, <placeName><ref source="place007">Vienna</ref>, 1010</placeName>, <placeName><ref source="place222">Schulerstraße</ref> 16</placeName>.
                   <lb/>All new subscribers receive the current, highly interesting novels and novellas for free.</p>
             </div> 
-            <div>
+            <div type="ad" n="3">
                <p>
                   You can get various useful instructions for register handlers, head of cultural affairs, private individuals, etc. at different prices.
                   <lb/><persName><ref source="person139">S. Weinstock</ref></persName>, in <placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place185">Rzeznika</ref></placeName> 5.
                </p>
             </div>
             <cb/>
-            <div style="text-align:center">
-               <p>Bank and exchange business
-                  <lb/>ROHAYTN &amp; ULAM
+            <div style="text-align:center" type="ad" n="4">
+               <head>Bank and exchange business</head>
+               <p>ROHAYTN &amp; ULAM
                   <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <placeName><ref source="place186">Syxtuskagasse</ref></placeName> 8.</foreign>
                   <lb/>Buying and selling all kinds of
                   <lb/>Effects, lotteries, and coins.
                   <lb/>Lottery available in cheap installments.
-                  <lb/>At request, a lottery calendar for 1904
+                  <lb/>At request, a lottery calendar for <date when-iso="1904">1904</date>
                   <lb/>can be given for free.
                   <lb/>Easy, low-interest loans available.</p>
             </div>
-            <div>
-               <head>
-                  <lb/><hi rend="bold">Coffee!</hi>
-                  <lb/><hi rend="italic>">All natural!</hi>
-               </head>
+            <div type="ad" n="5">
+                  <head>Coffee!</head>
+                  <head type="h2">">All natural!</head>
                <p>
                   Also less than 5 kg, payment on delivery, prepaid, postage.
                </p>
@@ -644,17 +647,17 @@
                   </row>
                </table>
                <p>
-                  <persName>Berger Ernö</persName>, <placeName><ref source="place058">Fuime</ref></placeName>.
+                  <persName><ref source="person029">Berger Ernö</ref></persName>, <placeName><ref source="place058">Fuime</ref></placeName>.
                </p>
             </div>
-            <div>
-               <head><hi rend="bold">Cheapest supplier<lb/><hi rend="italic">without competition</hi></hi></head>
+            <div type="ad" n="6">
+               <head>Cheapest supplier<lb/><hi rend="italic">without competition</hi></head>
                <p>
                   of <ref source="https://www.wikidata.org/wiki/Q212950">tallits</ref>, Turkish silk, and nickel silver embroidery, 4, 8, 16 strings for sale at the well-known Galician tallits-factory
                   <lb/><persName><ref source="person140">Hirsch Gutwirth</ref></persName>, <placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place065">Hrodototska St</ref> 8</placeName>               
                </p>
             </div>
-            <div>
+            <div type="ad" n="7">
                <p>
                   Cancer, stomach- and liver disease, suspicious growths, internal and external tumors (often said to be harmless, but usually cancerous) as well as contagion and heredity of cancer written in my printing which I dispatch with several certified thank you letters (including clerics and Jesuits) for 10 heller in stamps.
                </p>
@@ -662,8 +665,8 @@
                   <persName><ref source="person141">A. Stropp</ref></persName>, <placeName><ref source="place254">Neunkirchen</ref></placeName> Nr. 347 <placeName><ref source="place253">Kreis Wiedenbrück</ref></placeName>. <placeName><ref source="place255">Westfal</ref></placeName>.
                </p>
             </div>
-            <div>
-               <head><hi rend="bold">Fine tea</hi></head>
+            <div type="ad" n="8">
+               <head>Fine tea</head>
                <p>
                   If you want to drink pure, unadulterated tea, write to the address below,
                   <lb/> 1 kg fine, pure tea only 6 crowns.
@@ -673,13 +676,11 @@
                   <lb/>Thee &amp; Caffe Lager.
                </p>
             </div>
+         </div>
          <fw type="footer" n="1">
-               <foreign xml:lang="de">
-                  Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName>recte <persName><ref source="person139">Weinstock</ref></persName> <placeName><ref source="place065">Kasimirgasse 35</ref></placeName>
-               </foreign>
+            <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte <persName><ref source="person139">Weinstock</ref></persName> 
+               <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse</ref> 35</placeName></foreign>
          </fw>
-         </div>
-         </div>
       </body>
    </text>
 </TEI>

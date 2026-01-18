@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-11.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-11.xml" prev="1904-03-08.xml" next="1904-03-15.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -25,7 +25,7 @@
                <name>Luger, Robin</name>
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2025">2025</date>
+            <date when-iso="2025">2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -76,37 +76,31 @@
       <surface ulx="0" uly="0" lrx="4305" lry="6222" n="4">
          <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040311|4|100.0|0"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4257" lry="6222" n="1">
+      <surface ulx="0" uly="0" lrx="4257" lry="6222" n="5">
          <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040311|5|100.0|0"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="2">
+      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="6">
          <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040311|6|100.0|0"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4257" lry="6222" n="3">
+      <surface ulx="0" uly="0" lrx="4257" lry="6222" n="7">
          <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040311|7|100.0|0"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="4">
+      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="8">
          <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040311|8|100.0|0"/>
       </surface>
    </facsimile>
    <text>
-      <body>
-         <div type="heading" n="1" style="one column">
-
-            <p><foreign xml:lang="de">1.Jahrgang Nr. 8 </foreign> 1st year</p>
+      <body xml:lang="en">
+         <fw type="header" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 8 -</foreign> 1st year</fw>
+         <div n="1">
+            <head>The Genuine Jew</head>
+            <p style="text-align:center">Organ for Yiddish matters
+            <lb/><foreign xml:lang="de">DER WAHRE JUDE
+               <lb/>Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
-         <div type="title" n="1">
-            <head>
-               <hi rend="bold">The Geniune Jew</hi>
-            </head>
-            <p>Organ for Yiddish matters</p>
-            <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
-            <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
-         </div>
-         <div type="editorial" n="1" style="two columns">
-            <cb n="1"/>
+         <div n="2">
             <table rows="4" cols="2">
-               <head>The Geniune Jew costs</head>
+               <head>The Genuine Jew costs</head>
                <row role="data">
                   <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
                   <cell role="data">Abroad</cell>
@@ -125,23 +119,22 @@
                </row>
             </table>
             <p><placeName><ref source="place002">Lviv</ref></placeName>, <date calendar="Hebrew" when-custom="5664-12-21"><foreign xml:lang="he">Yom Shishi <ref source="https://www.wikidata.org/wiki/Q927246">Vayakhel</ref> <ref source="https://www.wikidata.org/wiki/Q1164194">Pekudei</ref> 5664</foreign></date></p>
-            <cb n="2"/>
+            <cb/>
             <p>
-               <lb/>Adverts are cheaply calculated 
+               Adverts are cheaply calculated 
                <lb/>All letters and money send to: 
-               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName>Sonnengasse 27</placeName></foreign>
+               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse</ref> 27</placeName></foreign>
                <lb/>The Genuine Jew is published every Tuesday and Friday 
-               <lb/><foreign xml:lang="de"><placeName>Lemberg</placeName>, <date when-iso="1904-03-11">den 11.März 1904</date></foreign>.</p>
+               <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <date when-iso="1904-03-11">den 11.März 1904</date></foreign>.</p>
          </div>
-         <lb/>
-         <div n="1">
+         <div n="3">
             <p>
                We ask our subscribers who paid for the “Genuine Jew” when it was published only once a week, to please send money to add to their subscription according to the current price of the newspaper. For those who do not 
                remargin, we will deduct the difference from their current subscription. This means those who subscribed for half a year will receive the paper for only four months. The same applies to yearly and quarterly subscribers. 
             </p>
             <p style="text-align:right">- The editorial office.</p>
          </div>
-         <div n="2">
+         <div n="4">
             <head>The tsar weeps.</head>
             <p style="text-align:right">The Holy One, Blessed is He, does not exact retribution from a nation until its time is up. (<ref source="https://www.wikidata.org/wiki/Q927314">Tractate Sotah</ref>, Chapter 9)</p>
             <p>
@@ -167,16 +160,13 @@
                learning something the scientific world has known for at least 20 years: Nowadays, not the strongest nation wins the war, but the most progressive one. The brain is worth more on the battlefield than the fist. The truth is
             </p>
          </div>
-         <div type="information" style="one column">
-            <p>We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the
-               voice of the upholders of religion) to send every letter and money to this
-               address:</p>
-            <p>OSIAS H. WILF, <placeName><ref source="place002">LEMBERG</ref></placeName>
-               <ref source="place003"><placeName>Sonnengasse 27</placeName></ref>.</p>
-            <p style="text-align:center">[1]</p>
-         </div>
+         <fw type="footer" n="1">
+           We ask the subscribers of <foreign xml:lang="he">מחזיקי הדת</foreign> and <foreign xml:lang="he">קול מחזיקי הדת</foreign> to send every letter and money to this address:
+            <lb/><persName><ref source="person031">OSIAS H. WILF</ref></persName>, <foreign xml:lang="de"><placeName><ref source="place002">LEMBERG</ref></placeName> <placeName><ref source="place003">Sonnengasse</ref> 27</placeName></foreign>.
+         </fw>
          <pb/>
-         <div n="2">
+         <fw type="pageNum">- 2 -</fw>
+         <div n="5">
             <p>
                that <placeName><ref source="place014">Russia</ref></placeName> has more soldiers, but <placeName><ref source="place019">Japan</ref></placeName> has better brains and skillful fingers. A good general today does not look for hundreds 
                of thousands of men with broad shoulders and iron limbs. He needs carefully assembled thousand intelligent men. It is very easy, because the man who stands behind the cannon on a ship or holding a weapon in his hand - this shooter 
@@ -205,7 +195,7 @@
                <persName>S. Selikowitz</persName>
             </p>
          </div>
-         <div type="article" n="3">
+         <div n="6">
             <p>
                A Jewish newspaper which is published in America prints an interesting picture: the destroyed school in <placeName><ref source="place015">Chișinău</ref></placeName>, pictured from one side, the beadle of <persName>Rabbi Moshe</persName> lays in 
                blood and holds a torn Torah scroll. On the other side is the harbour of <placeName><ref source="place083">Port Arthur</ref></placeName> with destroyed battleships, the strongholds shot into pieces, cannons, and dead soldiers. The picture is called 
@@ -222,8 +212,9 @@
                <lb/>Lay there on the threshold of the abyss!
             </p>
          </div>
-         <div n="4">
-            <head style="text-align:center"><hi rend="bold">The luxury.<lb/>(Second article)</hi></head>
+         <div n="7">
+            <head>The luxury.</head>
+            <head type="h2">(Second article)</head>
             <p>
                In my first article about luxury in “The Genuine Jew” I described briefly in which ways luxury is a blight of Galician Jewry. Whether the article has already changed something, if it opened someone’s eyes is to be debated. The public is entrenched in bitter 
                and heavy suffering that it does not know where it is hurting. And as there are several who feel and know how harmful it is, they need to shut up. They are afraid to say something, they know that they want to scratch their eyes out when seeing the femininity 
@@ -245,7 +236,7 @@
                guest warmly; he did not ruin the furniture, did not soil the rugs. On Sabbath people fought over having a poor person over for Sabbath, everyone wanted to provide their <ref source="https://www.wikidata.org/wiki/Q211361">matzah</ref> and hospitality. These 
                days, our Jews became very<pb/> 
             </p>
-            <p style="text-align:center" rend="bold">[2]</p>
+            <fw type="pageNum">- 3 -</fw>
             <p>
                different and with it the good Jewish customs. Nowadays after a wedding, they truly have many rags with thousand coins dowry. First, they rent a lovely apartment, 2 - 3 rooms with nice furniture, carpets and rugs as well as several other things. At that point 
                they have already spent a huge part of the dowry and have already stepped towards poverty. As soon as someone enters the door, he will be looked upon as a detrimental thing, he could ruin the chairs, soil the carpets. Later, when a daughter has grown up, raised 
@@ -258,11 +249,11 @@
                provide help or honour to them or their brothers.
             </p>
             <p>
-               <persName>Shekel Hatismanichi</persName>
+               <persName><ref source="person269">Shekel Hatismanichi</ref></persName>
             </p>
          </div>
-         <div n="5">
-            <head style="text-align:center">Letters from <placeName><ref source="place156">London</ref></placeName>.</head>
+         <div n="8">
+            <head>Letters from <placeName><ref source="place156">London</ref></placeName>.</head>
             <p>
                It happened as we have predicted before: We turn up and right to listen to the speech of the throne for the parliament’s inauguration. The main venture of the government for this season is to put through a bill which should forbid workers to enter and unless the 
                government breaks up in the middle, this law is virtually certain. 
@@ -307,14 +298,15 @@
                street; Jewish workers have been pelted with stones on the way from and to work. Police are constantly not present to arrive at the scene once it is too late and the gang has dispersed already. 
             </p>
             <p>
-               <persName>Moishe Ben-Zvi</persName>
+               <persName><ref source="person222">Moishe Ben Zvi</ref></persName>
             </p>
          </div>
-         <div n="6">
-            <head style="text-align:center">The Austrian Imperial Assembly.</head>            
-            <p>The Austrian parliament opened its doors again on Tuesday. Minister president <persName><ref source="person004">Dr. Koerber</ref></persName> held a great political speech in the first meeting. He reported about the war between <placeName><ref source="place014">Russia</ref></placeName> 
+         <div n="9">
+            <head>The Austrian Imperial Assembly.</head>            
+            <p>The Austrian parliament opened its doors again on Tuesday. Minister president <persName>Dr <ref source="person004">Koerber</ref></persName> held a great political speech in the first meeting. He reported about the war between <placeName><ref source="place014">Russia</ref></placeName> 
                and <placeName><ref source="place019">Japan</ref></placeName> and noted that <placeName><ref source="place001">Austria-Hungary</ref></placeName> commiserates the war and will remain</p>
-            <p style="text-align:center" rend="bold">[3]</p>
+            <pb/>
+            <fw type="pageNum">- 4 -</fw>
             <p>
                strictly neutral - impartial to both parties. After that he discussed the <placeName><ref source="place081">Balkan</ref></placeName>’s state of affairs and said that any rumours about mobilisation of the Austrian army is false. He hopes to bring order to 
                <placeName><ref source="place075">Turkey</ref></placeName> without war.
@@ -340,10 +332,11 @@
                parliament will be better than the old one.
             </p>
          </div>
-         <div n="7">
-            <head><hi rend="bold">News.<lb/>Jewish News.</hi></head>
+         <div n="10">
+            <head>News.</head>
+            <head type="h2">Jewish News.</head>
             <p>
-               (<placeName><ref source="place149">Krakow</ref></placeName>). Six years ago, a Jewish girl with the name of <persName>Rosa Bürger</persName> returned to <placeName><ref source="place149">Krakow</ref></placeName>. She came from the<cb/>town 
+               (<placeName><ref source="place149">Krakow</ref></placeName>). Six years ago, a Jewish girl with the name of <persName><ref source="person270">Rosa Bürger</ref></persName> returned to <placeName><ref source="place149">Krakow</ref></placeName>. She came from the<cb/>town 
                <placeName><ref source="place213">Dołgie</ref></placeName> and entered a monastery to prepare for her conversion. Her lover was a lesser clerk who promised to make her luckiest girl in the world if she gets baptised. Her parents, great 
                fallen people of the most beautiful families sacrificed themselves, sold out everything that was left in their homes from older times, they ruined their shops, were homeless for several years and knocked on the doors of Polish aristocrats - 
                the highest officers in <placeName><ref source="place149">Krakow</ref></placeName> and <placeName><ref source="place007">Vienna</ref></placeName>, but it was all for nothing. Everyone agreed and as soon as something happened, the nuns cheated 
@@ -363,8 +356,8 @@
             </p>
             <p>
                (<placeName><ref source="place018">St Petersburg</ref></placeName>). In the town <placeName><ref source="place214">Uman</ref></placeName> the local school including its 64 Torah scrolls burnt down. The school
-            </p>
-            <p style="text-align:center" rend="bold">[4]</p><pb/>
+            </p><pb/>
+            <fw type="pageNum">- 5 -</fw>
             <p>
                
                was 700 years old and survived terrible times caused by the <ref source="https://www.wikidata.org/wiki/Q1569666">Haydamak</ref> <persName><ref source="person095">Gonta</ref></persName>, <persName><ref source="person096">Khmelnytsky</ref></persName>, 
@@ -380,24 +373,25 @@
                in <placeName><ref source="place014">Russia</ref></placeName> daily.
             </p>
          </div>
-         <div n="8">
+         <div n="11">
             <head>Are the Japanese Jews?</head>
             <p>
                A British writer has discovered that the Japanese descend from Jews. According to his historic research, 730 years before the general chronology (2634 years ago), a tribe from an unknown country arrived in <placeName><ref source="place019">Japan</ref></placeName> 
                under command of their leader <persName><ref source="person098"><hi rend="italic">Hoshea</hi></ref></persName>, who reigned over Japan. His children as well continued watching over the country for 126 generations until today. [N.B. The first emperor of Japan 
-               was <persName><ref source="person099">Jimmu</ref></persName>, not <persName><ref source="person098">Hoshea</ref></persName>, whose reign started 660 BC.] According to Jewish history, 2634 years ago, the king of <placeName><ref source="place216">Assyria</ref></placeName> 
+               was <persName><ref source="person099">Jimmu</ref></persName>, not <persName><ref source="person098">Hoshea</ref></persName>, whose reign started <date when-iso="-660">660 BCE</date>.] According to Jewish history, 2634 years ago, the king of <placeName><ref source="place216">Assyria</ref></placeName> 
                <persName><ref source="person100">Sargon II</ref></persName> occupied the Jewish land <placeName><ref source="place217">Samaria</ref></placeName> and banished the then king <persName><ref source="person098"><hi rend="italic">Hoshea</hi></ref></persName>. There is 
                a photograph featuring the Jews travelling through the island of <placeName><ref source="place218">Sakhalin</ref></placeName> in a Japanese album. More Jews are gathered in front of the Jews marching into <placeName><ref source="place019">Japan</ref></placeName>. 
                King <persName><ref source="person098">Hoshea</ref></persName> drives a wagon, surrounded by his guards who are carrying two <ref source="https://www.wikidata.org/wiki/Q2915196">Tablets of Stone</ref> with spears and flags. The English writer copied other 
                photographs as well which clearly show that Jews were in <placeName><ref source="place019">Japan</ref></placeName> before the <ref source="https://www.wikidata.org/wiki/Q223644">Destruction of the First Temple</ref> in <placeName><ref source="place050">Jerusalem</ref></placeName> 
-               in 586 BCE. <placeName><ref source="place019">Japan</ref></placeName>’s sigil features a lion with twelve young lions and is very similar to the English sigil (as we know, the English claim that they descend from the <ref source="https://www.wikidata.org/wiki/Q1125226">Ten Lost Tribes</ref>). 
+               in <date when-iso="-586">586 BCE</date>. <placeName><ref source="place019">Japan</ref></placeName>’s sigil features a lion with twelve young lions and is very similar to the English sigil (as we know, the English claim that they descend from the <ref source="https://www.wikidata.org/wiki/Q1125226">Ten Lost Tribes</ref>). 
                Their sigil is a mark of Jakob and the twelve tribes. One can find people similar to Jews in the Japanese nobility, including the king and the princes. - If all of this is true, it is understandable why <placeName><ref source="place011">England</ref></placeName> is 
                allied with <placeName><ref source="place019">Japan</ref></placeName> as they would be of one family. - It would be a great setback for <placeName><ref source="place014">Russia</ref></placeName> as Jews would bring about <placeName><ref source="place014">Russia</ref></placeName>'s fall.
             </p>
          </div>
-         <div n="9">
-            <head><hi rend="bold">Telegrams.<lb/>The war<lb/>Between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName></hi>
-            </head>
+         <div n="12">
+            <head>Telegrams.</head>
+            <head type="h2">The war</head>
+            <head type="h3">Between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName></head>
             <p>
                (<placeName><ref source="place156">London</ref></placeName>). The Japanese ships which bombarded the port of <placeName><ref source="place082">Vladivostok</ref></placeName> on Sunday wanted to know how far the Russian ships reside in the harbour and where exactly 
                they are located. As the Russian battleships<cb/> didn’t return fire the Japanese were sure that the Russian ships were not in the harbour, but were waiting in the middle of the sea for Japanese steamboats delivering military and weapons. Therefore, the Japanese 
@@ -437,8 +431,8 @@
             </p>
             <p>
                <placeName><ref source="place007">Vienna</ref></placeName>. The Czech members of the Austrian parliament sent a message to the tsar in which they
-            </p>
-            <p style="text-align:center">[5]</p><pb/>
+            </p><pb/>
+            <fw type="pageNum">- 6 -</fw>
             <p>
                wish him to prevail over <placeName><ref source="place019">Japan</ref></placeName> (It will surely help him a lot!).
             </p>
@@ -450,8 +444,8 @@
                <placeName><ref source="place082">Vladivostok</ref></placeName>. The Japanese managed to dispose of the military on the landward side of <placeName><ref source="place082">Vladivostok</ref></placeName>. It will soon besiege the fortress from all sides. 
             </p>
          </div>
-         <div n="10">
-            <head style="text-align:center">Cancer</head>   
+         <div n="13">
+            <head>Cancer</head>   
             <p>
                Cancer is one of the most dangerous and most serious illnesses. Healing cancer is impossible. For now the only way to save a person from death is surgery, but surgery only helps in the first stage of cancer when it hasn’t spread through the body. Or 
                if the cancer is located in a limb which can be cut off completely. Unfortunately, cancer is almost never found in the early stages; when it is found it has usually progressed far. And the risk is really high.
@@ -482,26 +476,26 @@
                If <persName><ref source="person103">Leyden</ref></persName>’s theory can be proven, it will have a great impact. Not only is the cause known, but the possibility of healing grows. 
             </p>
             <p>
-               Researching cancer is becoming more and more important, because more and more get sick from cancer. In 1892, two out of every 100 dying in <placeName><ref type="place010">Germany</ref></placeName> died of cancer. In 1898, it already increased to three. 
-               Calculated differently, out of 100,000 living people 60 died of cancer in 1892. In 1898 this number rose to 71. In a period of seven years cancer grew to 18 %. 
+               Researching cancer is becoming more and more important, because more and more get sick from cancer. In <date when-iso="1892">1892</date>, two out of every 100 dying in <placeName><ref type="place010">Germany</ref></placeName> died of cancer. In <date when-iso="1898">1898</date>, it already increased to three. 
+               Calculated differently, out of 100,000 living people 60 died of cancer in <date when-iso="1892">1892</date>. In <date when-iso="1898">1898</date> this number rose to 71. In a period of seven years cancer grew to 18 %. 
             </p>
             <p>
-               The same proliferation of cancer diseases were also found in other countries. In <placeName><ref source="place011">England</ref></placeName>, out of every million living people, 384 people died of cancer from 1861 to 1870. In the next ten years 468, in 
-               the next 589 and in the last decade 829. In <placeName><ref source="place220">Holland</ref></placeName>, 49 people out of every 100,000 died of cancer in 1874, in 1897 114 died, and in 1898 the number grew to 132. In <placeName><ref source="place096">New York</ref></placeName> 
-               2,473 people died of cancer in 1888 and 4117 in 1893.
-            </p>
-            <p style="text-align:center">[6]</p><pb/>
+               The same proliferation of cancer diseases were also found in other countries. In <placeName><ref source="place011">England</ref></placeName>, out of every million living people, 384 people died of cancer from <date when-iso="1861">1861</date> to <date when-iso="1870">1870</date>. In the next ten years 468, in 
+               the next 589 and in the last decade 829. In <placeName><ref source="place220">Holland</ref></placeName>, 49 people out of every 100,000 died of cancer in <date when-iso="1874">1874</date>, in <date when-iso="1897">1897</date> 114 died, and in <date when-iso="1898">1898</date> the number grew to 132. In <placeName><ref source="place096">New York</ref></placeName> 
+               2,473 people died of cancer in <date when-iso="1888">1888</date> and 4117 in <date when-iso="1893">1893</date>.
+            </p><pb/>
+            <fw type="pageNum">- 7 -</fw>
             <p>These numbers show that the disease is multiplying more and more and starting to affect younger people more as well.</p>
             <p>Because of the danger and increasing number of cancer patients, scholars are interested more in cancer. Several capable doctors and professors are researching the disease. Even specialised science committees have been founded to collect material to research the disease. 
                It is important to know whether the sickness can be spread from human to human, if it can be inherited from parents to children and so on. The spread of the disease has become important for everyone and more and more private people are donating huge sums to scientific studies of cancer.</p>
             <p>If more knowledge about the disease is collected, where it comes from and how it grows, there could also be a way to fight against it.</p>
          </div>
-         <div n="11">
-            <head style="text-align:center"><hi rend="bold">Feutellion<lb/> 
-               <persName><ref source="person046">Rabbi Meir</ref></persName> of <placeName><ref source="place099">Rothenburg</ref></placeName><lb/>(A historical retelling)<lb/>(Continuation)</hi>
-            </head>
+         <div n="14">
+            <head>Feutellion</head>
+            <head type="h2"><persName><ref source="person046">Rabbi Meir</ref></persName> of <placeName><ref source="place099">Rothenburg</ref></placeName></head>
+            <head type="h3">(A historical retelling)<lb/>(Continuation)</head>
             <p>
-               This time the <ref source="person044">count</ref> again did not listen although the rabbi told him about the precarious situation of the Jews. The count said again: 
+               This time the count again did not listen although the rabbi told him about the precarious situation of the Jews. The count said again: 
             </p>
             <p>
                “I know that you are respected among Jews everywhere and that your name is shared amongst the Jewry far away. From every country, Jews are sending you their questions and your words are highly esteemed. Now is the right time to prove your loyalty to your fatherland and your love for your protector, 
@@ -536,38 +530,38 @@
                (To be continued)
             </p>
          </div>
-         <div n="12">
+         <div n="15">
             <head>Post box.</head>
             <head type="h2"><hi rend="italic">To several subscribers</hi></head>
             <p>
                The advertised booklet about <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Asian Russia</ref></placeName> as well as the prayer book, the bonus for our half year subscribers, will be sent out next week.
             </p>
          </div>
-         <div n="13">
-             <div type="ad">
+         <div n="16">
+             <div type="ad" n="1">
                 <head>Fine tea</head>
                 <p>
                    If you want to drink pure, unadulterated tea, write to the address below,
                    <lb/>1 kg fine, pure tea only 6 crowns.
                    <lb/>There is also tea costing 3 to 10 crowns per kg.
                    <lb/>Sample for free and prepaid.
-                   <lb/><persName>L. Aperman</persName>, <placeName><ref source="place132">Brody</ref></placeName> <placeName><ref source="place006">Galicia</ref></placeName>.
+                   <lb/><persName><ref source="person053">L. Aperman</ref></persName>, <placeName><ref source="place132">Brody</ref></placeName> <placeName><ref source="place006">Galicia</ref></placeName>.
                    <lb/>Thee &amp; Caffe Lager.
                 </p>
              </div>
          </div>
          <pb/>
          <fw type="pageNum">- 8 -</fw>               
-         <div n="14">
+         <div n="17">
             <head>Last News.</head>
-            <div>
+            <div type="news" n="1">
                <head type="h2">A great win for <placeName><ref source="place014">Japan</ref></placeName>.</head>
                <p>
                   <placeName><ref source="place031">Berlin</ref></placeName>. The local paper “<ref source="https://www.wikidata.org/wiki/Q821625">Berliner Lokal-Anzeiger</ref>" received a telegram in the last hour. In <placeName><ref source="place022">Korea</ref></placeName>, 
                   80 kilometres away from the city <placeName><ref source="place221">Pyongyang</ref></placeName> where the Japanese main battalions were stationed, the Russians and Japanese erupted into a great battle. <placeName><ref source="place014">Japan</ref></placeName> won gloriously.
                </p>
             </div>
-            <div>
+            <div type="news" n="2">
                <head type="h2"><placeName><ref source="place019">Russia</ref></placeName> wants to withdraw.</head>
                <p>
                   <placeName><ref source="place156">London</ref></placeName>. The Russian ambassador in <placeName><ref source="place156">London</ref></placeName>, Count <persName><ref source="person104">Benckendorff</ref></persName> went to <placeName><ref source="place018">St Petersburg</ref></placeName> 
@@ -576,7 +570,7 @@
                   and hand <placeName><ref source="place083">Port Arthur</ref></placeName> over to <placeName><ref source="place019">Japan</ref></placeName>. That is why it should conclude peace.
                </p>
             </div>
-            <div>
+            <div type="news" n="3">
                <head type="h2">Victory of the government in <placeName><ref source="place009">Hungary</ref></placeName>.</head>
                <p>
                   <placeName><ref source="place030">Budapest</ref></placeName>. The Hungarian government achieved a massive goal in the parliament. As the opposition noticed that the government was serious with changing its rules of order and was also ready to enforce this change with violence in order to 
@@ -585,25 +579,23 @@
                </p>
             </div>
          </div>
-         <div n="15">
+         <div n="18">
             <p>The editor does not take responsibility for the advertisements in this paper.</p>
-            <div style="text-align:center" type="ad">
-               <p>
-                  Bank and exchange business
-                  <lb/>ROHAYTN &amp; ULAM
+            <div style="text-align:center" type="ad" n="2">
+               <head>Bank and exchange business</head>
+               <p>ROHAYTN &amp; ULAM 
                   <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <placeName><ref source="place186">Syxtuskagasse</ref></placeName> 8.</foreign>
-                  <lb/>Buying and selling all kinds of
+                  <lb/>Buying and selling all kinds of 
                   <lb/>Effects, lotteries, and coins.
-                  <lb/>Lottery available in cheap installments.
-                  <lb/>At request, a lottery calendar for 1904
-                  <lb/>can be given for free.
-                  <lb/>Easy, low-interest loans available.
-               </p>
+                  <lb/>Lottery available in cheap installments. 
+                  <lb/>At request, a lottery calendar for <date when-iso="1904">1904</date>
+                  <lb/>can be given for free. 
+                  <lb/>Easy, low-interest loans available.</p>
             </div>
             <cb/>
-            <div type="ad">
+            <div type="ad" n="3">
+               <head>Important for farmers</head>
                <p>
-                  Important for farmers
                   On occasion of the upcoming spring season, we suggest the following enterprise for buying bonemeal, clay slag, phosphates, and so on. Any and all grasses, clover seeds and agricultural machines by the most prestigious factories, domestic and abroad. 
                   Illustrated price lists can be sent for free and without shipping costs on request. 
                   The delivery will make customers satisfied and accomplished to the max.
@@ -613,11 +605,10 @@
                   Artificial fertilizer, seeds &amp; machinery <placeName><ref source="place223">Podgórze</ref></placeName> - <placeName><ref source="place149">Kraków</ref></placeName>
                </p>
             </div>               
-            <div type="ad">
-               <p>
-                  <ref source="https://www.wikidata.org/wiki/Q17590684">The Oesterreichische 
-                  <lb/>Volkszeitung</ref>
-                  <lb/>Which is published with 82,000 copies publishes important
+            <div type="ad" n="4">
+               <head><ref source="https://www.wikidata.org/wiki/Q17590684">The Oesterreichische 
+                  <lb/>Volkszeitung</ref></head>
+                  <p>Which is published with 82,000 copies publishes important
                   <lb/>news 
                   <lb/>about the RUSSO-JAPANESE 
                   <lb/>WAR
@@ -635,8 +626,8 @@
                   <lb/>All new subscribers receive the current, highly interesting novels and novellas for free.</p>
             </div> 
          </div>
-         <fw>
-            <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte <persName><ref source="person039">Weinstock</ref></persName> 
+         <fw type="footer" n="2">
+            <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte <persName><ref source="person139">Weinstock</ref></persName> 
                <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse</ref> 35</placeName>
             </foreign>
          </fw>

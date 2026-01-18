@@ -145,7 +145,7 @@
         </p>
     </xsl:template>
     <xsl:template match="tei:div">
-        <div id="{local:makeId(.)}">
+        <div id="{local:makeId(.)}" class="yes-index">
             <xsl:apply-templates/>
         </div>
     </xsl:template>  
