@@ -25,7 +25,7 @@
                <name>Luger, Robin</name>
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2024">2024</date>
+            <date when-iso="2024">2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -91,17 +91,17 @@
       </surface>
    </facsimile>
   <text>
-      <body>
-         <fw type="head" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 3 </foreign>- 1st year</fw>
+      <body xml:lang="en">
+         <fw type="header"><foreign xml:lang="de">1.Jahrgang - Nr. 3 </foreign>- 1st year</fw>
          <div n="1">
             <head>The Genuine Jew</head>
             <p style="text-align:center">Organ for Yiddish Matters
-               <lb/><foreign xml:lang="de">DER WAHRE JUDE</foreign>
-               <lb/><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+               <lb/><foreign xml:lang="de">DER WAHRE JUDE
+               <lb/>Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
-         <div n="1">
+         <div n="2">
             <table rows="4" cols="2" style="text-align:center;width:50%">
-               <head>The Geniune Jew costs</head>
+               <head>The Genuine Jew costs</head>
                <row role="data">
                   <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
                   <cell role="data">Abroad</cell>
@@ -120,13 +120,13 @@
                </row>
             </table>
             <p><placeName><ref source="place002">Lviv</ref></placeName>, <date calendar="Hebrew" when-custom="5664-12-03"><foreign xml:lang="he">Yom Shlishi <ref source="https://www.wikidata.org/wiki/Q1860936">Terumah</ref> 5664</foreign></date></p><cb/>
-            <p>
-               Adverts are cheaply calculated
-               <lb/>All letters and money send to:
-               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse 27</ref></placeName></foreign>
-               <lb/>The Genuine Jew is published every Friday
-               <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <date when-iso="1904-02-19">den 19. Februar 1904</date></foreign>.
-            </p>
+            <p> Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign
+                  xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002"
+                        >Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse</ref>
+                     27</placeName></foreign>
+               <lb/>The Genuine Jew is published every Friday <lb/><foreign xml:lang="de"
+                        ><placeName><ref source="place002">Lemberg</ref></placeName>, <date
+                     when-iso="1904-02-19">den 19. Februar 1904</date></foreign>. </p>
          </div>
          <div n="3">
             <head>The Rabbinical question in <placeName><ref source="place006">Galicia</ref></placeName></head>
@@ -144,7 +144,7 @@
             <p>
                Only here in <placeName><ref source="place006">Galicia</ref></placeName>, the rabbinical question exists and finding a solution does not seem to work. Most communities need an old-style rabbi, a great scholar, a gaon, a genuine pious Jews, who 
                should devote himself to the Jewry and should be a shepherd, loyal to his religion. The law needs rabbis in bigger cities to have graduated and even in the smaller cities he needs to be educated to a certain point. 
-               But where does one get a rabbi who is a true scholar and has a diploma as well? As this law was created on <date when="1890-03-21">March 21st 1890</date>, nobody was asking that question. Our leaders in the big cities, our representatives in the 
+               But where does one get a rabbi who is a true scholar and has a diploma as well? As this law was created on <date when-iso="1890-03-21">March 21st 1890</date>, nobody was asking that question. Our leaders in the big cities, our representatives in the 
                imperial council are progressive Jews. They only wanted rabbis who can hold beautiful “sermons”, who are dressed in the latest fashion and should be able to “convene with people”, as they are calling it. They do not 
                care about Jewish erudition, piousness and such and therefore this law has been passed. 
             </p>
@@ -152,7 +152,7 @@
                One has to admit that the government understood the pious Jews’ interests better and brought more ease against the will of “our” progressive “representatives”. First they introduced a transitional period in which one 
                can continue in a traditional manner and the rabbi does not need to know Latin or Greek. Another
             </p><pb/>
-            <fw>- 2 -</fw>
+            <fw type="pageNum">- 2 -</fw>
             <p>
                easement was made: every rabbi who has been a rabbi before this law, even if he is from a small town, can also become a rabbi in a bigger city, even if he doesn’t hold a diploma. Those who have been rabbis, can continue 
                to be one and do not need to study. If a community petitions to the government to welcome a rabbi without a diploma, they will be allowed to do so. Therefore, the government makes every possible facilitation for pious Jews. 
@@ -197,7 +197,7 @@
                He prematurely promises, how one says, heaven and earth. He is talking about new military academies, new schools with Hungarian as the language of instruction, Hungarian officers would only serve in Hungarian regiments 
                to nurture the Hungarian national pride and suchlike. - But the opposition in <placeName><ref source="place025">Austria</ref></placeName> and in <placeName><ref source="place009">Hungary</ref></placeName>
             </p><pb/>
-            <fw>- 3 -</fw>
+            <fw type="pageNum">- 3 -</fw>
             <p>
                is still not satisfied. As soon as the delegation stops with their punishments and the Imperial Council opens up again, they want to continue their <hi rend="italic">obstruction</hi>.
             </p>
@@ -247,7 +247,7 @@
                <placeName><ref source="place025">Austria</ref></placeName> will be involved in - can break out any time, we have to admit that revolutionists can do great harm when invading <placeName><ref source="place025">Austria</ref></placeName>. 
                <placeName><ref source="place025">Austria</ref></placeName> needs to brace itself early enough. - Trivialities can easily evolve into vital matters. 
             </p><pb/>
-            <fw>- 4 -</fw>
+            <fw type="pageNum">- 4 -</fw>
             <p>
                <placeName><ref source="place075">Turkey</ref></placeName>. The war between <placeName><ref source="place014">Russia</ref></placeName> and <placeName><ref source="place019">Japan</ref></placeName> affects <placeName><ref source="place075">Turkey</ref></placeName> 
                and its small neighbours <placeName><ref source="place112">Bulgaria</ref></placeName>, <placeName><ref source="place111">Serbia</ref></placeName>, <placeName><ref source="place080">Montenegro</ref></placeName> and <placeName><ref source="place089">Greece</ref></placeName>. 
@@ -315,7 +315,7 @@
                break out then because every state has claims in <placeName><ref source="place021">China</ref></placeName>. However, it seems that <placeName><ref source="place021">China</ref></placeName> will be supporting <placeName><ref source="place019">Japan</ref></placeName> 
                if <placeName><ref source="place019">Japan</ref></placeName> emerges victorious. They want to get even with <placeName><ref source="place014">Russia</ref></placeName> that way as <placeName><ref source="place014">Russia</ref></placeName> has intensely persecuted the Chinese. 
             </p><pb/>
-            <fw>- 5 -</fw>
+            <fw type="pageNum">- 5 -</fw>
             <p>
                It is not clear yet when the first war on land will take place. The Japanese movements are kept in secret and it is not known where they are stationed. Any time, the Japanese military could collide with the Russian one resulting in the first major battle.
             </p>
@@ -382,14 +382,10 @@
                "His hand is in everything and everyone's hand is in Him".
             </p>
          </div><pb/>
-         <fw>- 6 -</fw>
+         <fw type="pageNum">- 6 -</fw>
          <div n="8">
-            <head>
-               News.
-            </head>
-            <head type="h2">
-               Jewish News.
-            </head>
+            <head>News.</head>
+            <head type="h2">Jewish News.</head>
             <p>
                (<placeName><ref source="place019">Japan</ref></placeName>). Because of the war <placeName><ref source="place019">Japan</ref></placeName> is waging with <placeName><ref source="place014">Russia</ref></placeName>, the whole world is interested in 
                <placeName><ref source="place019">Japan</ref></placeName> and whether Jews are living there. According to the latest reports around 100 Jews are living there. Twenty Jewish families live in the capital <placeName><ref source="place086">Tokyo</ref></placeName>. Several foreign 
@@ -399,10 +395,10 @@
                Jew operated a European restaurant in the capital <placeName><ref source="place071">Seoul</ref></placeName>; it is not known whether he still lives there. 
             </p>
             <p>
-               (<placeName><ref source="place030">Budapest</ref></placeName>). In <date when="1903-12">December 1903</date>, 453 interfaith marriages (meaning a marriage between a Jewish groom and a Christian bride or the other way around) took place. Those mixed 
+               (<placeName><ref source="place030">Budapest</ref></placeName>). In <date when-iso="1903-12">December 1903</date>, 453 interfaith marriages (meaning a marriage between a Jewish groom and a Christian bride or the other way around) took place. Those mixed 
                marriages increase constantly and the children who result from them are mostly raised Christian, those are the results of the assimilation (adapting to Christian customs and culture). -
                <lb/>The Jew <persName><ref source="person058">Elijah Hift</ref></persName> in <placeName><ref source="place123">Berehove</ref></placeName> inherited 300 million. His relative <persName><ref source="person057">William Leidesdorff</ref></persName> 
-               immigrated to the <placeName><ref source="place094">USA</ref></placeName> 80 years ago and died in <date when="1848">1848</date> in <placeName><ref source="place125">San Francisco</ref></placeName>. He left a fortune of 700,000 dollars which was 
+               immigrated to the <placeName><ref source="place094">USA</ref></placeName> 80 years ago and died in <date when-iso="1848">1848</date> in <placeName><ref source="place125">San Francisco</ref></placeName>. He left a fortune of 700,000 dollars which was 
                deposited in the treasury until now and amassed to 300 million. Now an heir has been found who is receiving the money.
             </p>
             <p>
@@ -417,7 +413,7 @@
                antisemitism dominates the courts. 
             </p>
             <p>
-               (<placeName><ref source="place035">Bucharest</ref></placeName>). The Jewish emigration from <placeName><ref source="place124">Romania</ref></placeName> increased in the past year. Two to three years ago <cb/>emigration was very high. One year ago it subsided a bit. Then <date when="1903">1903</date>, 
+               (<placeName><ref source="place035">Bucharest</ref></placeName>). The Jewish emigration from <placeName><ref source="place124">Romania</ref></placeName> increased in the past year. Two to three years ago <cb/>emigration was very high. One year ago it subsided a bit. Then <date when-iso="1903">1903</date>, 
                again 8011 Jews emigrated from <placeName><ref source="place068">Romania</ref></placeName>. 
             </p>
             <p>
@@ -436,23 +432,21 @@
          <div n="9">
             <head>Jewish persecution in <placeName><ref source="place129">Morocco</ref></placeName></head>
             <p>
-               New details to the horrible persecution against Jews in <placeName><ref source="place129">Morocco</ref></placeName>, which we have reported on in No. 2 have been reported on. On <date when="1904-12-17">December 17th</date>, a horrible disaster befell the Jewish 
+               New details to the horrible persecution against Jews in <placeName><ref source="place129">Morocco</ref></placeName>, which we have reported on in No. 2 have been reported on. On <date when-iso="1904-12-17">December 17th</date>, a horrible disaster befell the Jewish 
                community in <placeName><ref source="place098">Settat</ref></placeName>. The Jewish community, about 7,500 souls, mostly artisans and peddlers fell into misery after a sudden attack. The Jewish people were praying in the synagogue when a heap of 
                “<ref source="https://www.wikidata.org/wiki/Q648255">Kabyle people</ref>” (wild Arabs) came riding on horses and destroyed the Jewish quarters. They plundered and demolished whatever they could and took several women and children captive. Two Jews have been trampled 
                to death, children and women have been horribly beaten and tormented. Caretakers and their children have been ripped out of their beds and been thrown onto the streets. Over 200 houses have been destroyed. Bread and other foods have been stolen almost everywhere. 
                The unlucky Jews have fled into all directions; nobody knew where the other one was. Some families found each other only after weeks. The Arabs demand huge ransom for their prisoners. The Arab-family “Oled Harim” showed themselves to be benevolent. They 
                took in many eloping Jews in their homes. One of them rode out with several families to bring back to the city those who were wandering around. - A big part of the fleeing ones, 700 individuals, fled to <placeName><ref source="place130">Casablanca</ref></placeName>. -
             </p><pb/>
-            <fw>- 7 -</fw>
+            <fw type="pageNum">- 7 -</fw>
             <p>
                In the city <placeName><ref source="place131">Marrakech</ref></placeName>, where 14,000 Jews reside, persecution has been reported as well.
             </p>
          </div>
          <div n="10">
             <head>Feuilleton</head>
-            <head type="h2">
-               <persName><ref source="person046">Rabbi Meir</ref></persName> of <placeName><ref source="place099">Rothenburg</ref></placeName>.
-            </head>
+            <head type="h2"><persName><ref source="person046">Rabbi Meir</ref></persName> of <placeName><ref source="place099">Rothenburg</ref></placeName>.</head>
             <head type="h3">
                (A historical retelling).
                <lb/>b.
@@ -498,20 +492,20 @@
                <persName><ref source="person054">Kneppe</ref></persName> yelled and cursed a lot. The rabbi was ashamed to hear all of that, but he let him, and knocked on a door which led to the princely hall. The door opened, the clerk came in and Kempe quickly vanished.
             </p>
          </div>
-         <div  n="11">
+         <div n="11">
             <head>Statistical Reports.</head>
             <head type="h2">
                Salt, beer and spirits - production in <placeName><ref source="place006">Galicia</ref></placeName>.
             </head>
             <p>
-               In <placeName><ref source="place006">Galicia</ref></placeName>, in <date when="1903-12">December 1903</date>, 754 spirit distilleries produced 9,790,861 degrees. Namely, in the <placeName><ref source="place132">Brody</ref></placeName> oblast are 86 distilleries 
+               In <placeName><ref source="place006">Galicia</ref></placeName>, in <date when-iso="1903-12">December 1903</date>, 754 spirit distilleries produced 9,790,861 degrees. Namely, in the <placeName><ref source="place132">Brody</ref></placeName> oblast are 86 distilleries 
                (production of 1,237,455 degrees), in the <placeName><ref source="place169">Berezhany</ref></placeName> oblast: 77 (1,006,600), <placeName><ref source="place129">Chortkiv</ref></placeName> oblast: 64 (1,006,500), <placeName><ref source="place308">Jarosław</ref></placeName> 
                oblast: 30 (410,375), <placeName><ref source="place149">Krakow</ref></placeName> oblast: 49 (703,420), <placeName><ref source="place002">Lviv</ref></placeName> oblast: 37 (318,850), <placeName><ref source="place029">Rzeszów</ref></placeName> oblast: 48 (435,636), 
                <placeName><ref source="place309">Sambir</ref></placeName> oblast: 27 (326,150), <placeName><ref source="place310">Sanok</ref></placeName> oblast: 28 (251,900), <placeName><ref source="place311">Stanisławów</ref></placeName> oblast: 43 (620,315), 
                <placeName><ref source="place312">Wadowice</ref></placeName> oblast: 20 (143,740), <placeName><ref source="place313">Gmina Żółkiewka</ref></placeName>: 88 (1,180,520).
             </p>
             <p>
-               In <placeName><ref source="place006">Galicia</ref></placeName>, in December 1903, 89 breweries produced 81,707 hectolitres of (beer). Namely, in the <placeName><ref source="place132">Brody</ref></placeName> oblast are 10 breweries (production of 6569), in the 
+               In <placeName><ref source="place006">Galicia</ref></placeName>, in <date when-iso="1903-12">December 1903</date>, 89 breweries produced 81,707 hectolitres of (beer). Namely, in the <placeName><ref source="place132">Brody</ref></placeName> oblast are 10 breweries (production of 6569), in the 
                <placeName><ref source="place169">Berezhany</ref></placeName> oblast: 4 (1823), <placeName><ref source="place129">Chortkiv</ref></placeName> oblast: 3 (1087), <placeName><ref source="place308">Jarosław</ref></placeName> oblast: 30 (410,375), 
                <placeName><ref source="place148">Kolomyia</ref></placeName> oblast: 4 (4348), <placeName><ref source="place149">Krakow</ref></placeName> oblast: 4 (1800), <placeName><ref source="place002">Lviv</ref></placeName> oblast: 5 (4672), 
                <placeName><ref source="place314">Nysa</ref></placeName> oblast: 6 (3700), <placeName><ref source="place168">Przemyśl</ref></placeName> oblast: 3 (4272), <placeName><ref source="place029">Rzeszów</ref></placeName> oblast: 9 (4363), 
@@ -520,9 +514,9 @@
                oblast: 7 (7196), <placeName><ref source="place313">Gmina Żółkiewka</ref></placeName> oblast: 2 (540), in the city <placeName><ref source="place149">Krakow</ref></placeName>: 2 (3040), in <placeName><ref source="place002">Lviv</ref></placeName>: 1 (9100).
             </p>
             <p>
-               The <hi rend="italic">salt production</hi> in <placeName><ref source="place006">Galicia</ref></placeName> of <date when="1904-12">December 1901</date> was 190,910 quintals. In the same month in 1902 it was merely 99,445 quintals. Therefore, last year 91,479 more quintals were produced.
+               The <hi rend="italic">salt production</hi> in <placeName><ref source="place006">Galicia</ref></placeName> of <date when-iso="1904-12">December 1901</date> was 190,910 quintals. In the same month in <date when-iso="1902">1902</date> it was merely 99,445 quintals. Therefore, last year 91,479 more quintals were produced.
             </p><pb/>
-            <fw>- 8 -</fw>
+            <fw type="pageNum">- 8 -</fw>
          </div>
          <div n="12">
             <p style="text-align:center">The editor does not take responsibility for the advertisements in this paper.</p>
@@ -555,7 +549,7 @@
             <div type="ad" n="3">
                <head>The sugar refinery of <placeName><ref source="place060">Przeworsk</ref></placeName></head>
                <p>
-                  Has immensely scaled up its sugar production for 1904 and recommends every variety to extremely low prices.
+                  Has immensely scaled up its sugar production for <date when-iso="1904">1904</date> and recommends every variety to extremely low prices.
                   <lb/>You can get various useful instructions for register handlers, head of cultural affairs, private individuals, etc. at different prices.
                   <lb/><persName><ref source="person139">S. Weinstock</ref></persName>, in <placeName><ref source="place002">Lviv</ref></placeName>,<placeName><ref source="place185">Rzeznicka</ref> 5</placeName>
                </p>
@@ -627,9 +621,8 @@
          </div>
       </div>
       <fw type="footer">
-            <foreign xml:lang="de">
-               Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte <persName><ref source="person139">Weinstock</ref></persName>
-            </foreign>
+            <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte <persName><ref source="person139">Weinstock</ref></persName>
+            <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse</ref> 35</placeName></foreign>
         </fw>
       </body>
   </text>

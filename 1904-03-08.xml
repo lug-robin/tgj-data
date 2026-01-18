@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-08.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-08.xml" prev="1904-03-04.xml" next="1904-03-11.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -25,7 +25,7 @@
                <name>Luger, Robin</name>
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2025">2025</date>
+            <date when-iso="2025">2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
@@ -79,17 +79,17 @@
       </surface>
    </facsimile>
    <text>
-      <body>
-         <fw type="head" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 7 - </foreign>1st year</fw>
+      <body xml:lang="en">
+         <fw type="header" n="1"><foreign xml:lang="de">1.Jahrgang - Nr. 7 - </foreign>1st year</fw>
          <div n="1">
             <head>The Geniune Jew</head>
             <p style="text-align:center">Organ for Yiddish Matters
-            <lb/><foreign xml:lang="de">DER WAHRE JUDE</foreign>
-            <lb/><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+               <lb/><foreign xml:lang="de">DER WAHRE JUDE
+               <lb/>Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
          <div n="2">
-            <table rows="4" cols="2" style="text-align:center;width:50%">
-               <head>The Geniune Jew costs</head>
+            <table rows="4" cols="2">
+               <head>The Genuine Jew costs</head>
                <row role="data">
                   <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
                   <cell role="data">Abroad</cell>
@@ -111,7 +111,7 @@
            <p>
               Adverts are cheaply calculated
               <lb/>All letters and money send to:
-              <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse 27</ref></placeName></foreign>
+              <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse</ref> 27</placeName></foreign>
               <lb/>The Genuine Jew is published every Friday
               <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <date when-iso="1904-03-08">den 8. März 1904</date></foreign>.
             </p>
@@ -123,7 +123,7 @@
             </p>
             <p style="text-align:right">- The editorial office.</p>
          </div>
-         <div>
+         <div n="4">
             <head>The new <persName><ref source="person082">Dreyfus</ref></persName> Trials</head>
             <p style="text-align:center">The truth shall spring out of the earth. (Psalm 85:11)</p>
             <p>
@@ -140,11 +140,11 @@
                <persName><ref source="person082">Dreyfus</ref></persName> who was prisoned on the <placeName><ref source="place208">Devil’s Island</ref></placeName> for five years
             </p>
          </div>
-         <fw type="footnote">
+         <fw type="footnote" n="1">
             We ask the subscribers of <foreign xml:lang="he-Hebr">מחזיקי הדת</foreign> and <foreign xml:lang="he">קול מחזיקי הדת</foreign> to send every letter and money to this address:
             <lb/><ref source="person031"><persName>OSIAS H. WILF</persName></ref>, <placeName><ref source="place002">LEMBERG</ref></placeName> <placeName><ref source="place003">Sonnengasse</ref> 27</placeName>.</fw><pb/>
             <fw type="pageNum">- 2 -</fw>
-         <div n="4">
+         <div n="5">
             <p>
                cut off of the whole world overseen and policed like a dangerous criminal - that Jew <persName><ref source="person082">Dreyfus</ref></persName> has not let the world  adjourn. Like a dead person of every world, he appeared in dreams, 
                woke up his friends and scared them. The greatest men of <placeName><ref source="place045">France</ref></placeName>, like the writers <persName><ref source="person083">Zola</ref></persName>, <persName><ref source="person084">Reinach</ref></persName>, 
@@ -175,12 +175,12 @@
                are joyous with hope that there is justice for the Jewish people. The earth will flourish anew, and justice will descend from heaven. 
             </p>
          </div>
-         <div n="5">
+         <div n="6">
             <head>Recent anti-Jewish violence in <placeName><ref source="place014">Chișinău</ref></placeName></head>
             <p> 
                It has been a long tradition in <placeName><ref source="place014">Russia</ref></placeName>, that in order to calm the Russian nation which is fierce against the government, to chevy the Jews. It was like this in <date when-iso="1881">1881</date>, after the 
                <ref source="https://www.wikidata.org/wiki/Q1494934">nihilistic revolutions</ref> when pogroms were happening in every major city. The government achieved two things with these policies: first, the rabble hates the Jews, not the government; 
-               second, the government can satisfy the commotions, introduce martial law and oppress the people once again. - That is also the root for the <placeName><ref source="place014">Kishinev</ref></placeName> pogrom. The government saw that the 
+               second, the government can satisfy the commotions, introduce martial law and oppress the people once again. - That is also the root for the <placeName><ref source="place015">Kishinev</ref></placeName> pogrom. The government saw that the 
                nation had been discontent for some years and the working class was strongly agitated - the government sic the people against the nation immediately. 
             </p>
             <p>
@@ -189,14 +189,14 @@
                and even helps to foster it. 
             </p>
             <p>
-               This time, the government chose <placeName><ref source="place014">Chișinău</ref></placeName> once again for the persecutions. Reports say that there have been demonstrations against Jews. The mob wandered through the streets in large crowds, 
+               This time, the government chose <placeName><ref source="place015">Chișinău</ref></placeName> once again for the persecutions. Reports say that there have been demonstrations against Jews. The mob wandered through the streets in large crowds, 
                yelled threats against the Jews and broke in the windows of several Jewish houses. Multiple Jewish shops were robbed, some Jewish people were even beat up. 
             </p>
             <p>
                History repeats itself. The situation of the Russian Jews becomes sadder day by day.
             </p>
          </div>
-         <div n="6">
+         <div n="7">
             <head>A letter to the editor!</head>
             <p>
                I was plainly delighted as I received your Tuesday edition last night. Before, as it was published only once a week, I felt that I was waiting a year for every day until a paper arrives and
@@ -211,7 +211,7 @@
                Your subscriber, <persName><ref source="person255">Naftoli Salomon</ref></persName>
             </p>
          </div>
-         <div n="7">
+         <div n="8">
             <head>The political situation in <placeName><ref source="place009">Hungary</ref></placeName>.</head>
             <p>
                For more than a year already, there has been a conflict in the Hungarian parliament which cannot be resolved. The emperor has already appointed two different ministers twice already and the government has granted the opposition important concessions. 
@@ -250,7 +250,7 @@
                are now against changing the order of business as they think of it as an illegality. Therefore, they have joined the filibuster. It will be a difficult battle without an indication who will win.
             </p>
          </div>
-         <div n="8">
+         <div n="9">
             <head>News.</head>
             <head type="h2">Jewish News.</head>
             <p>
@@ -263,26 +263,26 @@
                (<placeName><ref source="place210">South Africa</ref></placeName>). Immigration to <placeName><ref source="place210">South Africa</ref></placeName> has been complicated further. Before, every immigrant should prove that they have 5 pounds sterling (60 guilds), now they demand proof of 20 pounds (240 guilds).
             </p>
          </div>
-         <div n="9">
+         <div n="10">
             <head>Telegrams.</head>
             <head type="h2">The <placeName><ref source="place147">Zabolotiv</ref></placeName> trial.</head>
             <p>
-               <placeName><ref source="place148">Kolomyia</ref></placeName>. The trial about the antisemitic excesses in <placeName><ref source="place148">Kolomyia</ref></placeName> were closed on March 5. The trial did not clarify the whole situation. Two of the main defendants, the financial supervisor <hi rend="italic"><persName>Skalski</persName></hi> 
-               and the merchant <persName>Krivitsky</persName> were accused of stirring up hatred against the Jews were acquitted of their charge. Many witnesses exonerated them and claimed that they have not been part of this whole thing. Both defendants pinned everything on the police, who were not there on time. 
+               <placeName><ref source="place148">Kolomyia</ref></placeName>. The trial about the antisemitic excesses in <placeName><ref source="place148">Kolomyia</ref></placeName> were closed on <date when-iso="1904-03-05">March 5</date>. The trial did not clarify the whole situation. Two of the main defendants, the financial supervisor <hi rend="italic"><persName><ref source="person257">Skalski</ref></persName></hi> 
+               and the merchant <persName><ref source="person258">Krivitsky</ref></persName> were accused of stirring up hatred against the Jews were acquitted of their charge. Many witnesses exonerated them and claimed that they have not been part of this whole thing. Both defendants pinned everything on the police, who were not there on time. 
             </p>
             <p>
                If only an officer would have been at the crime scene when the turmoil started, would it have calmed down immediately. It is true that as soon as the police<cb/> arrived at the square, the mob ran away, but police arrived too late.
             </p>
             <p>
-               The court sentenced following defendants: <persName>Anatoly Falitshuk</persName> to five days detention, <persName>Arkady Savak</persName> to 14 days, <persName>Alyona Sammattyuk</persName> to five days, <persName>Pavel Chaban</persName> to four months rigorous imprisonment with one day fast every two weeks, 
-               <persName>Stefan Kavalerski</persName> to two months of rigorous imprisonment with fast, <persName>Theodor Butschek</persName> to two months with fast, <persName>Aleksa Roke</persName> to two months with fast, <persName>Nikola Duvnjak</persName> to two months with fast, <persName>Edvard Neuburger</persName> 
-               to two months with fast, <persName>Jan Sorokavsky</persName> to two months with fast. Nine defendants were discharged, the convicts have to pay the court fees. The demands for compensation made by the harmed Jews have to be brought to civil court. 
+               The court sentenced following defendants: <persName><ref source="person259">Anatoly Falitshuk</ref></persName> to five days detention, <persName><ref source="person260">Arkady Savak</ref></persName> to 14 days, <persName><ref source="person261">Alyona Sammattyuk</ref></persName> to five days, <persName><ref source="person262">Pavel Chaban</ref></persName> to four months rigorous imprisonment with one day fast every two weeks, 
+               <persName><ref source="person263">Stefan Kavalerski</ref></persName> to two months of rigorous imprisonment with fast, <persName><ref source="person264">Theodor Butschek</ref></persName> to two months with fast, <persName><ref source="person265">Aleksa Roke</ref></persName> to two months with fast, <persName><ref source="person266">Nikola Duvnjak</ref></persName> to two months with fast, <persName><ref source="person267">Edvard Neuburger</ref></persName> 
+               to two months with fast, <persName><ref source="person268">Jan Sorokavsky</ref></persName> to two months with fast. Nine defendants were discharged, the convicts have to pay the court fees. The demands for compensation made by the harmed Jews have to be brought to civil court. 
             </p>
             <p>
-               All of the convicts accepted their verdict except for <persName>Aleksa Roke</persName> who asked for three days of respite.
+               All of the convicts accepted their verdict except for <persName><ref source="person265">Aleksa Roke</ref></persName> who asked for three days of respite.
             </p>
          </div>
-         <div n="10">
+         <div n="11">
             <head>The war.</head>
             <head type="h2">Between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName>.</head>
             <p>
@@ -301,12 +301,10 @@
                <placeName><ref source="place193">Beijing</ref></placeName>. The Chinese act more and more like double agents. They claim to be neutral, and therefore impartial, but they secretly arm to war and collect a lot of military at the border. As soon as the Japanese win the ground warfare, the Chinese will join the Japanese and declare war on <placeName><ref source="place014">Russia</ref></placeName>.
             </p>
          </div>
-         <div n="1">
-            <fw type="footer" n="1">
-               <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte Weinstock 
-                  <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse 35</ref></placeName></foreign>
-            </fw>
-         </div>
+         <fw type="footer" n="2">
+            <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte <persName><ref source="person139">Weinstock</ref></persName> 
+            <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse</ref> 35</placeName></foreign>
+         </fw>
       </body>
    </text>
 </TEI>

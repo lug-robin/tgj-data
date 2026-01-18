@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-18.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" source="1904-03-18.xml" prev="1904-03-15.xml" next="1904-03-22.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -25,7 +25,7 @@
                <name>Luger, Robin</name>
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2025">2025</date>
+            <date when-iso="2025">2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -76,35 +76,33 @@
       <surface ulx="0" uly="0" lrx="4305" lry="6222" n="4">
          <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040318|4|100.0|0"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4257" lry="6222" n="1">
+      <surface ulx="0" uly="0" lrx="4257" lry="6222" n="5">
          <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040318|5|100.0|0"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="2">
+      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="6">
          <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040318|6|100.0|0"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4257" lry="6222" n="3">
+      <surface ulx="0" uly="0" lrx="4257" lry="6222" n="7">
          <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040318|7|100.0|0"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="4">
+      <surface ulx="0" uly="0" lrx="4305" lry="6222" n="8">
          <graphic url="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040318|8|100.0|0"/>
       </surface>
    </facsimile>
    <text>
-      <body>
-         <pb n="1" facs="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040318|1|100.0|0"/>
-         <fw>
-            <foreign xml:lang="de">1.Jahrgang Nr. 10 </foreign> 1st year
+      <body xml:lang="en">
+         <fw type="header" n="1">
+            <foreign xml:lang="de">1.Jahrgang - Nr. 10 </foreign>- 1st year
          </fw>
          <div n="1">
-            <head>The Geniune Jew</head>
-            <p>Organ for Yiddish matters</p>
-            <p><foreign xml:lang="de">DER WAHRE JUDE</foreign></p>
-            <p><foreign xml:lang="de">Organ für die Gesammtinteressen des Judenthums</foreign></p>
+            <head>The Genuine Jew</head>
+            <p style="text-align:center">Organ for Yiddish matters
+            <foreign xml:lang="de">DER WAHRE JUDE
+            <lb/>Organ für die Gesammtinteressen des Judenthums</foreign></p>
          </div>
-         <div type="editorial" n="1" style="two columns">
-            <cb n="1"/>
+         <div n="2">
             <table rows="4" cols="2">
-               <head>The Geniune Jew costs</head>
+               <head>The Genuine Jew costs</head>
                <row role="data">
                   <cell role="data">In <placeName><ref source="place001">Austria-Hungary</ref></placeName></cell>
                   <cell role="data">Abroad</cell>
@@ -125,11 +123,11 @@
             <p><placeName><ref source="place002">Lviv</ref></placeName>,<date calendar="Hebrew" when-custom="5664-12-28"> <foreign xml:lang="he-Latin">Yom Shishi <ref source="https://www.wikidata.org/wiki/Q1506424">Vayikra</ref></foreign> 5664</date></p>
             <cb/>
             <p>
-               <lb/>Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName>Sonnengasse 27</placeName></foreign>
-               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign xml:lang="de"><placeName>Lemberg</placeName>, <date when-iso="1904-03-11">den 18.März 1904</date></foreign>.</p>
+               Adverts are cheaply calculated <lb/>All letters and money send to: <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse</ref> 27</placeName></foreign>
+               <lb/>The Genuine Jew is published every Tuesday and Friday <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <date when-iso="1904-03-11">den 18.März 1904</date></foreign>.</p>
          </div>
-         <div n="2">
-            <head><hi rend="bold">Cultus elections in <placeName><ref source="place002">Lviv</ref></placeName></hi></head>
+         <div n="3">
+            <head>Cultus elections in <placeName><ref source="place002">Lviv</ref></placeName></head>
             <p>
                A few weeks ago in “The Genuine Jew”, we printed an article touching upon the upcoming cultus elections in <placeName><ref source="place002">Lviv</ref></placeName>. The author proved how important this question is and how necessary it 
                has become for us Jews. We should show interest in this issue. However, up until today, our city keeps silent concerning this question. Nothing is heard about it, nobody talks about it as if it is something unimportant, not worth wasting any word on it. 
@@ -151,13 +149,13 @@
                and that not those men who are wanted by the campaigners will be elected, but those the people demand.
             </p>
          </div>
-         <div type="information" style="one column">
-            <p>We ask the subscribers of מחזיקי הדת (upholders of religion) and קול מחזיקי הדת (the voice of the upholders of religion) to send every letter and money to this address:</p>
-            <p>OSIAS H. WILF, <placeName><ref source="place002">LEMBERG</ref></placeName> <ref source="place003"><placeName>Sonnengasse 27</placeName></ref>.</p>
-            <p style="text-align:center">[1]</p>
-         </div>
-         <div n="2">
-            <pb n="2" facs="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040318|2|100.0|0"/>
+         <fw type="footer" n="1">
+            We ask the subscribers of <foreign xml:lang="he">מחזיקי הדת</foreign>  and <foreign xml:lang="he">קול מחזיקי הדת</foreign> to send every letter and money to this address:
+            <lb/><persName><ref source="person031">OSIAS H. WILF</ref></persName>, <placeName><ref source="place002">LEMBERG</ref></placeName> <placeName><ref source="place003">Sonnengasse</ref> 27</placeName>.
+         </fw>
+         <pb/>
+         <fw type="pageNum">- 2 -</fw>
+         <div n="4">
             <p>
                A programme! That’s what’s missing. Every party has a meticulously constructed programme which clearly states what they want to do and what they demand.
             </p>
@@ -176,8 +174,9 @@
             </p>
             <p style="text-align:right">A Lvivian</p>
          </div>
-         <div type="article" n="3">
-            <head><hi rend="bold">Antisemitic pogroms in <placeName><ref source="place078">Greece</ref></placeName><lb/>(Telegrams)</hi></head>
+         <div n="5">
+            <head>Antisemitic pogroms in <placeName><ref source="place078">Greece</ref></placeName></head>
+            <head type="h2">(Telegrams)</head>
             <p>
                <placeName><ref source="place232">Athens</ref></placeName>. A Jew and a Greek had a dispute in the port city <placeName><ref source="place233"><hi rend="italic">Kalamata</hi></ref></placeName> which turned into a brawl in which the Greek was 
                killed. Several antisemites immediately started to yell that the Jews killed a Christian to use his blood for matzo. The people gathered in front of the house where the Jew lived and threw stones at it. The Jews lived in great fear, they 
@@ -189,8 +188,8 @@
                Jews. A lot of Jewish lives have been<cb/> destroyed because of that. The Jewish people live in fear and terror. How long still, will the Jews be prosecuted ? !
             </p>
          </div>
-         <div n="4">
-            <head style="text-align:center"><hi rend="bold">Political News.</hi></head>
+         <div n="6">
+            <head>Political News.</head>
             <p>
                <placeName><ref source="place001">Austria-Hungary</ref></placeName>. The Austrian parliament works jointly again for a bit more than a week. Almost every day, long sessions are held - but the consultations are without use or objective. The 
                Czechs are obstructing, spend whole days with stupid proposals and votes. For every little thing they request roll-call votes. This means: Every representative is called by their name and asked whether he votes “yes” or “no”. If a few of 
@@ -208,8 +207,8 @@
                the Germans support it, soon the Polish, soon the Czechs do and so on. No one party can support changing the procedural rules completely. Each party has to count on filibustering themselves one time or another and they do not want to tie 
                their hands now in case they need them later. Moreover, the Germans don’t bother anymore. They fear that via changing the agenda
             </p>
-            <p style="text-align:center" rend="bold">[2]</p>
-            <pb n="3" facs="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040318|3|100.0|0"/>
+            <pb/>
+            <fw type="pageNum">- 3 -</fw>
             <p>
                obstruction will be made impossible and the government will give in to the Czechs, allowing all their demands and the Germans have to sit by and watch. 
             </p>
@@ -247,10 +246,10 @@
                better. Or the government has to abdicate and a new government has to be appointed - hopefully the new government can establish order easier.
             </p>
             <p>
-               In contrast, all is well in <placeName><ref source="place009"><hi rend="italic">Hungary</hi></ref></placeName>. The opposition relented, and the recruitment act for 1903 was approved. Soon, the makeship budget and the recruitment act for 1904 will be approved as well.
+               In contrast, all is well in <placeName><ref source="place009"><hi rend="italic">Hungary</hi></ref></placeName>. The opposition relented, and the recruitment act for <date when-iso="1903">1903</date> was approved. Soon, the makeship budget and the recruitment act for <date when-iso="1904">1904</date> will be approved as well.
             </p>
             <p>
-               The delegates will get together again in June to consult over the joined budget (assessment of earnings and expenses) for 1905. The Austrian government can be jealous of its Hungarian colleagues, but the Austrian peoples can still learn from 
+               The delegates will get together again in June to consult over the joined budget (assessment of earnings and expenses) for <date when-iso="1905">1905</date>. The Austrian government can be jealous of its Hungarian colleagues, but the Austrian peoples can still learn from 
                <placeName><ref source="place009">Hungary</ref></placeName>, how the most important interests of the country are handled once it doesn’t care about bagatelles.
             </p>
             <p>
@@ -262,8 +261,8 @@
                <hi rend="italic">a constitution</hi> in the country. 
             </p> 
          </div>
-         <div n="5">
-            <head><hi rend="bold"><persName><ref source="person122">Rothschild</ref></persName> and his friends.</hi></head>
+         <div n="7">
+            <head><persName><ref source="person122">Rothschild</ref></persName> and his friends.</head>
             <p>
                The Viennese paper “<ref source="https://www.wikidata.org/wiki/Q15805615">Deutsches Volksblatt</ref>” printed an article not long ago about the wealth of Baron <persName><ref source="person122">Rothschild</ref></persName>, chief of the Viennese branch of the millionaire 
                family. Following was written in the article.
@@ -271,14 +270,14 @@
             <p>
                “This year’s balance of the Viennese house concluded with an active balance with a surplus of 11,116,594,672 crowns
             </p>
-            <p style="text-align:center">[3]</p>
-            <pb n="4" facs="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040318|4|100.0|0"/>
+            <pb/>
+            <fw type="pageNum">- 4 -</fw>
             <p>
                Therefore, the Viennese house alone owns more than 11 thousand million crowns! If we take an interest of only 4 % - although <persName><ref source="person122">Rothschild</ref></persName>, who is involved in 14 operations on a high level, receives likely more than 10 % - 
                the boss of the Viennese house receives a yearly income of around 440 million crowns. According to the Mairente (Austrian government bond), the Viennese chief “only” owns 124,264,000 crowns, but on the other hand more than 132 million crowns in Austrian gold reserves, 
                over 128 million in crown reserves, 122 million in bonds for the <ref source="https://www.wikidata.org/wiki/Q466350">Elisabeth Railway</ref>, over 121 million in Hungarian crown rent with 4 %, 70 million in February rent and the current gigantic sum of over 200 million crowns! 
                <persName><ref source="person123">Albert Rothschild</ref></persName> additionally owns 28,500 <ref source="https://www.wikidata.org/wiki/Q372974">North Railway</ref> shares which are valued at 179,550,000 crowns, 120,000 shares of the Viennese credit bank which are valued 
-               at around 80 million. Rothschild also owns French securities valued at 1,231 million and English ones even at 2374 million. Estates and commodities are worth 165 million according to the assets of the industrial enterprises: oil springs, iron deposits, mines, [and so on italic].
+               at around 80 million. Rothschild also owns French securities valued at 1,231 million and English ones even at 2,374 million. Estates and commodities are worth 165 million according to the assets of the industrial enterprises: oil springs, iron deposits, mines, [and so on italic].
             </p> 
             <p>
                To illustrate the <persName><ref source="person122">Rothschild</ref></persName> profitableness it is sufficient to provide one number: Baron <persName><ref source="person122">Rothschild</ref></persName>’s share in the oil springs in <placeName><ref source="place238">Baku</ref></placeName> 
@@ -301,8 +300,10 @@
                Pacific Railway last summer. <persName><ref source="person122">Rothschild</ref></persName>, who influences the London market strongly, called him on the carpet and the American tycoon was forced to break it off with his domestic enemies. 
             </p>
          </div>
-         <div n="6">
-            <head>Telegrams.<lb/>The war<lb/>Between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName>.</head>
+         <div n="8">
+            <head>Telegrams.</head>
+            <head type="h2">The war</head>
+            <head type="h3">Between <placeName><ref source="place019">Japan</ref></placeName> and <placeName><ref source="place014">Russia</ref></placeName>.</head>
             <p>
                
                <placeName><ref source="place156">London</ref></placeName>. Several papers report that the Japanese managed to conquer <placeName><ref source="place083">Port Arthur</ref></placeName>. The Russians left the fortress.
@@ -334,8 +335,8 @@
             <p>
                <placeName><ref source="place018">St Petersburg</ref></placeName>. Some noblewomen asked the <persName><ref source="person042">tsar</ref></persName> for permission to found a women-regiment which should be composed of 2,000 women who will
             </p>
-            <p style="text-align:center">[4]</p>
-            <pb n="5" facs="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040318|5|100.0|0"/>
+            <pb/>
+            <fw type="pageNum">- 5 -</fw>
             <p>
                go to war at their own cost. The tsar did not give his permission. 
             </p> 
@@ -362,15 +363,16 @@
                is lucky to be allied with <placeName><ref source="place025">Austria</ref></placeName>, <placeName><ref source="place010">Germany</ref></placeName>, and <placeName><ref source="place014">Russia</ref></placeName> and doesn’t need to fear a European war. 
             </p>
          </div>
-         <div n="7">
-            <head><hi rend="bold">The German emperor is sick.</hi></head>
+         <div n="9">
+            <head>The German emperor is sick.</head>
             <p>
               <placeName><ref source="place031">Berlin</ref></placeName>. Last winter, the German emperor showed signs of cancer. The doctors operated and were successful. Now he is going to the sea for his recovery. Now, it seems the disease is returning while he is at sea and a second surgery will be necessary. The people are concerned 
                because as we all know, his father, <persName>Emperor <ref source="person129">Frederick</ref></persName>, died because of cancer. 
 ´           </p>
          </div>
-         <div n="8">
-            <head><hi rend="bold">News.<lb/>Jewish News.</hi></head>
+         <div n="10">
+            <head>News.</head>
+            <head type="h2">Jewish News.</head>
             <p>
                (<placeName><ref source="place007">Vienna</ref></placeName>). This week an exhibition about the land <placeName><ref source="place034">Israel</ref></placeName> was opened which will be open until the end of March.
             </p> 
@@ -394,10 +396,10 @@
                are also frightened. They are scared to show themselves in the open street, and have to neglect their shops. The hardship is great.
             </p>
          </div>
-         <div n="8">
-            <head><hi rend="bold">General News.</hi></head>
+         <div n="11">
+            <head>General News.</head>
             <p>
-                (Russian postal orders). Beginning on <date when="1904-04-15">April 15th</date> money order traffic will be introduced between <placeName><ref source="place025">Austria</ref></placeName> and  <placeName><ref source="place014">Russia</ref></placeName>. This means: Until now, both countries could send each other money only via money orders, but now it has 
+                (Russian postal orders). Beginning on <date when-iso="1904-04-15">April 15th</date> money order traffic will be introduced between <placeName><ref source="place025">Austria</ref></placeName> and  <placeName><ref source="place014">Russia</ref></placeName>. This means: Until now, both countries could send each other money only via money orders, but now it has 
                 become possible to send it via postal orders. The highest amount possible is 100 rubles or 254 crowns. Any amount higher has to be sent via money orders.
             </p>
             <p>
@@ -407,8 +409,8 @@
             <p>
                (Earthquake). Several smaller earthquakes have been noticed in various areas of <placeName><ref source="place235">Tyrol</ref></placeName> (<placeName><ref source="place025">Austria</ref></placeName>) as of late. 
             </p>
-            <p style="text-align:center">[5]</p>
-            <pb n="6" facs="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040318|6|100.0|0"/>
+            <pb/>
+            <fw type="pageNum">- 6 -</fw>
             <p>
                (Repeal of the first class) The railway ministry is planning to repeal the first class for passenger trains and instead introduce the fourth class. - This shall be a blessing for the impoverished people.
             </p>
@@ -425,8 +427,8 @@
                The clock also has a bell which plays melodies five minutes after the full hour, lasting a minute each. The work has twelve smaller bells and the music volute has 997 needles. 
             </p>
          </div>
-         <div n="9">
-            <head><hi rend="bold">How people wrote in earlier times.</hi></head>
+         <div n="12">
+            <head>How people wrote in earlier times.</head>
             <p>
                The paper on which we write and print nowadays is made out of rags. The way to process rags to paper was invented 900 years ago<cb/> and the invention got popular in Europe over 200 years ago now. Before paper was invented, humans wrote on papyrus which is still used for Torah scrolls or important documents. The old tribes wrote with a slate pencil on slat which were 
                covered in wax or with colour on woods and fabric. Although more often, humans wrote on leaves of a plant which grew in <placeName><ref source="place013">Egypt</ref></placeName> which was known as papyrus from which the word “paper” stems. papyrus trading was very popular in <placeName><ref source="place013">Egypt</ref></placeName> because the whole world obtained its writing material from there. 
@@ -449,8 +451,8 @@
             <p>
                Today, papyrus became very rare, even in <placeName><ref source="place013">Egypt</ref></placeName> because the cheap paper renders papyrus unnecessary. However, long ago        
             </p>
-            <p style="text-align:center">[6]</p>
-            <pb n="7" facs="https://anno.onb.ac.at/cgi-content/annoshow?call=emj|19040318|7|100.0|0"/>
+            <pb/>
+            <fw type="pageNum">- 7 -</fw>
             <p>
                papyrus was planted on the edge of the <placeName><ref source="place248">Nile</ref></placeName>. Papyrus is also present in the Italian island <placeName><ref source="place249">Sicily</ref></placeName>.
             </p>
@@ -459,10 +461,12 @@
                this nice, warm climate of <placeName><ref source="place249">Sicily</ref></placeName>. The Syracuse inhabitants still produce papyrus to sell it as a rarity. But no matter how hard they try, they may never make paper as good as it was in old <placeName><ref source="place013">Egypt</ref></placeName>. 
             </p>
          </div>
-         <div n="10">
-            <head><hi rend="bold"><persName><ref source="person046">Rabbi Meir</ref></persName> of <placeName><ref source="place099">Rothenburg</ref></placeName><lb/>(A historical retelling)<lb/>(Continuation)</hi></head>
+         <div n="13">
+            <head><persName><ref source="person046">Rabbi Meir</ref></persName> of <placeName><ref source="place099">Rothenburg</ref></placeName></head>
+            <head type="h2">(A historical retelling)</head>
+            <head type="h3">(Continuation)</head>
             <p>
-               The rabbi noticed that everyone coming to him to talk also talked with his daughter and when they talked to her alone, she was very sad. This aggrieved the <ref source="person046">rabbi</ref>. He loved his daughter because only she stayed with him as his 
+               The rabbi noticed that everyone coming to him to talk also talked with his daughter and when they talked to her alone, she was very sad. This aggrieved the rabbi. He loved his daughter because only she stayed with him as his 
                <persName><ref source="person135">wife</ref></persName> died a few years ago. His three sons died during the great riots in <placeName><ref source="place093">Frankfurt</ref></placeName>. Only his only daughter <persName><ref source="person134">Sarah</ref></persName> remained, a solace in his older years, because she was always very obedient. Even one 
                time when <persName><ref source="person054"><hi rend="italic">Kneppe</hi></ref></persName>, the baptised, wanted to take <persName><ref source="person134">Sarah</ref></persName> for his wife before he was baptised. <persName><ref source="person134">Sarah</ref></persName> did not immediately say yes, but as her father the rabbi did not 
                give his blessing <persName><ref source="person134">Sarah</ref></persName> denied <persName><ref source="person054">Kneppe</ref></persName>. The same <persName><ref source="person054">Kneppe</ref></persName> was baptised out of annoyance and swore to take revenge on all Jews, mainly the rabbi. <persName><ref source="person134">Sarah</ref></persName>’s 
@@ -501,24 +505,25 @@
                <persName><ref source="person059">Asher</ref></persName> went away and <persName><ref source="person046">Meir</ref></persName> called for his daughter <persName><ref source="person134">Sarah</ref></persName>. She soon came.   
             </p>
          </div>
-         <div n="11">
-            <div>
-               <head style="text-align:center"><hi rend="bold">Fine tea</hi></head>
+         <div n="14">
+            <div type="ad" n="1">
+               <head>Fine tea</head>
                <p>
-                  <lb/>If you want to drink pure, unadulterated tea, write to the address below,
+                  If you want to drink pure, unadulterated tea, write to the address below,
                   <lb/>1 kg fine, pure tea only 6 crowns.
                   <lb/>There is also tea costing 3 to 10 crowns per kg.
                   <lb/>Sample for free and prepaid.
-                  <lb/><persName>L. Aperman</persName>, <placeName><ref source="place132">Brody</ref></placeName> <placeName><ref source="place006">Galicia</ref></placeName>.
+                  <lb/><persName><ref source="person035">L. Aperman</ref></persName>, <placeName><ref source="place132">Brody</ref></placeName> <placeName><ref source="place006">Galicia</ref></placeName>.
                   <lb/>Thee &amp; Caffe Lager.
                </p>
-               
+            <pb/>
+            <fw type="pageNum">- 8 -</fw>
             <p>The editor does not take responsibility for the advertisements in this paper.</p>
             </div>
-            <div style="text-align:center">
-               <p>Bank and exchange business
-                  <lb/>ROHAYTN &amp; ULAM
-                  <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <placeName><ref source="place186">Syxtuskagasse</ref></placeName> 8.</foreign>
+            <div style="text-align:center" type="ad" n="2">
+               <head>Bank and exchange business</head>
+                  <p><foreign xml:lang="de">ROHAYTN &amp; ULAM
+                  <lb/><placeName><ref source="place002">Lemberg</ref></placeName>, ><ref source="place186"><placeName>Syxtuskagasse</placeName> 8.</ref></foreign>
                   <lb/>Buying and selling all kinds of
                   <lb/>Effects, lotteries, and coins.
                   <lb/>Lottery available in cheap installments.
@@ -526,10 +531,10 @@
                   <lb/>can be given for free.
                   <lb/>Easy, low-interest loans available.</p>
             </div>
-            <div>
+            <div type="ad" n="3">
                <head>The proof of the pudding</head>
                <p>
-                  <lb/>Is in the eating.
+                  Is in the eating.
                   <lb/>If you want a natural, working remedy for coughing, sore throats, congestion, against  digestive problems, lack of appetite or similar problems, you should try the remedy from the first 
                   Austrian malt extract brewery of the brothers Bittman in <placeName><ref source="place133">Razová</ref></placeName> in <placeName><ref source="place134">Silesia</ref></placeName>:
                   <lb/>Healthy Malt-Extract
@@ -541,11 +546,9 @@
                   <lb/>Half a box: 6 jars 92-94 crowns. A whole box: 12 jars 70-78 crowns. Payment on delivery.
                </p>               
             </div>
-            <div>
-               <head>
-                  <lb/><hi rend="bold">Coffee!</hi>
-                  <lb/><hi rend="italic>">All natural!</hi>
-               </head>
+            <div type="ad" n="4">
+               <head>Coffee!</head>
+               <head type="h2">All natural!</head>
                <p>
                   Also less than 5 kg, payment on delivery, prepaid, postage.
                </p>
@@ -580,25 +583,25 @@
                   </row>
                </table>
                <p>
-                  <persName>Berger Ernö</persName>, <placeName><ref source="place058">Fuime</ref></placeName>.
+                  <persName><ref source="person029">Berger Ernö</ref></persName>, <placeName><ref source="place058">Fuime</ref></placeName>.
                </p>
             </div>
             <cb/>
-            <div>
+            <div type="ad" n="5">
                <p>
                   Important for farmers
                   On occasion of the upcoming spring season, we suggest the following enterprise for buying bonemeal, clay slag, phosphates, and so on. Any and all grasses, clover seeds and agricultural machines by the most prestigious factories, domestic and abroad. 
                   Illustrated price lists can be sent for free and without shipping costs on request. 
                   The delivery will make customers satisfied and accomplished to the max.
                </p> 
-            <div>
-               <p><persName><ref source="person106">NATHAN SPRECHER</ref></persName>
+            <div type="ad" n="6">
+               <p><persName><ref source="person106">NATAN SPRECHER</ref></persName>
                   <lb/>Artificial fertilizer, seeds &amp; machinery
                   <lb/><placeName><ref source="place223">Podgórze</ref></placeName> - <placeName><ref source="place149">Kraków</ref></placeName>
                </p>
             </div>               
-               
-               <div><p><ref source="https://www.wikidata.org/wiki/Q17590684">The Oesterreichische 
+            <div type="ad" n="7">
+                  <p><ref source="https://www.wikidata.org/wiki/Q17590684">The Oesterreichische 
                   <lb/>Volkszeitung</ref>
                   <lb/>Which is published with 82,000 copies publishes important
                   <lb/>news 
@@ -618,14 +621,10 @@
                   <lb/>All new subscribers receive the current, highly interesting novels and novellas for free.</p></div> 
             </div>
          </div>
-         <div type="footer" style="one columns" n="1">
-            <p>
-               <foreign xml:lang="de">
-                  <lb/>Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte Weinstock 
-                  <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse 35</ref></placeName>
-               </foreign>
-            </p>
-         </div>
+         <fw type="footer" n="2">
+            <foreign xml:lang="de">Herausgeber und verantwortlicher Redact. <persName><ref source="person031">OSIAS H. WILF</ref></persName> recte <persName><ref source="person139">Weinstock</ref></persName> 
+            <lb/>Druck von <persName><ref source="person032">E. Salat</ref></persName> Witwe des <persName><ref source="person033">U.W. Salat</ref></persName>, <placeName><ref source="place002">Lemberg</ref></placeName> <placeName><ref source="place065">Kasimirgasse</ref> 35</placeName></foreign>
+         </fw>
       </body>
    </text>
 </TEI>

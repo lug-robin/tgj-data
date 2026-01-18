@@ -2165,8 +2165,8 @@
               </person>
               <person xml:id="person222">
                 <persName>
-                  <forename>Ben</forename>
-                  <surname>Zvi</surname>
+                  <forename>Moishe</forename>
+                  <surname>Ben Zvi</surname>
                 </persName>
                 <birth><date>Unknown</date></birth>
                 <death><date>Unknown</date></death>
@@ -2470,6 +2470,141 @@
                 <birth><date>Unknown</date></birth>
                 <death><date>Unknown</date></death>
                 <occupation>Reader of The Genuine Jew.</occupation>
+              </person>
+              <person xml:id="person256">
+                <persName>
+                  <forename>Shikleh</forename>
+                  <surname>/</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Reader of The Genuine Jew.</occupation>
+              </person>
+              <person xml:id="person257">
+                <persName>
+                  <forename>/</forename>
+                  <surname>Skalski</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Financial advisor, defendant in the Zabolotiv trials.</occupation>
+              </person>
+              <person xml:id="person258">
+                <persName>
+                  <forename>/</forename>
+                  <surname>Krivitsky</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Merchant, defendant in the Zabolotiv trials.</occupation>
+              </person>
+              <person xml:id="person259">
+                <persName>
+                  <forename>Anatoly</forename>
+                  <surname>Falitshuk</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Defendant in the Zabolotiv trials.</occupation>
+              </person>
+              <person xml:id="person260">
+                <persName>
+                  <forename>Arkady</forename>
+                  <surname>Savak</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Defendant in the Zabolotiv trials.</occupation>
+              </person>
+              <person xml:id="person261">
+                <persName>
+                  <forename>Alyona</forename>
+                  <surname>Sammattyuk</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Defendant in the Zabolotiv trials.</occupation>
+              </person>
+              <person xml:id="person262">
+                <persName>
+                  <forename>Pavel</forename>
+                  <surname>Chaban</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Merchant, defendant in the Zabolotiv trials.</occupation>
+              </person>
+              <person xml:id="person263">
+                <persName>
+                  <forename>Stefan</forename>
+                  <surname>Kavalerski</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Defendant in the Zabolotiv trials.</occupation>
+              </person>
+              <person xml:id="person264">
+                <persName>
+                  <forename>Theodor</forename>
+                  <surname>Butschek</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Defendant in the Zabolotiv trials.</occupation>
+              </person>
+              <person xml:id="person265">
+                <persName>
+                  <forename>Aleksa</forename>
+                  <surname>Roke</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Defendant in the Zabolotiv trials.</occupation>
+              </person>
+              <person xml:id="person266">
+                <persName>
+                  <forename>Nikola</forename>
+                  <surname>Duvnjak</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Defendant in the Zabolotiv trials.</occupation>
+              </person>
+              <person xml:id="person267">
+                <persName>
+                  <forename>Edvard</forename>
+                  <surname>Neuburger</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Defendant in the Zabolotiv trials.</occupation>
+              </person>
+              <person xml:id="person268">
+                <persName>
+                  <forename>Jan</forename>
+                  <surname>Sorokavsky</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Defendant in the Zabolotiv trials.</occupation>
+              </person>
+              <person xml:id="person269">
+                <persName>
+                  <forename>Shekel</forename>
+                  <surname>Hatismanichi</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Reader of "The Genuine Jew".</occupation>
+              </person>
+              <person xml:id="person270">
+                <persName>
+                  <forename>Rosa</forename>
+                  <surname>Bürger</surname>
+                </persName>
+                <birth><date>Unknown</date></birth>
+                <death><date>Unknown</date></death>
+                <occupation>Jewish girl from Krakow who got baptized for her Christian lover.</occupation>
               </person>
             </listPerson>
           </div>
