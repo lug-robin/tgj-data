@@ -119,7 +119,7 @@
                   <cell role="data">For a quarter year - 5.50 "</cell>
                </row>
             </table>
-            <p><placeName><ref source="place002">Lviv</ref></placeName>, <date calendar="Hebrew" when-custom="5664-12-10"><foreign xml:lang="he">Yom Shlishi <ref source="https://www.wikidata.org/wiki/Q1483406">Tetzaveh</ref> 5664</foreign></date></p><cb/>
+            <p><placeName><ref source="place002">Lviv</ref></placeName>, <date calendar="Hebrew" when-custom="5664-12-10"><foreign xml:lang="he-Latn">Yom Shlishi <ref source="https://www.wikidata.org/wiki/Q1483406">Tetzaveh</ref> 5664</foreign></date></p><cb/>
             <p>
                Adverts are cheaply calculated
                <lb/>All letters and money send to:
@@ -524,9 +524,9 @@
                to different cities.
             </p>
             <p>
-               For example, <placeName><ref source="place179">Stanislau</ref></placeName> reports from railway officials who are back-up officers who have received conscription letters to report 
+               For example, <placeName><ref source="place311">Stanislau</ref></placeName> reports from railway officials who are back-up officers who have received conscription letters to report 
                to their regiments in <placeName><ref source="place026">Bohemia</ref></placeName>. On the 22nd of this month, four wagons with military cooks and their supplies left from 
-               <placeName><ref source="place179">Stanislau</ref></placeName> to <placeName><ref source="place008">Hungary</ref></placeName>.<cb/> The cavalry has also received orders to prepare 
+               <placeName><ref source="place311">Stanislau</ref></placeName> to <placeName><ref source="place008">Hungary</ref></placeName>.<cb/> The cavalry has also received orders to prepare 
                their horses - even the sick ones who have been handed over to private persons to nurse them. Several Bohemian cities have also reported similar procedures which hints at serious matters. 
             </p>
          </div>
@@ -534,7 +534,7 @@
             <head>News.</head>
             <head type="h2">Jewish News.</head>
             <p>
-               (<placeName><ref source="place179">Stanislau</ref></placeName>). <persName><ref source="person069">Rabbi Ari Leib Horowitz of Stryi</ref></persName> has unanimously been elected as the Rabbi of our community.
+               (<placeName><ref source="place311">Stanislau</ref></placeName>). <persName><ref source="person069">Rabbi Ari Leib Horowitz of Stryi</ref></persName> has unanimously been elected as the Rabbi of our community.
             </p>
             <p>
                (<placeName><ref source="place007">Vienna</ref></placeName>). The amount of Jews being baptised grows bigger year after year. In <date when-iso="1897">1897</date>, 453 Jews have been baptised, 265 men and 188 women; 

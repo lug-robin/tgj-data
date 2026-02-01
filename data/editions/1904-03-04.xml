@@ -107,7 +107,7 @@
                   <cell role="data">For a quarter year - 5.50 "</cell>
                </row>
             </table>
-            <p><placeName><ref source="place002">Lviv</ref></placeName>,<date calendar="Hebrew" when-custom="5664-12-17"><foreign xml:lang="he">Yom Shlishi <ref source="https://www.wikidata.org/wiki/Q1586443">Ki Tisa</ref> 5664</foreign></date></p><cb/>
+            <p><placeName><ref source="place002">Lviv</ref></placeName>,<date calendar="Hebrew" when-custom="5664-12-17"><foreign xml:lang="he-Latn">Yom Shlishi <ref source="https://www.wikidata.org/wiki/Q1586443">Ki Tisa</ref> 5664</foreign></date></p><cb/>
             <p>
                Adverts are cheaply calculated
                <lb/>All letters and money send to:
@@ -144,7 +144,7 @@
                Those who visit school, do not know about the Torah at all. They are being taught religion at school, but do not ask how. However, those children who do not visit a school, do not have a great knowledge. Their parents cannot 
                afford a tutor and without money, they cannot learn a lot.
             </p>
-            <fw type="footer" n="1">We ask the subscribers of <foreign xml:lang="he">מחזיקי הדת</foreign> and <foreign xml:lang="he">קול מחזיקי הדת</foreign> to send every letter and money to this address: 
+            <fw type="footer" n="1">We ask the subscribers of <foreign xml:lang="he-Hebr">מחזיקי הדת</foreign> and <foreign xml:lang="he-Hebr">קול מחזיקי הדת</foreign> to send every letter and money to this address: 
                <lb/><persName><ref source="person031">OSIAS H. WILF</ref>,</persName> <placeName><ref source="place002">LEMBERG</ref></placeName> <placeName><ref source="place003">Sonnengasse</ref> 27</placeName>.
             </fw><pb/>
             <fw type="pageNum">- 2 -</fw>
