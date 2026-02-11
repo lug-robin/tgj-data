@@ -118,7 +118,7 @@
                   <cell role="data">For a quarter year - 5.50 "</cell>
                </row>
             </table>
-            <p><placeName><ref source="place002">Lviv</ref></placeName>, <date calendar="Hebrew" when-custom="5664-01-09"><foreign xml:lang="he">Yom Shishi, <ref source="https://www.wikidata.org/wiki/Q166986">Tzav</ref></foreign> 5664</date></p>
+            <p><placeName><ref source="place002">Lviv</ref></placeName>, <date calendar="Hebrew" when-custom="5664-01-09"><foreign xml:lang="he-Latn">Yom Shishi, <ref source="https://www.wikidata.org/wiki/Q166986">Tzav</ref></foreign> 5664</date></p>
             <cb/>
             <p>
                Adverts are cheaply calculated <lb/>All letters and money send to: 
@@ -152,7 +152,7 @@
             </p>
          </div>
          <fw type="footer" n="1">
-            We ask the subscribers of <foreign xml:lang="he">מחזיקי הדת</foreign> and <foreign xml:lang="he">קול מחזיקי הדת</foreign> to send every letter and money to this address:
+            We ask the subscribers of <foreign xml:lang="he-Hebr">מחזיקי הדת</foreign> and <foreign xml:lang="he-Hebr">קול מחזיקי הדת</foreign> to send every letter and money to this address:
             <lb/><persName><ref source="person031">OSIAS H. WILF</ref></persName>, <placeName><ref source="place002">LEMBERG</ref></placeName> <placeName><ref source="place003">Sonnengasse</ref> 27</placeName>.
          </fw>
          <pb/>

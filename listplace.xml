@@ -2627,20 +2627,6 @@
                         <idno type="Geonames">https://www.geonames.org/2016590/siberia.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q5428</idno>
                     </place>
-                    <place xml:id="place179">
-                        <placeName type="person_namesvariente_nachname-komma-vorname">Stanislau</placeName>
-                        <location type="coords">
-                            <geo>60 10</geo>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place014">Russia</placeName>
-                        </location>
-                        <location type="located_in_place">
-                            <placeName key="place024">Asia</placeName>
-                        </location>
-                        <idno type="Geonames">https://www.geonames.org/2016590/siberia.html</idno>
-                        <idno type="Wikidata">https://www.wikidata.org/wiki/Q5428</idno>
-                    </place>
                     <place xml:id="place180">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Iași</placeName>
                         <location type="coords">
@@ -3266,7 +3252,7 @@
                     <place xml:id="place223">
                         <placeName>Podgórze</placeName>
                         <location type="coords">
-                            <geo>52.43861 19.51858</geo>
+                            <geo>50.00695 19.97349</geo>
                         </location>
                         <location type="located_in_place">
                             <placeName key="place149">Kraków</placeName>
@@ -3277,7 +3263,7 @@
                         <location type="located_in_place">
                             <placeName key="place100">Europe</placeName>
                         </location>
-                        <idno type="Geonames">https://www.geonames.org/3088689/podgorze.html</idno> 
+                        <idno type="Geonames">https://www.geonames.org/8425912/podgorze-duchackie.html</idno> 
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q2553877</idno>
                     </place>
                     <place xml:id="place224">
@@ -4663,7 +4649,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q201729</idno>
                     </place>
                     <place xml:id="place311">
-                        <placeName type="person_namesvariente_nachname-komma-vorname">Stanisławów</placeName>
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Ivano-Frankivsk</placeName>
                         <location type="coords">
                             <geo>48.92312 24.71248</geo>
                         </location>
