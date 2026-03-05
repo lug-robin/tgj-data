@@ -1128,7 +1128,7 @@
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q959</idno>
                     </place>
                     <place xml:id="place083">
-                        <placeName type="person_namesvariente_nachname-komma-vorname">Port Arthur</placeName>
+                        <placeName type="person_namesvariente_nachname-komma-vorname">Port Lüshun</placeName>
                         <location type="coords">
                             <geo>38.802 121.266</geo>
                         </location>
@@ -1149,8 +1149,7 @@
                         </location>
                         <idno type="Geonames">https://www.geonames.org/1801722/lueshun.html</idno>
                         <idno type="Wikidata">https://www.wikidata.org/wiki/Q11085373</idno>
-                        <note>Now called Port Lüshun. Part of Imperial Russia until 1904, Imperial Japan 1905-1945, the Soviet Union
-                        1945-1956, and China since 1956.</note>
+                        <note>Was called Port Arthur. Part of Imperial Russia until 1904, Imperial Japan 1905-1945, the Soviet Union 1945-1956, and China since 1956.</note>
                     </place>
                     <place xml:id="place084">
                         <placeName type="person_namesvariente_nachname-komma-vorname">Philippines</placeName>
