@@ -17,9 +17,9 @@
                 <i class="bi bi-gear" title="Menü zur Anpassung der Anzeige"></i>
             </a>                  
             <ul class="dropdown-menu">
-                <li class="dropdown-item">
+                <!--li class="dropdown-item">
                     <annotation-slider opt="ef"></annotation-slider>
-                </li>
+                </li-->
                 <li class="dropdown-item">
                     <annotation-slider opt="prs"></annotation-slider>
                 </li>
