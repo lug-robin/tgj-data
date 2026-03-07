@@ -26,10 +26,10 @@
                 </li>
                 <li class="dropdown-item">
                     <font-size opt="fs"></font-size>
-                </li>
+                </li-->
                 <li class="dropdown-item">
                     <font-family opt="ff"></font-family>
-                </li-->
+                </li>
                 <li class="dropdown-item">
                     <annotation-slider opt="ef"></annotation-slider>
                 </li>
