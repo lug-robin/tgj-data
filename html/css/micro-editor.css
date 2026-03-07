@@ -47,7 +47,6 @@
   transition: 0.4s;
 }
 
-input:checked+.i-slider {}
 
 input:focus+.i-slider {
   box-shadow: 0 0 1px #f1f1f1;
@@ -85,7 +84,6 @@ input:checked+.i-slider:before {
   text-decoration: line-through;
 }
 
-.whitespace {}
 
 .underline {
   text-decoration: underline;

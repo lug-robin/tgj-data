@@ -23,7 +23,7 @@
                 </li>
                 <li class="dropdown-item">
                     <image-switch opt="es"></image-switch>
-                </li-->
+                </li>
                 <li class="dropdown-item">
                     <font-size opt="fs"></font-size>
                 </li>
@@ -32,7 +32,7 @@
                 </li>
                 <li class="dropdown-item" style="border-top: 5px dashed lightgrey !important;">
                     <annotation-slider opt="ef"></annotation-slider>
-                </li>
+                </li-->
                 <li class="dropdown-item">
                     <annotation-slider opt="prs"></annotation-slider>
                 </li>
