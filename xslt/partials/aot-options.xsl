@@ -24,7 +24,7 @@
                     <annotation-slider opt="plc"></annotation-slider>
                 </li>
                 <li class="dropdown-item">
-                    <annotation-slider opt="prs"></annotation-slider>
+                    <annotation-slider opt="pers"></annotation-slider>
                 </li>
                 <!--li class="dropdown-item">
                     <full-size opt="fls"></full-size>
