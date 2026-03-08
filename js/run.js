@@ -21,7 +21,7 @@ var editor = new LoadEditor({
         },
         {
           opt: "prs",
-          color: "lavender",
+          color: "purple",
           title: "Persons",
           html_class: "persons",
           css_class: "pers",
