@@ -16,7 +16,8 @@
     <text>
         <body>
            <p>
-               Here will be links to websites and services used to create this website as well as further readings on the subjects mentioned in the texts. 
+               This edition was made using the Cookiecutter template for a Static-Site Digital Scholarly Edition by the Austrian Center for Digital Humanities: <ref source="https://github.com/acdh-oeaw/dse-static-cookiecutter.git">GitHub reporsitory</ref>.
+               The translation was aided by the <ref source="https://verterbukh.org">online version</ref> of the <ref source="https://iupress.org/9780253009838/comprehensive-yiddish-english-dictionary/">"Comprehensive Yiddish-English Dictionary"</ref>, edited by Solon Beinfeld and Harry Bochner and the <ref source="https://www.lexilogos.com/keyboard/yiddish.htm">Yiddish online Keyboard</ref> by Lexilogos.
            </p>
         </body>
     </text>
