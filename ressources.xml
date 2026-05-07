@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
            <titleStmt>
-              <title>Further Ressources</title>
+              <title type="main">Further Resources</title>
            </titleStmt>
            <publicationStmt>
               <p>Publication Information</p>
