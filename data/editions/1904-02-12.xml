@@ -119,13 +119,16 @@
                   <cell role="data">For a quarter year - 3.50 "</cell>
                </row>
             </table>
-            <p><placeName><ref source="place002">Lviv</ref></placeName>, <date calendar="Hebrew" when-custom="5664-11-26"><foreign xml:lang="he-Latn">Yom Shlishi <ref source="https://www.wikidata.org/wiki/Q577354">Mishpatim</ref> 5664</foreign></date></p><cb/>
+            <p><placeName><ref source="place002">Lviv</ref></placeName>, <date calendar="Hebrew" when-custom="5664-11-26">
+               <foreign xml:lang="he-Latn">Yom Shlishi <ref source="https://www.wikidata.org/wiki/Q577354">Mishpatim</ref> 5664</foreign></date></p><cb/>
             <p>
                Adverts are cheaply calculated
                <lb/>All letters and money send to:
-               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, <placeName><ref source="place003">Sonnengasse 27</ref></placeName></foreign>
+               <lb/><foreign xml:lang="de">Redaction "Der wahre Jude",<placeName><ref source="place002">Lviv</ref></placeName>, 
+                  <placeName><ref source="place003">Sonnengasse 27</ref></placeName></foreign>
                <lb/>The Genuine Jew is published every Friday
-               <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, <date when-iso="1904-02-12">den 12. Februar 1904</date></foreign>.
+               <lb/><foreign xml:lang="de"><placeName><ref source="place002">Lemberg</ref></placeName>, 
+                  <date when-iso="1904-02-12">den 12. Februar 1904</date></foreign>.
             </p>
          </div>
          <div n="3">
