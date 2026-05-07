@@ -16,7 +16,7 @@
 
     <xsl:template match="/">
         <xsl:variable name="doc_title">
-            <xsl:value-of select='"The Genuine Jew"'/>
+            <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
         </xsl:variable>
 
     
@@ -32,7 +32,9 @@
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0">
                     <div class="container">
-                        <h1>About the Project</h1>
+                        <h1>
+                            <xsl:value-of select="$doc_title"/>
+                        </h1>
                         <div class="col-md-16 col-lg-16 col-sm-24 text" style="text-align:left">
                             <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                         </div>
